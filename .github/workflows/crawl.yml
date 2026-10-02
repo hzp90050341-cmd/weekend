@@ -1,0 +1,5748 @@
+{
+ "generated_at": "2026-10-03T04:30:11+08:00",
+ "sources": {
+  "tourism": {
+   "ok": true,
+   "count": 211
+  },
+  "moc": {
+   "ok": true,
+   "count": 11
+  },
+  "accupass": {
+   "ok": true,
+   "count": 45
+  }
+ },
+ "events": [
+  {
+   "id": "c-tour-faadaf989a66",
+   "title": "浦揪新創市集",
+   "category": "market",
+   "start_date": "2026-06-11",
+   "end_date": "2026-12-06",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "金城鎮",
+     "venue": "後浦16藝文特區",
+     "address": "後浦16藝文特區"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "夏季開始每季季末，後浦藝文特區廣場將化身充滿創意與生活風格的新創市集。「浦揪新創市集」集結手作設計、文創品牌、特色美食、風格選物與在地創作，邀請旅客走進後浦街區，感受金門在地文化與新創能量。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-9c2cc0dcef12",
+   "title": "115年芋頭季系列活動",
+   "category": "festival",
+   "start_date": "2026-09-08",
+   "end_date": "2026-11-30",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "烈嶼鄉",
+     "venue": "東林複合式運動場",
+     "address": "東林複合式運動場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026烈嶼鄉芋頭季系列活動，活動期間歡迎旅客到烈嶼旅遊，購買芋頭季消費券，除了可於烈嶼鄉芋頭季特約商店消費，還能依活動規定兌換特色文創品、商品兌換券及芋頭季紀念酒等好禮。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-72448cd5b215",
+   "title": "2026金湖九宮格",
+   "category": "festival",
+   "start_date": "2026-08-31",
+   "end_date": "2026-11-30",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "金湖鎮",
+     "venue": "金湖鎮公所",
+     "address": "金湖鎮公所"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "「2026金湖九宮格」將於9月1日至11月30日熱鬧登場，邀請民眾及遊客走訪金湖景點、品嚐在地美食、探索特色商家，透過九宮格連線挑戰認識金湖。完成指定任務不僅可兌換購物券，還有機會參加摸彩，將機車、手機、家電、金廈船票等多項好禮帶回家。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-d3c3b2e7cb17",
+   "title": "2026金門老兵召集令",
+   "category": "festival",
+   "start_date": "2026-09-30",
+   "end_date": "2026-12-15",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "金湖鎮",
+     "venue": "新市256",
+     "address": "新市256"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026金門老兵召集令「榮耀歸隊，番號集結」活動公告",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-9d02e01337f9",
+   "title": "高粱老街風獅爺文化季",
+   "category": "festival",
+   "start_date": "2026-10-02",
+   "end_date": "2026-10-04",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "金沙鎮",
+     "venue": "沙美商圈",
+     "address": "沙美商圈"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "每年秋天，金門金沙最具特色的文化盛會之一「高粱×老街 風獅爺文化季」熱鬧登場！2026 年活動將於10月3日至4日在金沙鎮公所旁及沙美市區舉行，結合地方文化、親子體驗、老街巡禮、市集與音樂演出，邀請旅客一起感受金沙獨有的人文魅力與節慶氛圍。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-0bc11519a550",
+   "title": "搖擺金各演音樂祭",
+   "category": "festival",
+   "start_date": "2026-10-07",
+   "end_date": "2026-10-09",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "金城鎮",
+     "venue": "莒光公園",
+     "address": "莒光公園"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "搖擺-金各演音樂祭",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-7ab3eab7e8f3",
+   "title": "金門坑道音樂節",
+   "category": "festival",
+   "start_date": "2026-10-16",
+   "end_date": "2026-10-18",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "金城鎮",
+     "venue": "翟山坑道",
+     "address": "翟山坑道"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "被譽為「一生必聽的音樂會」的金門坑道音樂節，將於 2026年10月17日至18日 在金門知名景點翟山坑道震撼登場。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-3c4efe6d808f",
+   "title": "萬聖節活動",
+   "category": "festival",
+   "start_date": "2026-10-30",
+   "end_date": "2026-10-31",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "金城鎮",
+     "venue": "金城市區",
+     "address": "金城市區"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "藉由主題性活動的舉辦，活絡後浦商圈整體產業發展並透過變裝踩街遊行及走秀比賽活動，暫時跳脫現實生活的枷鎖，激發創意和想像力，帶給後浦城區年輕活力新朝氣。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-e02a15de4324",
+   "title": "2026金寧鄉鄉村市集",
+   "category": "market",
+   "start_date": "2026-10-30",
+   "end_date": "2026-11-01",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "金寧鄉",
+     "venue": "和平紀念園區",
+     "address": "和平紀念園區"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "鄉村市集派對目標客群以在地親子家庭為主，由公部門建立一個平台，提供販售、宣導及親子同樂的場域，冀望能帶動經濟文化及社區的永續發展，並提供一個溫馨有趣的兒童園地讓民眾於假日時能同享天倫一同放鬆玩樂。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-d5538f68562d",
+   "title": "HOPE草地野餐音樂節",
+   "category": "market",
+   "start_date": "2026-11-12",
+   "end_date": "2026-11-15",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "金城鎮",
+     "venue": "莒光公園",
+     "address": "莒光公園"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "串聯「野餐」、「餐車」和「音樂」三大元素，向鄉親及觀光客舉辦「Hope草地野餐音樂節」，引進台灣知名的特色餐車打造特色市集，除了延伸這股熱潮，優化場域運用外，更期盼可以發展為居民日常休閒樣態，成為金城鎮的常態化特色活動，藉茲彰顯後浦經典小鎮…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-768602215599",
+   "title": "金沙聖誕",
+   "category": "festival",
+   "start_date": "2026-12-11",
+   "end_date": "2026-12-13",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "金沙鎮",
+     "venue": "沙美市區",
+     "address": "沙美市區"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "以金沙鎮在地特色及聖誕節為主軸，規劃沙美商圈燈飾佈景，營造過節的歡樂氛圍，透過此節慶，融合本土市區樣貌，打造藝術美學的沙美市區，活躍沙美街道。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-a080f252355c",
+   "title": "金門縣美術學會―美術學會會員水彩十人聯展",
+   "category": "exhibit",
+   "start_date": "2026-09-25",
+   "end_date": "2026-10-06",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "金城鎮",
+     "venue": "環島北路一段66號",
+     "address": "環島北路一段66號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "金門縣美術學會―美術學會會員水彩十人聯展",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-884063762dcc",
+   "title": "金門縣退休教師協會―114年教師節教師書畫聯展",
+   "category": "exhibit",
+   "start_date": "2026-09-25",
+   "end_date": "2026-10-06",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "金城鎮",
+     "venue": "環島北路一段66號",
+     "address": "環島北路一段66號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "金門縣退休教師協會―114年教師節教師書畫聯展",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-945a87f886ca",
+   "title": "金門縣美術學會―驅山走海聯展",
+   "category": "exhibit",
+   "start_date": "2026-10-09",
+   "end_date": "2026-10-20",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "金城鎮",
+     "venue": "環島北路一段66號",
+     "address": "環島北路一段66號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "金門縣美術學會―驅山走海聯展",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-c8cca2cf97a7",
+   "title": "金門縣攝影學會―115年金門縣攝影學會會員聯展",
+   "category": "exhibit",
+   "start_date": "2026-10-09",
+   "end_date": "2026-10-31",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "金城鎮",
+     "venue": "環島北路一段66號",
+     "address": "環島北路一段66號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "金門縣攝影學會―115年金門縣攝影學會會員聯展",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-72de2a0d63f4",
+   "title": "金門縣美術學會―張國英個展",
+   "category": "exhibit",
+   "start_date": "2026-10-23",
+   "end_date": "2026-10-31",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "金城鎮",
+     "venue": "環島北路一段66號",
+     "address": "環島北路一段66號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "金門縣美術學會―張國英個展",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-e326770af744",
+   "title": "李奇茂等三位大師聯展",
+   "category": "exhibit",
+   "start_date": "2026-11-02",
+   "end_date": "2026-12-03",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "金城鎮",
+     "venue": "環島北路一段66號",
+     "address": "環島北路一段66號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "李奇茂等三位大師聯展",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-9d385f8f7e36",
+   "title": "金門縣書法學會《豪爽輝灑筆竟情真》年度會員展暨邀請兩岸書會作品參聯展",
+   "category": "exhibit",
+   "start_date": "2026-12-05",
+   "end_date": "2027-01-06",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "金城鎮",
+     "venue": "環島北路一段66號",
+     "address": "環島北路一段66號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "金門縣書法學會《豪爽輝灑筆竟情真》年度會員展暨邀請兩岸書會作品參聯展",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-d3926add0bf6",
+   "title": "金門縣盆藝學會―2026金風盆藝展",
+   "category": "exhibit",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-09",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "金城鎮",
+     "venue": "浯江書院",
+     "address": "浯江書院"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "金門縣盆藝學會―2026金風盆藝展",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-7651e10545c3",
+   "title": "唐伶樂集 2026「金色輝煌年代」講座音樂會",
+   "category": "festival",
+   "start_date": "2026-07-17",
+   "end_date": "2026-10-16",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "金湖鎮",
+     "venue": "塔后社區活動中心",
+     "address": "塔后社區活動中心"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "唐伶樂集《金色輝煌年代》巡迴講座音樂會啟航",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-4fa5230065e7",
+   "title": "金門115年度臺灣原住民聯合豐年節慶活動",
+   "category": "festival",
+   "start_date": "2026-10-16",
+   "end_date": "2026-10-17",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "金城鎮",
+     "venue": "莒光公園",
+     "address": "莒光公園"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "本縣舉辦之「臺灣原住民族聯合豐年節文化活動」集結了 16 族原住民族群，內容涵蓋傳統美食、樂舞表演、技藝競賽及文化體驗。活動期間將發放 100 元面額之園遊券，歡迎民眾領取並於現場活動攤位抵用。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-f9a750435eb4",
+   "title": "青年島生．創業成果市集",
+   "category": "market",
+   "start_date": "2026-09-18",
+   "end_date": "2026-11-18",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "金城鎮",
+     "venue": "後浦藝文特區",
+     "address": "後浦藝文特區"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "「青年島生．創業成果市集」將於9月19日至20日、10月17日至18日，在後浦16藝文特區熱鬧登場！集結15個以上青年創業品牌，展現青年歷經25堂創業培力課程後，將所學結合創意、專長與在地特色所孕育出的創業成果。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-54d92aa5cd17",
+   "title": "Fusion｜箏與鋼琴的火花",
+   "category": "festival",
+   "start_date": "2026-10-04",
+   "end_date": "2026-10-04",
+   "locations": [
+    {
+     "county": "金門縣",
+     "town": "金城鎮",
+     "venue": "環島北路一段66號",
+     "address": "環島北路一段66號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "一弦一鍵，跨越東西方的距離",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-6f1e8aafab83",
+   "title": "2026映像節(預計為11-12月辦理)",
+   "category": "festival",
+   "start_date": "2026-11-01",
+   "end_date": "2026-12-31",
+   "locations": [
+    {
+     "county": "宜蘭縣",
+     "town": "五結鄉",
+     "venue": "中正路二段6之8號 (中興文化創意園區)",
+     "address": "中正路二段6之8號 (中興文化創意園區)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "中興文化創意園區（以下簡稱本園區）自2017年試營運，即被賦予串連宜蘭縣內文化聚落、培養文化藝術軟實力與文創產業匯流旗艦基地之使命。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-c3f2eb641657",
+   "title": "2026 冬山河馬拉松",
+   "category": "festival",
+   "start_date": "2026-11-14",
+   "end_date": "2026-11-14",
+   "locations": [
+    {
+     "county": "宜蘭縣",
+     "town": "冬山鄉",
+     "venue": "冬山車站站前廣場",
+     "address": "冬山車站站前廣場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "迎風奔跑，來場全台最便利的綠運輸馬拉松！",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-43aa463f8f01",
+   "title": "二結王公文化祭｜二結王公廟240週年系列活動",
+   "category": "market",
+   "start_date": "2026-09-19",
+   "end_date": "2026-12-23",
+   "locations": [
+    {
+     "county": "宜蘭縣",
+     "town": "五結鄉",
+     "venue": "宜蘭境內",
+     "address": "宜蘭境內"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "二結王公廟走過240年香火歲月，古公三王信仰長久守護地方，也承載著一代又一代居民與信徒的記憶。今年特別規劃三大慶典系列活動，結合祈安遶境、祈福法會、公益市集、平安福宴、王公論壇、音樂演出與煙火秀等，邀請全國信眾與鄉親朋友，共同迎接這場重要的…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-1a9c9618c5e2",
+   "title": "2026探索北橫永續遊程活動",
+   "category": "festival",
+   "start_date": "2026-10-16",
+   "end_date": "2027-03-31",
+   "locations": [
+    {
+     "county": "桃園市",
+     "town": "復興區",
+     "venue": "2026探索北橫永續遊程活動",
+     "address": ""
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "無",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-0fe00380f671",
+   "title": "2027桃園跨年晚會",
+   "category": "festival",
+   "start_date": "2026-12-31",
+   "end_date": "2026-12-31",
+   "locations": [
+    {
+     "county": "桃園市",
+     "town": "中壢區",
+     "venue": "2027桃園跨年晚會",
+     "address": ""
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "無",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-150eeedc97f1",
+   "title": "2026大溪豆干節",
+   "category": "festival",
+   "start_date": "2026-11-15",
+   "end_date": "2026-12-20",
+   "locations": [
+    {
+     "county": "桃園市",
+     "town": "大溪區",
+     "venue": "2026大溪豆干節",
+     "address": ""
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "無",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-0dea1df7417d",
+   "title": "2026桃園萬聖城",
+   "category": "festival",
+   "start_date": "2026-10-24",
+   "end_date": "2026-11-01",
+   "locations": [
+    {
+     "county": "桃園市",
+     "town": "桃園區",
+     "venue": "桃園藝文廣場及藝文綠園道(中正路1188號)",
+     "address": "桃園藝文廣場及藝文綠園道(中正路1188號)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "￭相關細節可電洽本局旅遊行銷科03-3322101#6202",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-78f6c4daf032",
+   "title": "115年全民運動會",
+   "category": "festival",
+   "start_date": "2026-10-17",
+   "end_date": "2026-10-22",
+   "locations": [
+    {
+     "county": "桃園市",
+     "town": "桃園區",
+     "venue": "115年全民運動會",
+     "address": ""
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "￭相關細節可電洽桃園市政府體育局(03-3194510)",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-30657e0b81c7",
+   "title": "2026台灣設計展在桃園",
+   "category": "festival",
+   "start_date": "2026-09-24",
+   "end_date": "2026-10-11",
+   "locations": [
+    {
+     "county": "桃園市",
+     "town": "中壢區",
+     "venue": "桃園會展中心、中原文創園區",
+     "address": "桃園會展中心、中原文創園區"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "￭活動相關細節可電洽 (03-2873318)",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-70c068675528",
+   "title": "2026桃園半程馬拉松 石門水庫楓半馬",
+   "category": "festival",
+   "start_date": "2026-12-06",
+   "end_date": "2026-12-06",
+   "locations": [
+    {
+     "county": "桃園市",
+     "town": "大溪區",
+     "venue": "石門水庫南苑停車場",
+     "address": "石門水庫南苑停車場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "￭相關細節可電洽桃園市政府體育局-全民運動科(03)319-4510#5007",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-e7f48d4ed9ee",
+   "title": "2026桃園花彩節",
+   "category": "festival",
+   "start_date": "2026-11-14",
+   "end_date": "2026-11-22",
+   "locations": [
+    {
+     "county": "桃園市",
+     "town": "大溪區",
+     "venue": "大溪月眉休閒農業區",
+     "address": "大溪月眉休閒農業區"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "無",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-f930ecb968fb",
+   "title": "2026仙草嘉年華",
+   "category": "festival",
+   "start_date": "2026-12-05",
+   "end_date": "2026-12-20",
+   "locations": [
+    {
+     "county": "桃園市",
+     "town": "楊梅區",
+     "venue": "楊梅休閒農業區",
+     "address": "楊梅休閒農業區"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "無",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-4b93d7969f94",
+   "title": "2026桃園鐵玫瑰音樂節",
+   "category": "festival",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-04",
+   "locations": [
+    {
+     "county": "桃園市",
+     "town": "大園區",
+     "venue": "桃園陽光劇場(領航北路四段216號/桃捷A17領航站旁)",
+     "address": "桃園陽光劇場(領航北路四段216號/桃捷A17領航站旁)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "■相關內容請洽藝文設施管理中心03-3170511#8303",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-582130e2a422",
+   "title": "2026桃園眷村文化節「一村一家人」",
+   "category": "festival",
+   "start_date": "2026-10-09",
+   "end_date": "2026-10-18",
+   "locations": [
+    {
+     "county": "桃園市",
+     "town": "中壢區",
+     "venue": "馬祖新村眷村文創園區、太武新村眷村文化園區、憲光二村眷村文化園區、龜山眷村故事館、忠貞新村文化園區、本市各眷村社區",
+     "address": "馬祖新村眷村文創園區、太武新村眷村文化園區、憲光二村眷村文化園區、龜山眷村故事館、忠貞新村文化園區、本市各眷村社區"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "￭活動相關細節可電洽本府文化局 (03-3322592#8203)",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-c842ced7e828",
+   "title": "10月3日溪州公園雲端健步走活動，邀您一起健走野餐趣！",
+   "category": "festival",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-03",
+   "locations": [
+    {
+     "county": "彰化縣",
+     "town": "溪州鄉",
+     "venue": "524彰化縣溪州鄉溪州村中央路三段138號",
+     "address": "524彰化縣溪州鄉溪州村中央路三段138號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "財政部中區國稅局彰化分局將於115年10月3日(星期六)下午2點至5點，在溪州公園及森林區舉辦統一發票推行暨「溪州公園雲端健步走」租稅宣導活動，鼓勵民眾一起健走有益身心健康，宣導行動支付消費儲存雲端發票，節能減碳愛地球及共同響應捐發票獻愛心…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-4ba42c316345",
+   "title": "秋之意觀光行銷活動",
+   "category": "festival",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-03",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "延平鄉",
+     "venue": "紅葉村",
+     "address": "紅葉村"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "紅葉村觀光景點及地熱溫泉產業",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-14f753e2dc64",
+   "title": "冬之戀觀光行銷活動",
+   "category": "festival",
+   "start_date": "2026-12-05",
+   "end_date": "2026-12-05",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "延平鄉",
+     "venue": "鸞山村",
+     "address": "鸞山村"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "鸞山村觀光景點及產業",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-605082b87489",
+   "title": "2026遊龍護圳",
+   "category": "festival",
+   "start_date": "2026-10-08",
+   "end_date": "2026-10-08",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "關山鎮",
+     "venue": "關山天后宮",
+     "address": "關山天后宮"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "為感念關山鎮先民建造大圳，並灌溉孕育出關山最優質的好米，藉由本次活動讓在地居民與遊客參與活動，讓外來遊客了解關山大圳對關山地區的重要性，因此特舉辦夜訪關山提燈籠護水圳體驗活動，讓大家懷著感恩的心情，體會先民開田闢地的辛勞。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-0062aba0aeff",
+   "title": "115年收冬大戲",
+   "category": "festival",
+   "start_date": "2026-12-01",
+   "end_date": "2026-12-31",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "關山鎮",
+     "venue": "關山國小",
+     "address": "關山國小"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "收冬戲為知名傳統戲曲，又稱為平安戲，是指在秋天收成後，用以答謝神明保佑，風調雨順五穀豐收，除了有豐富的牲禮祭祀外，更會邀請知名戲班到眾神前獻演以表謝意。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-9f3a788a5df3",
+   "title": "2026池上星夜慢城路跑",
+   "category": "festival",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-03",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "池上鄉",
+     "venue": "大坡池圓形廣場",
+     "address": "大坡池圓形廣場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "為推廣池上鄉星夜慢城產業，透過「慢跑」親訪深踏池上「慢活」的生活態度，讓參與者在璀璨的星空與靜謐的田野間，親身體驗在地慢生活。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-e6f6eb2cf7bc",
+   "title": "115年度縫迴山海祭路跑",
+   "category": "festival",
+   "start_date": "2026-10-18",
+   "end_date": "2026-10-18",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "達仁鄉",
+     "venue": "南田海岸親水公園",
+     "address": "南田海岸親水公園"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "用雙腳縫起山與海的距離，在奔跑中遇見文化、遇見風景、也遇見自己。透過路跑走進達仁鄉，感受最純粹的原鄉魅力，開啟一場結合自然、文化與感動的山海旅程。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-7bb9a9199350",
+   "title": "最美星空音樂體驗活動-溫泉場",
+   "category": "festival",
+   "start_date": "2026-10-31",
+   "end_date": "2026-10-31",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "卑南鄉",
+     "venue": "溫泉村東遊季露營區廣場(暫訂)",
+     "address": "溫泉村東遊季露營區廣場(暫訂)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "音樂饗宴",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-8846812f6b2d",
+   "title": "跑吧！孩子｜2026知本溫泉公益馬拉松",
+   "category": "festival",
+   "start_date": "2026-11-01",
+   "end_date": "2026-11-01",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "卑南鄉",
+     "venue": "忠義堂旁停車場",
+     "address": "忠義堂旁停車場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "知本溫泉公益馬拉松自創辦以來秉持「跑步也能做公益」的理念，長年攜手「孩子的書屋」，將跑者的每一步轉化為支持臺東弱勢兒少的力量。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-81080828e065",
+   "title": "2026南迴藝術季-山徑之流",
+   "category": "festival",
+   "start_date": "2026-07-01",
+   "end_date": "2026-10-31",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "臺東市",
+     "venue": "南迴公路",
+     "address": "南迴公路"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "山徑-看見「斜坡上的子民」Drarepaq（啦里吧部落），之流-看見「向海而生」的部落-Kanadun（金崙），由大武山脈順著河流而下直至出海口。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-daa9df0e3699",
+   "title": "2026南島咖啡節",
+   "category": "market",
+   "start_date": "2026-06-02",
+   "end_date": "2026-10-25",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "臺東市",
+     "venue": "臺東市區",
+     "address": "臺東市區"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "臺東縣政府以競賽、市集、工作坊等系列活動推廣台東咖啡品牌，市集活動邀請國際及國內咖啡各領域品牌現場展售，能一次品嚐台東南迴、縱谷或東海岸好咖啡，更涵蓋咖啡評鑑得獎豆交流分享會、講座體驗和表演等有趣內容，歡迎來自各地的大人小孩參與，由外而內沈…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-778293310465",
+   "title": "2026臺東藝術節｜眾聲之島",
+   "category": "festival",
+   "start_date": "2026-07-25",
+   "end_date": "2026-11-30",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "臺東市",
+     "venue": "臺東藝文中心",
+     "address": "臺東藝文中心"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "「眾聲之島」--在劇場，讓每一種存在被聽見",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-15de1187caeb",
+   "title": "2026臺東慢食節｜夜食餐桌",
+   "category": "festival",
+   "start_date": "2026-10-24",
+   "end_date": "2026-10-25",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "臺東市",
+     "venue": "臺東市區",
+     "address": "臺東市區"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "去年，跟著慢食走進山林與海岸，也越過山脈，走向國境之南。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-aba8fb681860",
+   "title": "2026 Taiwan PASIWALI Festival 國際原住民音樂節",
+   "category": "festival",
+   "start_date": "2026-10-31",
+   "end_date": "2026-11-01",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "臺東市",
+     "venue": "臺東森林公園",
+     "address": "臺東森林公園"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "雙腳不落地 乙定最出力",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-0748f3433263",
+   "title": "勞工親子健走活動",
+   "category": "outdoor",
+   "start_date": "2026-11-01",
+   "end_date": "2026-11-30",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "臺東市",
+     "venue": "臺東森林公園",
+     "address": "臺東森林公園"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "勞工親子健走活動",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-29eac578df74",
+   "title": "幼兒園親子運動會",
+   "category": "outdoor",
+   "start_date": "2026-11-01",
+   "end_date": "2026-11-30",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "臺東市",
+     "venue": "縣立體育場",
+     "address": "縣立體育場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "幼兒園親子運動會",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-948d2c6c95ba",
+   "title": "2026臺灣國際衝浪公開賽",
+   "category": "outdoor",
+   "start_date": "2026-11-06",
+   "end_date": "2026-11-22",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "東河鄉",
+     "venue": "金樽漁港",
+     "address": "金樽漁港"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "臺灣四面環海，擁有豐沛的海洋資源，其中臺東縣擁有全國最長176公里的綿延海岸線，具備海洋運動觀光發展潛力，尤其在東北季風吹拂下，助長東河、金樽一帶浪勢，金樽地勢得天獨厚，其風向與水質共同成就了我國難得的高級浪首選之地，非常適合發展東海岸衝浪…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-d976016a6bc0",
+   "title": "2027台東跨年晚會",
+   "category": "festival",
+   "start_date": "2026-12-31",
+   "end_date": "2027-01-01",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "臺東市",
+     "venue": "國際地標",
+     "address": "國際地標"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2027台東跨年晚會",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-4908a67f6bcf",
+   "title": "金馨獎志工表揚",
+   "category": "festival",
+   "start_date": "2026-12-01",
+   "end_date": "2026-12-31",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "臺東市",
+     "venue": "地點未定",
+     "address": "地點未定"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "金馨獎志工表揚",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-2f1829816dcf",
+   "title": "2026池上秋收",
+   "category": "festival",
+   "start_date": "2026-10-24",
+   "end_date": "2026-10-25",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "池上鄉",
+     "venue": "萬安社區天堂路稻田區",
+     "address": "萬安社區天堂路稻田區"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "夏天才剛開始，池上的秧苗還是一片青綠，但已經在期待入秋後的相聚。一年就等這一次，在最美的稻浪裡聽歌。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-7c205c478e70",
+   "title": "2026火燒島馬拉松",
+   "category": "exhibit",
+   "start_date": "2026-10-04",
+   "end_date": "2026-10-04",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "綠島鄉",
+     "venue": "綠島人權紀念公園",
+     "address": "綠島人權紀念公園"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "為推廣路跑運動風氣及以路跑活動結合觀光旅遊，促進地方觀光發展之效益，特舉辦火燒島全國馬拉松賽，選定綠島人權紀念公園為本次活動開跑場地，徜徉在碧海藍天的晴空下，展開環島路跑活動、邀請全國路跑好手及民眾一同蒞臨參加、除了現場路跑活動，並藉此機會…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-baf6d36515a2",
+   "title": "2026 台東香草生活節",
+   "category": "market",
+   "start_date": "2026-10-24",
+   "end_date": "2026-10-25",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "臺東市",
+     "venue": "臺東縣客家文化園區",
+     "address": "臺東縣客家文化園區"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026台東香草生活節以「在風裡，遇見香氣的生活」為主題，邀集台東香草品牌、風格店家與在地小農齊聚池上，透過香氣、植物、飲食與手作體驗，帶領旅人走進香草的日常，感受植物與土地交織出的慢生活魅力。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-00d7ef46f797",
+   "title": "2026台東定向越野",
+   "category": "festival",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-03",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "臺東市",
+     "venue": "台東森林公園",
+     "address": "台東森林公園"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "全臺唯一！結合「森林、湖泊、海岸」三大景觀的定向越野全新體驗！用雙腳探索山海，換個節奏重新認識臺東，開啟結合運動與深度旅遊的全新玩法！",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-cb60e0bd07a2",
+   "title": "漫遊縱谷 愛在花東",
+   "category": "outdoor",
+   "start_date": "2026-08-10",
+   "end_date": "2026-11-30",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "臺東市",
+     "venue": "漫遊縱谷 愛在花東",
+     "address": ""
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "「漫遊縱谷 愛在花東」是橫跨花蓮、台東縱谷的智慧觀光體驗活動。走訪 10 處特色地標，邊走邊用智慧語音導覽、AR 拍照與明信片集章認識在地，沿途領折價券、集滿後兌換限定完成禮。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-6e73f1f67e1f",
+   "title": "115年臺東客家文化生活節－客家文藝及節慶活動",
+   "category": "festival",
+   "start_date": "2026-10-17",
+   "end_date": "2026-10-17",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "臺東市",
+     "venue": "仁和里中興路一段76巷",
+     "address": "仁和里中興路一段76巷"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "臺東客家文化生活節以推廣飲食文化與傳承生活美學為核心，旨在深化客家族群的文化認同，並促進新世代對傳統文化的理解與連結。活動充分呈現在地客家特色，熱烈邀請民眾踴躍參與，共襄盛舉。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-ef71395f63ee",
+   "title": "國慶焰火在台東",
+   "category": "festival",
+   "start_date": "2026-10-10",
+   "end_date": "2026-10-10",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "臺東市",
+     "venue": "國際地標",
+     "address": "國際地標"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "時隔九年，國家級的雙十慶典焰火盛會重返台東盛大登場。本次活動以「世界的方舟：南島台灣」為主軸意象，融合海洋意象與在地南島文化，於東海岸打造極致的視覺與聽覺饗宴，邀您一同感受台東的獨特魅力。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-2c8464d0e021",
+   "title": "2026 花蓮金針花季",
+   "category": "outdoor",
+   "start_date": "2026-08-08",
+   "end_date": "2026-10-11",
+   "locations": [
+    {
+     "county": "花蓮縣",
+     "town": "玉里鎮",
+     "venue": "赤科山、六十石山",
+     "address": "赤科山、六十石山"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "一年一度的金黃山城，又要美到洗版啦",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-85a87734bdc8",
+   "title": "2026縱谷 HAKKA 音樂節",
+   "category": "festival",
+   "start_date": "2026-06-27",
+   "end_date": "2026-11-07",
+   "locations": [
+    {
+     "county": "花蓮縣",
+     "town": "吉安鄉",
+     "venue": "客家文化會館(演藝堂)",
+     "address": "客家文化會館(演藝堂)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "為推廣客家音樂與文化，花蓮縣政府舉辦「2026縱谷HAKKA音樂節」歌唱比賽，提供客家鄉親及音樂愛好者展現才華的舞台。賽事分為個人、校園、一般與傳統四個組別，歡迎熱愛客家流行歌曲或傳統歌謠的朋友踴躍報名！",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-60690925f09f",
+   "title": "漂鳥197－縱谷大地藝術季",
+   "category": "festival",
+   "start_date": "2026-07-01",
+   "end_date": "2026-10-31",
+   "locations": [
+    {
+     "county": "花蓮縣",
+     "town": "花蓮市",
+     "venue": "鹿野、關山、池上、富里、瑞穗、光復",
+     "address": "鹿野、關山、池上、富里、瑞穗、光復"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "本屆藝術季以「流動的暖光」為主題，邀集7國藝術家於花東縱谷6鄉鎮打造12件地景作品。期盼以藝術陪伴曾受災的花蓮光復鄉走過重建之路，邀請您踏上花東之旅，用行動與停留支持地方，感受土地的韌性與溫暖。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-aaadb2df522c",
+   "title": "2026洄瀾博物學系列活動－「行水帶路」",
+   "category": "festival",
+   "start_date": "2026-07-05",
+   "end_date": "2026-11-21",
+   "locations": [
+    {
+     "county": "花蓮縣",
+     "town": "花蓮市",
+     "venue": "地點請依各梯次活動集合地為準",
+     "address": "地點請依各梯次活動集合地為準"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "「2026洄瀾博物學」啟動「行水帶路」系列活動",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-0d05e7692246",
+   "title": "2026 花蓮太平洋國際龍舟節",
+   "category": "festival",
+   "start_date": "2026-11-06",
+   "end_date": "2026-11-08",
+   "locations": [
+    {
+     "county": "花蓮縣",
+     "town": "壽豐鄉",
+     "venue": "鯉魚潭",
+     "address": "鯉魚潭"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "準備好迎接最熱血的挑戰了嗎？",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-2623002097a0",
+   "title": "2026 花蓮國際石雕藝術季",
+   "category": "festival",
+   "start_date": "2026-10-31",
+   "end_date": "2026-11-29",
+   "locations": [
+    {
+     "county": "花蓮縣",
+     "town": "花蓮市",
+     "venue": "你來廣場",
+     "address": "你來廣場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "「2026花蓮國際石雕藝術季」即將登場，本屆邀請策展人胡朝聖操刀規劃， 以《膚土之下：裂縫、痕跡與重生》為題，將視角由宇宙尺度轉向微觀、親密且深層的感知。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-c78420768feb",
+   "title": "石頭在呼吸- Iwagumi Air Scape 戶外光影裝置展",
+   "category": "festival",
+   "start_date": "2026-09-24",
+   "end_date": "2026-11-08",
+   "locations": [
+    {
+     "county": "花蓮縣",
+     "town": "花蓮市",
+     "venue": "日出大道F段、大農大富平地森林園區",
+     "address": "日出大道F段、大農大富平地森林園區"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026花蓮國際石雕藝術季特別邀請屢獲國際大獎的澳洲新媒體藝術團隊 ENESS，打造大型戶外光影裝置展《石頭在呼吸- Iwagumi Air Scape》。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-1d64c2d6dc48",
+   "title": "2026 Mgay Bari Truku 感恩祈福文化系列活動",
+   "category": "festival",
+   "start_date": "2026-09-19",
+   "end_date": "2026-10-03",
+   "locations": [
+    {
+     "county": "花蓮縣",
+     "town": "秀林鄉",
+     "venue": "水源村東方夏威夷遊樂園舊址(水源大橋)、秀林國民中學學生活動中心",
+     "address": "水源村東方夏威夷遊樂園舊址(水源大橋)、秀林國民中學學生活動中心"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "一年一度的「2026 Mgay Bari Truku 感恩祈福文化系列活動」即將登場！這不僅是一場感恩祭儀，更是太魯閣族人傳承文化記憶與凝聚彼此的重要時刻。活動串聯了傳統工藝競賽、莊嚴的祈福儀式、音樂市集與豐富的文化互動闖關。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-6b5febade065",
+   "title": "2026 Makotaay藝術季 | 海在想什麼？",
+   "category": "outdoor",
+   "start_date": "2026-08-05",
+   "end_date": "2026-10-26",
+   "locations": [
+    {
+     "county": "花蓮縣",
+     "town": "豐濱鄉",
+     "venue": "港口村石梯灣123-2號（Makotaay生態藝術村）",
+     "address": "港口村石梯灣123-2號（Makotaay生態藝術村）"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026 Makotaay藝術季以阿公的提問「海在想什麼？」為主題，於花蓮豐濱鄉Makotaay生態藝術村盛大登場！",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-f9bc6ef3dbd8",
+   "title": "2026馬太鞍野萌節｜闖關健走x暖暖市集x永續音樂會",
+   "category": "market",
+   "start_date": "2026-10-09",
+   "end_date": "2026-10-09",
+   "locations": [
+    {
+     "county": "花蓮縣",
+     "town": "光復鄉",
+     "venue": "華新街1號（光豐地區農會前廣場）",
+     "address": "華新街1號（光豐地區農會前廣場）"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "延續馬太鞍鄉情傳愛・不只做愛心，今年把3公里健走變得更有意思",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-3b3dbb770442",
+   "title": "2026福隆國際沙雕藝術季",
+   "category": "festival",
+   "start_date": "2026-05-28",
+   "end_date": "2026-10-26",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "貢寮區",
+     "venue": "福隆海水浴場",
+     "address": "福隆海水浴場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "每年夏季舉辦的福隆國際沙雕藝術季，已成為東北角地區最具代表性的觀光品牌活動之一，活動結合國際沙雕藝術、海岸地景、夏日觀光與多元主題體驗，透過大型沙雕展演及系列活動規劃，打造兼具藝術性、娛樂性與觀光吸引力的夏季盛典。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-5dce928d9224",
+   "title": "2026新北市生音藝術節",
+   "category": "festival",
+   "start_date": "2026-07-06",
+   "end_date": "2026-10-10",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "板橋區",
+     "venue": "新北市藝文中心",
+     "address": "新北市藝文中心"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "今年的「新北市生音藝術節」集結音樂戲劇展演、主題音樂會及專題講座等多元節目，邀請國內外優秀青年音樂家與音樂劇團隊，一起用不同形式玩音樂、說故事、創造驚喜！",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-21628fd1740f",
+   "title": "2026臺灣國際陶藝雙年展",
+   "category": "exhibit",
+   "start_date": "2026-07-30",
+   "end_date": "2026-12-27",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "鶯歌區",
+     "venue": "新北市立鶯歌陶瓷博物館 3樓特展室",
+     "address": "新北市立鶯歌陶瓷博物館 3樓特展室"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "由日本策展人大長智廣策劃，本展覽以「人與大地相會時」為主題，從當代陶藝出發，思考自然、生命、信仰、城市與文明如何在時間的流轉中彼此交會，開啟對人類存在與環境關係的重新觀看。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-8ab031e5cfde",
+   "title": "2026新莊有好戲",
+   "category": "outdoor",
+   "start_date": "2026-07-03",
+   "end_date": "2026-10-24",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "新莊區",
+     "venue": "中平路133號(新莊文化藝術中心)",
+     "address": "中平路133號(新莊文化藝術中心)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "這個夏天，新莊文化藝術中心邀請大家作伙來看戲、聽戲、學戲、迌戲！不管是精彩演出、親子體驗，抑是熱鬧的戶外活動，攏欲陪大家共下感受傳統戲曲的魅力與感動。好戲連台、精彩不斷，誠摯邀請大家鬥陣來參與！",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-5be2c107e223",
+   "title": "第十一屆新北市八個浪pakelang城市狩獵路跑",
+   "category": "festival",
+   "start_date": "2026-10-16",
+   "end_date": "2026-10-17",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "三重區",
+     "venue": "水漾路一段",
+     "address": "水漾路一段"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "詳情請見附件簡章。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-95a5b0b2e600",
+   "title": "2026新北市耶誕馬拉松接力賽－耶誕快追",
+   "category": "festival",
+   "start_date": "2026-12-05",
+   "end_date": "2026-12-06",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "板橋區",
+     "venue": "新北市政府市民廣場(新北歡樂耶誕城)",
+     "address": "新北市政府市民廣場(新北歡樂耶誕城)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "今年耶誕，不只交換禮物，更要交換接力信物！【2026 新北市耶誕馬拉松接力賽－耶誕快追】熱血開跑！這是一場以新北市市民廣場為核心，結合城市節慶、團隊挑戰與耶誕儀式感的主題型運動盛會。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-0e778d261476",
+   "title": "民間／攝影：紀實影像的敘事生成",
+   "category": "festival",
+   "start_date": "2026-07-17",
+   "end_date": "2026-11-15",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "鶯歌區",
+     "venue": "新北市美術館 - 3A、3B、4B展覽室",
+     "address": "新北市美術館 - 3A、3B、4B展覽室"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "本展立足於臺灣攝影史的研究視角，重新探討「民間」如何成為不同世代攝影家持續凝視、對話與辯證的重要場域。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-7bc89c5bd9f0",
+   "title": "2026全國古蹟日｜棋響新北趣古蹟",
+   "category": "festival",
+   "start_date": "2026-09-02",
+   "end_date": "2026-10-24",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "萬里區",
+     "venue": "2026全國古蹟日｜棋響新北趣古蹟",
+     "address": ""
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "為響應2026年全國古蹟日主題核心「復興、抵禦、再想像」，新北市政府文化局推出「棋響新北趣古蹟」系列活動，結合歲次馬年之文化意象，推出「棋響新北趣古蹟」系列活動，將新北市具代表性的車站、鐵路、炮臺、眷村等古蹟與歷史建築，化身為象棋中的「車、…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-e49a4415fae5",
+   "title": "穿越幻境-臺灣原創VR特展進擊中",
+   "category": "exhibit",
+   "start_date": "2026-09-10",
+   "end_date": "2026-11-22",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "板橋區",
+     "venue": "府中15 3f - 5f 展覽室",
+     "address": "府中15 3f - 5f 展覽室"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "本展攜手高雄市電影館精選4部臺灣原創vr作品，交織出臺灣vr創作的發展路徑：徐漢強導演的《全能元神宮改造王》將vr頭顯示器比擬為法器，以喜劇幽默破除科技高牆，展現對vr形式的後設思考；「女海盜」系列以女性為敘事主體，形式則見證技術躍進，上集…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-1af205b08b31",
+   "title": "115年國慶晚會",
+   "category": "festival",
+   "start_date": "2026-10-08",
+   "end_date": "2026-10-09",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "板橋區",
+     "venue": "板橋第一運動場(板橋區漢生東路278號)",
+     "address": "板橋第一運動場(板橋區漢生東路278號)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "從台灣出發、與世界相遇。金曲歌手、跨國卡司、多元表演團隊齊聚，以音樂、文化與跨界演出，一起展現台灣多元、開放的文化魅力！",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-0ac69668e942",
+   "title": "林園神助攻",
+   "category": "festival",
+   "start_date": "2026-09-18",
+   "end_date": "2026-10-03",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "板橋區",
+     "venue": "國定古蹟林本源園邸",
+     "address": "國定古蹟林本源園邸"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "神明進駐林園，助攻你的人生！",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-8b101fc2b4cd",
+   "title": "2026淡水藝術嘉年華",
+   "category": "festival",
+   "start_date": "2026-10-02",
+   "end_date": "2026-10-03",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "淡水區",
+     "venue": "金色水岸",
+     "address": "金色水岸"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "橋通了，幸福也來了！今年的淡水藝術嘉年華，以 「橋好幸福」 為主題。一座橋，串起淡水的文化、藝術與城市風景；一場嘉年華，連結彼此的笑容、情感與幸福。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-13efc542dabf",
+   "title": "2026北臺灣媽祖文化節",
+   "category": "festival",
+   "start_date": "2026-09-21",
+   "end_date": "2026-10-08",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "新莊區",
+     "venue": "慈祐宮",
+     "address": "慈祐宮"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "自2006年起，北臺灣各媽祖同祀宮廟傳承「清代官祀臺北府天后宮金面媽祖聖像回臺北城」之盛事，將其擴大辦理為「北臺灣媽祖文化節」。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-63a19f86d081",
+   "title": "臺灣國際陶藝雙年展首獎回顧",
+   "category": "festival",
+   "start_date": "2026-09-10",
+   "end_date": "2026-10-04",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "鶯歌區",
+     "venue": "文化路200號",
+     "address": "文化路200號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026臺灣國際陶藝雙年展由本館與日本策展人大長智廣共同合作，以「人與大地相會時」為題，從陶土源於大地的本質出發，探討人類與自然、生命、信仰、都市及文明之間的關係。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-9aa5bdad943c",
+   "title": "無色之境-竹内紘三與奈良祐希",
+   "category": "festival",
+   "start_date": "2026-09-03",
+   "end_date": "2026-10-04",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "鶯歌區",
+     "venue": "文化路200號",
+     "address": "文化路200號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "藝術家要如何表現時間？而建築與陶瓷的結合則能帶來什麼？",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-99fad9d6fe61",
+   "title": "2026新北市眷村文化節",
+   "category": "festival",
+   "start_date": "2026-10-02",
+   "end_date": "2026-10-26",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "三重區",
+     "venue": "空軍三重一村",
+     "address": "空軍三重一村"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026新北市眷村文化節以「白天晚上都CHILL」為主題，於10月3日至10月26日登場，以空軍三重一村為主要場域，結合沉浸式眷村戲、復古音樂派對、夜遊眷村、主題市集、眷村電影院、實境遊戲及眷村美食體驗，邀請民眾從白天玩到夜晚，走進巷弄，感…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-c43aec80f372",
+   "title": "2026新北市泰山獅王文化節",
+   "category": "festival",
+   "start_date": "2026-10-02",
+   "end_date": "2026-10-27",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "泰山區",
+     "venue": "同榮里公園路36、54號(泰山體育館)",
+     "address": "同榮里公園路36、54號(泰山體育館)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "獅王20慶，泰山傳薪藝！ 「2026新北市泰山獅王文化節20週年系列活動」將於10月3日星期六熱鬧登場！今年適逢20週年，活動內容更加豐富，邀請大家一起來泰山看舞獅、逛園遊、玩闖關、拿好禮，感受最有文化味的獅王盛會。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-ac9b083c1bf7",
+   "title": "猴硐礦工生活記憶漫遊",
+   "category": "outdoor",
+   "start_date": "2026-10-08",
+   "end_date": "2026-10-11",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "瑞芳區",
+     "venue": "柴寮路 42 號",
+     "address": "柴寮路 42 號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "新北市政府觀光旅遊局特別邀請「新北市猴硐礦工文史協會」，由在地的國寶級礦工耆老親自導覽，帶領大家走入整煤廠、願景館與運煤橋等核心歷史空間。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-2176bb38d91a",
+   "title": "2026新北海派",
+   "category": "market",
+   "start_date": "2026-09-24",
+   "end_date": "2026-11-29",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "萬里區",
+     "venue": "野柳漁港藍色候船亭、富基漁港、龜吼漁夫市集",
+     "address": "野柳漁港藍色候船亭、富基漁港、龜吼漁夫市集"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "▶︎假日活蟹市集",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-7e8db27c09f7",
+   "title": "2026新北市蘆洲神將文化祭",
+   "category": "festival",
+   "start_date": "2026-10-23",
+   "end_date": "2026-10-24",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "蘆洲區",
+     "venue": "國立空中大學",
+     "address": "國立空中大學"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "新北市蘆洲神將文化祭 薪火相傳護平安，10/24在國立空大熱鬧登場囉！",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-ec935d764f29",
+   "title": "115年新北市客家義民爺文化祭",
+   "category": "festival",
+   "start_date": "2026-10-09",
+   "end_date": "2026-10-12",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "板橋區",
+     "venue": "新北市民廣場",
+     "address": "新北市民廣場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "115年於市民廣場辦理，除秉持傳統包含迎神遶境、安座典禮、祭祀大典、挑擔奉飯、送神等活動外，增加辦理系列活動及線上活動，讓參與者體驗不同的形式的客家文化及了解客家文化，增進客家文化的傳遞力量。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-01ed8423ce24",
+   "title": "2026夢想嘉年華",
+   "category": "festival",
+   "start_date": "2026-10-16",
+   "end_date": "2026-10-17",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "汐止區",
+     "venue": "綜合運動場",
+     "address": "綜合運動場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "一年一度的夢想嘉年華又來啦！",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-d43a89f08785",
+   "title": "2026新北濕地藝術季｜萌芽之境",
+   "category": "festival",
+   "start_date": "2026-10-02",
+   "end_date": "2026-11-08",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "板橋區",
+     "venue": "新月橋板橋端",
+     "address": "新月橋板橋端"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026新北濕地藝術季《萌芽之境》訂於10月3日（六）開幕，今年適逢新海二期人工濕地建置20週年，延續2025年《種籽之旅》的精神，從種籽落地到萌芽生長，帶領民眾重新認識濕地在城市中的生態價值與永續能量。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-4ea0257e3d17",
+   "title": "2026新北山藥節",
+   "category": "festival",
+   "start_date": "2026-10-02",
+   "end_date": "2026-10-24",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "雙溪區",
+     "venue": "平林里梅竹蹊路3號",
+     "address": "平林里梅竹蹊路3號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "新北市雙溪區擁有得天獨厚的自然環境，土壤肥沃、氣候宜人，是台灣山藥的重要產地。這裡的山藥品質優良，營養豐富，深受消費者喜愛。為了推廣在地優質農產品，提升農民收益，並讓更多人認識山藥的營養價值與美味，新北市政府特別舉辦「2026新北山藥節」。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-5021f371bd11",
+   "title": "2026新北好市節",
+   "category": "market",
+   "start_date": "2026-10-16",
+   "end_date": "2026-10-18",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "板橋區",
+     "venue": "板橋府中廣場",
+     "address": "板橋府中廣場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "來自新北各地市場中的好味道在府中大集合，讓你感受最有味道的新北日常！",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-7eb10683992e",
+   "title": "2026樹林跳：跳島舞蹈節",
+   "category": "festival",
+   "start_date": "2026-11-15",
+   "end_date": "2026-11-29",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "樹林區",
+     "venue": "樹林藝文中心演藝廳",
+     "address": "樹林藝文中心演藝廳"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "為樹林藝文中心品牌活動，透過精心策劃之節目內容，向觀眾傳遞舞蹈與肢體藝術之美。活動於兩週期間辦理，內容豐富多元，藉由不同形式之演出與交流，讓更多民眾接觸並認識舞蹈藝術。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-d7a44d30e77a",
+   "title": "115年板橋435藝文特區市集音樂會活動｜435好秋日",
+   "category": "market",
+   "start_date": "2026-10-16",
+   "end_date": "2026-10-18",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "板橋區",
+     "venue": "中正路435號",
+     "address": "中正路435號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "今年以「藝術教育」及「生活體驗」發展規劃，並結合「運動休閒」、「健康樂活」等主題，以親子互動、樂齡健康、藝術創作與草地音樂會，透過多元體驗活動，讓民眾在輕鬆自在的氛圍中接觸藝術、培養健康生活型態，打造兼具文化、美學與樂活的體驗活動。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-40ddd7b665dc",
+   "title": "2026三芝茭白筍節",
+   "category": "exhibit",
+   "start_date": "2026-10-02",
+   "end_date": "2026-11-01",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "三芝區",
+     "venue": "三生步道田區、興華驛站二層農業及藝術教育中心、三芝淺水灣廣場",
+     "address": "三生步道田區、興華驛站二層農業及藝術教育中心、三芝淺水灣廣場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "每年秋天，都是三芝赤殼茭白筍最鮮甜的季節，隨著茭白筍進入產季，三芝各項秋日活動也接力登場。從10/3率先登場的水梯田嘉年華，到10/9-11/8興華驛站主題展覽，再到10/31-11/1的「芝心茭陪」三芝茭白筍節，將帶大家從田間、藝術一路玩…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-6ae78d7319fd",
+   "title": "2026臺中自行車嘉年華 Let’s All Ride!",
+   "category": "outdoor",
+   "start_date": "2026-10-17",
+   "end_date": "2026-10-17",
+   "locations": [
+    {
+     "county": "臺中市",
+     "town": "東勢區",
+     "venue": "上新里中新街西新巷70號",
+     "address": "上新里中新街西新巷70號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "一、活動簡介深受民眾喜愛的臺中自行車嘉年華今年邁入第10屆，邀請全國民眾一同騎訪臺中，感受自行車旅遊的魅力與樂趣。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-a6c793f058f6",
+   "title": "國旅補助 台中加碼 週週住台中 度假一整年",
+   "category": "outdoor",
+   "start_date": "2026-09-01",
+   "end_date": "2026-12-31",
+   "locations": [
+    {
+     "county": "臺中市",
+     "town": "中區",
+     "venue": "國旅補助 台中加碼 週週住台中 度假一整年",
+     "address": ""
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "一、交通部觀光署推出之2026 國旅補助包含「平日住宿優惠」、「生日住宿優惠」、「遊樂園留宿」、「企業員工旅遊獎勵」及「Taiwan PASS 平日優惠」五大優惠方案，訂於115年9月1日起實施，五大優惠方案內容如下：(一)平日住宿優惠：一…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-d65ac9ef0d3d",
+   "title": "2026台中好湯溫泉季系列活動",
+   "category": "market",
+   "start_date": "2026-09-04",
+   "end_date": "2026-10-31",
+   "locations": [
+    {
+     "county": "臺中市",
+     "town": "中區",
+     "venue": "2026台中好湯溫泉季系列活動",
+     "address": ""
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "活動說明「2026台中好湯溫泉季」以「溫泉 × 自然 × 音樂」為核心，串聯谷關、大坑、烏日與東勢四大溫泉地區，推出在地原民部落市集、動人音樂演出、手作DIY及傳統浴衣體驗與超值限定優惠，更規劃留言抽獎驚喜！",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-f8c6959611b7",
+   "title": "2026臺中爵士音樂節",
+   "category": "festival",
+   "start_date": "2026-10-16",
+   "end_date": "2026-10-25",
+   "locations": [
+    {
+     "county": "臺中市",
+     "town": "西區",
+     "venue": "臺中市民廣場",
+     "address": "臺中市民廣場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026臺中爵士音樂節以「爵士巨人來了 When Giants Play」為主題，邀請大家循著巨人的足跡，看見那些曾經形塑爵士樂歷史的傳奇人物，也聆聽當代創作者持續開拓的新聲音，從經典樂器到創新表現，感受爵士樂跨越世代、持續創新的生命力。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-9a69af045588",
+   "title": "週週住台中 度假一整年 住台中抽好禮",
+   "category": "festival",
+   "start_date": "2026-09-01",
+   "end_date": "2026-11-30",
+   "locations": [
+    {
+     "county": "臺中市",
+     "town": "中區",
+     "venue": "週週住台中 度假一整年 住台中抽好禮",
+     "address": ""
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "即日起可進入活動網站，填寫個人及住宿資料，並上傳發票或住宿憑證照片，完成登錄即可取得抽獎機會。活動期間自115年9月1日（星期二）00：00起至115年11月30日（星期一）23：59止。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-0c13959f3431",
+   "title": "2026臺中海洋觀光季",
+   "category": "festival",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-04",
+   "locations": [
+    {
+     "county": "臺中市",
+     "town": "大安區",
+     "venue": "大安港媽祖文化園區",
+     "address": "大安港媽祖文化園區"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "等待 14 年的臺中海線地標--大安港媽祖文化園區，將於 10 月 3 日（六）上午 9 時舉行媽祖雕像落成捐贈典禮暨活動開幕式。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-6c76bbc8cba4",
+   "title": "一起旅行8！中臺灣集章趣｜台中優惠就在這",
+   "category": "festival",
+   "start_date": "2026-10-01",
+   "end_date": "2026-11-30",
+   "locations": [
+    {
+     "county": "臺中市",
+     "town": "中區",
+     "venue": "一起旅行8！中臺灣集章趣｜台中優惠就在這",
+     "address": ""
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "想一次玩遍中臺灣 8 縣市嗎？拿起「一起旅行8！中臺灣集章護照」，出發蒐集屬於你的中臺灣旅遊記憶吧！ 活動期間｜2026/10/01－11/30首先走訪指定的 8 縣市核心景點集章，再到特約商店即享優惠。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-060e05471efc",
+   "title": "2026 仙境西拉雅 環騎5COOL 自行車系列活動",
+   "category": "outdoor",
+   "start_date": "2026-06-11",
+   "end_date": "2026-11-30",
+   "locations": [
+    {
+     "county": "臺南市",
+     "town": "官田區",
+     "venue": "福田路99號",
+     "address": "福田路99號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026 仙境西拉雅 環騎5COOL 自行車系列活動自行車騎乘路線由官田遊客中心出發，串連西拉雅國家風景區內5大水庫(曾文水庫、白河水庫、尖山埤水庫、烏山頭水庫、虎頭埤水庫)及大圳之路，並於官田遊客中心舉辦兒童滑步車活動、草原市集及舞台表演…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-5a2cabb94ba8",
+   "title": "第22屆法雅客城市24小時攝影馬拉松",
+   "category": "festival",
+   "start_date": "2026-10-31",
+   "end_date": "2026-11-01",
+   "locations": [
+    {
+     "county": "臺南市",
+     "town": "中西區",
+     "venue": "第22屆法雅客城市24小時攝影馬拉松",
+     "address": ""
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026 法雅客城市24小時攝影馬拉松來到台南！台南有美食、古蹟、巷弄、河岸，也有很多值得停下來拍的日常風景。這次就帶著相機，在24小時內走進城市、找題目、拍下你眼中的台南。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-0e9beca45b2b",
+   "title": "115年全國登山日-南部主場",
+   "category": "outdoor",
+   "start_date": "2026-10-18",
+   "end_date": "2026-10-18",
+   "locations": [
+    {
+     "county": "臺南市",
+     "town": "官田區",
+     "venue": "烏山頭水庫樟樹露營區",
+     "address": "烏山頭水庫樟樹露營區"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "115年全國登山日-南部主場～熱烈報名中115年全國登山日-南部主場將於2026年10月18早上8:00於臺南烏山頭水庫-樟樹露營區集合，有紅線與藍線可選擇，帶領大家領略烏山頭水庫的美景，歡迎大家 踴躍報名參加大會會場：臺南烏山頭水庫-樟樹…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-94f40c79c7fb",
+   "title": "2026臺南熱氣球派對",
+   "category": "market",
+   "start_date": "2026-10-17",
+   "end_date": "2026-10-18",
+   "locations": [
+    {
+     "county": "臺南市",
+     "town": "安平區",
+     "venue": "永華市政中心西側及西拉雅廣場",
+     "address": "永華市政中心西側及西拉雅廣場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026 臺南熱氣球派對 10/17-10/18限時兩天 市區就能看到超夢幻的熱氣球！ 熱氣球繫留體驗、造型球展示、光雕音樂會及無人機展演、創意市集、街藝表演及闖關樂園等豐富活動熱氣球繫留體驗 搭乘地點：永華市政中心西側廣場 搭乘費用：每人…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-106adfa7c124",
+   "title": "2026「職安百分百、平安跟著來」關子嶺健走活動",
+   "category": "festival",
+   "start_date": "2026-11-22",
+   "end_date": "2026-11-22",
+   "locations": [
+    {
+     "county": "臺南市",
+     "town": "白河區",
+     "venue": "仙草實驗小學關嶺分校",
+     "address": "仙草實驗小學關嶺分校"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "為提倡勞工健康休閒活動，鼓勵勞工培養運動習慣，促進其身心 健康，配合「全國職場安全健康週」，特辦理此健走活動。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-909516afc272",
+   "title": "2026 TOYOTA GR 品牌嘉年華",
+   "category": "festival",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-03",
+   "locations": [
+    {
+     "county": "臺南市",
+     "town": "歸仁區",
+     "venue": "大台南會展中心後方空地（台南市歸仁區武束段279丶280號）及周邊路段（大武路二段）",
+     "address": "大台南會展中心後方空地（台南市歸仁區武束段279丶280號）及周邊路段（大武路二段）"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "活動於本(115)年10月3日假大台南會展中心後方空地及周邊路段辦理，為推廣國內正當汽車運動文化與全民交通安全教育，期能導正社會街頭非法飆車風氣，並吸引全台車迷與高端消費客群前來參與，推動臺南從「歷史古都」跨足「運動科技城」之城市形象轉型。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-22dbf9dfb1c1",
+   "title": "2026Mattauw大地藝術季",
+   "category": "festival",
+   "start_date": "2026-09-05",
+   "end_date": "2026-12-06",
+   "locations": [
+    {
+     "county": "臺南市",
+     "town": "麻豆區",
+     "venue": "總爺藝文中心及多處場域",
+     "address": "總爺藝文中心及多處場域"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "大地藝術季 曲流擺｜曾文溪的裏淺山感官田野 × 公眾對話 × 聚落現場14 項子計畫 × 37 位藝術家／團隊× 41 組作品 × 展區限定活動 ｜去哪裡看？沿著曾文溪，今年共有不同類型的展區，從總爺藝文中心一路走進曾文溪流域。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-34440f750ed0",
+   "title": "2026臺南總舖師四季辦桌",
+   "category": "festival",
+   "start_date": "2026-10-17",
+   "end_date": "2026-10-17",
+   "locations": [
+    {
+     "county": "臺南市",
+     "town": "北門區",
+     "venue": "北門里200號(北門遊客中心)",
+     "address": "北門里200號(北門遊客中心)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "《2026 臺南總舖師四季辦桌》秋季場秋風吹進北門鹽鄉！臺南四季辦桌秋季場山海入席限定盲盒辦桌用舌頭環遊府城好滋味！「臺南總舖師四季辦桌」系列活動以四季節令為題，結合在地風土、旬味食材與總舖師精湛手藝，呈現臺南最具代表性的辦桌文化。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-9ad3f87c3a48",
+   "title": "2026臺南健康嘉年華",
+   "category": "festival",
+   "start_date": "2026-10-22",
+   "end_date": "2026-10-24",
+   "locations": [
+    {
+     "county": "臺南市",
+     "town": "歸仁區",
+     "venue": "武東里歸仁十二路3號(大台南會展中心)",
+     "address": "武東里歸仁十二路3號(大台南會展中心)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "照過來照過來！為推廣健康生活、促進全民健康意識，2026臺南健康嘉年華將於 10月22日至24日 在大臺南會展中心盛大登場！",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-e3f9d0fb8993",
+   "title": "2026衛武營小時光",
+   "category": "festival",
+   "start_date": "2026-07-22",
+   "end_date": "2026-12-09",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "鳳山區",
+     "venue": "三多一路1號(衛武營表演廳)",
+     "address": "三多一路1號(衛武營表演廳)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "週三，給自己一個休Time！在表演廳享受近距離劇場療癒。︎活動時間｜週三 20:00︎活動地點｜衛武營表演廳︎活動場次｜7/22(三) 陳明章&陳言祐《戀戀．練練小時光》8/19(三) 唱歌集《大家都怎麼做音樂劇？",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-1c70bfc6adbd",
+   "title": "BTS WORLD TOUR ’ARIRANG’ IN KAOHSIUNG",
+   "category": "festival",
+   "start_date": "2026-11-19",
+   "end_date": "2026-11-22",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "左營區",
+     "venue": "高雄國家體育場 (世運主場館)",
+     "address": "高雄國家體育場 (世運主場館)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "● 時間：2026/11/19 & 21 & 22● 地點：高雄國家體育場 (世運主場館)● 票價：一般NT$ 7,980 / 6,980 / 5,980 / 4,980 / 3,980 / 2,980 / 3,490（身障優惠票）/ 2,…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-7fd8cef40209",
+   "title": "2026乘風而騎｜三民城市客家文化單車遊",
+   "category": "outdoor",
+   "start_date": "2026-10-17",
+   "end_date": "2026-10-17",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "三民區",
+     "venue": "盤花公園(同盟與自立路路口-光之塔前)",
+     "address": "盤花公園(同盟與自立路路口-光之塔前)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "從盤花公園出發，騎著單車穿過城市綠廊，一路漫遊中都濕地、三塊厝車站、高雄車站、新客家文化園區，來一趟約8公里的單車小旅行。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-88f9d242160f",
+   "title": "2026 Asia Artist Awards in Kaohsiung",
+   "category": "festival",
+   "start_date": "2026-12-05",
+   "end_date": "2026-12-06",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "左營區",
+     "venue": "高雄國家體育場",
+     "address": "高雄國家體育場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "演出日期：2026 年 12 月 05 日 (週六) 及 2026 年 12 月 06 日 (週日)正式演出時間：17:00 (GMT+8)（實際演出時間以現場公告為準）紅毯開始時間：15:00 (GMT+8)（實際演出時間以現場公告為準）…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-2de026335dbd",
+   "title": "2026衛武營管風琴音樂節",
+   "category": "festival",
+   "start_date": "2026-10-14",
+   "end_date": "2026-10-18",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "鳳山區",
+     "venue": "衛武營國家藝術文化中心 音樂廳",
+     "address": "衛武營國家藝術文化中心 音樂廳"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "穿越聖殿石牆～奧利維耶．拉特利的世紀迴聲 1258年，巴黎聖母院歷經近百年建造終告落成，成為法國政治與文化地標；其管風琴自1330年見證至今，奇蹟般地在革命動亂與2019年大火中倖存。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-4a7a1a81326c",
+   "title": "Fujii Kaze Prema World Tour - Kaohsiung",
+   "category": "festival",
+   "start_date": "2026-10-31",
+   "end_date": "2026-10-31",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "左營區",
+     "venue": "高雄國家體育場",
+     "address": "高雄國家體育場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "藤井風生涯最大規模世界巡演．全球首站演出日期：2026 年 10 月 31 日 (六) 19:00演出地點：高雄國家體育場演出地址：高雄市左營區莒光里世運大道 100 號啟售時間：2026 年 6 月 20 日（六）中午 12:00票 價：…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-2be50078a82f",
+   "title": "Re：戰鬥之城",
+   "category": "exhibit",
+   "start_date": "2026-06-06",
+   "end_date": "2026-10-26",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "鼓山區",
+     "venue": "內惟藝術中心",
+     "address": "內惟藝術中心"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "本展覽為台電高雄第三期公共藝術設置計畫。 「Re」有重啟、再次回返之意。在本次展覽中，象徵著藝術家張立人2024年於北師美術館完整展出《戰鬥之城》全系列，且作品由台灣電力公司典藏後，奠基於既存的累積，再次回頭審視自身創作，進一步調修、增補並…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-363812496f79",
+   "title": "2026TAKAO豐潮系列文化活動",
+   "category": "festival",
+   "start_date": "2026-07-11",
+   "end_date": "2026-10-18",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "鳳山區",
+     "venue": "大東捷運站濕地公園前、凹子底公園、小港運動場、原住民聚會所",
+     "address": "大東捷運站濕地公園前、凹子底公園、小港運動場、原住民聚會所"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "布農族｜Antabas binanauaz 布農搶緍文化活動日期：7/11（六）活動地點：大東捷運站濕地公園前------------------------------------------------------泛泰雅族｜織山之聲Tr…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-4384f15c5bad",
+   "title": "2026野趣東高雄｜甲仙音樂市集",
+   "category": "market",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-03",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "甲仙區",
+     "venue": "甲仙大橋旁鋼棚",
+     "address": "甲仙大橋旁鋼棚"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "高雄市政府觀光局「野趣東高雄」系列活動最終場移師甲仙，於甲仙大橋旁登場。活動集結金曲台語女歌手吳申梅、梁舒涵、尿布樂團等人氣卡司接力演出；逾35家東高雄九區風土品牌齊聚，現場還有自然葉拓彩袋DIY、市集券限時增值20%、滿額抽獎及住宿回饋等…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-6d5eccd43d66",
+   "title": "2026【武營來跳舞】7-12月",
+   "category": "festival",
+   "start_date": "2026-07-01",
+   "end_date": "2026-12-02",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "鳳山區",
+     "venue": "衛武營榕樹廣場西側",
+     "address": "衛武營榕樹廣場西側"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "大眾參與，與眾不同的舞蹈初體驗跳舞是什麼？《武營來跳舞》能滿足您對舞蹈的好奇，一起探索跳舞的樂趣！為使愛跳舞、想嘗試跳舞的您有更多機會親近舞蹈，《武營來跳舞》在每個月的第一個星期三的晚上，與您相約在衛武營榕樹廣場西側平台。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-f95c8b238b8c",
+   "title": "2026 Kaohsiung Park Music Festival",
+   "category": "festival",
+   "start_date": "2026-10-09",
+   "end_date": "2026-10-10",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "前鎮區",
+     "venue": "高雄展覽館",
+     "address": "高雄展覽館"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026 年秋天在溫暖陽光灑落的綠色草地上Kaohsiung Park Music Festival 即將展開 活動日期｜2026/10/09（五）－2026/10/10（六）活動地點｜高雄展覽館（高雄市前鎮區鎮北里成功二路 39 號）售票…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-ef2a5bd89012",
+   "title": "2026高雄鹹酥雞嘉年華",
+   "category": "festival",
+   "start_date": "2026-10-24",
+   "end_date": "2026-10-25",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "苓雅區",
+     "venue": "高雄大遠百-1F追夢廣場",
+     "address": "高雄大遠百-1F追夢廣場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "「 高雄鹹酥雞嘉年華 」邁入第六屆，打造由國民炸物之王--鹹酥雞主導的城市盛典。鹹酥雞不只是宵夜魂，更是台灣街頭文化的代表。本屆活動特別以「 金沙鹹酥雞 」為核心主題，將濃郁鹹香的金沙蛋黃完美融合多國風味與創意吃法，號召各地店家共襄盛舉。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-1dedf16d6f63",
+   "title": "2026嬉啤派對",
+   "category": "festival",
+   "start_date": "2026-10-09",
+   "end_date": "2026-10-11",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "鹽埕區",
+     "venue": "大勇路1號",
+     "address": "大勇路1號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "氣泡升起，蜜香瀰漫，蜂蜜、麥芽與音符交織於這座祕蜜花園。輕輕發酵的金黃色被時間保存，漸漸甦醒的金黃色將再次盛開。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-2fa155965c15",
+   "title": "《Mundo Pixar Experience》皮克斯世界巡迴展 台灣站",
+   "category": "exhibit",
+   "start_date": "2026-12-18",
+   "end_date": "2027-04-18",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "苓雅區",
+     "venue": "「高雄輕軌－高雄展覽館站C8」海邊路與成功二路交匯處",
+     "address": "「高雄輕軌－高雄展覽館站C8」海邊路與成功二路交匯處"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "「皮克斯世界巡迴展（Mundo Pixar Experience）」是全球規模最大的皮克斯沉浸式體驗展。展覽以 1:1 等比例的精緻實景打造，將《玩具總動員》、《天外奇蹟》、《怪獸電力公司》等多部經典動畫場景搬進現實。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-f6f55b7e3e20",
+   "title": "惠豐里市集",
+   "category": "market",
+   "start_date": "2026-10-04",
+   "end_date": "2026-10-04",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "楠梓區",
+     "venue": "楠梓監理所圍牆外綠蔭步道 (都會公園捷運站4號出口旁)",
+     "address": "楠梓監理所圍牆外綠蔭步道 (都會公園捷運站4號出口旁)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "『微風 漫步 好物交流』為題，惠豐里秋季市集將於115年10月4日綠蔭步道舉辦，綠蔭慢慢，享受穿梭散步在秋日自然綠蔭間，透過物品，愜意的選購，舊物生命延續輕鬆相遇，也串起鄰里的感情，讓曾經陪伴家人的物品透過活動打開話題，變身成一個社區客廳，…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-85c12385c93d",
+   "title": "《海邊的星星巨人》鯨鯊主題行動貨櫃巡迴展",
+   "category": "exhibit",
+   "start_date": "2026-08-30",
+   "end_date": "2026-10-28",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "鼓山區",
+     "venue": "棧貳庫KW2 海側廣場",
+     "address": "棧貳庫KW2 海側廣場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "如果不能天天到海邊，那就讓海洋來找你/妳。《海邊的星星巨人》以行動貨櫃巡迴全臺，把深藍海洋、鯨鯊故事與真實研究帶進城市。走進展覽，你/妳將跟著鯨鯊的視角，認識牠生活的世界，也重新思考人與海洋之間的連結。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-985654cd65cc",
+   "title": "【漢餅文化館】2026年10-12月手作課程體驗",
+   "category": "festival",
+   "start_date": "2026-10-01",
+   "end_date": "2026-12-31",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "大寮區",
+     "venue": "舊振南漢餅文化館",
+     "address": "舊振南漢餅文化館"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "活動地點：舊振南漢餅文化館(高雄市大寮區捷西路298號－捷運大寮站一號出口步行５分鐘即可抵達)2026年10-12月期間限定體驗行程，以實際開課日為主。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-6f2b9808cdae",
+   "title": "2026高雄愛‧月熱氣球",
+   "category": "market",
+   "start_date": "2026-09-25",
+   "end_date": "2026-10-11",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "田寮區",
+     "venue": "田寮月世界、愛河",
+     "address": "田寮月世界、愛河"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "活動時間與地點▶︎田寮月世界場次活動日期｜09/25㊄ - 09/28㊀ 、10/03㊅ - 10/04㊐活動地點｜田寮月世界（田寮區月球路36號）市集時間｜09/25㊄ - 09/28㊀ 10：00 - 18：00▶︎愛河場次活動日期｜1…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-223b998accad",
+   "title": "OPEN!夢想音樂節",
+   "category": "festival",
+   "start_date": "2026-12-04",
+   "end_date": "2026-12-05",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "前鎮區",
+     "venue": "高雄夢時代 時代大道",
+     "address": "高雄夢時代 時代大道"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "國際韓星 ︎ 台灣偶像為大家集結夢幻台韓陣容。12/4-12/5 雙日音樂盛典，滿足你的視聽覺多重享受。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-7a8998fe4261",
+   "title": "2026旗鹿同福 聖母巡安",
+   "category": "festival",
+   "start_date": "2026-12-06",
+   "end_date": "2026-12-06",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "旗山區",
+     "venue": "旗山天后宮",
+     "address": "旗山天后宮"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "這一天，邀請全臺灣媽祖信眾，一起來旗山迎媽祖！擁有超過四百年悠久歷史、香火鼎盛的【鹿港天后宮】，創建於明朝萬曆年間，歷經四百餘年歲月，媽祖信仰代代相傳，更是臺灣極具代表性的媽祖信仰中心之一，現為珍貴的【國定古蹟】。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-b17b3c327581",
+   "title": "2026城市嶼浪市集嘉年華",
+   "category": "market",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-04",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "鹽埕區",
+     "venue": "駁二塔及輕軌大義站旁",
+     "address": "駁二塔及輕軌大義站旁"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "本次市集以「牽絲」為主題，象徵青年局、青創攤車品牌與市民朋友在高雄青創領域相互牽手、互幫互助共創幸福青年城市。市集限定商品：食物：「牽絲」手作：「黃色」，整個場域透過限定商品，牽起高雄的美味。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-0c9078115569",
+   "title": "2026高雄電影節",
+   "category": "festival",
+   "start_date": "2026-10-09",
+   "end_date": "2026-10-26",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "鹽埕區",
+     "venue": "高雄市電影館、內惟藝術中心、高雄市立圖書館總館、VR體感劇院、駁二藝術特區、LIVE WAREHOUSE",
+     "address": "高雄市電影館、內惟藝術中心、高雄市立圖書館總館、VR體感劇院、駁二藝術特區、LIVE WAREHOUSE"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "今年雄影選定「抓馬人間」為年度主題，「抓馬」取自英文 Drama 的諧音，用來形容充滿戲劇性、情節浮誇、衝突感十足的人事物。無論是形容一個人是「抓馬 Queen」，或是一件事「很抓馬」，都予人栩栩如生甚至可以噴出火的生猛之感！",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-07378a6fc58f",
+   "title": "2026 Takao Rock 打狗祭",
+   "category": "festival",
+   "start_date": "2026-10-10",
+   "end_date": "2026-10-31",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "鹽埕區",
+     "venue": "高雄流行音樂中心 海音館",
+     "address": "高雄流行音樂中心 海音館"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "727 天漫長等待，小怪獸們從未停止探索。在宇宙邊際漫遊，沿著聲波航道穿越不同星系，也在無數旋律之間，蒐集來自各地的聲音與故事。帶著年輕無畏的好奇心、不受框架的冒險精神，以及自由奔放的靈魂，為了將更多元的音樂、更豐富的樣貌帶回港灣分享。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-97952d9970f0",
+   "title": "2026高雄眷村嘉年華",
+   "category": "festival",
+   "start_date": "2026-09-26",
+   "end_date": "2026-10-11",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "鳳山區",
+     "venue": "黃埔新村、岡山區岡山醒村、樂群村、左營區左營建業新村",
+     "address": "黃埔新村、岡山區岡山醒村、樂群村、左營區左營建業新村"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026高雄眷村嘉年華來臨，曾經存在或現在仍在的動物朋友們都趕緊前來參與，在這充滿時光回憶的空間裡，可以開心的跑跳、也可以靜靜的體會屬於這裡的風吹草動，感受曾經的時光與此時此刻的交織。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-75ef3611449e",
+   "title": "2026高雄市旅行公會冬季國際旅展",
+   "category": "festival",
+   "start_date": "2026-10-02",
+   "end_date": "2026-10-05",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "前鎮區",
+     "venue": "高雄展覽館",
+     "address": "高雄展覽館"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "秋冬出遊，從高雄館開始規劃。高雄市政府觀光局於2026高雄市旅行公會冬季國際旅展中，以新版城市識別「KEEP VIBRANT KAOHSIUNG」打造「高雄主題館」，用熱情橘展現城市活力。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-a016785856e7",
+   "title": "2026南島族群婚禮",
+   "category": "festival",
+   "start_date": "2026-10-02",
+   "end_date": "2026-10-04",
+   "locations": [
+    {
+     "county": "屏東縣",
+     "town": "三地門鄉",
+     "venue": "屏東縣三地門鄉",
+     "address": "屏東縣三地門鄉"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "藉由「南島族群婚禮系列活動」，以屏北三鄉魯凱族、排灣族原住民傳統婚禮為主軸，從部落禮俗到生活文化、工藝美學等不同面向，期待帶給來訪的新人與旅客深度的旅遊體驗，漫遊高屏部落，感受原鄉的溫度。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.maolin-nsa.gov.tw/zh-tw/application/activity/36/",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-e251cd21266e",
+   "title": "2026日月潭Come! Bikeday自行車嘉年華",
+   "category": "outdoor",
+   "start_date": "2026-11-21",
+   "end_date": "2026-11-21",
+   "locations": [
+    {
+     "county": "南投縣",
+     "town": "魚池鄉",
+     "venue": "中山路599號",
+     "address": "中山路599號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "第15屆日月潭Come!BikeDay自行車嘉年華在日月潭向山遊客心出發，活動精神「Every Day is Come!BikeDay」，在日月潭每一天都是適合騎車的日子。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://theme.sunmoonlake.gov.tw/ComeBikeDay/Index.aspx?l=1",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-eeea6b9fe14e",
+   "title": "2026馬祖馬拉松",
+   "category": "festival",
+   "start_date": "2026-11-07",
+   "end_date": "2026-11-07",
+   "locations": [
+    {
+     "county": "連江縣",
+     "town": "南竿鄉",
+     "venue": "福澳運動場",
+     "address": "福澳運動場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "馬祖是台灣的離島，與國內馬拉松場地比較，其地形高低起伏較大，為一挑戰型賽事，為配合天候，馬祖馬拉松訂於每年11月舉辦，希望藉由當地特色聚落文化、戰地景觀及閩東風俗民情，提高運動觀光能見度，因地形因素其相對挑戰難度亦較高，對於喜愛從事挑戰型路…",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.facebook.com/InMatsuMarathon",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-378629c2c0db",
+   "title": "2026草嶺古道芒花季",
+   "category": "outdoor",
+   "start_date": "2026-11-01",
+   "end_date": "2026-11-30",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "貢寮區",
+     "venue": "草嶺古道",
+     "address": "草嶺古道"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "為讓遊客欣賞大片芒花壯闊盛開之景，感受草嶺古道那段跨越百年山海時光長廊的記憶，自2002年開始舉辦，每年度總吸引約8萬人次遊客前往欣賞滿山芒花搖曳的迷人風采，近年來已成為東北角地區觀光旅遊品牌活動。 策劃中",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-9daaff69b645",
+   "title": "2026山谷燈光節",
+   "category": "festival",
+   "start_date": "2026-09-04",
+   "end_date": "2027-01-03",
+   "locations": [
+    {
+     "county": "臺中市",
+     "town": "和平區",
+     "venue": "梨山賓館前廣場",
+     "address": "梨山賓館前廣場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "歲末年初佳節歡樂氣氛，利用梨山賓館前兩棵具有歷史意義的雪松，打造成為「全臺最高聖誕樹」活動亮點及活動品牌，於谷關梨山街區布置光環境燈飾，結合在地原民與部落元素，配合特色展演活動，展現梨山谷關之美。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.trimt-nsa.gov.tw/zh-tw/event/20469/",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-2beb2fe823fe",
+   "title": "2026台灣設計展",
+   "category": "exhibit",
+   "start_date": "2026-09-24",
+   "end_date": "2026-10-11",
+   "locations": [
+    {
+     "county": "桃園市",
+     "town": "中壢區",
+     "venue": "青埔市立美術館、中原文創園區",
+     "address": "青埔市立美術館、中原文創園區"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "台灣每年最具規模的大型設計展會之一，透過徵選與各縣市合作辦理的全民美學及設計價值展覽活動，主要內涵以設計導入城市治理與發展為策劃內容。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.facebook.com/Taiwandesignexpo/?locale=zh_TW",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-a375fe2d36d7",
+   "title": "2026水流東紅酒音樂祭",
+   "category": "market",
+   "start_date": "2026-10-17",
+   "end_date": "2026-10-17",
+   "locations": [
+    {
+     "county": "臺中市",
+     "town": "外埔區",
+     "venue": "月眉西路800巷99號",
+     "address": "月眉西路800巷99號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "推廣「地酒到地域」的深度體驗之旅，搭配綠色運具-自行車騎旅串聯，草地市集結合在地四大酒莊推出的紅酒音樂祭活動，以后里圳、桐花步道貫穿串聯周邊六分社區、永豐社區、特色的農場體驗，打造水流東休區特有的紅酒美學，預計參與人次達千人。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.facebook.com/waipu.sldata",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-66b4bc98d50d",
+   "title": "2026嘉義市光織影舞-光影藝術展",
+   "category": "exhibit",
+   "start_date": "2026-09-25",
+   "end_date": "2026-10-11",
+   "locations": [
+    {
+     "county": "嘉義市",
+     "town": "西區",
+     "venue": "北香湖公園",
+     "address": "北香湖公園"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "結合嘉義市特色及文化，以四季與中秋節為主題，設置8件光影藝術裝置，搭配表演活動，吸引旅客來嘉義市駐留體驗。 嘉義市國際藝術紀錄影展",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.facebook.com/zoominchiayi",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-ee5f45a1ce70",
+   "title": "2026台灣米倉田中馬拉松",
+   "category": "festival",
+   "start_date": "2026-11-07",
+   "end_date": "2026-11-08",
+   "locations": [
+    {
+     "county": "彰化縣",
+     "town": "田中鎮",
+     "venue": "景崧文化教育園區",
+     "address": "景崧文化教育園區"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "「台灣米倉田中馬拉松 Taiwan's Rice Heaven－Tianzhong Marathon」自西元2012年開辦，打響國內外知名度，廣受國內外跑者民眾喜愛，並評價為臺灣經典賽事前三名，為國內外跑者來台指定參與賽事。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.facebook.com/520marathon/?locale=zh_TW",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-6a8136b65994",
+   "title": "2026三義木雕藝術節系列活動",
+   "category": "market",
+   "start_date": "2026-10-09",
+   "end_date": "2026-10-11",
+   "locations": [
+    {
+     "county": "苗栗縣",
+     "town": "三義鄉",
+     "venue": "三義木雕博物館",
+     "address": "三義木雕博物館"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "三義木雕藝術節系列活動，強調木雕藝術傳承的使命感。除了木藝慢活嘉年華現場活動以動態藝表演、木雕表演、木藝體驗、文創市集、慢城旅遊、茶席等系列活動，營造親子、互動、熱鬧氛圍，塑造三義慢城獨特木雕藝術文化形象，「木雕」為三義最具代表性的傳統文化…",
+   "organizer": "交通部觀光署",
+   "source_url": "https://wood.mlc.gov.tw/active/Details.aspx?Parser=10,3,20,,,,366",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-0994cd383541",
+   "title": "故宮亞洲藝術節-喜馬拉雅月",
+   "category": "exhibit",
+   "start_date": "2026-10-08",
+   "end_date": "2026-11-08",
+   "locations": [
+    {
+     "county": "嘉義縣",
+     "town": "太保市",
+     "venue": "故宮大道888號",
+     "address": "故宮大道888號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "自2017年起於南部院區辦理「故宮亞洲藝術節」，每年聚焦特定亞洲國家，配合當期亞洲主題特展，於10月份推出主題展示、闖關遊戲、服飾體驗創意課程、藝文表演、專題講座等活動，前已辦理印度、新加坡、泰國、蒙古、印尼、越南及韓國等國文化系列活動，每…",
+   "organizer": "交通部觀光署",
+   "source_url": "https://south.npm.gov.tw/ActivitiesDetailC006110.aspx?Cond=7320febf-1c09-491d-a2c7-ad9509711a02",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-89ce99a70eae",
+   "title": "2026高雄戲獅甲",
+   "category": "festival",
+   "start_date": "2026-11-15",
+   "end_date": "2026-11-16",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "苓雅區",
+     "venue": "中正一路94巷1號",
+     "address": "中正一路94巷1號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "自2006年起開始舉辦，將原來屬於「地方的」與「廟會的」舞獅競技、陣頭表演，逐年擴大為融合了具國際性的高樁舞獅競賽、獨特的地方藝陣表演藝術。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.facebook.com/KaohsiungLionDance/?locale=zh_TW",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-8c91dfd9819e",
+   "title": "2026 Art Taipei 台北國際藝術博覽會",
+   "category": "exhibit",
+   "start_date": "2026-10-30",
+   "end_date": "2026-11-02",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "信義區",
+     "venue": "台北世界貿易中心展覽一館",
+     "address": "台北世界貿易中心展覽一館"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "ART TAIPEI 台北國際藝術博覽會，每年透過邀請海內外畫廊的參展，帶來許多國際藝壇的重要作品，增進海內外藝術交流，並且推廣藝術生活和全民收藏。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://2026.art-taipei.com/taipei/tw/",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-dfd285829d8f",
+   "title": "2026二水國際跑水節",
+   "category": "festival",
+   "start_date": "2026-10-31",
+   "end_date": "2026-10-31",
+   "locations": [
+    {
+     "county": "彰化縣",
+     "town": "二水鄉",
+     "venue": "水心之初大草原",
+     "address": "水心之初大草原"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "「二水跑水節」為全國特有的水圳節慶活動，在深具歷史文化意涵的八堡圳舉辦跑引水活動，傳揚歷經十年開鑿的辛勞。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.facebook.com/ershuitownshipoffice/?locale=zh_TW",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-7e0cf3499c52",
+   "title": "2026高雄左營萬年季",
+   "category": "festival",
+   "start_date": "2026-10-09",
+   "end_date": "2026-10-12",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "左營區",
+     "venue": "左營孔廟",
+     "address": "左營孔廟"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "每年10月中旬在左營蓮池潭登場的萬年季活動，自民國90年（西元2001年）舉辦迄今，運用左營獨有天然景觀（蓮池潭及周邊林立的寺廟）、結合特殊民情風俗（攻炮城、迓火獅）等在地因素規劃而成，由於活動設計極具地方特色，每年吸引許多參觀人潮，已發展…",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.facebook.com/FireLion.Kaohsiung/",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-a17e2b2381d8",
+   "title": "2026六堆秋收祭系列活動",
+   "category": "festival",
+   "start_date": "2026-11-01",
+   "end_date": "2026-11-30",
+   "locations": [
+    {
+     "county": "屏東縣",
+     "town": "內埔鄉",
+     "venue": "信義路588號",
+     "address": "信義路588號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "客家人利用「春祈、夏耘、秋收、冬藏」大自然時序變化，來調整一年作息的生活方式，是代代相傳的優美文化，而每年十月底十一月初正是豐收的時節，各地均會酬神以慶祝一年一度秋收祭的到來。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.facebook.com/liuduihakka/?locale=zh_TW",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-f0920412ed1c",
+   "title": "2026臺北馬拉松",
+   "category": "festival",
+   "start_date": "2026-12-20",
+   "end_date": "2026-12-20",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "信義區",
+     "venue": "臺北市市民廣場",
+     "address": "臺北市市民廣場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "臺北馬拉松自西元1986年首次舉辦，為臺北市年度重要國際運動賽事，融合城市觀光，納入臺北各大特色地標。活動並取得國際馬拉松總會賽道認證及世界田徑總會菁英標籤認證，為臺灣第一個取得標籤認證的「市區馬拉松」賽事，每年吸引國內外許多菁英好手齊聚。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.taipeicitymarathon.com/",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-b256a8ecddb4",
+   "title": "2026新北歡樂耶誕城",
+   "category": "festival",
+   "start_date": "2026-11-13",
+   "end_date": "2026-12-27",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "板橋區",
+     "venue": "新北市市民廣場",
+     "address": "新北市市民廣場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "新北歡樂耶誕城自西元2011年開辦以來，迄今已邁入第15屆，從地區性活動到現在的國際亮點活動，將城市結合耶誕節歡樂氣氛，促進周邊商圈發展。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://christmasland.ntpc.gov.tw/map.php",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-9c78cbd59c16",
+   "title": "2026雲林國際偶戲節",
+   "category": "festival",
+   "start_date": "2026-09-29",
+   "end_date": "2026-10-11",
+   "locations": [
+    {
+     "county": "雲林縣",
+     "town": "虎尾鎮",
+     "venue": "立田徑場、農博公園",
+     "address": "立田徑場、農博公園"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "「雲林國際偶戲節」內容包含開幕音樂會、閉幕-金掌獎頒獎典禮、人間國寶大師演出、口白創意競賽、藝師帶偶去旅行等多樣化系列活動。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.facebook.com/puppet.yunlin.gov.tw/?locale=zh_TW",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-8dc6b40d1a00",
+   "title": "2026南投世界茶業博覽會",
+   "category": "exhibit",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-11",
+   "locations": [
+    {
+     "county": "南投縣",
+     "town": "南投市",
+     "venue": "中興新村 中興會堂",
+     "address": "中興新村 中興會堂"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "南投有八大茶區，更是台灣茶葉主要產地，透過展館搭建與展售會，提供遊客茶知識、體驗、展演。並舉辦數場大型特色主題活動，如千人茶會、千人擂茶以及千人野餐等活動，推廣多元豐富的茶文化。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.facebook.com/teaexpo/?locale=zh_TW",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-1d7fe0ead092",
+   "title": "2026菊島澎湖跨海馬拉松",
+   "category": "festival",
+   "start_date": "2026-11-01",
+   "end_date": "2026-11-01",
+   "locations": [
+    {
+     "county": "澎湖縣",
+     "town": "馬公市",
+     "venue": "中興里介壽路7號",
+     "address": "中興里介壽路7號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "菊島澎湖跨海馬拉松，是堪稱為外島首創的A-B點不折返、跳島、不繞圈的賽道，此賽道已於2018年取得中華民國田徑協會之國際田徑總會「IAAF/AIMS國際賽道認證」，搭配賽道沿線設置之特色美食補給及創意啦啦隊，讓跑友們更能全程以一步一腳印的方…",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.facebook.com/PHCSM/",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-fd8bab6dfc43",
+   "title": "2026日月潭花火音樂嘉年華",
+   "category": "festival",
+   "start_date": "2026-09-12",
+   "end_date": "2026-11-14",
+   "locations": [
+    {
+     "county": "南投縣",
+     "town": "魚池鄉",
+     "venue": "水社碼頭",
+     "address": "水社碼頭"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "日月潭是我國最負盛名、國內外名聞遐邇之觀光遊憩區，每年造訪日月潭之旅客平均達350萬人次。日月潭花火音樂嘉年華系列活動以音樂藝術、運動休閒、在地產業文化等活動特色與傳統為主軸，延續「大型戶外花火音樂會」活動亮點，吸引更多國內外旅客到訪。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.sunmoonlake.gov.tw/Events/Activitys?a=24&id=7",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-c97624f33834",
+   "title": "2026鯤鯓王平安鹽祭",
+   "category": "festival",
+   "start_date": "2026-11-07",
+   "end_date": "2026-11-08",
+   "locations": [
+    {
+     "county": "臺南市",
+     "town": "北門區",
+     "venue": "南鯤鯓代天府",
+     "address": "南鯤鯓代天府"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "鯤鯓王平安鹽祭將沙洲景觀結合當地傳統「王爺信仰」，並以獨特的「鹽」文化作為活動主題，藉由此活動讓國內外的遊客更了解臺灣當地民俗信仰、鹽業文化。三大傳統科儀：1、請鹽科儀：11/07（六）07:00－07:20，於井仔腳鹽田迎請平安鹽。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.swcoast-nsa.gov.tw/zh-tw/event-calendar/details/2489",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-2589840c98b5",
+   "title": "2026臺灣自行車旅遊節",
+   "category": "outdoor",
+   "start_date": "2026-09-01",
+   "end_date": "2026-12-31",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "松山區",
+     "venue": "2026年活動地點尚未確定",
+     "address": "2026年活動地點尚未確定"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "臺灣的公路系統完善，再加上地形優勢，騎著自行車時還可邊欣賞沿路壯闊美景，在臺灣單車環島是最方便又享受的旅遊行程！「臺灣自行車節」系列活動就是以自行車旅遊活動，結合了各縣市的觀光與交通資源力量，呈現出多元與在地的文化旅遊特色。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://taiwanbike.tw/",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-5ecab53e2309",
+   "title": "2026-2027屏東落山風藝術季",
+   "category": "festival",
+   "start_date": "2026-12-20",
+   "end_date": "2027-03-01",
+   "locations": [
+    {
+     "county": "屏東縣",
+     "town": "車城鄉",
+     "venue": "海口港看海美術館",
+     "address": "海口港看海美術館"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "屏東落山風藝術季以車城海口港「落山風之吹風看海地」及旁邊沙灘為主要場地，以大型藝術裝置及表演活動形式，展現風與地方之特色。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.facebook.com/lsf.arts?locale=zh_TW",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-f44fd710d106",
+   "title": "2026新社花海暨臺中國際花毯節",
+   "category": "outdoor",
+   "start_date": "2026-10-30",
+   "end_date": "2026-11-22",
+   "locations": [
+    {
+     "county": "臺中市",
+     "town": "新社區",
+     "venue": "行政院農業部種苗改良繁殖場第二苗圃",
+     "address": "行政院農業部種苗改良繁殖場第二苗圃"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "新社花海暨臺中國際花毯節為中部地區最盛大的花卉慶典，逐年淬煉成為全臺首屈一指、具品牌知名度的花卉與休閒農業活動。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-0d627309cc52",
+   "title": "2026 Light One Bike活動",
+   "category": "outdoor",
+   "start_date": "2026-08-01",
+   "end_date": "2026-12-07",
+   "locations": [
+    {
+     "county": "屏東縣",
+     "town": "東港鎮",
+     "venue": "大潭路169號",
+     "address": "大潭路169號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "鵬灣騎行，臺灣騎時很美麗！透過專業領騎人員的深度導覽，沿途飽覽豐富的濕地生態，並結合周邊景點、走訪運動友善特約店家，親身感受大鵬灣從晝落到夜幕的萬種風情。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.taiwantriathlon.com/pages/2026-dapeng-bay-cycling-series?fbclid=IwdGRjcASMlRRjbGNrBIyUz2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHnqwLKycGKNCylM9-k8yI7-WM6SU-0-fcoJHj6JfNiTG2-S7cpEbHBjGH1zH_aem_WN_YS2mvoJwk3usZUIjGkg",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-1a203325fb7b",
+   "title": "極點慢旅-極西點國聖港燈塔暨雲嘉南自行車多元慢遊活動",
+   "category": "outdoor",
+   "start_date": "2026-06-03",
+   "end_date": "2026-11-21",
+   "locations": [
+    {
+     "county": "臺南市",
+     "town": "七股區",
+     "venue": "西堤堤坊",
+     "address": "西堤堤坊"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "推動燈塔觀光，配合親山親海樂環島政策，以低碳旅遊方式帶動燈塔旅遊，並整合多元自行車路線沿途之雲嘉南轄區景點、山海圳綠道、濱海小鎮、歷史人文文化、地景、美食及特色觀光產業，規劃雲嘉南濱海轄區具行銷亮點特色，打造自行車觀光品牌，推廣國內、外遊客…",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.swcoast-nsa.gov.tw/zh-tw/event-calendar/details/2488",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-29928aa52bf1",
+   "title": "「徐行縱谷」八通關古道自行車挑戰及玉里小鎮自行車大富翁闖關活動",
+   "category": "outdoor",
+   "start_date": "2026-10-18",
+   "end_date": "2026-10-18",
+   "locations": [
+    {
+     "county": "花蓮縣",
+     "town": "玉里鎮",
+     "venue": "民權街50號",
+     "address": "民權街50號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "自玉里鎮出發，沿途串聯玉里小鎮、歐亞菲板塊交界處，以雙輪探索花東縱谷的獨特地形，搭配在地的文化導覽、補給美食，由專業領騎人員帶領遊客騎至八通關入口，健行進入有布農族與有熊國之稱的瓦拉米步道。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-bc6de4d21e61",
+   "title": "2026大鵬灣暖冬派對",
+   "category": "market",
+   "start_date": "2026-12-01",
+   "end_date": "2026-12-31",
+   "locations": [
+    {
+     "county": "屏東縣",
+     "town": "東港鎮",
+     "venue": "大潭路169號",
+     "address": "大潭路169號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "大鵬灣暖冬派對以打造「冬日沙灘生活品牌」為動念，透過音樂野餐、沙灘活動及運動、並結合市集與地方業者串連活動內容。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-288fbd31f3c2",
+   "title": "2026山谷音樂會",
+   "category": "outdoor",
+   "start_date": "2026-11-14",
+   "end_date": "2026-11-14",
+   "locations": [
+    {
+     "county": "花蓮縣",
+     "town": "秀林鄉",
+     "venue": "銅門部落大祭場（銅門多功能運動場）",
+     "address": "銅門部落大祭場（銅門多功能運動場）"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "透過邀請部落族人與藝術家共同舉辦藝術實驗工作坊，規劃涵蓋生態、文化、藝術與地理等專業知識的深度體驗主題，為期兩天的綜合體驗，包含藝術實驗、表演藝術、夜宿體驗、儀式展現及音樂會等多元內容。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-890956a51b1b",
+   "title": "2026福隆國際沙雕藝術季系列活動",
+   "category": "festival",
+   "start_date": "2026-05-29",
+   "end_date": "2026-10-25",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "貢寮區",
+     "venue": "福隆街42號",
+     "address": "福隆街42號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "每年夏季舉辦的福隆國際沙雕藝術季，已成為東北角地區最具代表性的觀光品牌活動之一，活動結合國際沙雕藝術、海岸地景、夏日觀光與多元主題體驗，透過大型沙雕展演及系列活動規劃，打造兼具藝術性、娛樂性與觀光吸引力的夏季盛典。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://events.necoast-nsa.gov.tw/fulong26/",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-7e44b323fc37",
+   "title": "2026台灣科學節",
+   "category": "market",
+   "start_date": "2026-11-07",
+   "end_date": "2026-11-15",
+   "locations": [
+    {
+     "county": "基隆市",
+     "town": "中正區",
+     "venue": "國立海洋科技博物館",
+     "address": "國立海洋科技博物館"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "臺灣科學節自2020年起盛大舉辦，串聯全臺科學能量，每年打造百餘種、近千場活動，包含論壇及研討會、舞臺劇與戲劇、科學演示、影展與展覽、工作坊、科學競賽及科學市集等，每場活動皆呼應聯合國17項永續發展目標。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://tsf.moe.edu.tw/",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-db17e4c52af7",
+   "title": "2026基隆海洋老鷹嘉年華",
+   "category": "festival",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-03",
+   "locations": [
+    {
+     "county": "基隆市",
+     "town": "仁愛區",
+     "venue": "港西街國門廣場",
+     "address": "港西街國門廣場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "以基隆獨特的海洋城市文化為活動主題，邀請在地社區、學校、演藝團隊及國內外各類型表演團隊等，共同於港際齊走，繞行海洋廣場、基隆廟口及東岸商場等指標性地點後返回國門廣場，打造熱鬧盛大的海洋觀光活動。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://klctb.klcg.gov.tw/News3.aspx?n=7656&sms=12510",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-35278e42d5af",
+   "title": "2026花蓮鯉魚潭水岸光影節",
+   "category": "outdoor",
+   "start_date": "2026-11-28",
+   "end_date": "2027-01-31",
+   "locations": [
+    {
+     "county": "花蓮縣",
+     "town": "壽豐鄉",
+     "venue": "鯉魚潭",
+     "address": "鯉魚潭"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "活動期間環潭步道將佈置多座互動光影裝置，邀請遊客在星空下穿梭於波光粼粼的藝術光廊，展現花蓮深厚的人文底蘊。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.erv-nsa.gov.tw/zh-tw/event/calendardetail/7098",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-0e6749a0a122",
+   "title": "2026曾文水庫峽谷音樂會",
+   "category": "festival",
+   "start_date": "2026-09-01",
+   "end_date": "2026-11-09",
+   "locations": [
+    {
+     "county": "嘉義縣",
+     "town": "大埔鄉",
+     "venue": "潭坪7號",
+     "address": "潭坪7號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "坐擁壯麗峽谷美景，聆聽山水間的天籟之音，這是一場將大自然的鬼斧神工與精緻音樂藝術完美結合的音樂饗宴。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.siraya-nsa.gov.tw/zh-tw/event/calendardetail/14374",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-2b8be9d15849",
+   "title": "2026小赤大地-大風吹生活節",
+   "category": "festival",
+   "start_date": "2026-09-25",
+   "end_date": "2026-10-04",
+   "locations": [
+    {
+     "county": "澎湖縣",
+     "town": "白沙鄉",
+     "venue": "小赤村",
+     "address": "小赤村"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "澎湖縣政府文化局將於115年9月25日至10月4日，在白沙鄉小赤村舉辦「2026大風吹生活節－小赤大地」。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.phhcc.gov.tw/",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-9085936c2301",
+   "title": "2026集集鐵道藝術觀光活動-嘻遊藝站・集集馬上趣",
+   "category": "exhibit",
+   "start_date": "2026-10-03",
+   "end_date": "2026-11-29",
+   "locations": [
+    {
+     "county": "南投縣",
+     "town": "集集鎮",
+     "venue": "吳厝里民生路61號",
+     "address": "吳厝里民生路61號"
+    }
+   ],
+   "ticket": "free",
+   "summary": "2026集集鐵道藝術觀光系列活動【嘻遊藝站 集集馬上趣】洪易雕塑藝術展展覽日期：10/3 (六) 至 11/29 (日)展覽地點：集集藝站（集集火車站旁鐵道倉庫）展館開放：每日9：00-17：00開幕記者會：10/3 (六) 11：00展覽…",
+   "organizer": "南投縣集集鎮公所",
+   "tips": "活動地點位於集集火車站旁【集集藝站】，可搭乘火車至集集火車站。",
+   "source_url": "https://www.facebook.com/jijitownshipoffice/",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-9d167b3234c8",
+   "title": "2026 東海岸部落工作假期「一起cepo'靜浦」",
+   "category": "festival",
+   "start_date": "2026-10-16",
+   "end_date": "2026-10-18",
+   "locations": [
+    {
+     "county": "花蓮縣",
+     "town": "豐濱鄉",
+     "venue": "靜浦部落",
+     "address": "靜浦部落"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "因應連續兩周大雨影響，原訂於115年9月4日至6日推出的，為保障參與遊客安全，決定順延至115年10月16日至18日辦理。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-98d956ab8cef",
+   "title": "2026 馬到成功 達人帶路",
+   "category": "market",
+   "start_date": "2026-12-05",
+   "end_date": "2026-12-05",
+   "locations": [
+    {
+     "county": "臺東縣",
+     "town": "成功鎮",
+     "venue": "成功海濱公園",
+     "address": "成功海濱公園"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "這個12月來台東成功，跟著在地達人玩一趟不一樣的小旅行！ 「馬到成功・達人帶路」以「成功人事」為主軸，串聯在地達人、特色店家、音樂表演與親子體驗，從市集、音樂、食魚教育，到電輔車小旅行，帶你用不同方式認識成功的人、事與地方風景。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-d58fec62b3d7",
+   "title": "2026澎湖追風音樂燈光節",
+   "category": "outdoor",
+   "start_date": "2026-09-12",
+   "end_date": "2026-10-11",
+   "locations": [
+    {
+     "county": "澎湖縣",
+     "town": "馬公市",
+     "venue": "中興里介壽路",
+     "address": "中興里介壽路"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "「2026澎湖追風音樂燈光節」以「海島樂園」為主題，串聯音樂、燈光藝術、旅遊、優惠四大主軸，打造秋季最強觀光品牌。總計五場演出，邀請超過15組實力與人氣兼具的藝人輪番開唱，週週驚喜，熱力不斷！",
+   "source_url": "https://www.penghu-nsa.gov.tw/",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-dc64590f6615",
+   "title": "澎湖大行軍",
+   "category": "festival",
+   "start_date": "2026-11-07",
+   "end_date": "2026-11-07",
+   "locations": [
+    {
+     "county": "澎湖縣",
+     "town": "馬公市",
+     "venue": "治平路32號",
+     "address": "治平路32號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "澎湖冬季限定迎風大行軍，行軍隊伍由國軍帶隊，從西嶼出發走至通樑， 綿延跨海大橋及一系列的軍事體驗活動。",
+   "source_url": "https://www.penghu.gov.tw/ch/index.jsp",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-8d60950e9818",
+   "title": "2026 縱谷原遊會-餐桌上的部落旅行",
+   "category": "festival",
+   "start_date": "2026-10-01",
+   "end_date": "2026-11-30",
+   "locations": [
+    {
+     "county": "花蓮縣",
+     "town": "花蓮市",
+     "venue": "萬榮、光復、玉里、池上、延平、海瑞",
+     "address": "萬榮、光復、玉里、池上、延平、海瑞"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "各活動時間以主辦單位最新公告為主",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-d3dfd44b06ea",
+   "title": "2026 山谷音樂節",
+   "category": "festival",
+   "start_date": "2026-11-14",
+   "end_date": "2026-11-15",
+   "locations": [
+    {
+     "county": "花蓮縣",
+     "town": "秀林鄉",
+     "venue": "銅門部落大祭場",
+     "address": "銅門部落大祭場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "各活動時間以主辦單位最新公告為主",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-18ce4e5d7e6e",
+   "title": "2026 L’Étape環法自行車挑戰賽-紐崔萊 • 日月潭站",
+   "category": "outdoor",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-03",
+   "locations": [
+    {
+     "county": "南投縣",
+     "town": "魚池鄉",
+     "venue": "中山路599號",
+     "address": "中山路599號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2024年起由環法主辦單位Amaury Sport Organization（A.S.O.）授權指導的「L' ÉTAPE環法自行車挑戰賽－紐崔萊．日月潭站」，將延續辦理3年。",
+   "organizer": "交通部觀光署日月潭國家風景區管理處",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-13e4af86180f",
+   "title": "2026 Come!BikeDay 日月潭自行車嘉年華",
+   "category": "outdoor",
+   "start_date": "2026-11-21",
+   "end_date": "2026-11-21",
+   "locations": [
+    {
+     "county": "南投縣",
+     "town": "魚池鄉",
+     "venue": "中山路599號",
+     "address": "中山路599號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "第15屆日月潭Come!BikeDay自行車嘉年華在日月潭向山遊客心出發，活動精神「Every Day is Come!BikeDay」，在日月潭每一天都是適合騎車的日子。",
+   "organizer": "交通部觀光署日月潭國家風景區管理處",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-a7d5fe351038",
+   "title": "2026 日月潭・部落文創市集",
+   "category": "market",
+   "start_date": "2026-10-31",
+   "end_date": "2026-11-01",
+   "locations": [
+    {
+     "county": "南投縣",
+     "town": "魚池鄉",
+     "venue": "伊達邵碼頭廣場",
+     "address": "伊達邵碼頭廣場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026日月潭・部落文創市集活動時間：2026.10.31 (SAT) 14:00 - 20:002026.11.01 (SUN) 11:00 - 16:00活動地點：伊達邵碼頭廣場 Ita Thao Pier Plaza【優惠活動】潭・部…",
+   "organizer": "交通部觀光署日月潭國家風景區管理處",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-671d406c179f",
+   "title": "石壁部落健行",
+   "category": "outdoor",
+   "start_date": "2026-10-01",
+   "end_date": "2026-10-31",
+   "locations": [
+    {
+     "county": "苗栗縣",
+     "town": "南庄鄉",
+     "venue": "石壁部落健行",
+     "address": ""
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "在苗栗南庄石壁部落舉辦登山健行活動，在鳴炮、撒花中，歡樂啟程，欣賞山巒、雲霧之美。南庄原住民族部落觀光資源豐富，值得遊客上山探尋石壁風情和文化。歡迎到南庄石壁部落登山健行、參加部落小旅行、原味部落市集找原風。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-c09737136f62",
+   "title": "阿罩霧草地音樂會",
+   "category": "festival",
+   "start_date": "2026-10-01",
+   "end_date": "2026-10-31",
+   "locations": [
+    {
+     "county": "臺中市",
+     "town": "霧峰區",
+     "venue": "阿罩霧草地音樂會",
+     "address": ""
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "本處攜手霧峰區農會、霧峰文化觀光協會及在地學校音樂與熱舞社團等單位，共同舉辦「阿罩霧草地音樂會」，打造融合音樂、農食、文創與永續體驗的文化盛典。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-4fe9eeeb4cec",
+   "title": "2026阿里山神木下婚禮20週年暨回娘家系列活動",
+   "category": "festival",
+   "start_date": "2026-10-16",
+   "end_date": "2026-10-18",
+   "locations": [
+    {
+     "county": "嘉義縣",
+     "town": "阿里山鄉",
+     "venue": "2026阿里山神木下婚禮20週年暨回娘家系列活動",
+     "address": ""
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "「阿里山神木下婚禮」今年正式邁入第 20 周年！2026年度活動將以「幸福回家」為主軸，首度攜手農業部林業及自然保育署阿里山林業鐵路及文化資產管理處，結合全新列車「森里號」，打造專屬婚禮列車，同時盛大推出「回娘家」慶典，邀請歷屆新人重返牛埔…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-b913004ca9a7",
+   "title": "秋遊阿里山，金獅健走趣！台灣好行 限定活動",
+   "category": "outdoor",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-03",
+   "locations": [
+    {
+     "county": "嘉義縣",
+     "town": "竹崎鄉",
+     "venue": "金獅山步道",
+     "address": "金獅山步道"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "微涼秋日最適合入山踏青，作夥來金獅山步道大口森林浴，還能搭乘「台灣好行」輕鬆抽好禮！專屬遊程 嘉義火車站接送ᐟ 活動主題｜秋遊阿里山 金獅健走趣ᐟ 活動地點｜金獅山步道ᐟ 活動時間｜2026 年 10 月 3 日（六）▾▾專屬遊程報名（已額…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-8a6e3129f2d8",
+   "title": "2026南島族群婚禮－情牽大武山系列活動",
+   "category": "festival",
+   "start_date": "2026-09-11",
+   "end_date": "2026-10-04",
+   "locations": [
+    {
+     "county": "屏東縣",
+     "town": "三地門鄉",
+     "venue": "2026南島族群婚禮－情牽大武山系列活動",
+     "address": ""
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "茂林國家風景區位於高屏山麓，在轄管6個鄉區中，有5個鄉區為原住民地區，族群包含魯凱、排灣、布農及拉阿魯哇族等，呈現多元的原住民文化特色。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-54caf70be19d",
+   "title": "極點慢旅自行車系列活動",
+   "category": "outdoor",
+   "start_date": "2026-06-03",
+   "end_date": "2026-11-21",
+   "locations": [
+    {
+     "county": "臺南市",
+     "town": "北門區",
+     "venue": "極點慢旅自行車系列活動",
+     "address": ""
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "為響應「親山親海樂環島」政策，本處積極推動低碳旅遊，以「燈塔觀光」為核心，重新整合轄內多元自行車路線。本計畫串聯了知名的「山海圳綠道」、純樸的濱海小鎮以及沿途豐富的歷史人文與地景特色，致力於將雲嘉南濱海打造為具國際吸引力的自行車觀光品牌。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-0ea8df1cb720",
+   "title": "「2026極點慢旅 浪漫玩騎雲嘉南」台南國聖港燈塔61追風趣",
+   "category": "outdoor",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-03",
+   "locations": [
+    {
+     "county": "臺南市",
+     "town": "將軍區",
+     "venue": "平沙里156號",
+     "address": "平沙里156號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "「2026極點慢旅，浪漫玩騎雲嘉南」台南國聖港燈塔61追風趣自行車騎乘活動資訊：活動日期：2026年10月3日（星期六）集合地點：將軍漁港（臺南市將軍區平沙里156號）路線全程：約 45 公里路線路線：將軍漁港 → 南25鄉道→台61西濱快…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-704b8def2f00",
+   "title": "「2026極點慢旅，浪漫玩騎雲嘉南」嘉義故宮高跟鞋教堂",
+   "category": "outdoor",
+   "start_date": "2026-11-21",
+   "end_date": "2026-11-21",
+   "locations": [
+    {
+     "county": "嘉義縣",
+     "town": "太保市",
+     "venue": "東勢里故宮大道888號",
+     "address": "東勢里故宮大道888號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "「2026極點慢旅，浪漫玩騎雲嘉南」嘉義故宮高跟鞋教堂自行車騎乘活動資訊：活動日期：2026年11月21日（星期六）集合地點：：嘉義故宮南院北大口慶典花園草坪（嘉義縣太保市東勢里故宮大道888號）路線全程：約 58.3 公里/約 58.3…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-2ac3efd2bb6c",
+   "title": "「2026極點慢旅，浪漫玩騎雲嘉南」雲嘉南自主騎乘認證",
+   "category": "outdoor",
+   "start_date": "2026-09-15",
+   "end_date": "2026-11-20",
+   "locations": [
+    {
+     "county": "臺南市",
+     "town": "北門區",
+     "venue": "「2026極點慢旅，浪漫玩騎雲嘉南」雲嘉南自主騎乘認證",
+     "address": ""
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "騎上自行車，浪漫悠遊在雲嘉南田與海之美！精選「嘉義故宮高跟鞋教堂」、「雲林濱海小鎮」及「台南國聖港燈塔61追風趣」、「極西點燈塔至極南點燈塔」四條特色路線，歡迎民眾自行攜車或租借自行車騎乘。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-241c3c0450ef",
+   "title": "「2026 極點慢旅 四極點集章」活動",
+   "category": "outdoor",
+   "start_date": "2026-09-21",
+   "end_date": "2026-11-30",
+   "locations": [
+    {
+     "county": "臺南市",
+     "town": "七股區",
+     "venue": "「2026 極點慢旅 四極點集章」活動",
+     "address": ""
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "01 先加活動 LINE，開通電子護照依頁面填寫姓名、電話與車架／認證編號。02 到燈塔，打開手機定位抵達認證範圍後，點選「極點打卡」。03 本人＋自行車＋燈塔，一起入鏡上傳合照，認證成功就有 1 枚電子章。離開前，先確認電子章已入帳。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-b212973a6921",
+   "title": "2026仙境西拉雅 環騎5COOL",
+   "category": "outdoor",
+   "start_date": "2026-06-11",
+   "end_date": "2026-11-30",
+   "locations": [
+    {
+     "county": "臺南市",
+     "town": "官田區",
+     "venue": "福田路99號",
+     "address": "福田路99號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026 仙境西拉雅 環騎5COOL 自行車系列活動自行車騎乘路線由官田遊客中心出發，串連西拉雅國家風景區內5大水庫(曾文水庫、白河水庫、尖山埤水庫、烏山頭水庫、虎頭埤水庫)及大圳之路，並於官田遊客中心舉辦兒童滑步車活動、草原市集及舞台表演…",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-moc-0e26a9d9523a",
+   "title": "「黯像：看見不見」展覽-無視之覺",
+   "category": "exhibit",
+   "start_date": "2026-05-21",
+   "end_date": "2026-10-11",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "中正區",
+     "venue": "國家攝影文化中心",
+     "address": "臺北市中正區忠孝西路一段70號"
+    }
+   ],
+   "ticket": "unknown",
+   "indoor": true,
+   "summary": "《黯像：看見不見》試圖透過「視覺」與「非視覺」交織，回應攝影史中「觀看」與「被觀看」、「看見」與「看不見」的本質議題，探討影像再現如何建構出我們對「存在」與「非存在」的理解。",
+   "organizer": "(中華民國)國家攝影文化中心",
+   "source_url": "https://cloud.culture.tw/",
+   "source_name": "文化部文化資料開放服務網",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-moc-73d48f053d75",
+   "title": "亞洲在場：臺灣與亞洲運動會特展",
+   "category": "exhibit",
+   "start_date": "2026-04-21",
+   "end_date": "2026-10-18",
+   "locations": [
+    {
+     "county": "臺南市",
+     "town": "安南區",
+     "venue": "國立臺灣歷史博物館",
+     "address": "臺南市安南區長和路一段250號"
+    }
+   ],
+   "ticket": "unknown",
+   "indoor": true,
+   "summary": "2026年，適逢第20屆亞洲運動會（以下簡稱亞運），本展以亞運為題，敘事從「洲際、國家、社會與個人」四種尺度切入。亞洲在場，是亞洲彰顯文化的主場，是臺灣展現自信的主場，更是所有人共築未來的主場。",
+   "organizer": "(中華民國)國立臺灣歷史博物館",
+   "source_url": "https://www.nmth.gov.tw/News_Content2.aspx?n=4105&s=249392",
+   "source_name": "文化部文化資料開放服務網",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-moc-97d15aedc32e",
+   "title": "駐永的青春：東方與西方交融的花朵-吳澤慧、李若梅雙個展",
+   "category": "exhibit",
+   "start_date": "2026-09-23",
+   "end_date": "2026-10-04",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "中正區",
+     "venue": "國立臺灣藝術教育館 第3展覽廳",
+     "address": "臺北市南海路四十七號"
+    }
+   ],
+   "ticket": "unknown",
+   "indoor": true,
+   "summary": "居住臺灣和美國的兩個好朋友，李若梅留學西班牙回國嫁至馬祖定居，吳澤慧留學美國舊金山結婚長居在洛杉磯，經歷人生的種種試練後，決定攜手舉辦雙個展，東西交融的兩種風格，帶來不同的視覺盛宴。",
+   "source_url": "https://www.arte.gov.tw/pro1_exh_now.asp?KeyID=4595",
+   "source_name": "文化部文化資料開放服務網",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-moc-77ce0cf96b4a",
+   "title": "「閱圖讀文」雙獎聯展-全國學生圖畫書創作獎及教育部文藝創作獎得獎作品展",
+   "category": "exhibit",
+   "start_date": "2026-09-24",
+   "end_date": "2026-10-15",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "中正區",
+     "venue": "國立臺灣藝術教育館 美學空間",
+     "address": "臺北市南海路四十七號"
+    }
+   ],
+   "ticket": "free",
+   "indoor": true,
+   "summary": "指導單位：教育部 為鼓勵師生從事圖文創作，並加強推廣文藝教育，本年度持續安排本館全國學生圖畫書創作獎及教育部文藝創作獎之得獎作品聯合展出，讓師生創作之優秀圖畫書及文學佳作，分享給更多民眾欣賞，展出內容豐富多元，藝文愛好者不可錯過！",
+   "source_url": "https://www.arte.gov.tw/pro1_exh_now.asp?KeyID=4596",
+   "source_name": "文化部文化資料開放服務網",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-moc-de18b3fd0886",
+   "title": "115年度「藝植綻放」藝術聯展",
+   "category": "exhibit",
+   "start_date": "2026-09-24",
+   "end_date": "2026-10-14",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "中正區",
+     "venue": "國立臺灣藝術教育館 第1、2展覽廳",
+     "address": "臺北市南海路四十七號"
+    }
+   ],
+   "ticket": "unknown",
+   "indoor": true,
+   "summary": "協辦單位：國立臺灣藝術教育館、臺北市立啟聰學校、臺北市立臺北特殊教育學校、臺北市立文山特殊教育學校、臺北市立啟明學校 邀集本市公私立高中職、國中小及特殊教育學校身心障礙學生共同參展，透過繪畫、立體創作等多元藝術作品，展現學生豐富的創意與藝術…",
+   "source_url": "https://www.arte.gov.tw/pro1_exh_now.asp?KeyID=4592",
+   "source_name": "文化部文化資料開放服務網",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-moc-7cab53b38582",
+   "title": "一支畫滿藝壇的筆",
+   "category": "exhibit",
+   "start_date": "2026-10-07",
+   "end_date": "2026-10-14",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "中正區",
+     "venue": "國立臺灣藝術教育館 第3展覽廳",
+     "address": "臺北市南海路四十七號"
+    }
+   ],
+   "ticket": "unknown",
+   "indoor": true,
+   "summary": "賴棟材認為藝術是誠實反映生命與洗滌人心的靈魂呈現。四十年來以書法為根基，延伸至水墨、西畫與陶塑，打破傳統並結合生活感悟，持續追求創新與震撼。透過展覽分享藝術讓他體悟生命價值，心懷感恩並堅定叩問自我。",
+   "source_url": "https://www.arte.gov.tw/pro1_exh_now.asp?KeyID=4602",
+   "source_name": "文化部文化資料開放服務網",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-moc-780eeb6ecf00",
+   "title": "Amabile 王子欣小提琴獨奏會",
+   "category": "festival",
+   "start_date": "2026-10-08",
+   "end_date": "2026-10-08",
+   "locations": [
+    {
+     "county": "新竹市",
+     "town": "東區",
+     "venue": "國立陽明交通大學演藝廳",
+     "address": "陽明交大演藝廳 / 學生活動中心二樓 (新竹市大學路1001號)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "《Amabile》一詞源自義大利語，意為「可愛的、溫柔的、富有表情的」，在音樂術語中常用來指引演奏者以柔美而富有抒情性的方式演奏。",
+   "source_url": "https://arts.nycu.edu.tw/amabile-sophie-wang-violin-recital/",
+   "source_name": "文化部文化資料開放服務網",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-moc-d71076d2f41d",
+   "title": "搖擺不設限．致敬大師風範",
+   "category": "festival",
+   "start_date": "2026-11-26",
+   "end_date": "2026-11-26",
+   "locations": [
+    {
+     "county": "新竹市",
+     "town": "東區",
+     "venue": "國立陽明交通大學演藝廳",
+     "address": "陽明交大演藝廳 / 學生活動中心二樓 (新竹市大學路1001號)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "本場演出將以《搖擺不設限・致敬大師風範》為主題，向多位爵士單簧管大師--如 Benny Goodman、Eddie Daniels、Paquito D’Rivera 等致敬，帶領聽眾重返搖擺樂的黃金年代，並融入當代編曲的音樂語彙，賦予經典全…",
+   "source_url": "https://arts.nycu.edu.tw/a-tribute-to-clarinet-maestros/",
+   "source_name": "文化部文化資料開放服務網",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-moc-202b68fedf4d",
+   "title": "魯特琴與歌曲，紀念道蘭逝世400週年",
+   "category": "festival",
+   "start_date": "2026-12-02",
+   "end_date": "2026-12-02",
+   "locations": [
+    {
+     "county": "新竹市",
+     "town": "東區",
+     "venue": "國立陽明交通大學演藝廳",
+     "address": "陽明交大演藝廳 / 學生活動中心二樓 (新竹市大學路1001號)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "約翰．道蘭的魯特琴歌在聽覺上精緻絕美，由文藝復興魯特琴晶瑩剔透的音色與同音或八度雙弦震動出充滿餘韻的低語共鳴、與充滿歐洲巴洛克聲樂特色的假聲男高音和鳴，展現了伊莉莎白時期藝術作品透露出的憂鬱氣質。",
+   "source_url": "https://arts.nycu.edu.tw/john-dowlands-400th-death-anniversary/",
+   "source_name": "文化部文化資料開放服務網",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-moc-87205b84ad74",
+   "title": "蔡宇歆鋼琴演奏會",
+   "category": "festival",
+   "start_date": "2026-12-10",
+   "end_date": "2026-12-10",
+   "locations": [
+    {
+     "county": "新竹市",
+     "town": "東區",
+     "venue": "國立陽明交通大學演藝廳",
+     "address": "陽明交大演藝廳 / 學生活動中心二樓 (新竹市大學路1001號)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "本場音樂會匯集不同時代與風格的鋼琴作品，展現多元而豐富的音樂語言。從貝多芬晚期作品深刻的內心對話，到拉赫曼尼諾夫充滿畫面感的音樂描寫，以及臺灣當代作曲家對時間、記憶與生命經驗的思考，每首作品都訴說著獨特的故事。",
+   "source_url": "https://arts.nycu.edu.tw/yu-hsin-tsai-piano-recital/",
+   "source_name": "文化部文化資料開放服務網",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-moc-e8fc94594cda",
+   "title": "巴洛克獨奏家樂團《倫敦巴赫》",
+   "category": "festival",
+   "start_date": "2026-12-04",
+   "end_date": "2026-12-13",
+   "locations": [
+    {
+     "county": "臺中市",
+     "town": "西屯區",
+     "venue": "臺中國家歌劇院小劇場",
+     "address": "臺中市西屯區惠來路二段101號"
+    }
+   ],
+   "ticket": "paid",
+   "price": "800 、1,200 、1,500 、1,800 、2,200",
+   "summary": "｜演出場次｜ 2026年12月04日(五) 19:30 ｜臺中國家歌劇院小劇場 2026年12月06日(日) 14:30 ｜衛武營國家藝術文化中心表演廳 2026年12月13日(日) 14:30 ｜誠品表演廳 BC Masters 經典系列…",
+   "organizer": "巴洛克獨奏家樂團",
+   "source_url": "https://www.opentix.life/event/2010907685806804993",
+   "source_name": "文化部文化資料開放服務網",
+   "source_type": "official",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-ff741d65ae68",
+   "title": "椰林日不落松菸好日市集",
+   "category": "market",
+   "start_date": "2026-10-10",
+   "end_date": "2026-10-11",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "信義區",
+     "venue": "松山文創園區椰林大道",
+     "address": "台灣台北市光復南路133號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "在城市裡，延長你的夏天，以椰林大道為場域，打造一座不用出國的城市度假島。這不只是市集，而是一場讓人停留更久、消費更放鬆的生活體驗。餐飲、調酒、甜點、異國選品與風格品牌，搭配音樂與場域氛圍，創造「逛市集＝在旅行」的沉浸感。",
+   "organizer": "好日市集",
+   "source_url": "https://www.accupass.com/event/2604300743108834743190",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-9eca27f69e09",
+   "title": "Gala gala market 嘎啦嘎啦室內市集",
+   "category": "market",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-04",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "中山區",
+     "venue": "台北市中山區吉林路141號3樓",
+     "address": "台灣台北市中山區吉林路141號3樓"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "手作的溫暖永遠無法被取代。 提供都市人ㄧ個放假的好地方，喝杯咖啡、吃點甜點 看看這些職人的手作，也許也可以讓你發現自己心裡真正想做的事，喚起對手作的熱情。 ㄧ起在這週末吹著冷氣，慢慢舒服悠閒的逛市集！",
+   "organizer": "嘎啦嘎啦市集",
+   "source_url": "https://www.accupass.com/event/2609260743431281036333",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-502343c4778a",
+   "title": "八德資訊商圈年度封街市集",
+   "category": "market",
+   "start_date": "2026-10-17",
+   "end_date": "2026-10-18",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "中正區",
+     "venue": "八德路一段43巷",
+     "address": "台灣台北市八德路一段43巷"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "八德商圈每年最大盛事，八德資訊商圈封街市集滾燙登場，連續五週，好日市集特別攤位，觸碰人潮最佳選擇。活動除了有市集，還有眾多舞台表演，絕無冷場，活動免費參加，還有商圈消費抽好禮的活動喔。",
+   "organizer": "好日市集",
+   "source_url": "https://www.accupass.com/event/2604300747111075847356",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-6629b5352903",
+   "title": "2026第三屆貓樂園專屬貓奴和風文創市集",
+   "category": "market",
+   "start_date": "2026-12-26",
+   "end_date": "2026-12-27",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "中正區",
+     "venue": "華山1914文化創意園區",
+     "address": "台灣台北市中正區八德路一段1號（忠孝東路與八德路交叉口，光華商場旁）"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2024年12月，貓樂園和眾多品牌完成了一場療癒且熱鬧的貓樂園市集。 2025年12月，以冬日和風為主題，添加日本祭典感。 2026年12月，擴大舉辦，持續打造全台獨一無二專屬貓奴文創市集。",
+   "organizer": "貓樂園_專屬貓奴的創意市集",
+   "source_url": "https://www.accupass.com/event/2607160338071803913088",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-41aaa9de7b4e",
+   "title": "稻埕食光漫步小市集-11月秋末市集",
+   "category": "market",
+   "start_date": "2026-09-27",
+   "end_date": "2026-11-27",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "大同區",
+     "venue": "台北市大同區迪化街一段296號",
+     "address": "台灣台北市大同區迪化街一段296號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "歡迎來到稻埕食光漫步小市集，這裡是連結1923年代與2023年代米穀產業的時空創生所，2023年度大稻埕北段將以大稻埕葉晋發商號為起點，期望以透過主題式市集、網路行銷加值服務等形式，打造專屬稻埕北的新市集印象。",
+   "organizer": "大稻埕葉晋發商號",
+   "source_url": "https://www.accupass.com/event/2609260654545543170960",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-eb62c2517bab",
+   "title": "舒喜市集【台灣故鄉祭】",
+   "category": "market",
+   "start_date": "2026-11-28",
+   "end_date": "2026-11-29",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "信義區",
+     "venue": "松山文創園區 北向製菸工廠",
+     "address": "台灣台北市信義區光復南路133號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "今年冬天，舒喜市集《台灣故鄉祭》第二回再次回到松山文創園區北向製菸工廠。以「地方風味、手作文化、台灣民藝、老派生活感」為核心，邀請來自台灣各地的創作者、職人與品牌，將一座座城市與鄉鎮裡的味道、手藝與生活記憶帶進松菸。",
+   "organizer": "舒喜巷SUKILANE",
+   "source_url": "https://www.accupass.com/event/2609030722305019497420",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-55bf1d15203f",
+   "title": "2026思默好時親子二手市集",
+   "category": "market",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-03",
+   "locations": [
+    {
+     "county": "臺中市",
+     "town": "南屯區",
+     "venue": "Smohouse思默好時",
+     "address": "台灣台中市南屯區大墩六街208號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026思默好時親子二手市集即將於10月3日登場！活動免費入場，現場有親子二手市集、NG書特賣會和說故事活動。歡迎大家來逛逛，尋找二手育兒好物，享受輕鬆熱鬧的週末時光！",
+   "organizer": "Smohouse思默好時",
+   "source_url": "https://www.accupass.com/event/2609220830082004120600",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-9a23f63e85be",
+   "title": "戀舊博物館-時光正在營業中",
+   "category": "market",
+   "start_date": "2026-10-16",
+   "end_date": "2026-10-18",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "信義區",
+     "venue": "松山文創園區南向製菸工廠",
+     "address": "台灣台北市光復南路133號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "如果說戀舊是回憶，那這一場，是「參與」。《時光正在營業中》是一個可以交換、改造、再創造的市集空間。在復古的氛圍中，與你一起飲一杯青春的黑咖啡。",
+   "organizer": "好日市集",
+   "source_url": "https://www.accupass.com/event/2604300731461803552645",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-221e75e4dcf8",
+   "title": "2026 WCPD 你知道麻 ? 你知道麻 ! ｜世界腦麻日 台北公益演唱會 X 市集活動",
+   "category": "market",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-03",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "南港區",
+     "venue": "臺北流行音樂中心戶外及室內多功能空間",
+     "address": "台灣台北市南港區市民大道 8 段 99 號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "你知道「麻」 ？ 從這個專有名詞誕生以來，許多人除了不認識它之外，社會也對「腦性麻痺」存有許多固有印象：坐著輪椅的、不良於行的，或無法正常說話的。 然而，正如以上所說的，這些形容詞的確也在腦麻朋友的生命中無處不在。 但你知道麻？",
+   "organizer": "GoodShare 好享市集",
+   "source_url": "https://www.accupass.com/event/2609150543302308640400",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-dca17cc7bb95",
+   "title": "10/9-10/10 日王市集｜秋季場 feat. 萬聖節",
+   "category": "market",
+   "start_date": "2026-10-09",
+   "end_date": "2026-10-10",
+   "locations": [
+    {
+     "county": "屏東縣",
+     "town": "東港鎮",
+     "venue": "東港王船文化館",
+     "address": "台灣屏東縣928東港鎮東津里船頭路9號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "雙十連假首選屏東東港景點！屏東縣王船文化館「日王市集」秋季場隆重登場！ 結合東港王船文化與萬聖節主題，現場集結 40+ 質感美食與文創品牌、街頭藝人表演，更推出「萬聖節氣球遊行」與親子DIY「解壓捏捏樂工作坊」兩大免費體驗活動。",
+   "organizer": "好會整合有限公司",
+   "source_url": "https://www.accupass.com/event/2609230318555243340750",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-6d88e67f2752",
+   "title": "聖誕節的形狀，是禮物還是樹",
+   "category": "market",
+   "start_date": "2026-12-19",
+   "end_date": "2026-12-20",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "信義區",
+     "venue": "松菸文創大街",
+     "address": "台灣台北市信義區光復南路133號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "《聖誕的形狀》不是單純的聖誕市集，而是一場關於「送禮與心意」的策展。我們把「喜歡」變成可以被帶走的樣子，讓每一位來的人，都能找到那一份剛剛好的禮物。",
+   "organizer": "好日市集",
+   "source_url": "https://www.accupass.com/event/2605040223261816872864",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-8c461bede2ce",
+   "title": "人生轉運站身心靈市集",
+   "category": "market",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-04",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "信義區",
+     "venue": "四四南村",
+     "address": "台灣台北市信義區松勤街50號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "* 免費占卜 & 免費算命：專業老師現場指點迷津，不論是感情、事業還是人際關係，通通為你解惑！ * 免費賓果遊戲：好玩又能碰運氣，多項驚喜好禮等你帶回家！",
+   "organizer": "癒見幸福療身心靈推廣中心",
+   "source_url": "https://www.accupass.com/event/2609150919451885325045",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-01ff7674a81c",
+   "title": "早鳥市集券-買500元送100元【2026區域觀光圈市集日】享購10家高雄觀光圈優質業者你不能錯過！台北連續開展4天不容錯過！",
+   "category": "market",
+   "start_date": "2026-10-16",
+   "end_date": "2026-10-19",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "信義區",
+     "venue": "國父紀念館",
+     "address": "台灣台北市臺北市信義區仁愛路四段505號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "為了吸引更多民眾前來參加【2026區域觀光圈市集日】並提升活動參與感，我們特別推出預購市集券活動！民眾只需花費500元即可預先購買市集券，現場即可兌換價值600元的市集券，讓你在市集上盡情享受購物樂趣，節省更多！",
+   "organizer": "戰謀家行銷顧問有限公司",
+   "source_url": "https://www.accupass.com/event/2610011207154945472600",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-84d0fb327786",
+   "title": "二手公益市集 x 頌缽療癒 x 塔羅探索",
+   "category": "market",
+   "start_date": "2026-12-19",
+   "end_date": "2026-12-19",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "板橋區",
+     "venue": "晨心靜心",
+     "address": "台灣新北市板橋區漢生西路77巷4號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "為什麼我們舉辦公益活動？ 公益，不一定要是一件很大的事。 我們相信，真正能讓愛流動的，是願意持續付出的一份心。 #二手公益市集 #頌缽療癒 #塔羅探索 #靜淨心靈協會 #公益活動",
+   "organizer": "中華靜淨心靈協會X靜淨心綾合作推薦課程",
+   "source_url": "https://www.accupass.com/event/2608121231028392456660",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-50787698d28a",
+   "title": "【2026 麻布山林 X 或者】月光．山市集 Moonlight Mountain Market",
+   "category": "market",
+   "start_date": "2026-11-21",
+   "end_date": "2026-11-22",
+   "locations": [
+    {
+     "county": "新竹縣",
+     "town": "北埔鄉",
+     "venue": "新竹縣北埔鄉麻布樹排 6-6 號",
+     "address": "台灣新竹縣北埔鄉麻布樹排 6-6 號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026 月光·山市集｜四大活動亮點邀你一起入山尋光！在生活美學與山林綠意之間，度過一段身心療癒的時光。 日月市集｜40+個質感品牌響應，從舒心飲食到生活選物，在山林裡體驗美好日常。",
+   "organizer": "麻布山林Mabuville",
+   "source_url": "https://www.accupass.com/event/2609151000351386470425",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-7b4c50a1f42d",
+   "title": "美麗華22驚喜Double市集 // 美麗華百樂園",
+   "category": "mall",
+   "start_date": "2026-10-09",
+   "end_date": "2026-10-26",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "中山區",
+     "venue": "美麗華百樂園 海景大道",
+     "address": "台灣台北市中山區敬業三路20號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "10月，邀請您一起來慶祝美麗華22週年！ 集結特色手作與生活小物， 搭配街頭藝人演出及主題打卡佈置， 一起感受熱鬧的週年慶氛圍， 尋找屬於您的驚喜與美好禮物！",
+   "organizer": "愛手創 ISHANDS",
+   "source_url": "https://www.accupass.com/event/2609160807279015907000",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-caace3bb8ccb",
+   "title": "2026 誠品好物市集｜台南唯一就在南紡購物中心！",
+   "category": "mall",
+   "start_date": "2026-09-23",
+   "end_date": "2026-10-11",
+   "locations": [
+    {
+     "county": "臺南市",
+     "town": "東區",
+     "venue": "台南南紡購物中心 A1館 4F樂活廣場",
+     "address": "台灣台南市東區中華東路一段366號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "「為喜歡的日常加碼！好物好禮好優惠！」中外文圖書｜文具禮品｜童書玩教具｜生活選物，萬件商品三折起，滿額免運貨送到府",
+   "organizer": "誠品書店",
+   "source_url": "https://www.accupass.com/event/2609010130061445815680",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-f27ef498e3bd",
+   "title": "2026 鐵山市集【小老闆來擺攤】",
+   "category": "market",
+   "start_date": "2026-10-17",
+   "end_date": "2026-10-17",
+   "locations": [
+    {
+     "county": "臺中市",
+     "town": "大甲區",
+     "venue": "永信醫藥文物館",
+     "address": "台灣台中市大甲區成功路321號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026 鐵山市集【小老闆來擺攤】 邀請小朋友來擺攤，賣掉家裡的閒置寶物！ 幫助物資重新找到好主人，以達到環保永續的概念 讓孩子體驗創意、銷售和互動的樂趣，成為小小老闆！",
+   "organizer": "永信醫藥文物館",
+   "source_url": "https://www.accupass.com/event/2608190722361040102391",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-1e3749270551",
+   "title": "《麗島大周遊 - 日本時代的臺灣旅行》免費系列活動",
+   "category": "festival",
+   "start_date": "2026-10-24",
+   "end_date": "2026-12-21",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "大同區",
+     "venue": "臺灣新文化運動紀念館",
+     "address": "台灣台北市大同區寧夏路87號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "日本時代初期，臺灣交通不發達、時間觀念也未成形，人們少有離家遠行的機會，以休閒觀光為目的的「旅遊」，對百年前的臺灣社會來說既困難又新潮。直到1920年代，隨著現代化交通建設陸續開展，旅宿行業與旅遊出版品終於逐漸蓬勃。",
+   "organizer": "文化銀行",
+   "source_url": "https://www.accupass.com/event/2610010914257388607390",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-09699dea4369",
+   "title": "【日本爆紅展覽首度來台】「恐怖心展・台北」",
+   "category": "exhibit",
+   "start_date": "2026-09-12",
+   "end_date": "2026-11-23",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "中山區",
+     "venue": "台北市灰棚｜中山區中山北路二段 59 巷 16 號 B1",
+     "address": "台灣台北市灰棚｜中山區中山北路二段 59 巷 16 號 B1"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "累計吸引超過20萬人參觀的日本人氣展覽《恐怖心展》首度來台！展覽以「恐懼心」為主題，透過各式展品與沉浸式體驗，帶你直面深藏心中的恐懼，探索人類心理最真實的一面。",
+   "organizer": "SaltSweeet",
+   "source_url": "https://www.accupass.com/event/2608040520396184387180",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-4e412d06f9d4",
+   "title": "【花蓮B級景點 觀光旅行團】展覽 | 好地下藝術空間",
+   "category": "exhibit",
+   "start_date": "2026-09-26",
+   "end_date": "2026-10-12",
+   "locations": [
+    {
+     "county": "花蓮縣",
+     "town": "花蓮市",
+     "venue": "好地下藝術空間",
+     "address": "台灣花蓮縣 970花蓮市國治里節約街37號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "本次展覽匯集了當天參與者在花蓮Ｂ級景點沿途寫生作品，以繪畫為工具，表達他們對這些另類地景的獨特視角。",
+   "organizer": "臺灣B級景點 觀光旅行團",
+   "source_url": "https://www.accupass.com/event/2609141451553061596840",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-16a1d16ecead",
+   "title": "【台中展覽】《四季探索．植覺 Plant Sense》 × 《120cm的世界：孩子眼中的自己 ｜兒童自畫像展覽》 | Seasoning 四季走走",
+   "category": "exhibit",
+   "start_date": "2026-08-14",
+   "end_date": "2026-12-31",
+   "locations": [
+    {
+     "county": "臺中市",
+     "town": "北屯區",
+     "venue": "b1 藝術空間",
+     "address": "台灣台中市北屯區崇德十八路28號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "重新認識世界，可以從一粒種子開始，一顆小小的種子，蘊藏著生命的力量；一株植物，也能帶領我們重新打開五感。",
+   "organizer": "四季走走股份有限公司",
+   "source_url": "https://www.accupass.com/event/2608110127311958872517",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-96224b030c64",
+   "title": "藝術小聚 | 從觀展到企劃：展覽動線 × AI 工作流",
+   "category": "exhibit",
+   "start_date": "2026-10-14",
+   "end_date": "2026-11-18",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "松山區",
+     "venue": "台北市松山區南京東路五段212號5F",
+     "address": "台灣台北市松山區南京東路五段212號5F"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "Taipei Art Notes 2026 秋季「藝術小聚」推出兩場線上主題分享。十月「一起讀懂展覽動線」，透過展覽案例拆解動線、空間規劃與觀看經驗，練習讀懂策展安排；十一月「我的 AI 企劃工作流」，從實際藝文專案出發，聊聊 AI 如何應…",
+   "organizer": "Taipei Art Notes",
+   "source_url": "https://www.accupass.com/event/2608260318349099752880",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-172800e53f63",
+   "title": "【童里10月展覽】Packing Pop-up Book VOL.2－Taiwan｜包裝立體書 系列第二冊－台灣篇｜ Emily Liu新書展（10/18㊐分享會歡迎參加）",
+   "category": "exhibit",
+   "start_date": "2026-10-10",
+   "end_date": "2026-11-01",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "大安區",
+     "venue": "台北市童里繪本洋行｜大安區潮州街15號",
+     "address": "台灣台北市童里繪本洋行｜大安區潮州街15號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "《Packing Pop-up book VOL.2 - Taiwan》 是包裝立體書系列的第二集：關於台灣的包裝盒（物）的立體書，4色孔版印刷，手工製成。",
+   "organizer": "童里繪本洋行",
+   "source_url": "https://www.accupass.com/event/2609300850235219266570",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-e22c373f2b90",
+   "title": "循光而行：第26屆文化部選送文化相關人才出國駐村藝術家聯展｜專家導覽",
+   "category": "exhibit",
+   "start_date": "2026-09-27",
+   "end_date": "2026-10-04",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "大安區",
+     "venue": "空總國家文化基地 C1 服務中心1樓",
+     "address": "台灣台北市大安區建國南路一段177號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "展覽期間將舉辦三場專家導覽活動，特別邀請獨立策展與藝評人朱峯誼，以及策展人施雅恬、黃羿瑄親自帶領觀眾深入展場。透過專業而清晰的解說，引導觀眾理解展覽主題、創作背景與作品內涵，從不同視角欣賞藝術之美。",
+   "organizer": "臺灣當代文化實驗場C-LAB",
+   "source_url": "https://www.accupass.com/event/2609031409477651338910",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-b5aee2974a17",
+   "title": "2026 第十屆 POPUPASIA 亞洲手創展",
+   "category": "festival",
+   "start_date": "2026-11-12",
+   "end_date": "2026-11-15",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "信義區",
+     "venue": "台北松山文創園區（四倉、五倉）",
+     "address": "台灣台北市信義區光復南路 133 號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "POPUPASIA 亞洲手創展自 2016 年舉辦至今，於 2026 年正式邁入第十週年！本屆以「Local to Local」為核心概念，鏈結 5,000+ 亞洲創作者與品牌，引領大家走進亞洲創意生活。",
+   "organizer": "POPUPASIA® 亞洲手創暨生活展",
+   "source_url": "https://www.accupass.com/event/2608180706281310208814",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-7637c1cd14d3",
+   "title": "【小百岳系列】石門山 石牛山 雙石縱走快閃版",
+   "category": "festival",
+   "start_date": "2026-08-29",
+   "end_date": "2026-10-10",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "中正區",
+     "venue": "台北市中正區羅斯福路三段126之5號",
+     "address": "台灣台北市中正區羅斯福路三段126之5號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "傳統的「雙石縱走 O 型」是一項考驗體能的經典山徑，將兩座山以全程山徑連走，是北部非常熱門的練【三力】體力、腳力和續航力路線，不需要兩端接駁，直接繞一圈回到起點。預估時間：7.5 ～ 9 小時。總里程：約 15～17 公里。",
+   "organizer": "垂直旅遊（台灣偶來步道推廣俱樂部）",
+   "source_url": "https://www.accupass.com/event/2608291223431822087974",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-f4510e966b2b",
+   "title": "有你真好－半日快閃派對市集！闖關拿好康x體驗攤位x手作DIY",
+   "category": "market",
+   "start_date": "2026-10-11",
+   "end_date": "2026-10-11",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "新莊區",
+     "venue": "新北市新莊國民運動中心廣場(新莊棒球場旁)",
+     "address": "台灣新北市242新莊區立德里公園路11號1樓"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "「有你真好」新莊教會115年度社區活動，適合全家大小參與的13個攤位，有好玩的遊戲、免費手做DIY，完成闖關還可以兌換精美通關禮，讓大人放鬆、小朋友開心，在陪伴與歡笑中留下珍貴回憶。邀請你和親愛的家人朋友，一起享受充滿溫度與歡樂的美好下午。",
+   "organizer": "真耶穌教會新莊教會",
+   "source_url": "https://www.accupass.com/event/2608201331121082372966",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-8a8d0eb1629c",
+   "title": "2026台北萌寵物用品展｜雙11寵物囤貨節11/6~11/9｜台北世貿一館",
+   "category": "festival",
+   "start_date": "2026-11-06",
+   "end_date": "2026-11-09",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "信義區",
+     "venue": "台北市信義區信義路五段5號",
+     "address": "台灣台北市信義區信義路五段5號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026台北萌寵物用品展，11/06-11/09於台北世貿一館盛大登場！四天限定「超越雙11囤貨節」，集結人氣寵物品牌與年度熱銷好物，從主食糧、零食、保健、用品到智慧寵物家電，吃、穿、用、玩一次備齊，展場限定優惠3折起，更有品牌快閃、新品首…",
+   "organizer": "生動國際展覽事業股份有限公司",
+   "source_url": "https://www.accupass.com/event/2609240757531203965060",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-729e5014efaf",
+   "title": "Rum Show 2026",
+   "category": "festival",
+   "start_date": "2026-10-31",
+   "end_date": "2026-10-31",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "士林區",
+     "venue": "台北市士林區文林路72號,",
+     "address": "台灣台北市士林區文林路72號,"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "Rum Show 2026｜一日限定快閃蘭姆酒展 超過 300 款 Rum 集中登場！從台灣在地酒廠、日本蘭姆酒、國際品牌、獨立裝瓶到 Single Cask 單桶蘭姆酒，一次探索 Rum 的多樣風格。",
+   "organizer": "Rum Show 2026",
+   "source_url": "https://www.accupass.com/event/2609271820101915391950",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-5632a61fb33e",
+   "title": "2026漫步艋舺｜艋舺夜未眠：路燈下的城市告白10－11月場(NEW!)",
+   "category": "market",
+   "start_date": "2026-09-18",
+   "end_date": "2026-11-21",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "萬華區",
+     "venue": "台北市108萬華區西園路一段145號",
+     "address": "台灣台北市108萬華區西園路一段145號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "當太陽落下、艋舺的角落正悄然甦醒。 從歷史遺跡走進夜市，再一路通往洋溢青春活力的電影公園， 一起體驗越夜越美麗的老臺北。 #萬華 #艋舺 #萬華導覽 #夜市 #夜未眠 #漫步艋舺",
+   "organizer": "大可為創意開發/見合創意開發(大可居青年旅館)",
+   "source_url": "https://www.accupass.com/event/2607230917551878760273",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-992bfc9b8303",
+   "title": "10月快閃活動｜萬聖怪奇甜甜圈派對",
+   "category": "festival",
+   "start_date": "2026-10-31",
+   "end_date": "2026-10-31",
+   "locations": [
+    {
+     "county": "臺南市",
+     "town": "中西區",
+     "venue": "和逸飯店•台南西門館",
+     "address": "台灣台南市中西區西門路一段658之2號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "萬聖節限定的甜甜派對登場！ 邀請大小朋友一起化身小小甜點師，開啟一場充滿創意與驚喜的萬聖節手作時光。 我們準備多種趣味食材，運用餅乾、巧克力、造型糖果等材料，讓孩子發揮想像力，自由搭配、裝飾屬於自己的萬聖甜甜圈。",
+   "organizer": "和逸飯店·台南西門館",
+   "source_url": "https://www.accupass.com/event/2609230327202092816615",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-33ef234976d3",
+   "title": "TALKS at UKO│回到自己的地方，長出新的路--舒米恩的音樂、土地與人生選擇",
+   "category": "festival",
+   "start_date": "2026-11-14",
+   "end_date": "2026-11-14",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "板橋區",
+     "venue": "致理科技大學綜合教學大樓1樓表演廳",
+     "address": "台灣新北市板橋區文化路一段313號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "【回到自己的地方，長出新的路--舒米恩的音樂、土地與人生選擇】新北有課邀請阿美族創作歌手 Suming 舒米恩，透過現場演唱與分享，帶你走進他從離鄉探索、以族語創作，到投入部落文化教育、創辦阿米斯音樂節的歷程。",
+   "organizer": "新北有課 新北市青年局青職基地",
+   "source_url": "https://www.accupass.com/event/2609230123271029785561",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-bdf57ddd3708",
+   "title": "【爵士演出】 《The World, Piece by Piece》黃浩瑄 爵士創作專輯發表音樂會",
+   "category": "festival",
+   "start_date": "2026-11-27",
+   "end_date": "2026-11-27",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "大安區",
+     "venue": "台北市大安區忠孝東路四段15號5樓之3",
+     "address": "台灣台北市大安區忠孝東路四段15號5樓之3"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "《The World, Piece by Piece》新生代爵士鋼琴手黃浩瑄，爵士創作專輯發表音樂會",
+   "organizer": "享象 Rhythmscape",
+   "source_url": "https://www.accupass.com/event/2609280310527237083440",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-8ed0db18e80e",
+   "title": "【新月．音樂欣賞】台灣心．音樂情：日治時期台灣的流行音樂",
+   "category": "festival",
+   "start_date": "2026-08-04",
+   "end_date": "2026-10-25",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "中山區",
+     "venue": "台北市中山區天津街25號",
+     "address": "台灣台北市中山區天津街25號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "音樂不只是旋律，更是時代的聲音與土地的記憶。 本系列講座以日治時期臺灣音樂文化的發展為主軸，帶領聽眾走入唱片、歌謠與藝人的世界，從一首首熟悉或陌生的歌曲中，看見臺灣社會的變遷與人民的情感。",
+   "organizer": "新月藝文沙龍",
+   "source_url": "https://www.accupass.com/event/2607090342386709957160",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-f5025ff30cf3",
+   "title": "【親子音樂變變變】可愛的動物 (0-3歲親子場)",
+   "category": "outdoor",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-03",
+   "locations": [
+    {
+     "county": "桃園市",
+     "town": "桃園區",
+     "venue": "桃園市立圖書館總館3樓親子小學堂",
+     "address": "台灣桃園市桃園區南平路303號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "親子共讀，如何讓孩子好好坐下來與爸爸媽媽看繪本。 音樂治療師兼職能治療師林虹瑜巧妙的運用簡單的音樂元素融入繪本，大大提升孩子閱讀興趣。",
+   "organizer": "桃園市立圖書館",
+   "source_url": "https://www.accupass.com/event/2608060650321307504680",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-e632aaff462f",
+   "title": "【親子音樂變變變】動物溫泉 (3-5歲親子場)",
+   "category": "outdoor",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-03",
+   "locations": [
+    {
+     "county": "桃園市",
+     "town": "桃園區",
+     "venue": "桃園市立圖書館總館3樓親子小學堂",
+     "address": "台灣桃園市桃園區南平路303號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "親子共讀，如何讓孩子好好坐下來與爸爸媽媽看繪本。 音樂治療師兼職能治療師林虹瑜巧妙的運用簡單的音樂元素融入繪本，大大提升孩子閱讀興趣。",
+   "organizer": "桃園市立圖書館",
+   "source_url": "https://www.accupass.com/event/2608060630271617758462",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-1aa1f697e239",
+   "title": "小孩很忙親子活動",
+   "category": "market",
+   "start_date": "2026-10-09",
+   "end_date": "2026-10-11",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "左營區",
+     "venue": "新光三越高雄左營店",
+     "address": "台灣高雄市左營區高鐵路123號10樓"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "忙著看｜ 說故事、魔術、氣球、帶動跳等精彩舞台活動 忙著玩｜ 動動身體、動動腦的趣味闖關 忙著做｜ 親手完成自己的創意手作 忙著逛｜ 一起探索親子市集與特色品牌 忙著長大｜ 在遊戲裡挑戰、學習與發現自己 忙著玩・忙著學・忙著長大 這就是我們…",
+   "organizer": "幻空間演藝經紀活動股份有限公司",
+   "source_url": "https://www.accupass.com/event/2609090406531116547189",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-41837685b2e5",
+   "title": "我的童年不一樣，舞動東方之美 | 2026 親子探臺北孔廟｜中國古典舞免費親子體驗活動（11/1）",
+   "category": "outdoor",
+   "start_date": "2026-11-01",
+   "end_date": "2026-11-01",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "大同區",
+     "venue": "臺北孔廟明倫堂劇院",
+     "address": "台灣台北市臺北市大同區大龍街275號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026/11/1（日）臺北孔廟劇院舉辦免費親子活動「我的童年不一樣～舞動東方之美」，邀請小學一至六年級親子體驗中國古典舞，聆聽神韻藝術家暖心故事，名額有限，歡迎報名！",
+   "organizer": "藝文分享",
+   "source_url": "https://www.accupass.com/event/2609190732581591828922",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-4fc7981dac61",
+   "title": "2026好鞋好襪嘉年華-小沅寶魔法鞋工坊・親子共創",
+   "category": "outdoor",
+   "start_date": "2026-10-31",
+   "end_date": "2026-10-31",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "中正區",
+     "venue": "沅陵街商圈 大會服務台",
+     "address": "台灣台北市中正區沅陵街1-1號(靠重慶南路口)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "犬犬老師來啦！沅陵街即將舉辦親子共創魔法鞋工坊，小朋友們一起動手動腳玩創意吧！ 讓孩子放下平板、拿起畫筆，和爸爸媽媽一起玩顏料、玩創意！ 犬犬老師帶領親子透過輕鬆有趣的塗鴉、繪畫與藝術創作，自由發揮想像力，享受親子共同創作的美好時光。",
+   "organizer": "高徹会社 Goldchet & Co.",
+   "source_url": "https://www.accupass.com/event/2608250950213124761340",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-0deadf96ec0e",
+   "title": "【繪本的美學探索】宇宙的奧妙-藍晒一片風景",
+   "category": "festival",
+   "start_date": "2026-11-15",
+   "end_date": "2026-11-15",
+   "locations": [
+    {
+     "county": "桃園市",
+     "town": "觀音區",
+     "venue": "桃園市立圖書館草漯分館-4F研習教室",
+     "address": "台灣桃園市觀音區草漯里莊敬路186號4樓5樓"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "以繪本為引路人，開啟孩子的視覺冒險，用雙手繪出你的想像力!引導參與者細細品味繪本裡的光影變化與情緒色彩，繪本不僅是聽故事的角落，更是通往「美學探索」的鑰匙，我們邀請爸爸媽媽帶孩子一同踏入繪本的異世界，從「看故事」延伸到「動手做」開啟一場無拘…",
+   "organizer": "桃園市立圖書館",
+   "source_url": "https://www.accupass.com/event/2609070854401332582927",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-20167686e9a9",
+   "title": "【繪本的美學探索】跟著影子動一動：身體的秘密",
+   "category": "festival",
+   "start_date": "2026-10-31",
+   "end_date": "2026-10-31",
+   "locations": [
+    {
+     "county": "桃園市",
+     "town": "龍潭區",
+     "venue": "龍潭分館(1樓多功能展演空間)",
+     "address": "台灣桃園市龍潭區中山里中興路680號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "以繪本為引路人，開啟孩子的視覺冒險，用雙手繪出你的想像力!引導參與者細細品味繪本裡的光影變化與情緒色彩，繪本不僅是聽故事的角落，更是通往「美學探索」的鑰匙，我們邀請爸爸媽媽帶孩子一同踏入繪本的異世界，從「看故事」延伸到「動手做」開啟一場無拘…",
+   "organizer": "桃園市立圖書館",
+   "source_url": "https://www.accupass.com/event/2609070808482000354749",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-2fd3e799fff2",
+   "title": "2026 EVALUE 淨灘親子日｜新北金山中角灣",
+   "category": "outdoor",
+   "start_date": "2026-10-24",
+   "end_date": "2026-10-24",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "金山區",
+     "venue": "中角灣",
+     "address": "台灣新北市金山區萬壽里北部濱海公路172號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026 EVALUE 淨灘親子日將於 10月24日（六）在新北金山中角灣登場！EVALUE 邀請100位電動車主與家人朋友，一起參與親子淨灘、海洋垃圾撿拾與廢棄物分類，用實際行動守護海岸環境！",
+   "organizer": "EVALUE 華城電能科技股份有限公司",
+   "source_url": "https://www.accupass.com/event/2608260158192104293412",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-d18d41a36274",
+   "title": "10月份【打開親子心地圖】遊戲式引導、情緒探索、藝術創作、香氣體驗與生活練習之旅",
+   "category": "outdoor",
+   "start_date": "2026-10-18",
+   "end_date": "2026-10-18",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "內湖區",
+     "venue": "台北市內湖區康寧路三段72號3樓",
+     "address": "台灣台北市內湖區康寧路三段72號3樓"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "你是否曾經想陪伴孩子，卻不知道該怎麼開始對話？ 《我想說，你願意聽》是專為 6-12歲親子 設計的陪伴工作坊，透過 遊戲、藝術創作、五感體驗、香氣與引導對話，陪伴孩子學習表達情緒，也讓家長練習傾聽與理解。",
+   "organizer": "心覺學苑",
+   "source_url": "https://www.accupass.com/event/2607290713221755529105",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-2ae2af7f3ed9",
+   "title": "【台北場】10/17 親子金錢探險日 | 富小孩養成基地系列活動",
+   "category": "outdoor",
+   "start_date": "2026-10-17",
+   "end_date": "2026-10-17",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "大同區",
+     "venue": "台北市大同區民權西路144巷6號14樓之2",
+     "address": "台灣台北市大同區民權西路144巷6號14樓之2"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "想讓孩子學會管理零用錢、從生活經驗懂理財嗎？ 不需要複雜的課本或深奧的理論，我們將教您用簡單的三個方法，輕鬆培養孩子的理財力！ 本次活動專為親子設計，讓你和孩子輕鬆上手、一起學會理財。",
+   "organizer": "MomPower媽媽商學院_媽媽永續成長社群",
+   "source_url": "https://www.accupass.com/event/2608140716491527753361",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  }
+ ]
+}
