@@ -1,0 +1,641 @@
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="description" content="全台展覽、市集、百貨優惠與節慶活動，依縣市鄉鎮分類，每天早上自動更新。"><style>:root{color-scheme:light;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style></head><body><title>週末去哪</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Noto+Sans+TC:wght@400;500;700;900&display=swap">
+<style>
+/* Layout: plain header with the weekend summary first, then a filter bar, county rail on the left (chip strip on phones), events grouped county > town.
+   Shape rule: everything you press is a pill; containers (cards, drawer rows, weekend tiles) are 14px. */
+:root{
+  --bg:#f1f4f2; --surface:#fafcfb; --sunk:#e7ece9; --ink:#14231f; --muted:#52645c; --line:#d3ddd8;
+  --accent:#0b6b58; --accent-ink:#f4fbf8; --accent-soft:#dbece5;
+  --warn:#9c4a0c; --warn-soft:#f7e6d6; --ok:#2c6e33;
+  --shadow:0 1px 2px rgb(20 50 40 / .06), 0 8px 24px rgb(20 50 40 / .07);
+  --font:"Geist","Noto Sans TC","PingFang TC","Microsoft JhengHei",system-ui,sans-serif;
+  --r:14px; --pill:999px;
+  --ease:cubic-bezier(.16,1,.3,1);
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0e1513; --surface:#151e1b; --sunk:#1b2622; --ink:#e4ece8; --muted:#9fb1a9; --line:#2a3833;
+  --accent:#5cc7ad; --accent-ink:#06201a; --accent-soft:#1c3a32;
+  --warn:#f0a766; --warn-soft:#3b2816; --ok:#86c98a;
+  --shadow:0 1px 2px rgb(0 0 0 / .3), 0 8px 24px rgb(0 0 0 / .35);
+  color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0e1513; --surface:#151e1b; --sunk:#1b2622; --ink:#e4ece8; --muted:#9fb1a9; --line:#2a3833;
+  --accent:#5cc7ad; --accent-ink:#06201a; --accent-soft:#1c3a32;
+  --warn:#f0a766; --warn-soft:#3b2816; --ok:#86c98a;
+  --shadow:0 1px 2px rgb(0 0 0 / .3), 0 8px 24px rgb(0 0 0 / .35);
+  color-scheme:dark}
+
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--font);font-size:15px;line-height:1.65;-webkit-font-smoothing:antialiased}
+a{color:var(--accent)}
+button,input,select{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.ic{width:1.1em;height:1.1em;flex:none;vertical-align:-.18em}
+.wrap{max-width:1240px;margin:0 auto;padding-inline:16px}
+.num{font-variant-numeric:tabular-nums}
+
+/* header */
+header.top{padding-block:28px 12px;display:grid;gap:6px}
+header.top h1{margin:0;font-size:clamp(2rem,4.5vw,2.8rem);font-weight:900;letter-spacing:-.01em;line-height:1.15;text-wrap:balance}
+header.top p{margin:0;color:var(--muted);max-width:40ch}
+.status{display:flex;flex-wrap:wrap;gap:4px 16px;font-size:.85rem;color:var(--muted)}
+.status b{color:var(--ink);font-weight:600}
+
+/* this weekend */
+.weekend{padding-block:8px 20px}
+.weekend h2{margin:0 0 10px;font-size:1.15rem;font-weight:700;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.weekend h2 small{font-size:.85rem;font-weight:400;color:var(--muted)}
+.strip{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(240px,280px);gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:8px;scrollbar-width:thin}
+.tile{scroll-snap-align:start;background:var(--accent);color:var(--accent-ink);border-radius:var(--r);padding:14px;display:flex;flex-direction:column;gap:6px;min-width:0}
+.tile:nth-child(n+2){background:var(--surface);color:var(--ink);border:1px solid var(--line)}
+.tile .k{font-size:.8rem;opacity:.85;display:flex;align-items:center;gap:6px}
+.tile h3{margin:0;font-size:1rem;line-height:1.4}
+.tile .w{font-size:.85rem;opacity:.85}
+.tile .actions{margin-top:auto}
+.tile:first-child .btn{background:transparent;color:var(--accent-ink);border-color:color-mix(in srgb,var(--accent-ink) 45%,transparent)}
+
+/* filter bar */
+.bar{background:var(--bg);border-block:1px solid var(--line);padding-block:10px;z-index:5}
+@media (min-width:761px){.bar{position:sticky;top:env(safe-area-inset-top,0px)}}
+.bar .wrap{display:grid;gap:8px}
+.row{display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+.scroll{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none}
+.scroll::-webkit-scrollbar{display:none}
+.chip{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:var(--surface);border-radius:var(--pill);padding:5px 13px;cursor:pointer;font-size:.9rem;white-space:nowrap;transition:background .2s var(--ease),border-color .2s var(--ease)}
+.chip:hover{border-color:var(--accent)}
+.chip[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.sep{width:1px;height:20px;background:var(--line);flex:none;margin-inline:4px}
+.searchbox{flex:1 1 220px;min-width:0;display:grid;gap:2px}
+.searchbox label{font-size:.78rem;color:var(--muted)}
+.searchbox .field{display:flex;align-items:center;gap:8px;border:1px solid var(--line);background:var(--surface);border-radius:var(--pill);padding:6px 14px}
+.searchbox .field:focus-within{border-color:var(--accent);outline:2px solid var(--accent-soft)}
+.searchbox input{border:0;background:none;outline:none;min-width:0;flex:1}
+.searchbox input::placeholder{color:var(--muted)}
+.trip-btn{align-self:end;display:inline-flex;align-items:center;gap:8px;background:var(--accent);color:var(--accent-ink);border:0;border-radius:var(--pill);padding:8px 16px;cursor:pointer;font-weight:600;white-space:nowrap}
+.trip-btn .num{background:var(--accent-ink);color:var(--accent);border-radius:var(--pill);min-width:22px;padding-inline:6px;font-size:.8rem;text-align:center}
+
+/* body */
+.layout{display:grid;grid-template-columns:190px minmax(0,1fr);gap:28px;padding-block:20px 72px}
+.rail{position:sticky;top:150px;align-self:start;display:flex;flex-direction:column;gap:1px;max-height:calc(100vh - 170px);overflow:auto}
+.rail button{display:flex;justify-content:space-between;gap:8px;text-align:left;border:0;background:none;padding:6px 12px;border-radius:var(--pill);cursor:pointer}
+.rail button:hover{background:var(--sunk)}
+.rail button[aria-pressed="true"]{background:var(--accent-soft);color:var(--accent);font-weight:700}
+.rail .n{color:var(--muted);font-weight:400}
+.region{font-size:.78rem;color:var(--muted);padding:12px 12px 2px}
+
+main{min-width:0}
+.towns{margin-bottom:6px}
+h2.county{font-size:1.5rem;font-weight:900;margin:6px 0 2px}
+h2.county + h3.town{margin-top:6px}
+h3.town{font-size:1rem;font-weight:700;margin:22px 0 10px;display:flex;gap:8px;align-items:baseline}
+h3.town .n{color:var(--muted);font-weight:400;font-size:.85rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
+
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px;display:flex;flex-direction:column;gap:8px;min-width:0;transition:border-color .2s var(--ease),box-shadow .2s var(--ease)}
+.card:hover{border-color:color-mix(in srgb,var(--accent) 50%,var(--line));box-shadow:var(--shadow)}
+.meta{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:.8rem}
+.cat{display:inline-flex;align-items:center;gap:5px;color:var(--muted);font-weight:500;margin-right:auto}
+.pill{border-radius:var(--pill);padding:1px 9px;font-size:.76rem;border:1px solid var(--line);color:var(--muted);white-space:nowrap}
+.pill.free{color:var(--ok);border-color:currentColor}
+.pill.paid{color:var(--warn);border-color:currentColor}
+.pill.hot{background:var(--warn-soft);color:var(--warn);border-color:transparent;font-weight:600}
+.card h4{margin:0;font-size:1.06rem;font-weight:700;line-height:1.45;text-wrap:balance}
+.line{display:flex;gap:6px;align-items:flex-start;font-size:.9rem}
+.line .ic{color:var(--muted);margin-top:.2em}
+.line.muted{color:var(--muted)}
+.summary{margin:0;font-size:.92rem;max-width:65ch}
+.hl{margin:0;padding-left:18px;font-size:.88rem}
+.hl-label{font-size:.78rem;color:var(--muted)}
+.tags{display:flex;flex-wrap:wrap;gap:4px}
+.tag{font-size:.76rem;background:var(--sunk);color:var(--muted);border-radius:var(--pill);padding:0 8px}
+details{font-size:.86rem;color:var(--muted)}
+details summary{cursor:pointer;width:fit-content}
+details[open] summary{margin-bottom:4px}
+.actions{display:flex;gap:6px;flex-wrap:wrap;margin-top:auto;padding-top:6px}
+.btn{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:var(--surface);border-radius:var(--pill);padding:5px 12px;font-size:.85rem;cursor:pointer;text-decoration:none;color:var(--ink);white-space:nowrap;transition:transform .12s var(--ease),background .2s var(--ease)}
+.btn:hover{border-color:var(--accent)}
+.btn:active,.chip:active,.trip-btn:active{transform:scale(.98)}
+.btn.primary{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.btn.added{background:var(--accent-soft);color:var(--accent);border-color:var(--accent)}
+
+/* states */
+.empty{border:1px dashed var(--line);border-radius:var(--r);padding:32px 20px;text-align:center;color:var(--muted);display:grid;gap:12px;justify-items:center}
+.empty strong{color:var(--ink);font-size:1.05rem}
+.sk{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px;display:grid;gap:10px}
+.sk i{display:block;height:12px;border-radius:var(--pill);background:var(--sunk)}
+.sk i:nth-child(1){width:35%}.sk i:nth-child(2){width:85%;height:16px}.sk i:nth-child(3){width:60%}.sk i:nth-child(4){width:90%}
+
+/* drawer */
+.drawer{position:fixed;top:0;right:0;bottom:0;width:min(400px,100%);background:var(--surface);border-left:1px solid var(--line);z-index:20;display:flex;flex-direction:column;gap:8px;padding:calc(18px + env(safe-area-inset-top,0px)) 18px calc(18px + env(safe-area-inset-bottom,0px));box-shadow:var(--shadow)}
+.drawer h2{margin:0;font-size:1.4rem;font-weight:900}
+.drawer .note{font-size:.84rem;color:var(--muted);margin:0}
+.drawer ol{list-style:none;margin:6px 0;padding:0;display:flex;flex-direction:column;gap:6px;overflow:auto;flex:1}
+.drawer li{border:1px solid var(--line);border-radius:var(--r);padding:10px;display:grid;grid-template-columns:26px minmax(0,1fr) auto;gap:10px;align-items:center}
+.drawer li .i{color:var(--accent);font-weight:700;text-align:center}
+.drawer li small{color:var(--muted);display:block}
+.ctl{display:flex;gap:2px}
+.ctl button{display:grid;place-items:center;border:1px solid var(--line);background:var(--bg);border-radius:var(--pill);width:30px;height:30px;cursor:pointer}
+.foot{display:grid;gap:10px}
+.foot .opt{display:flex;gap:12px;flex-wrap:wrap;align-items:end}
+.foot label{font-size:.84rem;color:var(--muted);display:grid;gap:2px}
+.foot label.inline{display:flex;gap:6px;align-items:center}
+.foot select{border:1px solid var(--line);background:var(--bg);border-radius:var(--pill);padding:5px 12px}
+.foot .btn{justify-content:center;padding:9px}
+.close{position:absolute;right:14px;top:calc(14px + env(safe-area-inset-top,0px));display:grid;place-items:center;width:34px;height:34px;border:1px solid var(--line);background:var(--bg);border-radius:var(--pill);cursor:pointer}
+
+.form{display:grid;gap:4px}
+.form label{font-size:.84rem;color:var(--muted);margin-top:6px}
+.form input[type=url],.form textarea{border:1px solid var(--line);background:var(--bg);border-radius:var(--r);padding:8px 12px;width:100%;resize:vertical}
+.form input[type=url]:focus,.form textarea:focus{outline:2px solid var(--accent-soft);border-color:var(--accent)}
+.form input::placeholder,.form textarea::placeholder{color:var(--muted)}
+.form .btn{justify-content:center;padding:9px;margin-top:6px}
+.hint{margin:4px 0 0;font-size:.84rem;color:var(--muted);min-height:1.2em}
+.hint.err{color:var(--warn)}
+.subhead{margin:14px 0 0;font-size:1rem}
+#submitDrawer{overflow:auto}
+#subList li{grid-template-columns:48px minmax(0,1fr) auto}
+#subList img{width:48px;height:48px;object-fit:cover;border-radius:8px;background:var(--sunk)}
+#subList .ph{width:48px;height:48px;border-radius:8px;background:var(--sunk);display:grid;place-items:center;color:var(--muted)}
+#subList small{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+@media (max-width:760px){
+  .layout{grid-template-columns:minmax(0,1fr);gap:10px;padding-top:12px}
+  .rail{position:static;flex-direction:row;overflow-x:auto;max-height:none;padding-bottom:4px;scrollbar-width:none}
+  .rail button{flex:0 0 auto;border:1px solid var(--line);background:var(--surface)}
+  .region{display:none}
+  .grid{grid-template-columns:minmax(0,1fr)}
+  .trip-btn{position:fixed;right:16px;bottom:calc(16px + env(safe-area-inset-bottom,0px));z-index:10;box-shadow:var(--shadow);padding:11px 18px}
+}
+
+/* motion: only for state changes (results re-filtered, drawer opened, data loading) */
+@media (prefers-reduced-motion:no-preference){
+  .card,.tile{animation:rise .35s var(--ease) both;animation-delay:calc(min(var(--i,0),8) * 30ms)}
+  .drawer:not([hidden]){animation:slide .3s var(--ease)}
+  .sk i{background:linear-gradient(90deg,var(--sunk) 30%,var(--line) 50%,var(--sunk) 70%);background-size:300% 100%;animation:shimmer 1.4s linear infinite}
+}
+@keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@keyframes slide{from{transform:translateX(24px);opacity:.6}to{transform:none;opacity:1}}
+@keyframes shimmer{from{background-position:100% 0}to{background-position:0 0}}
+</style>
+
+<header class="top wrap">
+  <h1>週末去哪</h1>
+  <p>全台展覽、市集、百貨優惠與節慶，每天早上自動更新。</p>
+  <div class="status" id="status"><span>正在讀取活動資料</span></div>
+</header>
+
+<section class="weekend wrap" id="weekend" hidden aria-label="這個週末"></section>
+
+<div class="bar">
+  <div class="wrap">
+    <div class="row scroll" id="cats"></div>
+    <div class="row">
+      <div class="row scroll" style="flex:1 1 auto;min-width:0">
+        <span id="times" class="row scroll"></span>
+        <span class="sep" aria-hidden="true"></span>
+        <button class="chip" id="free" aria-pressed="false"></button>
+        <button class="chip" id="indoor" aria-pressed="false"></button>
+      </div>
+    </div>
+    <div class="row" style="align-items:end">
+      <div class="searchbox">
+        <label for="q">搜尋活動、場地或關鍵字</label>
+        <div class="field"><span id="qicon"></span><input id="q" type="search" placeholder="例如：週年慶、文創、草莓"></div>
+      </div>
+      <button class="btn" id="openSubmit" hidden style="align-self:end;padding:8px 14px"><span id="submitIcon"></span>投稿活動</button>
+      <button class="trip-btn" id="openTrip"><span id="tripIcon"></span>我的行程 <span class="num" id="tripCount">0</span></button>
+    </div>
+  </div>
+</div>
+
+<div class="wrap layout">
+  <nav class="rail" id="rail" aria-label="縣市"></nav>
+  <main id="main"></main>
+</div>
+
+<aside class="drawer" id="drawer" hidden aria-label="我的行程">
+  <button class="close" id="closeTrip" aria-label="關閉"></button>
+  <h2>我的行程</h2>
+  <p class="note">排好順序後，用 Google 地圖開啟整條路線，最多 10 站。</p>
+  <ol id="tripList"></ol>
+  <div class="foot">
+    <div class="opt">
+      <label class="inline"><input type="checkbox" id="fromHere" checked> 從目前位置出發</label>
+      <label for="mode">交通方式
+        <select id="mode">
+          <option value="driving">開車</option><option value="transit">大眾運輸</option>
+          <option value="two-wheeler">機車</option><option value="walking">步行</option>
+        </select>
+      </label>
+    </div>
+    <a class="btn primary" id="routeLink" target="_blank" rel="noopener"></a>
+    <button class="btn" id="clearTrip">清空行程</button>
+  </div>
+</aside>
+
+<aside class="drawer" id="submitDrawer" hidden aria-label="投稿活動">
+  <button class="close" id="closeSubmit" aria-label="關閉"></button>
+  <h2>投稿活動</h2>
+  <p class="note">在 Facebook、Instagram 看到的活動貼到這裡。每天早上 6:30 會查證整理成活動，處理完自動從清單移除。</p>
+  <form id="submitForm" class="form">
+    <label for="sUrl">貼文或活動網址</label>
+    <input id="sUrl" type="url" inputmode="url" placeholder="https://www.instagram.com/p/...">
+    <label for="sText">貼文內容或你的說明</label>
+    <textarea id="sText" rows="4" placeholder="可以直接複製貼文文字，或寫下日期、地點"></textarea>
+    <label for="sImg">海報或貼文截圖（選填）</label>
+    <input id="sImg" type="file" accept="image/png,image/jpeg,image/webp,image/gif">
+    <p class="hint" id="sMsg" role="status"></p>
+    <button class="btn primary" id="sBtn" type="submit">送出</button>
+  </form>
+  <h3 class="subhead">待處理 <span class="num" id="subCount"></span></h3>
+  <ol id="subList"></ol>
+</aside>
+
+<script>
+const PH = {"arrow-down":"<path d=\"M205.66,149.66l-72,72a8,8,0,0,1-11.32,0l-72-72a8,8,0,0,1,11.32-11.32L120,196.69V40a8,8,0,0,1,16,0V196.69l58.34-58.35a8,8,0,0,1,11.32,11.32Z\"/>","arrow-square-out":"<path d=\"M224,104a8,8,0,0,1-16,0V59.32l-66.33,66.34a8,8,0,0,1-11.32-11.32L196.68,48H152a8,8,0,0,1,0-16h64a8,8,0,0,1,8,8Zm-40,24a8,8,0,0,0-8,8v72H48V80h72a8,8,0,0,0,0-16H48A16,16,0,0,0,32,80V208a16,16,0,0,0,16,16H176a16,16,0,0,0,16-16V136A8,8,0,0,0,184,128Z\"/>","arrow-up":"<path d=\"M205.66,117.66a8,8,0,0,1-11.32,0L136,59.31V216a8,8,0,0,1-16,0V59.31L61.66,117.66a8,8,0,0,1-11.32-11.32l72-72a8,8,0,0,1,11.32,0l72,72A8,8,0,0,1,205.66,117.66Z\"/>","basket":"<path d=\"M136,120v56a8,8,0,0,1-16,0V120a8,8,0,0,1,16,0Zm36.84-.8-5.6,56A8,8,0,0,0,174.4,184a7.32,7.32,0,0,0,.81,0,8,8,0,0,0,7.95-7.2l5.6-56a8,8,0,0,0-15.92-1.6Zm-89.68,0a8,8,0,0,0-15.92,1.6l5.6,56a8,8,0,0,0,8,7.2,7.32,7.32,0,0,0,.81,0,8,8,0,0,0,7.16-8.76ZM239.93,89.06,224.86,202.12A16.06,16.06,0,0,1,209,216H47a16.06,16.06,0,0,1-15.86-13.88L16.07,89.06A8,8,0,0,1,24,80H68.37L122,18.73a8,8,0,0,1,12,0L187.63,80H232a8,8,0,0,1,7.93,9.06ZM89.63,80h76.74L128,36.15ZM222.86,96H33.14L47,200H209Z\"/>","calendar-blank":"<path d=\"M208,32H184V24a8,8,0,0,0-16,0v8H88V24a8,8,0,0,0-16,0v8H48A16,16,0,0,0,32,48V208a16,16,0,0,0,16,16H208a16,16,0,0,0,16-16V48A16,16,0,0,0,208,32ZM72,48v8a8,8,0,0,0,16,0V48h80v8a8,8,0,0,0,16,0V48h24V80H48V48ZM208,208H48V96H208V208Z\"/>","check":"<path d=\"M229.66,77.66l-128,128a8,8,0,0,1-11.32,0l-56-56a8,8,0,0,1,11.32-11.32L96,188.69,218.34,66.34a8,8,0,0,1,11.32,11.32Z\"/>","clock":"<path d=\"M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24Zm0,192a88,88,0,1,1,88-88A88.1,88.1,0,0,1,128,216Zm64-88a8,8,0,0,1-8,8H128a8,8,0,0,1-8-8V72a8,8,0,0,1,16,0v48h48A8,8,0,0,1,192,128Z\"/>","confetti":"<path d=\"M111.49,52.63a15.8,15.8,0,0,0-26,5.77L33,202.78A15.83,15.83,0,0,0,47.76,224a16,16,0,0,0,5.46-1l144.37-52.5a15.8,15.8,0,0,0,5.78-26Zm-8.33,135.21-35-35,13.16-36.21,58.05,58.05Zm-55,20,14-38.41,24.45,24.45ZM156,168.64,87.36,100l13-35.87,91.43,91.43ZM160,72a37.8,37.8,0,0,1,3.84-15.58C169.14,45.83,179.14,40,192,40c6.7,0,11-2.29,13.65-7.21A22,22,0,0,0,208,23.94,8,8,0,0,1,224,24c0,12.86-8.52,32-32,32-6.7,0-11,2.29-13.65,7.21A22,22,0,0,0,176,72.06,8,8,0,0,1,160,72ZM136,40V16a8,8,0,0,1,16,0V40a8,8,0,0,1-16,0Zm101.66,82.34a8,8,0,1,1-11.32,11.31l-16-16a8,8,0,0,1,11.32-11.32Zm4.87-42.75-24,8a8,8,0,0,1-5.06-15.18l24-8a8,8,0,0,1,5.06,15.18Z\"/>","frame-corners":"<path d=\"M200,80v32a8,8,0,0,1-16,0V88H160a8,8,0,0,1,0-16h32A8,8,0,0,1,200,80ZM96,168H72V144a8,8,0,0,0-16,0v32a8,8,0,0,0,8,8H96a8,8,0,0,0,0-16ZM232,56V200a16,16,0,0,1-16,16H40a16,16,0,0,1-16-16V56A16,16,0,0,1,40,40H216A16,16,0,0,1,232,56ZM216,200V56H40V200H216Z\"/>","magnifying-glass":"<path d=\"M229.66,218.34l-50.07-50.06a88.11,88.11,0,1,0-11.31,11.31l50.06,50.07a8,8,0,0,0,11.32-11.32ZM40,112a72,72,0,1,1,72,72A72.08,72.08,0,0,1,40,112Z\"/>","map-pin":"<path d=\"M128,64a40,40,0,1,0,40,40A40,40,0,0,0,128,64Zm0,64a24,24,0,1,1,24-24A24,24,0,0,1,128,128Zm0-112a88.1,88.1,0,0,0-88,88c0,31.4,14.51,64.68,42,96.25a254.19,254.19,0,0,0,41.45,38.3,8,8,0,0,0,9.18,0A254.19,254.19,0,0,0,174,200.25c27.45-31.57,42-64.85,42-96.25A88.1,88.1,0,0,0,128,16Zm0,206c-16.53-13-72-60.75-72-118a72,72,0,0,1,144,0C200,161.23,144.53,209,128,222Z\"/>","path":"<path d=\"M200,168a32.06,32.06,0,0,0-31,24H72a32,32,0,0,1,0-64h96a40,40,0,0,0,0-80H72a8,8,0,0,0,0,16h96a24,24,0,0,1,0,48H72a48,48,0,0,0,0,96h97a32,32,0,1,0,31-40Zm0,48a16,16,0,1,1,16-16A16,16,0,0,1,200,216Z\"/>","plus":"<path d=\"M224,128a8,8,0,0,1-8,8H136v80a8,8,0,0,1-16,0V136H40a8,8,0,0,1,0-16h80V40a8,8,0,0,1,16,0v80h80A8,8,0,0,1,224,128Z\"/>","storefront":"<path d=\"M232,96a7.89,7.89,0,0,0-.3-2.2L217.35,43.6A16.07,16.07,0,0,0,202,32H54A16.07,16.07,0,0,0,38.65,43.6L24.31,93.8A7.89,7.89,0,0,0,24,96h0v16a40,40,0,0,0,16,32v72a8,8,0,0,0,8,8H208a8,8,0,0,0,8-8V144a40,40,0,0,0,16-32V96ZM54,48H202l11.42,40H42.61Zm50,56h48v8a24,24,0,0,1-48,0Zm-16,0v8a24,24,0,0,1-35.12,21.26,7.88,7.88,0,0,0-1.82-1.06A24,24,0,0,1,40,112v-8ZM200,208H56V151.2a40.57,40.57,0,0,0,8,.8,40,40,0,0,0,32-16,40,40,0,0,0,64,0,40,40,0,0,0,32,16,40.57,40.57,0,0,0,8-.8Zm4.93-75.8a8.08,8.08,0,0,0-1.8,1.05A24,24,0,0,1,168,112v-8h48v8A24,24,0,0,1,204.93,132.2Z\"/>","ticket":"<path d=\"M232,104a8,8,0,0,0,8-8V64a16,16,0,0,0-16-16H32A16,16,0,0,0,16,64V96a8,8,0,0,0,8,8,24,24,0,0,1,0,48,8,8,0,0,0-8,8v32a16,16,0,0,0,16,16H224a16,16,0,0,0,16-16V160a8,8,0,0,0-8-8,24,24,0,0,1,0-48ZM32,167.2a40,40,0,0,0,0-78.4V64H88V192H32Zm192,0V192H104V64H224V88.8a40,40,0,0,0,0,78.4Z\"/>","tree":"<path d=\"M198.1,62.59a76,76,0,0,0-140.2,0A71.71,71.71,0,0,0,16,127.8C15.9,166,48,199,86.14,200A72.09,72.09,0,0,0,120,192.47V232a8,8,0,0,0,16,0V192.47A72.17,72.17,0,0,0,168,200l1.82,0C208,199,240.11,166,240,127.8A71.71,71.71,0,0,0,198.1,62.59ZM169.45,184a56.08,56.08,0,0,1-33.45-10v-41l43.58-21.78a8,8,0,1,0-7.16-14.32L136,115.06V88a8,8,0,0,0-16,0v51.06L83.58,120.84a8,8,0,1,0-7.16,14.32L120,156.94v17a56,56,0,0,1-33.45,10C56.9,183.23,31.92,157.52,32,127.84A55.77,55.77,0,0,1,67.11,76a8,8,0,0,0,4.53-4.67,60,60,0,0,1,112.72,0A8,8,0,0,0,188.89,76,55.79,55.79,0,0,1,224,127.84C224.08,157.52,199.1,183.23,169.45,184Z\"/>","umbrella":"<path d=\"M240,126.63A112.44,112.44,0,0,0,51.75,53.75a111.56,111.56,0,0,0-35.7,72.88A16,16,0,0,0,32,144h88v56a32,32,0,0,0,64,0,8,8,0,0,0-16,0,16,16,0,0,1-32,0V144h88a16,16,0,0,0,16-17.37ZM32,128l0,0a96.15,96.15,0,0,1,76.2-85.89C96.48,58,81.85,86.11,80.17,128Zm64.15,0c1.39-30.77,10.53-52.81,18.3-66.24A106.44,106.44,0,0,1,128,43.16a106.31,106.31,0,0,1,13.52,18.6C154.8,84.7,159,109.28,159.82,128Zm79.65,0c-1.68-41.89-16.31-70-28-85.94A96.07,96.07,0,0,1,224,128Z\"/>","x":"<path d=\"M205.66,194.34a8,8,0,0,1-11.32,11.32L128,139.31,61.66,205.66a8,8,0,0,1-11.32-11.32L116.69,128,50.34,61.66A8,8,0,0,1,61.66,50.34L128,116.69l66.34-66.35a8,8,0,0,1,11.32,11.32L139.31,128Z\"/>"};
+function icon(name){const s=document.createElementNS("http://www.w3.org/2000/svg","svg");s.setAttribute("viewBox","0 0 256 256");s.setAttribute("fill","currentColor");s.setAttribute("class","ic");s.setAttribute("aria-hidden","true");s.innerHTML=PH[name]||"";return s}
+
+const CATS = {
+  mall:     {name:"百貨購物", icon:"storefront",    hl:"優惠重點"},
+  exhibit:  {name:"展覽",     icon:"frame-corners", hl:"看點"},
+  market:   {name:"市集攤販", icon:"basket",        hl:"攤位特色"},
+  festival: {name:"節慶表演", icon:"confetti",      hl:"活動亮點"},
+  outdoor:  {name:"戶外親子", icon:"tree",          hl:"活動亮點"},
+};
+const REGIONS = [
+  ["北部",["臺北市","新北市","基隆市","桃園市","新竹市","新竹縣","宜蘭縣"]],
+  ["中部",["苗栗縣","臺中市","彰化縣","南投縣","雲林縣"]],
+  ["南部",["嘉義市","嘉義縣","臺南市","高雄市","屏東縣"]],
+  ["東部",["花蓮縣","臺東縣"]],
+  ["離島",["澎湖縣","金門縣","連江縣"]],
+];
+const COUNTY_ORDER = REGIONS.flatMap(r=>r[1]);
+const SRC_TYPE = {official:"官方",media:"媒體",aggregator:"整理網站，出發前請再確認",submission:"投稿，已查證"};
+const ARTIFACT_URL = "https://claude.ai/artifact/RrDavSu9TSentbUi2HVvov";
+const WD = "日一二三四五六";
+const TIMES = [["all","全部"],["today","今天"],["weekend","這個週末"],["7","7 天內"],["30","30 天內"]];
+
+const store = {
+  get(k,d){try{const v=localStorage.getItem(k);return v?JSON.parse(v):d}catch(e){return d}},
+  set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
+};
+const state = {
+  events:[], meta:null, loaded:false, failed:false,
+  cat:store.get("cat","all"), time:store.get("time","all"),
+  county:store.get("county","all"), town:"all",
+  free:false, indoor:false, q:"", trip:store.get("trip",[]),
+};
+
+/* Source text sometimes carries long dashes; show plain hyphens instead. */
+const clean = s => typeof s==="string" ? s.replace(/\s*[\u2013\u2014]\s*/g,"-") : s;
+
+function taipeiToday(){return new Intl.DateTimeFormat("en-CA",{timeZone:"Asia/Taipei",year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date())}
+function addDays(iso,n){const d=new Date(iso+"T00:00:00Z");d.setUTCDate(d.getUTCDate()+n);return d.toISOString().slice(0,10)}
+function dow(iso){return new Date(iso+"T00:00:00Z").getUTCDay()}
+function fmt(iso){if(!iso)return"";const [,m,d]=iso.split("-").map(Number);return `${m}/${d}(${WD[dow(iso)]})`}
+function diff(a,b){return Math.round((new Date(b+"T00:00:00Z")-new Date(a+"T00:00:00Z"))/864e5)}
+function timeRange(key,today){
+  if(key==="weekend"){const w=dow(today);if(w===0)return[today,today];if(w===6)return[today,addDays(today,1)];return[addDays(today,6-w),addDays(today,7-w)]}
+  if(key==="today")return[today,today];
+  if(key==="7")return[today,addDays(today,6)];
+  if(key==="30")return[today,addDays(today,29)];
+  return[today,"9999-12-31"];
+}
+function endOf(e){return e.end_date||e.start_date||e.review_by||"9999-12-31"}
+function isLive(e,today){return !e.hidden && endOf(e)>=today}
+function overlaps(e,[a,b],today){const s=e.start_date||today;return !(s>b||endOf(e)<a)}
+
+function entries(){
+  const today=taipeiToday(), range=timeRange(state.time,today), q=state.q.trim().toLowerCase(), out=[];
+  for(const e of state.events){
+    if(!isLive(e,today)) continue;
+    if(state.cat!=="all" && e.category!==state.cat) continue;
+    if(!overlaps(e,range,today)) continue;
+    if(state.free && e.ticket!=="free") continue;
+    if(state.indoor && e.indoor!==true) continue;
+    if(q){
+      const hay=[e.title,e.subtype,e.summary,(e.tags||[]).join(" "),(e.highlights||[]).join(" "),(e.locations||[]).map(l=>`${l.county}${l.town}${l.venue}`).join(" ")].join(" ").toLowerCase();
+      if(!hay.includes(q)) continue;
+    }
+    (e.locations||[]).forEach((l,i)=>{ if(l&&l.county) out.push({e,l,i,key:`${e.id}#${i}`}) });
+  }
+  return out;
+}
+
+function el(tag,attrs={},...kids){
+  const n=document.createElement(tag);
+  for(const [k,v] of Object.entries(attrs)){
+    if(v==null||v===false) continue;
+    if(k==="class") n.className=v; else if(k==="text") n.textContent=clean(v);
+    else if(k.startsWith("on")) n.addEventListener(k.slice(2),v);
+    else n.setAttribute(k,v===true?"":v);
+  }
+  for(const c of kids.flat()){ if(c==null||c===false) continue; n.append(c.nodeType?c:document.createTextNode(clean(String(c)))) }
+  return n;
+}
+function safeUrl(u){return typeof u==="string" && /^https:\/\//.test(u) ? u : null}
+function placeQuery(l){return [l.venue,l.address||`${l.county}${l.town||""}`].filter(Boolean).join(" ")}
+function mapUrl(l){return "https://www.google.com/maps/search/?api=1&query="+encodeURIComponent(placeQuery(l))}
+function whenText(e){return e.start_date&&e.end_date&&e.start_date!==e.end_date ? `${fmt(e.start_date)} ～ ${fmt(e.end_date)}` : (fmt(e.start_date||e.end_date)||"日期見官方公告")}
+
+function tripButton(key){
+  const inTrip=state.trip.includes(key);
+  return el("button",{class:"btn"+(inTrip?" added":""),"aria-pressed":String(inTrip),onclick(){toggleTrip(key)}},icon(inTrip?"check":"plus"),inTrip?"已加入行程":"加入行程");
+}
+function mapButton(l){return el("a",{class:"btn",href:mapUrl(l),target:"_blank",rel:"noopener"},icon("map-pin"),"地圖")}
+
+/* ---------- header pieces ---------- */
+function renderChips(){
+  const cats=document.getElementById("cats"); cats.replaceChildren();
+  [["all",{name:"全部類型"}],...Object.entries(CATS)].forEach(([k,c])=>{
+    cats.append(el("button",{class:"chip","aria-pressed":String(state.cat===k),onclick(){state.cat=k;store.set("cat",k);render()}},c.icon?icon(c.icon):null,c.name));
+  });
+  const t=document.getElementById("times"); t.replaceChildren();
+  TIMES.forEach(([k,n])=>t.append(el("button",{class:"chip","aria-pressed":String(state.time===k),onclick(){state.time=k;store.set("time",k);render()}},n)));
+  const free=document.getElementById("free"); free.replaceChildren(icon("ticket"),"只看免費"); free.setAttribute("aria-pressed",String(state.free));
+  const ind=document.getElementById("indoor"); ind.replaceChildren(icon("umbrella"),"雨天備案"); ind.setAttribute("aria-pressed",String(state.indoor));
+}
+
+function renderStatus(){
+  const s=document.getElementById("status"); s.replaceChildren();
+  if(state.failed){s.append(el("span",{text:"讀不到活動資料，請重新整理。在 Claude 裡開啟時需要先登入。"}));return}
+  if(!state.loaded){s.append(el("span",{text:"正在讀取活動資料"}));return}
+  const live=state.events.filter(e=>isLive(e,taipeiToday())).length;
+  s.append(el("span",{},"目前 ",el("b",{class:"num",text:String(live)})," 個進行中或即將舉辦的活動"));
+  const m=state.meta||{};
+  if(m.last_checked_at){
+    const t=new Date(m.last_checked_at);
+    const txt=isNaN(t)?m.last_checked_at:new Intl.DateTimeFormat("zh-TW",{timeZone:"Asia/Taipei",month:"numeric",day:"numeric",hour:"2-digit",minute:"2-digit"}).format(t);
+    s.append(el("span",{},"最後更新 ",el("b",{class:"num",text:txt})));
+  }
+}
+
+/* The weekend strip answers the page's main question before any filtering: what can I do this Saturday and Sunday. */
+function renderWeekend(){
+  const box=document.getElementById("weekend");
+  if(!state.loaded){box.hidden=true;return}
+  const today=taipeiToday(), range=timeRange("weekend",today);
+  const picks=[];
+  for(const e of state.events){
+    if(!isLive(e,today)||!overlaps(e,range,today)) continue;
+    const l=(e.locations||[])[0]; if(!l) continue;
+    const endsSoon = e.end_date && e.end_date<=range[1] ? 0 : 1;
+    const oneOff = e.start_date && e.start_date>=range[0] ? 0 : 1;
+    picks.push({e,l,key:`${e.id}#0`,score:[endsSoon,oneOff,e.ticket==="free"?0:1].join("")});
+  }
+  picks.sort((a,b)=>a.score<b.score?-1:a.score>b.score?1:0);
+  box.hidden=!picks.length; if(!picks.length) return;
+  const label = range[0]===range[1] ? `${fmt(range[0])}` : `${fmt(range[0])} ～ ${fmt(range[1])}`;
+  box.replaceChildren(
+    el("h2",{},dow(today)===0?"今天週日":"這個週末",el("small",{class:"num"},`${label}，共 ${picks.length} 個活動`),
+      el("button",{class:"btn",onclick(){state.time="weekend";store.set("time","weekend");render();document.querySelector(".layout").scrollIntoView({behavior:"smooth"})}},"看全部")),
+    el("div",{class:"strip"},picks.slice(0,10).map((x,i)=>{
+      const c=CATS[x.e.category]||{name:"",icon:"calendar-blank"};
+      return el("article",{class:"tile",style:`--i:${i}`},
+        el("div",{class:"k"},icon(c.icon),c.name,x.e.ticket==="free"?"，免費":""),
+        el("h3",{text:x.e.title}),
+        el("div",{class:"w",text:`${x.l.county}${x.l.town||""}，${whenText(x.e)}`}),
+        el("div",{class:"actions"},mapButton(x.l),tripButton(x.key)));
+    })));
+}
+
+function renderRail(list){
+  const rail=document.getElementById("rail"); rail.replaceChildren();
+  const counts={}; list.forEach(x=>counts[x.l.county]=(counts[x.l.county]||0)+1);
+  if(state.county!=="all" && !counts[state.county] && state.loaded) state.county="all";
+  const btn=(key,label,n)=>el("button",{"aria-pressed":String(state.county===key),onclick(){state.county=key;state.town="all";store.set("county",key);render()}},el("span",{},label),el("span",{class:"n num",text:String(n)}));
+  rail.append(btn("all","全部縣市",list.length));
+  for(const [r,cs] of REGIONS){
+    const has=cs.filter(c=>counts[c]); if(!has.length) continue;
+    rail.append(el("div",{class:"region",text:r}));
+    has.forEach(c=>rail.append(btn(c,c,counts[c])));
+  }
+  Object.keys(counts).filter(c=>!COUNTY_ORDER.includes(c)).forEach(c=>rail.append(btn(c,c,counts[c])));
+}
+
+function badges(e,today){
+  const out=[], s=e.start_date, en=e.end_date;
+  if(s && s>today){const d=diff(today,s); if(d<=7) out.push(el("span",{class:"pill hot",text:d===0?"今天開始":`${d} 天後開始`}))}
+  else if(en){const d=diff(today,en); if(d<=3) out.push(el("span",{class:"pill hot",text:d===0?"最後一天":`剩 ${d+1} 天`}))}
+  if(e.ticket==="free") out.push(el("span",{class:"pill free",text:"免費"}));
+  else if(e.ticket==="paid") out.push(el("span",{class:"pill paid",text:"需購票"}));
+  else if(e.ticket==="partial") out.push(el("span",{class:"pill paid",text:"部分收費"}));
+  if(e.booking_required) out.push(el("span",{class:"pill",text:"需預約"}));
+  if(e.indoor===true) out.push(el("span",{class:"pill",text:"室內"}));
+  return out;
+}
+
+function card(x,today,i){
+  const {e,l,key}=x; const c=CATS[e.category]||{name:e.category,icon:"calendar-blank",hl:"重點"};
+  const src=safeUrl(e.source_url);
+  const more=[];
+  if(e.price) more.push(el("div",{},"票價：",e.price));
+  if(e.tips) more.push(el("div",{},"提醒：",e.tips));
+  if(e.organizer) more.push(el("div",{},"主辦：",e.organizer));
+  if(l.address) more.push(el("div",{},"地址：",l.address));
+  if(e.crawled) more.push(el("div",{},`自動收錄，最後更新：${e.verified_on||""}`));
+  else if(e.verified_on) more.push(el("div",{},`最後查證：${e.verified_on}`));
+  if(src) more.push(el("div",{},"來源：",el("a",{href:src,target:"_blank",rel:"noopener"},e.source_name||"原始公告"),SRC_TYPE[e.source_type]?`（${SRC_TYPE[e.source_type]}）`:""));
+  return el("article",{class:"card",style:`--i:${i}`},
+    el("div",{class:"meta"},el("span",{class:"cat"},icon(c.icon),c.name+(e.subtype?`，${clean(e.subtype)}`:"")),...badges(e,today)),
+    el("h4",{text:e.title}),
+    el("div",{class:"line num"},icon("calendar-blank"),el("span",{},whenText(e))),
+    e.time_text?el("div",{class:"line muted"},icon("clock"),el("span",{text:e.time_text})):null,
+    el("div",{class:"line muted"},icon("map-pin"),el("span",{text:`${l.town||""} ${l.venue||""}`.trim()})),
+    e.summary?el("p",{class:"summary",text:e.summary}):null,
+    (e.highlights&&e.highlights.length)?el("div",{},el("div",{class:"hl-label",text:c.hl}),el("ul",{class:"hl"},e.highlights.slice(0,5).map(h=>el("li",{text:h})))):null,
+    (e.tags&&e.tags.length)?el("div",{class:"tags"},e.tags.map(t=>el("span",{class:"tag",text:t}))):null,
+    more.length?el("details",{},el("summary",{},"票價、地址與來源"),...more):null,
+    el("div",{class:"actions"},mapButton(l),tripButton(key),
+      src?el("a",{class:"btn",href:src,target:"_blank",rel:"noopener"},icon("arrow-square-out"),"官方資訊"):null)
+  );
+}
+
+function resetFilters(){state.cat="all";state.time="all";state.free=false;state.indoor=false;state.q="";state.county="all";state.town="all";document.getElementById("q").value="";["cat","time","county"].forEach(k=>store.set(k,state[k]));render()}
+
+function renderMain(list){
+  const main=document.getElementById("main"); main.replaceChildren();
+  const today=taipeiToday();
+  if(state.failed){main.append(el("div",{class:"empty"},el("strong",{text:"讀不到活動資料"}),"請重新整理頁面。在 Claude 裡開啟時需要先登入。"));return}
+  if(!state.loaded){main.append(el("div",{class:"grid","aria-label":"讀取中"},Array.from({length:6},()=>el("div",{class:"sk"},el("i"),el("i"),el("i"),el("i")))));return}
+  let shown=list.filter(x=>state.county==="all"||x.l.county===state.county);
+  if(state.county!=="all"){
+    const tc={}; shown.forEach(x=>{const t=x.l.town||"其他";tc[t]=(tc[t]||0)+1});
+    const towns=Object.keys(tc).sort((a,b)=>tc[b]-tc[a]);
+    if(state.town!=="all"&&!tc[state.town]) state.town="all";
+    main.append(el("h2",{class:"county",text:state.county}));
+    if(towns.length>1){
+      main.append(el("div",{class:"row scroll towns"},
+        el("button",{class:"chip","aria-pressed":String(state.town==="all"),onclick(){state.town="all";render()}},`全部鄉鎮 ${shown.length}`),
+        towns.map(t=>el("button",{class:"chip","aria-pressed":String(state.town===t),onclick(){state.town=t;render()}},`${t} ${tc[t]}`))));
+    }
+    if(state.town!=="all") shown=shown.filter(x=>(x.l.town||"其他")===state.town);
+  }
+  if(!shown.length){
+    main.append(state.events.length
+      ? el("div",{class:"empty"},el("strong",{text:"這個條件下沒有活動"}),"放寬時間或類型試試看。",el("button",{class:"btn primary",onclick:resetFilters},"清除所有篩選"))
+      : el("div",{class:"empty"},el("strong",{text:"還沒有活動資料"}),"每天早上 6:30 會自動上網查證並寫入，跑完後這裡就會出現活動。"));
+    return;
+  }
+  const sortKey=x=>[x.e.start_date||"",x.e.title].join("|");
+  const byCounty={}; shown.forEach(x=>(byCounty[x.l.county]??=[]).push(x));
+  const counties=Object.keys(byCounty).sort((a,b)=>{const ia=COUNTY_ORDER.indexOf(a),ib=COUNTY_ORDER.indexOf(b);return (ia<0?99:ia)-(ib<0?99:ib)});
+  let i=0;
+  for(const c of counties){
+    if(state.county==="all") main.append(el("h2",{class:"county",text:c}));
+    const byTown={}; byCounty[c].forEach(x=>(byTown[x.l.town||"其他"]??=[]).push(x));
+    Object.keys(byTown).sort((a,b)=>byTown[b].length-byTown[a].length).forEach(t=>{
+      main.append(el("h3",{class:"town"},t,el("span",{class:"n num",text:`${byTown[t].length} 個活動`})));
+      main.append(el("div",{class:"grid"},byTown[t].sort((a,b)=>sortKey(a)<sortKey(b)?-1:1).map(x=>card(x,today,i++))));
+    });
+  }
+}
+
+/* ---------- trip ---------- */
+function tripItems(){
+  const map={}; state.events.forEach(e=>(e.locations||[]).forEach((l,i)=>map[`${e.id}#${i}`]={e,l}));
+  return state.trip.map(k=>({k,...map[k]})).filter(x=>x.e);
+}
+function toggleTrip(key){
+  const i=state.trip.indexOf(key);
+  if(i>=0) state.trip.splice(i,1); else state.trip.push(key);
+  store.set("trip",state.trip); render(); renderTrip();
+}
+function routeUrl(items){
+  const fromHere=document.getElementById("fromHere").checked, mode=document.getElementById("mode").value;
+  const stops=items.map(x=>placeQuery(x.l)).slice(0,fromHere?10:11);
+  if(!stops.length) return null;
+  const p=new URLSearchParams({api:"1",travelmode:mode});
+  if(!fromHere && stops.length>1) p.set("origin",stops.shift());
+  p.set("destination",stops.pop());
+  if(stops.length) p.set("waypoints",stops.join("|"));
+  return "https://www.google.com/maps/dir/?"+p.toString();
+}
+function renderTrip(){
+  const items=tripItems();
+  document.getElementById("tripCount").textContent=items.length;
+  const ol=document.getElementById("tripList"); ol.replaceChildren();
+  if(!items.length) ol.append(el("li",{style:"display:block"},el("small",{text:"還沒有加入活動。在活動上按「加入行程」。"})));
+  items.forEach((x,i)=>{
+    const mv=d=>{const j=i+d;if(j<0||j>=items.length)return;const keys=items.map(y=>y.k);[keys[i],keys[j]]=[keys[j],keys[i]];state.trip=keys;store.set("trip",keys);renderTrip()};
+    ol.append(el("li",{},el("span",{class:"i num",text:String(i+1)}),
+      el("div",{style:"min-width:0"},el("span",{text:x.e.title}),el("small",{text:`${x.l.county}${x.l.town||""}，${x.l.venue||""}`})),
+      el("div",{class:"ctl"},
+        el("button",{"aria-label":"上移",onclick(){mv(-1)}},icon("arrow-up")),
+        el("button",{"aria-label":"下移",onclick(){mv(1)}},icon("arrow-down")),
+        el("button",{"aria-label":"移除",onclick(){toggleTrip(x.k)}},icon("x")))));
+  });
+  const a=document.getElementById("routeLink"), u=routeUrl(items);
+  a.replaceChildren(icon("path"),"用 Google 地圖開啟路線");
+  if(u){a.href=u;a.removeAttribute("aria-disabled");a.style.opacity=""} else {a.removeAttribute("href");a.setAttribute("aria-disabled","true");a.style.opacity=".5"}
+}
+
+function render(){
+  renderChips(); renderStatus(); renderWeekend();
+  const list=entries();
+  renderRail(list); renderMain(list);
+  document.getElementById("tripCount").textContent=tripItems().length;
+}
+
+document.getElementById("qicon").replaceWith(icon("magnifying-glass"));
+document.getElementById("tripIcon").replaceWith(icon("path"));
+document.getElementById("closeTrip").append(icon("x"));
+document.getElementById("free").onclick=()=>{state.free=!state.free;render()};
+document.getElementById("indoor").onclick=()=>{state.indoor=!state.indoor;render()};
+let qt; document.getElementById("q").addEventListener("input",ev=>{clearTimeout(qt);qt=setTimeout(()=>{state.q=ev.target.value;render()},200)});
+document.getElementById("openTrip").onclick=()=>{renderTrip();document.getElementById("drawer").hidden=false};
+document.getElementById("closeTrip").onclick=()=>{document.getElementById("drawer").hidden=true};
+document.addEventListener("keydown",ev=>{if(ev.key==="Escape") document.getElementById("drawer").hidden=true});
+document.getElementById("clearTrip").onclick=()=>{state.trip=[];store.set("trip",[]);renderTrip();render()};
+document.getElementById("fromHere").onchange=renderTrip;
+document.getElementById("mode").onchange=renderTrip;
+
+/* ---------- submissions (only inside Claude, where the inbox lives) ---------- */
+let DB=null, ASSETS=null;
+const sMsg=(t,err)=>{const m=document.getElementById("sMsg");m.textContent=t;m.className="hint"+(err?" err":"")};
+document.getElementById("submitIcon").replaceWith(icon("plus"));
+document.getElementById("closeSubmit").append(icon("x"));
+document.getElementById("closeSubmit").onclick=()=>{document.getElementById("submitDrawer").hidden=true};
+document.addEventListener("keydown",ev=>{if(ev.key==="Escape") document.getElementById("submitDrawer").hidden=true});
+
+function renderSubmissions(docs){
+  const ol=document.getElementById("subList"); ol.replaceChildren();
+  document.getElementById("subCount").textContent=docs.length?String(docs.length):"";
+  if(!docs.length){ol.append(el("li",{style:"display:block"},el("small",{text:"目前沒有待處理的投稿。"})));return}
+  docs.forEach(d=>{
+    const s=d.data(); const u=safeUrl(s.url);
+    ol.append(el("li",{},
+      s.image_id?el("img",{src:"/_blob/"+s.image_id,alt:"投稿截圖"}):el("div",{class:"ph"},icon("calendar-blank")),
+      el("div",{style:"min-width:0"},el("span",{text:(s.text||"").slice(0,40)||"（只有網址）"}),
+        el("small",{},u?el("a",{href:u,target:"_blank",rel:"noopener"},u):(s.status==="need_info"?`需要補充：${s.note||""}`:"等待處理"))),
+      el("div",{class:"ctl"},el("button",{"aria-label":"刪除這則投稿",async onclick(){
+        try{ if(s.image_id&&ASSETS) await ASSETS.delete(s.image_id).catch(()=>{}); await DB.doc("submissions/"+d.id).delete(); }
+        catch(e){ sMsg("刪除失敗，請重新整理後再試。",true) }
+      }},icon("x")))));
+  });
+}
+
+document.getElementById("submitForm").addEventListener("submit",async ev=>{
+  ev.preventDefault();
+  const url=document.getElementById("sUrl").value.trim(), text=document.getElementById("sText").value.trim(), file=document.getElementById("sImg").files[0];
+  if(!url && !text && !file){sMsg("至少填網址、內容或截圖其中一項。",true);return}
+  if(url && !/^https?:\/\//.test(url)){sMsg("網址要以 https:// 開頭。",true);return}
+  const btn=document.getElementById("sBtn"); btn.disabled=true; sMsg("送出中…");
+  try{
+    let image_id=null;
+    if(file){
+      if(!ASSETS) throw {code:"no_assets"};
+      if(file.size>15*1024*1024) throw {code:"too_big"};
+      image_id=(await ASSETS.upload(file)).id;
+    }
+    await DB.collection("submissions").add({url,text,image_id,status:"new",created_at:new Date().toISOString()});
+    ev.target.reset(); sMsg("已收到，明天早上 6:30 會查證整理。");
+  }catch(e){
+    sMsg(e&&e.code==="too_big"?"截圖太大，請小於 15 MB。":e&&e.code==="no_assets"?"這個畫面不能上傳圖片，請改貼文字或網址。":"送出失敗，請稍後再試。",true);
+  }finally{btn.disabled=false}
+});
+
+render();
+
+/* Two feeds: hand-checked events (artifact database inside Claude, events.json elsewhere) and the daily crawl
+   (crawled.json next to the page). The same event in both shows once, and the hand-checked copy wins. */
+let CURATED=[], CRAWLED=[];
+const titleKey=e=>((e.locations||[{}])[0].county||"")+"|"+String(e.title||"").replace(/20\d\d|11\d年|第[一二三四五六七八九十\d]+屆|[\s\p{P}\p{S}_]/gu,"").toLowerCase();
+function mergeFeeds(){
+  const seen=new Set(CURATED.map(titleKey));
+  state.events=CURATED.concat(CRAWLED.filter(e=>!seen.has(titleKey(e))));
+  render();
+}
+/* Inside Claude the daily crawl is an uploaded file whose id lives in meta/crawl; the published crawled.json is the fallback. */
+let crawlSrc="";
+function loadCrawl(url){
+  if(url===crawlSrc) return; crawlSrc=url;
+  fetch(url,{cache:"no-cache"}).then(r=>r.ok?r.json():null).then(j=>{if(j&&Array.isArray(j.events)&&url===crawlSrc){CRAWLED=j.events;mergeFeeds()}}).catch(()=>{});
+}
+loadCrawl("crawled.json");
+
+(async()=>{
+  const db = window.claude ? await window.claude.use("db") : null;
+  if(!db){
+    try{
+      const r=await fetch("events.json",{cache:"no-cache"}); if(!r.ok) throw 0;
+      const j=await r.json(); CURATED=j.events||[]; state.meta=j.meta||null; state.loaded=true;
+      const b=document.getElementById("openSubmit"); b.hidden=false; b.onclick=()=>window.open(ARTIFACT_URL,"_blank","noopener");
+    }catch(e){state.failed=!CRAWLED.length;state.loaded=true}
+    mergeFeeds(); return;
+  }
+  DB=db;
+  db.collection("events").onSnapshot(snap=>{
+    CURATED=snap.docs.map(d=>({id:d.id,...d.data()}));
+    state.loaded=true; mergeFeeds();
+  },()=>{state.failed=!CRAWLED.length;state.loaded=true;render()});
+  db.doc("meta/status").onSnapshot(s=>{state.meta=s.exists?s.data():null;renderStatus()},()=>{});
+  db.doc("meta/crawl").onSnapshot(s=>{const id=s.exists&&s.data().asset_id; if(typeof id==="string"&&/^[0-9a-f]{32}$/.test(id)) loadCrawl("/_blob/"+id)},()=>{});
+  ASSETS = await window.claude.use("assets");
+  const b=document.getElementById("openSubmit"); b.hidden=false;
+  b.onclick=()=>{document.getElementById("submitDrawer").hidden=false};
+  db.collection("submissions").orderBy("created_at","desc").onSnapshot(snap=>renderSubmissions(snap.docs),()=>{});
+})();
+</script>
+</body></html>

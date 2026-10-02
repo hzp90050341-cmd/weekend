@@ -1,0 +1,9 @@
+[build]
+  publish = "."
+  command = ""
+
+# 活動資料每天更新，瀏覽器不要快取太久
+[[headers]]
+  for = "/*.json"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
