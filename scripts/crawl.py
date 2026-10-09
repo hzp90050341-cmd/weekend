@@ -10,7 +10,8 @@
   已經抓過的活動頁直接沿用上次結果（--prev）。遇到 403、429 或逾時就停用該來源，不重試、不繞過。
 
 用法
-  python scripts/crawl.py --out <輸出資料夾> [--prev <上次的 crawled.json>] [--overrides overrides.json]
+  python scripts/crawl.py --out <輸出資料夾> [--prev <上次的 crawled.json>] [--overrides overrides.json] [--offline]
+  --offline：不連網，只把 --prev 重新套用修正檔、排除過期（Claude 雲端環境連不到外網時用）
 修正檔 overrides.json
   {"<活動 id>": {"town": "信義區", "category": "market", "hidden": true, ...}}
   由 Claude 維護：補鄉鎮、改分類、隱藏不適合的活動。town、venue、address 套到第一個地點，其他欄位直接覆蓋。
@@ -310,6 +311,8 @@ def main():
     ap.add_argument("--out", required=True)
     ap.add_argument("--prev")
     ap.add_argument("--overrides")
+    ap.add_argument("--offline", action="store_true",
+                    help="不連網，只拿 --prev 的結果重新套用修正檔並排除過期活動（給連不到外網的環境用）")
     args = ap.parse_args()
     out_dir = pathlib.Path(args.out)
     (out_dir / "docs").mkdir(parents=True, exist_ok=True)
@@ -318,13 +321,22 @@ def main():
         prev = json.loads(pathlib.Path(args.prev).read_text(encoding="utf-8")).get("events", [])
 
     status, merged, seen = {}, [], set()
+    prefixes = {"tourism": "c-tour-", "moc": "c-moc-", "accupass": "c-acc-"}
+    prev_status = {}
+    if args.offline and args.prev:
+        prev_status = json.loads(pathlib.Path(args.prev).read_text(encoding="utf-8")).get("sources", {})
     for name, fn in [("tourism", crawl_tourism), ("moc", crawl_moc), ("accupass", lambda: crawl_accupass(prev))]:
-        try:
-            items = fn()
-            status[name] = {"ok": True, "count": len(items)}
-        except Exception as e:  # 一個來源壞掉不影響其他來源
-            items = [p for p in prev if p.get("id", "").startswith({"tourism": "c-tour-", "moc": "c-moc-", "accupass": "c-acc-"}[name])]
-            status[name] = {"ok": False, "error": f"{type(e).__name__}: {e}"[:200], "kept_from_previous": len(items)}
+        if args.offline:
+            items = [p for p in prev if p.get("id", "").startswith(prefixes[name])
+                     and (p.get("end_date") or p.get("start_date") or "9999") >= TODAY]
+            status[name] = dict(prev_status.get(name, {}), offline=True)
+        else:
+            try:
+                items = fn()
+                status[name] = {"ok": True, "count": len(items)}
+            except Exception as e:  # 一個來源壞掉不影響其他來源
+                items = [p for p in prev if p.get("id", "").startswith(prefixes[name])]
+                status[name] = {"ok": False, "error": f"{type(e).__name__}: {e}"[:200], "kept_from_previous": len(items)}
         for e in items:
             k = title_key(e)
             if k in seen:

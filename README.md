@@ -21,3 +21,7 @@
 ## 爬蟲
 
 `scripts/crawl.py` 每天由 GitHub Actions（`.github/workflows/crawl.yml`）在台北時間 05:30 執行，來源是交通部觀光署與文化部的開放資料，以及 Accupass 公開活動頁。遵守 robots.txt、每個網站請求間隔 2 秒，被拒絕就停用該來源。結果寫進 `crawled.json`，網頁會和 `events.json`（人工查證）合併顯示，同一活動以人工查證的為準。`overrides.json` 是修正檔（補鄉鎮、改分類、隱藏不適合的活動）。
+
+## 人工查證資料怎麼進來
+
+Claude 的每日排程（台北時間 10:30）把人工查證的活動匯出成 `events.json`、修正檔匯出成 `overrides.json`，推送到 `claude/data` 分支。`.github/workflows/sync.yml` 會把這兩個檔複製到 `main`，Netlify 接著自動重新部署。
