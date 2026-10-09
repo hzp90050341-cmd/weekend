@@ -1,13 +1,326 @@
 {
-  "c-moc-97d15aedc32e": {"town": "中正區", "venue": "國立臺灣藝術教育館 第3展覽廳", "note": "南海路47號"},
-  "c-moc-77ce0cf96b4a": {"town": "中正區", "venue": "國立臺灣藝術教育館 美學空間", "note": "南海路47號"},
-  "c-moc-de18b3fd0886": {"town": "中正區", "venue": "國立臺灣藝術教育館 第1、2展覽廳", "note": "南海路47號"},
-  "c-moc-7cab53b38582": {"town": "中正區", "venue": "國立臺灣藝術教育館 第3展覽廳", "note": "南海路47號"},
-  "c-moc-780eeb6ecf00": {"town": "東區", "note": "大學路1001號，陽明交大光復校區"},
-  "c-moc-d71076d2f41d": {"town": "東區", "note": "大學路1001號，陽明交大光復校區"},
-  "c-moc-202b68fedf4d": {"town": "東區", "note": "大學路1001號，陽明交大光復校區"},
-  "c-moc-87205b84ad74": {"town": "東區", "note": "大學路1001號，陽明交大光復校區"},
-  "c-acc-ff741d65ae68": {"town": "信義區", "note": "松山文創園區，光復南路133號"},
-  "c-acc-9a23f63e85be": {"town": "信義區", "note": "松山文創園區，光復南路133號"},
-  "c-acc-502343c4778a": {"town": "中正區", "venue": "八德路一段43巷", "note": "八德路一段"}
+  "c-acc-0deadf96ec0e": {
+    "hidden": true,
+    "note": "繪本美學課程"
+  },
+  "c-acc-1aa1f697e239": {
+    "category": "outdoor",
+    "note": "親子活動"
+  },
+  "c-acc-20167686e9a9": {
+    "hidden": true,
+    "note": "繪本美學課程"
+  },
+  "c-acc-221e75e4dcf8": {
+    "hidden": true,
+    "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-acc-2ae2af7f3ed9": {
+    "hidden": true,
+    "note": "兒童理財課程"
+  },
+  "c-acc-33ef234976d3": {
+    "hidden": true,
+    "note": "TALKS 講座"
+  },
+  "c-acc-502343c4778a": {
+    "note": "八德路一段",
+    "town": "中正區",
+    "venue": "八德路一段43巷"
+  },
+  "c-acc-55bf1d15203f": {
+    "hidden": true,
+    "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-acc-7637c1cd14d3": {
+    "category": "outdoor",
+    "note": "登山縱走"
+  },
+  "c-acc-8a8d0eb1629c": {
+    "category": "exhibit",
+    "note": "寵物用品展，展覽；場地為世貿一館（標題原文）",
+    "venue": "台北世界貿易中心展覽一館"
+  },
+  "c-acc-8c461bede2ce": {
+    "hidden": true,
+    "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-acc-8ed0db18e80e": {
+    "hidden": true,
+    "note": "音樂欣賞講座"
+  },
+  "c-acc-96224b030c64": {
+    "hidden": true,
+    "note": "講座課程（展覽企劃、AI 工作流）"
+  },
+  "c-acc-9a23f63e85be": {
+    "note": "松山文創園區，光復南路133號",
+    "town": "信義區"
+  },
+  "c-acc-9eca27f69e09": {
+    "hidden": true,
+    "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-acc-b5aee2974a17": {
+    "category": "exhibit",
+    "note": "手創展屬展覽",
+    "venue": "松山文創園區"
+  },
+  "c-acc-caace3bb8ccb": {
+    "category": "market",
+    "note": "百貨內的市集活動"
+  },
+  "c-acc-d18d41a36274": {
+    "hidden": true,
+    "note": "親子引導課程"
+  },
+  "c-acc-e22c373f2b90": {
+    "hidden": true,
+    "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-acc-e632aaff462f": {
+    "hidden": true,
+    "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-acc-f5025ff30cf3": {
+    "hidden": true,
+    "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-acc-ff741d65ae68": {
+    "note": "松山文創園區，光復南路133號",
+    "town": "信義區"
+  },
+  "c-moc-202b68fedf4d": {
+    "note": "大學路1001號，陽明交大光復校區",
+    "town": "東區"
+  },
+  "c-moc-77ce0cf96b4a": {
+    "note": "南海路47號",
+    "town": "中正區",
+    "venue": "國立臺灣藝術教育館 美學空間"
+  },
+  "c-moc-780eeb6ecf00": {
+    "hidden": true,
+    "note": "已於 2026-10-08 結束；來源連不上，沿用舊資料中的過期活動",
+    "town": "東區"
+  },
+  "c-moc-7cab53b38582": {
+    "note": "南海路47號",
+    "town": "中正區",
+    "venue": "國立臺灣藝術教育館 第3展覽廳"
+  },
+  "c-moc-87205b84ad74": {
+    "note": "大學路1001號，陽明交大光復校區",
+    "town": "東區"
+  },
+  "c-moc-97d15aedc32e": {
+    "hidden": true,
+    "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動",
+    "town": "中正區",
+    "venue": "國立臺灣藝術教育館 第3展覽廳"
+  },
+  "c-moc-d71076d2f41d": {
+    "note": "大學路1001號，陽明交大光復校區",
+    "town": "東區"
+  },
+  "c-moc-de18b3fd0886": {
+    "note": "南海路47號",
+    "town": "中正區",
+    "venue": "國立臺灣藝術教育館 第1、2展覽廳"
+  },
+  "c-tour-00d7ef46f797": {
+    "hidden": true,
+    "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-0ac69668e942": {
+    "hidden": true,
+    "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-0c13959f3431": {
+    "hidden": true,
+    "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-0e778d261476": {
+    "category": "exhibit",
+    "note": "攝影展"
+  },
+  "c-tour-0ea8df1cb720": {
+    "hidden": true,
+    "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-13efc542dabf": {
+    "hidden": true,
+    "note": "已於 2026-10-08 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-18ce4e5d7e6e": {
+    "hidden": true,
+    "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-1d64c2d6dc48": {
+    "hidden": true,
+    "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-29eac578df74": {
+    "hidden": true,
+    "note": "幼兒園運動會，非一般民眾去逛的活動"
+  },
+  "c-tour-2b8be9d15849": {
+    "hidden": true,
+    "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-30657e0b81c7": {
+    "category": "exhibit",
+    "note": "設計展"
+  },
+  "c-tour-40ddd7b665dc": {
+    "category": "festival",
+    "note": "農產節慶，非展覽"
+  },
+  "c-tour-4384f15c5bad": {
+    "hidden": true,
+    "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-43aa463f8f01": {
+    "category": "festival",
+    "note": "廟宇文化祭"
+  },
+  "c-tour-4908a67f6bcf": {
+    "hidden": true,
+    "note": "志工表揚典禮，非去逛去玩的活動"
+  },
+  "c-tour-4b93d7969f94": {
+    "hidden": true,
+    "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-4ba42c316345": {
+    "hidden": true,
+    "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-54d92aa5cd17": {
+    "hidden": true,
+    "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-605082b87489": {
+    "hidden": true,
+    "note": "已於 2026-10-08 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-63a19f86d081": {
+    "category": "exhibit",
+    "hidden": true,
+    "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-6a8136b65994": {
+    "category": "festival",
+    "note": "木雕藝術節"
+  },
+  "c-tour-6f2b9808cdae": {
+    "category": "festival",
+    "note": "熱氣球活動，非市集"
+  },
+  "c-tour-75ef3611449e": {
+    "hidden": true,
+    "note": "已於 2026-10-05 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-7c205c478e70": {
+    "category": "outdoor",
+    "hidden": true,
+    "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-7e44b323fc37": {
+    "category": "festival",
+    "note": "科學節系列活動"
+  },
+  "c-tour-884063762dcc": {
+    "hidden": true,
+    "note": "已於 2026-10-06 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-8a6e3129f2d8": {
+    "hidden": true,
+    "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-8b101fc2b4cd": {
+    "hidden": true,
+    "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-909516afc272": {
+    "hidden": true,
+    "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-94f40c79c7fb": {
+    "category": "festival",
+    "note": "熱氣球活動，非市集"
+  },
+  "c-tour-985654cd65cc": {
+    "hidden": true,
+    "note": "手作課程，非去逛去玩的活動"
+  },
+  "c-tour-9a69af045588": {
+    "hidden": true,
+    "note": "住宿抽獎優惠方案，非活動"
+  },
+  "c-tour-9aa5bdad943c": {
+    "category": "exhibit",
+    "hidden": true,
+    "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-9d02e01337f9": {
+    "hidden": true,
+    "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-9f3a788a5df3": {
+    "hidden": true,
+    "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-a016785856e7": {
+    "hidden": true,
+    "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-a080f252355c": {
+    "hidden": true,
+    "note": "已於 2026-10-06 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-a375fe2d36d7": {
+    "category": "festival",
+    "note": "音樂祭"
+  },
+  "c-tour-a6c793f058f6": {
+    "hidden": true,
+    "note": "住宿補助優惠方案，非活動"
+  },
+  "c-tour-b17b3c327581": {
+    "hidden": true,
+    "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-b913004ca9a7": {
+    "hidden": true,
+    "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-c78420768feb": {
+    "category": "exhibit",
+    "note": "光影裝置展"
+  },
+  "c-tour-c842ced7e828": {
+    "hidden": true,
+    "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-d5538f68562d": {
+    "category": "festival",
+    "note": "音樂節"
+  },
+  "c-tour-d65ac9ef0d3d": {
+    "category": "festival",
+    "note": "溫泉季"
+  },
+  "c-tour-daa9df0e3699": {
+    "category": "festival",
+    "note": "咖啡節"
+  },
+  "c-tour-db17e4c52af7": {
+    "hidden": true,
+    "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-f6f55b7e3e20": {
+    "hidden": true,
+    "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
+  }
 }
