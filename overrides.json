@@ -32,9 +32,17 @@
     "hidden": true,
     "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
   },
+  "c-acc-5632a61fb33e": {
+    "category": "outdoor",
+    "note": "夜間街區導覽"
+  },
   "c-acc-7637c1cd14d3": {
     "category": "outdoor",
     "note": "登山縱走"
+  },
+  "c-acc-7b4c50a1f42d": {
+    "category": "market",
+    "note": "百貨內的市集活動"
   },
   "c-acc-8a8d0eb1629c": {
     "category": "exhibit",
@@ -94,6 +102,14 @@
     "note": "大學路1001號，陽明交大光復校區",
     "town": "東區"
   },
+  "c-moc-3d27cd5de050": {
+    "category": "festival",
+    "note": "音樂劇演出"
+  },
+  "c-moc-7549878d2198": {
+    "note": "市府路1號屬信義區",
+    "town": "信義區"
+  },
   "c-moc-77ce0cf96b4a": {
     "note": "南海路47號",
     "town": "中正區",
@@ -119,6 +135,14 @@
     "town": "中正區",
     "venue": "國立臺灣藝術教育館 第3展覽廳"
   },
+  "c-moc-b343cd7bff39": {
+    "note": "新竹市大學路1001號屬東區",
+    "town": "東區"
+  },
+  "c-moc-c53d171a31bb": {
+    "note": "新竹市大學路1001號屬東區",
+    "town": "東區"
+  },
   "c-moc-d71076d2f41d": {
     "note": "大學路1001號，陽明交大光復校區",
     "town": "東區"
@@ -127,6 +151,10 @@
     "note": "南海路47號",
     "town": "中正區",
     "venue": "國立臺灣藝術教育館 第1、2展覽廳"
+  },
+  "c-moc-e4fd81dfe215": {
+    "category": "festival",
+    "note": "兒童音樂會"
   },
   "c-tour-00d7ef46f797": {
     "hidden": true,
@@ -156,9 +184,17 @@
     "hidden": true,
     "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
   },
+  "c-tour-1c26598c4db0": {
+    "category": "festival",
+    "note": "音樂節"
+  },
   "c-tour-1d64c2d6dc48": {
     "hidden": true,
     "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-2318f01ae062": {
+    "category": "festival",
+    "note": "國慶場外活動"
   },
   "c-tour-29eac578df74": {
     "hidden": true,
