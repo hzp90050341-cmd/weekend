@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-10",
+ "generated_at": "2026-10-11",
  "meta": {
-  "added": 0,
-  "last_checked_at": "2026-10-10T10:55:00+08:00",
-  "next_focus": "明天（週日）全台補漏：南投世界茶業博覽會 2026 展期未能確認（搜尋僅見 2025 資料）；南方澳鯖魚節 2026 日期未公布（往年 11 月初）；宜蘭三魚市場週六市集、金門島嶼生活節 2026 是否續辦待查；各百貨週年慶滿額禮（新光三越信義、遠百、SOGO）待官方 DM；廣三 SOGO 結束日各來源不一（10/17 或 11/11）；台灣國際遊艇展（11/13-15 高雄）待查。",
-  "removed": 0,
-  "summary": "GitHub Actions 爬蟲今日 09:05 正常（觀光署 204、文化部 572、Accupass 43，共 786 筆）；新增 9 筆爬蟲修正（3 筆補鄉鎮、6 筆改分類）；無投稿、無過期；複查 7 筆最舊資料（臺東國慶焰火、愛河熱氣球、秋Out音樂節、波特羅特展、三義木雕節、動物王國展、宜蘭星光音樂節）皆照常；宜花東金馬本週搜尋未找到爬蟲以外、可確認日期的新活動。WebFetch 仍被環境擋下。",
-  "updated": 7
+  "added": 2,
+  "last_checked_at": "2026-10-11T11:10:00+08:00",
+  "next_focus": "週一北北基；南方澳鯖魚節 2026 日期未公布（2025 為 11/1-2）；台灣國際咖啡展 2026 展期待官方（傳 11/13-16）；二水跑水節、SIF IN TAIPEI 日期待主辦公告；新光三越信義（首 14 日滿仟送點）、遠百、SOGO 滿額禮待官方 DM；光復節連假（10/24-26）活動補漏。",
+  "removed": 3,
+  "summary": "GitHub Actions 爬蟲今日 08:19 正常（觀光署 195、文化部 573、Accupass 38；套用修正後 773 筆）；新增 16 筆爬蟲修正（1 筆補鄉鎮、10 筆兒童劇場改為表演、5 筆課程／加購／預購券隱藏）；無投稿；刪除 3 筆國慶當日已結束活動；新增 ITF 台北國際旅展、台灣國際遊艇展；複查 10 筆最舊資料，8 筆照常，二水跑水節與 SIF 首爾插畫展 2026 日期仍查無主辦公告。WebFetch 仍被環境擋下。",
+  "updated": 10
  },
  "events": [
   {
@@ -79,14 +79,16 @@
    "end_date": "2026-10-18",
    "highlights": [
     "卡牌展售",
-    "玩家交流"
+    "玩家交流",
+    "200+ 攤位（寶可夢、球員卡、TCG、鑑定卡）"
    ],
    "indoor": true,
    "locations": [
     {
+     "address": "臺北市信義區信義路五段5號",
      "county": "臺北市",
      "town": "信義區",
-     "venue": "世貿一館"
+     "venue": "台北世界貿易中心展覽一館"
     }
    ],
    "price": "250–450 元",
@@ -102,8 +104,9 @@
     "室內"
    ],
    "ticket": "paid",
+   "time_text": "10:00-18:00（17:30 停止售票入場）",
    "title": "CARDPASS TAIWAN 2026",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-11",
    "id": "2026-cardpass-taiwan"
   },
   {
@@ -196,7 +199,7 @@
    ],
    "ticket": "paid",
    "title": "《埃及之王：法老》大展",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-11",
    "id": "2026-chimei-pharaoh"
   },
   {
@@ -225,7 +228,7 @@
    ],
    "ticket": "unknown",
    "title": "2026 池上秋收稻穗藝術節",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-11",
    "id": "2026-chishang-autumn-rice"
   },
   {
@@ -254,6 +257,7 @@
     "免費"
    ],
    "ticket": "free",
+   "tips": "10/11 複查未找到 2026 官方日期公告，出發前請再確認",
    "title": "2026 二水國際跑水節",
    "verified_on": "2026-10-03",
    "id": "2026-ershui-water-run"
@@ -290,7 +294,7 @@
    "ticket": "paid",
    "time_text": "平日 8:00–19:00，假日 8:00–19:30",
    "title": "2026 福隆國際沙雕藝術季",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-11",
    "id": "2026-fulong-sand-sculpture"
   },
   {
@@ -321,7 +325,7 @@
    ],
    "ticket": "free",
    "title": "華泰名品城「南瓜谷魔法村 2.0」",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-11",
    "id": "2026-gloria-pumpkin-valley"
   },
   {
@@ -392,8 +396,41 @@
    ],
    "ticket": "partial",
    "title": "2026 花蓮太平洋溫泉季",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-11",
    "id": "2026-hualien-hot-spring-festival"
+  },
+  {
+   "category": "exhibit",
+   "end_date": "2026-11-09",
+   "highlights": [
+    "國內外旅遊行程與機票、住宿優惠",
+    "各國觀光推廣展區"
+   ],
+   "indoor": true,
+   "locations": [
+    {
+     "address": "臺北市南港區經貿二路1號",
+     "county": "臺北市",
+     "town": "南港區",
+     "venue": "南港展覽館1館"
+    }
+   ],
+   "organizer": "台北市旅行商業同業公會",
+   "source_name": "1111 人力銀行新聞",
+   "source_type": "aggregator",
+   "source_url": "https://www.1111.com.tw/news/jobns/164672",
+   "start_date": "2026-11-06",
+   "subtype": "旅展",
+   "summary": "年度大型旅遊展，各國觀光局、航空公司、旅行社與飯店集中展出旅遊優惠。",
+   "tags": [
+    "旅遊",
+    "室內"
+   ],
+   "ticket": "unknown",
+   "tips": "各來源日期不一（另有報導寫 11/7-11/10），以官網 taiwanitf.org.tw 為準；出發前請再確認",
+   "title": "2026 ITF 台北國際旅展",
+   "verified_on": "2026-10-11",
+   "id": "2026-itf-taipei-travel-fair"
   },
   {
    "category": "festival",
@@ -523,7 +560,7 @@
    ],
    "ticket": "paid",
    "title": "六福村「墓碑鎮十週年」萬聖節",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-11",
    "id": "2026-leofoo-tombstone-town"
   },
   {
@@ -556,7 +593,7 @@
    ],
    "ticket": "paid",
    "title": "小王子：奇幻星旅",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-11",
    "id": "2026-little-prince-ntsec"
   },
   {
@@ -899,40 +936,6 @@
    "title": "2026 南投世界茶業博覽會",
    "verified_on": "2026-10-03",
    "id": "2026-nantou-tea-expo"
-  },
-  {
-   "category": "festival",
-   "end_date": "2026-10-10",
-   "highlights": [
-    "15:00–22:00 海濱公園周邊南島風格餐車市集",
-    "19:00 起國慶焰火晚會",
-    "20:30 後南島派對演唱會"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "county": "臺東縣",
-     "town": "臺東市",
-     "venue": "臺東海濱公園（卑南溪出海口施放）"
-    }
-   ],
-   "source_name": "中央社",
-   "source_type": "media",
-   "source_url": "https://www.cna.com.tw/news/aloc/202609300026.aspx",
-   "start_date": "2026-10-10",
-   "subtype": "煙火",
-   "summary": "睽違多年回到臺東的國慶焰火，約 30 分鐘，搭配國慶晚會與南島派對。",
-   "tags": [
-    "國慶",
-    "煙火",
-    "餐車"
-   ],
-   "ticket": "free",
-   "time_text": "焰火 20:00–20:30",
-   "tips": "10/10 中午 12:00 起臨海路、大同路以東及海濱公園周邊禁止一般汽機車進入，請搭接駁車。",
-   "title": "2026 國慶焰火在臺東",
-   "verified_on": "2026-10-10",
-   "id": "2026-national-day-fireworks-taitung"
   },
   {
    "category": "festival",
@@ -1803,6 +1806,7 @@
     "室內"
    ],
    "ticket": "paid",
+   "tips": "10/11 複查僅確認場地為華山，日期未見主辦公告，出發前請再確認",
    "title": "SIF IN TAIPEI 首爾插畫展",
    "verified_on": "2026-10-03",
    "id": "2026-sif-seoul-illustration"
@@ -1998,49 +2002,47 @@
    "id": "2026-taipei-jazz-festival"
   },
   {
-   "booking_required": false,
-   "category": "festival",
-   "end_date": "2026-10-10",
+   "booking_required": true,
+   "category": "exhibit",
+   "end_date": "2026-11-15",
    "highlights": [
-    "600 台無人機主秀約 10 分鐘",
-    "4 分鐘低煙環保煙火",
-    "官方推薦觀賞點：市府前市民廣場、國父紀念館",
-    "有官方 YouTube 直播"
+    "四大遊艇碼頭水陸展區",
+    "2024 年展出 77 艘遊艇"
    ],
    "indoor": false,
    "locations": [
     {
-     "address": "臺北市信義區市府路1號",
-     "county": "臺北市",
-     "town": "信義區",
-     "venue": "臺北市政府市民廣場"
+     "county": "高雄市",
+     "town": "前鎮區",
+     "venue": "亞灣遊艇碼頭"
     },
     {
-     "address": "臺北市信義區仁愛路四段505號",
-     "county": "臺北市",
-     "town": "信義區",
-     "venue": "國立國父紀念館"
+     "county": "高雄市",
+     "town": "苓雅區",
+     "venue": "嘉信22號遊艇碼頭"
+    },
+    {
+     "county": "高雄市",
+     "town": "鹽埕區",
+     "venue": "愛河灣亞果遊艇碼頭"
     }
    ],
-   "organizer": "台北101",
-   "price": "戶外公共區域免費觀賞",
-   "source_name": "TVBS 新聞（搜尋摘要）",
+   "organizer": "中華民國對外貿易發展協會",
+   "source_name": "ETtoday 財經雲",
    "source_type": "aggregator",
-   "source_url": "https://news.tvbs.com.tw/life/4029063",
-   "start_date": "2026-10-10",
-   "subtype": "煙火",
-   "summary": "國慶夜台北101周邊 600 台無人機加 4 分鐘低煙環保煙火，共約 14 分鐘，適合想在信義區過國慶的人。",
+   "source_url": "https://finance.ettoday.net/news/3184710",
+   "start_date": "2026-11-13",
+   "subtype": "遊艇展",
+   "summary": "兩年一度的遊艇展，串聯高雄多座遊艇碼頭展示各式遊艇。",
    "tags": [
-    "免費",
-    "夜景",
-    "拍照"
+    "拍照",
+    "海港"
    ],
-   "ticket": "free",
-   "time_text": "10/10（六）22:00 起，約 14 分鐘",
-   "tips": "晚間 9 點起信義計畫區分階段交通管制，101/世貿站 4 號出口可能暫停開放；同晚 BIGBANG 在大巨蛋開唱，人潮多建議搭捷運提早到。雨天可能改為純煙火。出發前請再確認。",
-   "title": "台北101國慶展演（無人機＋煙火）",
-   "verified_on": "2026-10-09",
-   "id": "2026-taipei101-national-day-show"
+   "ticket": "unknown",
+   "tips": "外貿協會開放預先登記參觀；各碼頭鄉鎮區依地圖標示，出發前請再確認",
+   "title": "2026 台灣國際遊艇展",
+   "verified_on": "2026-10-11",
+   "id": "2026-taiwan-boat-show"
   },
   {
    "category": "exhibit",
@@ -2194,46 +2196,6 @@
    "title": "WIND BREAKER 防風少年 5 週年展",
    "verified_on": "2026-10-03",
    "id": "2026-windbreaker-5th"
-  },
-  {
-   "booking_required": false,
-   "category": "festival",
-   "end_date": "2026-10-10",
-   "highlights": [
-    "10/9 星光搖滾晚會：芒果醬、董事長樂團、無妄合作社、U:NUS、HUR+、玖壹壹",
-    "10/10 經典民歌晚會：鄭怡、黃仲崑、于台煙、王海玲、施孝榮、許景淳",
-    "60 攤在地美食市集與露營風休憩區",
-    "10/10 晚會尾聲施放國慶煙火"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "address": "",
-     "county": "宜蘭縣",
-     "town": "宜蘭市",
-     "venue": "宜蘭運動公園"
-    }
-   ],
-   "organizer": "宜蘭市公所",
-   "price": "全程免費",
-   "source_name": "自由時報（搜尋摘要）",
-   "source_type": "aggregator",
-   "source_url": "https://news.ltn.com.tw/news/Yilan/breakingnews/5583569",
-   "start_date": "2026-10-09",
-   "subtype": "音樂節",
-   "summary": "雙十連假在宜蘭運動公園的免費戶外音樂會，日夜雙舞台加美食市集，10/10 晚上放國慶煙火，適合全家。",
-   "tags": [
-    "免費",
-    "親子",
-    "美食",
-    "煙火"
-   ],
-   "ticket": "free",
-   "time_text": "15:00-21:30",
-   "tips": "出發前請再確認；會場在體育館前廣場。",
-   "title": "2026宜蘭星光音樂節",
-   "verified_on": "2026-10-10",
-   "id": "2026-yilan-starlight-music-festival"
   },
   {
    "category": "festival",

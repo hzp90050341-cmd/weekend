@@ -1,4 +1,8 @@
 {
+  "c-acc-01ff7674a81c": {
+    "hidden": true,
+    "note": "市集券預購，非活動本身"
+  },
   "c-acc-0deadf96ec0e": {
     "hidden": true,
     "note": "繪本美學課程"
@@ -6,6 +10,10 @@
   "c-acc-1aa1f697e239": {
     "category": "outdoor",
     "note": "親子活動"
+  },
+  "c-acc-20044ca86795": {
+    "hidden": true,
+    "note": "DIY 課程"
   },
   "c-acc-20167686e9a9": {
     "hidden": true,
@@ -43,6 +51,11 @@
   "c-acc-7b4c50a1f42d": {
     "category": "market",
     "note": "百貨內的市集活動"
+  },
+  "c-acc-87be7ca23e3b": {
+    "note": "潮州街15號屬大安區",
+    "town": "大安區",
+    "venue": "童里繪本洋行"
   },
   "c-acc-8a8d0eb1629c": {
     "category": "exhibit",
@@ -98,17 +111,53 @@
     "note": "松山文創園區，光復南路133號",
     "town": "信義區"
   },
+  "c-moc-1ffb254c99ac": {
+    "category": "festival",
+    "note": "兒童劇場／親子演出，屬表演"
+  },
   "c-moc-202b68fedf4d": {
     "note": "大學路1001號，陽明交大光復校區",
     "town": "東區"
+  },
+  "c-moc-21bd2863b9c4": {
+    "category": "festival",
+    "note": "兒童劇場／親子演出，屬表演"
+  },
+  "c-moc-298fc8fdbe6b": {
+    "category": "festival",
+    "note": "兒童劇場／親子演出，屬表演"
+  },
+  "c-moc-335345da0227": {
+    "category": "festival",
+    "note": "兒童劇場／親子演出，屬表演"
   },
   "c-moc-3d27cd5de050": {
     "category": "festival",
     "note": "音樂劇演出"
   },
+  "c-moc-528d31ebde08": {
+    "category": "festival",
+    "note": "兒童劇場／親子演出，屬表演"
+  },
+  "c-moc-62dfdb05dd88": {
+    "hidden": true,
+    "note": "VIP 升級加購，非活動"
+  },
+  "c-moc-6ccfdb1d9f44": {
+    "category": "festival",
+    "note": "兒童劇場／親子演出，屬表演"
+  },
+  "c-moc-6e1b3f549ab9": {
+    "hidden": true,
+    "note": "音樂大師課，課程"
+  },
   "c-moc-7549878d2198": {
     "note": "市府路1號屬信義區",
     "town": "信義區"
+  },
+  "c-moc-76bf75f4cc63": {
+    "category": "festival",
+    "note": "兒童劇場／親子演出，屬表演"
   },
   "c-moc-77ce0cf96b4a": {
     "note": "南海路47號",
@@ -129,6 +178,14 @@
     "note": "大學路1001號，陽明交大光復校區",
     "town": "東區"
   },
+  "c-moc-8b7c15a03fdd": {
+    "category": "festival",
+    "note": "兒童劇場／親子演出，屬表演"
+  },
+  "c-moc-8ccf87017261": {
+    "category": "festival",
+    "note": "兒童劇場／親子演出，屬表演"
+  },
   "c-moc-97d15aedc32e": {
     "hidden": true,
     "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動",
@@ -138,6 +195,10 @@
   "c-moc-b343cd7bff39": {
     "note": "新竹市大學路1001號屬東區",
     "town": "東區"
+  },
+  "c-moc-bb7fe0313e76": {
+    "category": "festival",
+    "note": "兒童劇場／親子演出，屬表演"
   },
   "c-moc-c53d171a31bb": {
     "note": "新竹市大學路1001號屬東區",
@@ -155,6 +216,10 @@
   "c-moc-e4fd81dfe215": {
     "category": "festival",
     "note": "兒童音樂會"
+  },
+  "c-moc-ef7be933ca7a": {
+    "hidden": true,
+    "note": "音樂大師課，課程"
   },
   "c-tour-00d7ef46f797": {
     "hidden": true,
