@@ -111,6 +111,10 @@
     "note": "松山文創園區，光復南路133號",
     "town": "信義區"
   },
+  "c-moc-1f7d207d9940": {
+    "hidden": true,
+    "note": "圖書館主題書展，非外出活動"
+  },
   "c-moc-1ffb254c99ac": {
     "category": "festival",
     "note": "兒童劇場／親子演出，屬表演"
@@ -182,6 +186,10 @@
     "category": "festival",
     "note": "兒童劇場／親子演出，屬表演"
   },
+  "c-moc-8c54476e118f": {
+    "hidden": true,
+    "note": "圖書館主題書展，非外出活動"
+  },
   "c-moc-8ccf87017261": {
     "category": "festival",
     "note": "兒童劇場／親子演出，屬表演"
@@ -191,6 +199,10 @@
     "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動",
     "town": "中正區",
     "venue": "國立臺灣藝術教育館 第3展覽廳"
+  },
+  "c-moc-a716bcf44a0b": {
+    "hidden": true,
+    "note": "圖書館主題書展，非外出活動"
   },
   "c-moc-b343cd7bff39": {
     "note": "新竹市大學路1001號屬東區",
@@ -203,6 +215,10 @@
   "c-moc-c53d171a31bb": {
     "note": "新竹市大學路1001號屬東區",
     "town": "東區"
+  },
+  "c-moc-d15606259ddf": {
+    "hidden": true,
+    "note": "圖書館主題書展，非外出活動"
   },
   "c-moc-d71076d2f41d": {
     "note": "大學路1001號，陽明交大光復校區",
@@ -248,6 +264,10 @@
   "c-tour-18ce4e5d7e6e": {
     "hidden": true,
     "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-1a9c9618c5e2": {
+    "category": "outdoor",
+    "note": "遊程活動"
   },
   "c-tour-1c26598c4db0": {
     "category": "festival",
@@ -301,6 +321,14 @@
     "hidden": true,
     "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
   },
+  "c-tour-5906556846a4": {
+    "category": "festival",
+    "note": "文化節活動"
+  },
+  "c-tour-5be2c107e223": {
+    "category": "outdoor",
+    "note": "路跑"
+  },
   "c-tour-605082b87489": {
     "hidden": true,
     "note": "已於 2026-10-08 結束；來源連不上，沿用舊資料中的過期活動"
@@ -321,6 +349,10 @@
   "c-tour-75ef3611449e": {
     "hidden": true,
     "note": "已於 2026-10-05 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-78f6c4daf032": {
+    "hidden": true,
+    "note": "全民運動會為運動競賽，非一般休閒活動"
   },
   "c-tour-7c205c478e70": {
     "category": "outdoor",
@@ -419,6 +451,10 @@
   "c-tour-db17e4c52af7": {
     "hidden": true,
     "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-e6f6eb2cf7bc": {
+    "category": "outdoor",
+    "note": "路跑"
   },
   "c-tour-f6f55b7e3e20": {
     "hidden": true,

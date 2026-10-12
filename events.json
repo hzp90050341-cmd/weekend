@@ -1,78 +1,14 @@
 {
- "generated_at": "2026-10-11",
+ "generated_at": "2026-10-12",
  "meta": {
-  "added": 2,
-  "last_checked_at": "2026-10-11T11:10:00+08:00",
-  "next_focus": "週一北北基；南方澳鯖魚節 2026 日期未公布（2025 為 11/1-2）；台灣國際咖啡展 2026 展期待官方（傳 11/13-16）；二水跑水節、SIF IN TAIPEI 日期待主辦公告；新光三越信義（首 14 日滿仟送點）、遠百、SOGO 滿額禮待官方 DM；光復節連假（10/24-26）活動補漏。",
-  "removed": 3,
-  "summary": "GitHub Actions 爬蟲今日 08:19 正常（觀光署 195、文化部 573、Accupass 38；套用修正後 773 筆）；新增 16 筆爬蟲修正（1 筆補鄉鎮、10 筆兒童劇場改為表演、5 筆課程／加購／預購券隱藏）；無投稿；刪除 3 筆國慶當日已結束活動；新增 ITF 台北國際旅展、台灣國際遊艇展；複查 10 筆最舊資料，8 筆照常，二水跑水節與 SIF 首爾插畫展 2026 日期仍查無主辦公告。WebFetch 仍被環境擋下。",
+  "added": 1,
+  "last_checked_at": "2026-10-12T10:55:00+08:00",
+  "next_focus": "週二桃竹苗；南方澳鯖魚節 2026 日期未公布（2025 為 11/1-2）；台灣國際咖啡展 2026 展期待官方（傳 11/13-16）；二水跑水節、赤嵌萬神節、SIF IN TAIPEI 日期待主辦公告；基隆美術館 10/16 起特展待查證；新光三越信義、遠百、SOGO 滿額禮待官方 DM；光復節連假（10/24-26）活動補漏。",
+  "removed": 19,
+  "summary": "GitHub Actions 爬蟲今日 08:41 正常（觀光署 175、文化部 553、Accupass 36；套用修正後 727 筆）；新增 9 筆爬蟲修正（4 筆圖書館書展與全民運動會隱藏、5 筆分類修正）；無投稿；刪除 19 筆 10/11 已結束活動；新增坂本龍一北美館回顧展；複查 10 筆最舊資料：高雄、台南大遠百週年慶依較短檔期改為 11/15 止，天母搞什麼鬼改為 10/24 單日，二水跑水節與赤嵌萬神節仍查無 2026 官方公告。WebFetch 仍被環境擋下。",
   "updated": 10
  },
  "events": [
-  {
-   "category": "exhibit",
-   "end_date": "2026-10-11",
-   "highlights": [
-    "比薩大學自然史博物館館藏",
-    "親子友善"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "county": "臺北市",
-     "town": "士林區",
-     "venue": "國立臺灣科學教育館 7F"
-    }
-   ],
-   "price": "350 元起（各來源票價不一，以售票頁為準）",
-   "source_name": "揪好玩展覽整理",
-   "source_type": "media",
-   "source_url": "https://jioujiou.tw/taipei-exhibition/",
-   "start_date": "2026-07-11",
-   "subtype": "自然科學展",
-   "summary": "義大利比薩大學自然史博物館的動物標本展，適合親子。",
-   "tags": [
-    "親子",
-    "科學",
-    "室內"
-   ],
-   "ticket": "paid",
-   "title": "動物王國大探險展－比薩大學自然史博物館",
-   "verified_on": "2026-10-10",
-   "id": "2026-animal-kingdom-ntsec"
-  },
-  {
-   "category": "exhibit",
-   "end_date": "2026-10-11",
-   "highlights": [
-    "波特羅經典「圓胖」風格作品",
-    "展期到 10/11"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "county": "臺北市",
-     "town": "中正區",
-     "venue": "中正紀念堂 1 展廳"
-    }
-   ],
-   "price": "單人 490 元、雙人 920 元、三人 1,370 元",
-   "source_name": "揪好玩展覽整理",
-   "source_type": "media",
-   "source_url": "https://jioujiou.tw/taipei-exhibition/",
-   "start_date": "2026-06-19",
-   "subtype": "藝術展",
-   "summary": "哥倫比亞藝術家波特羅的圓潤人物畫與雕塑，最後一週半。",
-   "tags": [
-    "藝術",
-    "室內"
-   ],
-   "ticket": "paid",
-   "time_text": "10:00–18:00（17:30 最後入場）",
-   "title": "圓潤的魔法：波特羅特展",
-   "verified_on": "2026-10-10",
-   "id": "2026-botero-cks"
-  },
   {
    "booking_required": true,
    "category": "exhibit",
@@ -108,70 +44,6 @@
    "title": "CARDPASS TAIWAN 2026",
    "verified_on": "2026-10-11",
    "id": "2026-cardpass-taiwan"
-  },
-  {
-   "category": "outdoor",
-   "end_date": "2026-10-11",
-   "highlights": [
-    "小熊維尼主題燈飾",
-    "湖畔夜景"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "county": "嘉義市",
-     "town": "東區",
-     "venue": "北香湖公園"
-    }
-   ],
-   "source_name": "食尚玩家",
-   "source_type": "media",
-   "source_url": "https://supertaste.tvbs.com.tw/kids/361745",
-   "subtype": "光影藝術",
-   "summary": "以《小熊維尼》100 週年為主題的湖畔光影藝術展。",
-   "tags": [
-    "親子",
-    "夜景",
-    "免費"
-   ],
-   "ticket": "free",
-   "time_text": "夜間點燈",
-   "title": "嘉義市光織影舞（小熊維尼 100 週年）",
-   "verified_on": "2026-10-03",
-   "id": "2026-chiayi-light-pooh"
-  },
-  {
-   "category": "festival",
-   "end_date": "2026-10-11",
-   "highlights": [
-    "Chara 攜《燕尾蝶》經典登台",
-    "市集全區免費",
-    "活動期間自來水園區免費入園、加開地下水宮殿導覽"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "county": "臺北市",
-     "town": "中正區",
-     "venue": "臺北自來水園區、公館水岸廣場"
-    }
-   ],
-   "price": "預售單日票 1,980 元、雙日票 2,980 元；市集與自來水園區免費入園",
-   "source_name": "Blow 吹音樂",
-   "source_type": "media",
-   "source_url": "https://blow.streetvoice.com/90620/",
-   "start_date": "2026-10-10",
-   "subtype": "音樂節",
-   "summary": "公館水岸的秋季音樂節，五大舞台，卡司有 Chara、黃宣、四分衛等。",
-   "tags": [
-    "音樂",
-    "市集",
-    "國慶連假"
-   ],
-   "ticket": "partial",
-   "title": "2026 秋Out音樂節",
-   "verified_on": "2026-10-10",
-   "id": "2026-chill-out-fest"
   },
   {
    "category": "exhibit",
@@ -257,9 +129,9 @@
     "免費"
    ],
    "ticket": "free",
-   "tips": "10/11 複查未找到 2026 官方日期公告，出發前請再確認",
+   "tips": "10/12 複查仍未找到 2026 官方日期公告，出發前請再確認",
    "title": "2026 二水國際跑水節",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-12",
    "id": "2026-ershui-water-run"
   },
   {
@@ -433,106 +305,6 @@
    "id": "2026-itf-taipei-travel-fair"
   },
   {
-   "category": "festival",
-   "end_date": "2026-10-11",
-   "highlights": [
-    "27 組卡司，包括滅火器、美秀集團、鄭宜農、公館青少年",
-    "日本京都樂團 Hakubi 跨海演出",
-    "雙舞台接力開唱",
-    "現場有市集與諸羅沙龍講座舞台"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "address": "嘉義市東區彌陀路253號",
-     "county": "嘉義市",
-     "town": "東區",
-     "venue": "大同技術學院"
-    }
-   ],
-   "organizer": "嘉義市政府文化局",
-   "source_name": "中央社訊息平台",
-   "source_type": "aggregator",
-   "source_url": "https://www.cna.com.tw/postwrite/chi/444607",
-   "start_date": "2026-10-10",
-   "subtype": "音樂節",
-   "summary": "嘉義市政府文化局主辦的雙日免費搖滾音樂祭，雙十連假登場，喜歡獨立樂團、想輕鬆看演出的人都適合。",
-   "tags": [
-    "免費",
-    "音樂",
-    "市集"
-   ],
-   "ticket": "free",
-   "tips": "今年場地改在大同技術學院（去年在中央廣場）；只查到搜尋摘要，出發前請再確認。",
-   "title": "2026 諸羅搖滾音樂祭",
-   "verified_on": "2026-10-08",
-   "id": "2026-jhuluo-rock"
-  },
-  {
-   "category": "outdoor",
-   "end_date": "2026-10-11",
-   "highlights": [
-    "愛河河岸熱氣球",
-    "國慶連假三天"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "county": "高雄市",
-     "town": "前金區",
-     "venue": "愛河畔"
-    }
-   ],
-   "price": "現場觀賞依官方公告；搭乘體驗於 ibon 售票",
-   "source_name": "高雄旅遊網",
-   "source_type": "official",
-   "source_url": "https://khh.travel/zh-tw/event/calendardetail/8022/",
-   "start_date": "2026-10-09",
-   "subtype": "熱氣球",
-   "summary": "國慶連假熱氣球移師愛河，市區就看得到。",
-   "tags": [
-    "親子",
-    "國慶連假"
-   ],
-   "ticket": "partial",
-   "tips": "熱氣球受風速天候影響，出發前看官方粉專是否停飛。",
-   "title": "2026 高雄愛．月熱氣球（愛河場）",
-   "verified_on": "2026-10-10",
-   "id": "2026-kaohsiung-balloon-loveriver"
-  },
-  {
-   "category": "festival",
-   "end_date": "2026-10-11",
-   "highlights": [
-    "精釀啤酒",
-    "現場音樂",
-    "市集"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "county": "高雄市",
-     "town": "鹽埕區",
-     "venue": "駁二藝術特區大義公園"
-    }
-   ],
-   "source_name": "食尚玩家",
-   "source_type": "media",
-   "source_url": "https://supertaste.tvbs.com.tw/kids/361745",
-   "start_date": "2026-10-09",
-   "subtype": "啤酒節",
-   "summary": "國慶連假的精釀啤酒派對，有音樂演出與市集。",
-   "tags": [
-    "啤酒",
-    "音樂",
-    "市集"
-   ],
-   "ticket": "unknown",
-   "title": "2026 嬉啤派對",
-   "verified_on": "2026-10-03",
-   "id": "2026-kaohsiung-craft-beer-party"
-  },
-  {
    "category": "outdoor",
    "end_date": "2026-11-22",
    "highlights": [
@@ -597,64 +369,6 @@
    "id": "2026-little-prince-ntsec"
   },
   {
-   "category": "outdoor",
-   "end_date": "2026-10-11",
-   "highlights": [
-    "金針花海",
-    "山景"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "county": "花蓮縣",
-     "town": "富里鄉",
-     "venue": "六十石山"
-    }
-   ],
-   "source_name": "食尚玩家",
-   "source_type": "media",
-   "source_url": "https://supertaste.tvbs.com.tw/kids/361745",
-   "subtype": "花季",
-   "summary": "花季尾聲，金黃色金針花海。",
-   "tags": [
-    "花季",
-    "免費",
-    "拍照"
-   ],
-   "ticket": "free",
-   "tips": "山路窄，假日車多，早點出發。",
-   "title": "富里六十石山金針花季",
-   "verified_on": "2026-10-03",
-   "id": "2026-liushidan-daylily"
-  },
-  {
-   "category": "market",
-   "end_date": "2026-10-11",
-   "indoor": false,
-   "locations": [
-    {
-     "county": "彰化縣",
-     "town": "彰化市",
-     "venue": "成美文化園區"
-    }
-   ],
-   "source_name": "台灣市集網",
-   "source_type": "aggregator",
-   "source_url": "https://www.twmarket.tw/vendor/market-category-query/",
-   "start_date": "2026-10-09",
-   "subtype": "文創市集",
-   "summary": "國慶連假三天的園區市集。",
-   "tags": [
-    "文創",
-    "美食"
-   ],
-   "ticket": "free",
-   "tips": "日期取自市集整理網站，出發前看園區粉專確認。",
-   "title": "成美文化園區 國慶連假市集",
-   "verified_on": "2026-10-03",
-   "id": "2026-market-chengmei-national-day"
-  },
-  {
    "category": "market",
    "end_date": "2026-11-01",
    "indoor": false,
@@ -676,8 +390,9 @@
     "美食"
    ],
    "ticket": "free",
+   "tips": "10/12 複查未找到 2026 官方日期公告，出發前請再確認",
    "title": "赤嵌萬神節",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-12",
    "id": "2026-market-chihkan-halloween"
   },
   {
@@ -790,39 +505,6 @@
   },
   {
    "category": "market",
-   "end_date": "2026-10-11",
-   "highlights": [
-    "礦物收藏攤位",
-    "礦石工藝創作",
-    "生活體驗"
-   ],
-   "locations": [
-    {
-     "address": "臺北市信義區光復南路133號",
-     "county": "臺北市",
-     "town": "信義區",
-     "venue": "松山文創園區"
-    }
-   ],
-   "source_name": "松山文創園區 10月展演攻略（搜尋摘要）",
-   "source_type": "aggregator",
-   "source_url": "https://www.songshanculturalpark.org/exhibition/activity/757e4366-eb9c-4bf5-b199-c41487afb885",
-   "start_date": "2026-10-10",
-   "subtype": "文創市集",
-   "summary": "以礦石為主題的市集，結合礦物收藏、工藝創作與生活體驗，喜歡礦石與手作小物的人可以逛逛。",
-   "tags": [
-    "文創",
-    "手作",
-    "拍照"
-   ],
-   "ticket": "unknown",
-   "tips": "出發前請再確認；各來源日期不一（10/9-10/11 或 10/10-10/11），此處取較短日期。",
-   "title": "島礦祭 Mineral Island Festa 2026",
-   "verified_on": "2026-10-05",
-   "id": "2026-market-mineral-island-festa"
-  },
-  {
-   "category": "market",
    "end_date": "2026-10-26",
    "indoor": false,
    "locations": [
@@ -848,94 +530,6 @@
    "title": "Fun 市集－新光三越三多店周年慶市集",
    "verified_on": "2026-10-03",
    "id": "2026-market-skm-sanduo-fun"
-  },
-  {
-   "category": "market",
-   "end_date": "2026-10-11",
-   "indoor": false,
-   "locations": [
-    {
-     "county": "臺中市",
-     "town": "清水區",
-     "venue": "臺中市港區藝術中心"
-    }
-   ],
-   "source_name": "台灣市集網",
-   "source_type": "aggregator",
-   "source_url": "https://www.twmarket.tw/vendor/market-category-query/",
-   "start_date": "2026-10-09",
-   "subtype": "文創市集",
-   "summary": "國慶連假在港區藝術中心的市集。",
-   "tags": [
-    "文創",
-    "手作"
-   ],
-   "ticket": "free",
-   "tips": "日期取自市集整理網站，出發前看官方粉專確認。",
-   "title": "港區藝術中心「清眷蒔集」",
-   "verified_on": "2026-10-03",
-   "id": "2026-market-tcac-qingjuan"
-  },
-  {
-   "category": "market",
-   "end_date": "2026-10-11",
-   "indoor": false,
-   "locations": [
-    {
-     "county": "臺中市",
-     "town": "南屯區",
-     "venue": "文心森林公園"
-    }
-   ],
-   "source_name": "台灣市集網",
-   "source_type": "aggregator",
-   "source_url": "https://www.twmarket.tw/vendor/market-category-query/",
-   "start_date": "2026-10-10",
-   "subtype": "公園市集",
-   "summary": "國慶連假在文心森林公園的戶外市集。",
-   "tags": [
-    "文創",
-    "美食",
-    "親子"
-   ],
-   "ticket": "free",
-   "tips": "日期取自市集整理網站，出發前看官方粉專確認。",
-   "title": "碌人・散步 × Funky Land × 文心森林公園",
-   "verified_on": "2026-10-03",
-   "id": "2026-market-wenxin-forest"
-  },
-  {
-   "category": "festival",
-   "end_date": "2026-10-11",
-   "highlights": [
-    "35 個主題展館",
-    "200 多個展售攤位",
-    "一心二夜演唱會、千人茶會、馬拉桑野餐"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "county": "南投縣",
-     "town": "南投市",
-     "venue": "中興新村（中興會堂、中興大操場）"
-    }
-   ],
-   "source_name": "農業易遊網",
-   "source_type": "official",
-   "source_url": "https://ezgo.ardswc.gov.tw/zh-tw/event/4569/",
-   "start_date": "2026-10-03",
-   "subtype": "農特產博覽會",
-   "summary": "第 16 屆茶博，35 個主題展館與 200 多個展售攤位，可以品茶、買茶、看茶席。",
-   "tags": [
-    "茶",
-    "農特產",
-    "親子"
-   ],
-   "ticket": "free",
-   "time_text": "平日 9:00–17:00，假日 9:00–18:00",
-   "title": "2026 南投世界茶業博覽會",
-   "verified_on": "2026-10-03",
-   "id": "2026-nantou-tea-expo"
   },
   {
    "category": "festival",
@@ -1031,6 +625,43 @@
    "title": "2026搖滾台中",
    "verified_on": "2026-10-07",
    "id": "2026-rock-taichung"
+  },
+  {
+   "booking_required": true,
+   "category": "exhibit",
+   "end_date": "2027-03-14",
+   "highlights": [
+    "7 組大型裝置作品",
+    "與高谷史郎、真鍋大度、Carsten Nicolai、阿比查邦等藝術家的合作",
+    "首波預約 10/15 上午 10 點於 OPENTIX 開放（10/31-11/29 場次）",
+    "每帳號同時段最多 4 張"
+   ],
+   "indoor": true,
+   "locations": [
+    {
+     "address": "臺北市中山區中山北路三段181號",
+     "county": "臺北市",
+     "town": "中山區",
+     "venue": "臺北市立美術館"
+    }
+   ],
+   "organizer": "臺北市立美術館",
+   "price": "一般票 30 元；學生、志工及臺北市民 15 元",
+   "source_name": "民報",
+   "source_type": "aggregator",
+   "source_url": "https://www.peoplenews.tw/?p=59546",
+   "start_date": "2026-10-31",
+   "subtype": "藝術展",
+   "summary": "坂本龍一大型回顧展，聚焦他 2000 年代以來的藝術創作，展出 7 組大型裝置與相關文獻。",
+   "tags": [
+    "藝術",
+    "拍照"
+   ],
+   "ticket": "paid",
+   "tips": "採網路預約，每日僅少量現場候補；出發前請再確認",
+   "title": "坂本龍一｜觀音．聽時",
+   "verified_on": "2026-10-12",
+   "id": "2026-sakamoto-ryuichi-tfam"
   },
   {
    "category": "mall",
@@ -1155,7 +786,7 @@
   },
   {
    "category": "mall",
-   "end_date": "2026-11-29",
+   "end_date": "2026-11-15",
    "highlights": [
     "滿額禮、刷卡回饋以百貨官方 DM 為準"
    ],
@@ -1177,8 +808,9 @@
     "週年慶"
    ],
    "ticket": "free",
+   "tips": "各來源日期不一（另有整理列至 11/29），取較短檔期；出發前請再確認",
    "title": "高雄大遠百 週年慶",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-12",
    "id": "2026-sale-feds-kaohsiung"
   },
   {
@@ -1213,7 +845,7 @@
   },
   {
    "category": "mall",
-   "end_date": "2026-11-29",
+   "end_date": "2026-11-15",
    "highlights": [
     "滿額禮、刷卡回饋以百貨官方 DM 為準"
    ],
@@ -1230,13 +862,14 @@
    "source_url": "https://www.marieclaire.com.tw/beauty/news/95804",
    "start_date": "2026-10-29",
    "subtype": "週年慶",
-   "summary": "台南大遠百週年慶，兩家媒體整理的檔期一致。",
+   "summary": "台南大遠百週年慶。",
    "tags": [
     "週年慶"
    ],
    "ticket": "free",
+   "tips": "各來源日期不一（另有整理列至 11/29），取較短檔期；出發前請再確認",
    "title": "台南大遠百成功店 週年慶",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-12",
    "id": "2026-sale-feds-tainan"
   },
   {
@@ -1659,36 +1292,6 @@
   },
   {
    "category": "mall",
-   "end_date": "2026-10-11",
-   "highlights": [
-    "滿額禮、刷卡回饋以百貨官方 DM 為準"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "county": "臺北市",
-     "town": "信義區",
-     "venue": "台北101購物中心"
-    }
-   ],
-   "source_name": "美麗佳人週年慶檔期表（搜尋摘要）",
-   "source_type": "aggregator",
-   "source_url": "https://www.marieclaire.com.tw/beauty/news/95804",
-   "start_date": "2026-09-03",
-   "subtype": "週年慶",
-   "summary": "台北101購物中心年度週年慶檔期，想補貨、買保養品的人可以排進行程。",
-   "tags": [
-    "週年慶",
-    "滿額禮"
-   ],
-   "ticket": "free",
-   "tips": "僅見媒體整理的檔期摘要，出發前請再確認。",
-   "title": "台北101購物中心 週年慶",
-   "verified_on": "2026-10-06",
-   "id": "2026-sale-taipei101"
-  },
-  {
-   "category": "mall",
    "end_date": "2026-11-18",
    "highlights": [
     "滿額禮、刷卡回饋以官方 DM 為準"
@@ -1744,38 +1347,6 @@
    "title": "統一時代百貨台北店 週年慶",
    "verified_on": "2026-10-07",
    "id": "2026-sale-uni-ustyle-taipei"
-  },
-  {
-   "category": "festival",
-   "end_date": "2026-10-11",
-   "highlights": [
-    "木雕展演",
-    "手作體驗",
-    "文創市集"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "county": "苗栗縣",
-     "town": "三義鄉",
-     "venue": "三義木雕博物館"
-    }
-   ],
-   "source_name": "食尚玩家",
-   "source_type": "media",
-   "source_url": "https://supertaste.tvbs.com.tw/kids/361745",
-   "start_date": "2026-10-09",
-   "subtype": "藝術節",
-   "summary": "木雕展演、手作體驗與文創市集。",
-   "tags": [
-    "手作",
-    "市集",
-    "國慶連假"
-   ],
-   "ticket": "unknown",
-   "title": "三義木雕藝術節",
-   "verified_on": "2026-10-10",
-   "id": "2026-sanyi-woodcarving-festival"
   },
   {
    "booking_required": true,
@@ -1859,6 +1430,7 @@
    "source_name": "食尚玩家",
    "source_type": "media",
    "source_url": "https://supertaste.tvbs.com.tw/kids/361745",
+   "start_date": "2026-09-12",
    "subtype": "煙火",
    "summary": "湖面水上煙火搭配現場音樂演出。",
    "tags": [
@@ -1868,7 +1440,7 @@
    "ticket": "unknown",
    "tips": "煙火場次與日期以官方公告為準。",
    "title": "日月潭花火音樂嘉年華",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-12",
    "id": "2026-sun-moon-lake-fireworks"
   },
   {
@@ -1901,7 +1473,7 @@
    "ticket": "free",
    "tips": "假日人潮多，建議搭公車或停遠一點走過去。",
    "title": "2026 臺中爵士音樂節",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-12",
    "id": "2026-taichung-jazz-festival"
   },
   {
@@ -1962,44 +1534,8 @@
    ],
    "ticket": "unknown",
    "title": "臺北溫泉季",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-12",
    "id": "2026-taipei-hot-spring-festival"
-  },
-  {
-   "category": "festival",
-   "end_date": "2026-10-11",
-   "highlights": [
-    "主舞台在北流戶外表演空間",
-    "11～12 組國內外樂手連三天演出",
-    "現場有市集"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "address": "臺北市南港區市民大道八段99號",
-     "county": "臺北市",
-     "town": "南港區",
-     "venue": "臺北流行音樂中心"
-    }
-   ],
-   "organizer": "臺北市政府文化局",
-   "price": "主舞台音樂會免費",
-   "source_name": "cpok 優惠情報（搜尋摘要）",
-   "source_type": "aggregator",
-   "source_url": "https://cpok.tw/72513",
-   "start_date": "2026-10-09",
-   "subtype": "音樂節",
-   "summary": "第 20 年的台北爵士音樂節，國慶連假三天在北流戶外空間有國內外爵士樂手免費演出，適合帶野餐墊來聽。",
-   "tags": [
-    "免費",
-    "音樂"
-   ],
-   "ticket": "free",
-   "time_text": "主舞台 10/9-10/11（系列活動 9/4 起）",
-   "tips": "各來源樂手組數不一；節目表請查臺北市文化局公告。出發前請再確認。",
-   "title": "2026 台北爵士音樂節 主舞台",
-   "verified_on": "2026-10-09",
-   "id": "2026-taipei-jazz-festival"
   },
   {
    "booking_required": true,
@@ -2045,35 +1581,6 @@
    "id": "2026-taiwan-boat-show"
   },
   {
-   "category": "exhibit",
-   "end_date": "2026-10-11",
-   "highlights": [
-    "16 大主題展區",
-    "5 處衛星展區"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "county": "桃園市",
-     "town": "中壢區",
-     "venue": "桃園會展中心等"
-    }
-   ],
-   "source_name": "食尚玩家",
-   "source_type": "media",
-   "source_url": "https://supertaste.tvbs.com.tw/kids/361745",
-   "subtype": "設計展",
-   "summary": "16 大主題展區加 5 處衛星展區，今年在桃園。",
-   "tags": [
-    "設計",
-    "國慶連假"
-   ],
-   "ticket": "unknown",
-   "title": "2026 台灣設計展",
-   "verified_on": "2026-10-03",
-   "id": "2026-taiwan-design-expo"
-  },
-  {
    "category": "festival",
    "end_date": "2026-11-01",
    "highlights": [
@@ -2100,7 +1607,7 @@
    ],
    "ticket": "unknown",
    "title": "桃園萬聖城",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-12",
    "id": "2026-taoyuan-halloween-city"
   },
   {
@@ -2121,7 +1628,7 @@
    "source_name": "食尚玩家",
    "source_type": "media",
    "source_url": "https://supertaste.tvbs.com.tw/kids/361745",
-   "start_date": "2026-10-23",
+   "start_date": "2026-10-24",
    "subtype": "萬聖節",
    "summary": "天母的萬聖節活動，百鬼夜行遊行、商圈討糖。",
    "tags": [
@@ -2130,8 +1637,9 @@
     "免費"
    ],
    "ticket": "free",
+   "tips": "各來源日期不一（另有整理列 10/23-24），取較短日期；遇天候可能延期，出發前請再確認",
    "title": "天母搞什麼鬼",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-12",
    "id": "2026-tianmu-halloween"
   },
   {
@@ -2152,6 +1660,7 @@
    "source_name": "食尚玩家",
    "source_type": "media",
    "source_url": "https://supertaste.tvbs.com.tw/kids/361745",
+   "start_date": "2026-09-04",
    "subtype": "燈節",
    "summary": "山林光影裝置，主燈是近 6 米高的黑熊。",
    "tags": [
@@ -2162,7 +1671,7 @@
    "time_text": "夜間",
    "tips": "山路夜間行車注意安全，出發前查台8線路況。",
    "title": "山谷燈光節",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-12",
    "id": "2026-valley-light-festival"
   },
   {
@@ -2196,67 +1705,6 @@
    "title": "WIND BREAKER 防風少年 5 週年展",
    "verified_on": "2026-10-03",
    "id": "2026-windbreaker-5th"
-  },
-  {
-   "category": "festival",
-   "end_date": "2026-10-11",
-   "highlights": [
-    "布袋戲",
-    "國際偶戲演出"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "county": "雲林縣",
-     "town": "虎尾鎮",
-     "venue": "虎尾鎮立田徑場、農博公園"
-    }
-   ],
-   "source_name": "食尚玩家",
-   "source_type": "media",
-   "source_url": "https://supertaste.tvbs.com.tw/kids/361745",
-   "subtype": "偶戲",
-   "summary": "布袋戲故鄉的國際偶戲節，國內外偶戲團演出。",
-   "tags": [
-    "親子",
-    "免費",
-    "傳統藝術"
-   ],
-   "ticket": "free",
-   "title": "2026 雲林國際偶戲節",
-   "verified_on": "2026-10-03",
-   "id": "2026-yunlin-puppet-festival"
-  },
-  {
-   "category": "festival",
-   "end_date": "2026-10-11",
-   "highlights": [
-    "攻炮城",
-    "迓火獅",
-    "蓮池潭周邊活動"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "county": "高雄市",
-     "town": "左營區",
-     "venue": "蓮池潭、左營孔子廟"
-    }
-   ],
-   "source_name": "食尚玩家",
-   "source_type": "media",
-   "source_url": "https://supertaste.tvbs.com.tw/kids/361745",
-   "start_date": "2026-10-07",
-   "subtype": "民俗節慶",
-   "summary": "左營的傳統民俗節慶，攻炮城、迓火獅都在這幾天。",
-   "tags": [
-    "民俗",
-    "免費"
-   ],
-   "ticket": "free",
-   "title": "2026 高雄左營萬年季",
-   "verified_on": "2026-10-03",
-   "id": "2026-zuoying-wannian-festival"
   }
  ]
 }
