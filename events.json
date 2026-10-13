@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-12",
+ "generated_at": "2026-10-13",
  "meta": {
-  "added": 1,
-  "last_checked_at": "2026-10-12T10:55:00+08:00",
-  "next_focus": "週二桃竹苗；南方澳鯖魚節 2026 日期未公布（2025 為 11/1-2）；台灣國際咖啡展 2026 展期待官方（傳 11/13-16）；二水跑水節、赤嵌萬神節、SIF IN TAIPEI 日期待主辦公告；基隆美術館 10/16 起特展待查證；新光三越信義、遠百、SOGO 滿額禮待官方 DM；光復節連假（10/24-26）活動補漏。",
-  "removed": 19,
-  "summary": "GitHub Actions 爬蟲今日 08:41 正常（觀光署 175、文化部 553、Accupass 36；套用修正後 727 筆）；新增 9 筆爬蟲修正（4 筆圖書館書展與全民運動會隱藏、5 筆分類修正）；無投稿；刪除 19 筆 10/11 已結束活動；新增坂本龍一北美館回顧展；複查 10 筆最舊資料：高雄、台南大遠百週年慶依較短檔期改為 11/15 止，天母搞什麼鬼改為 10/24 單日，二水跑水節與赤嵌萬神節仍查無 2026 官方公告。WebFetch 仍被環境擋下。",
+  "added": 2,
+  "last_checked_at": "2026-10-13T11:05:00+08:00",
+  "next_focus": "週三中彰投雲；南方澳鯖魚節 2026 日期未公布；台灣國際咖啡展 2026 展期待官方；二水跑水節、赤嵌萬神節、SIF IN TAIPEI、Phgup 山屋祭、海安路萬聖市集日期待主辦公告；漢神巨蛋、新光三越信義、遠百、SOGO 滿額禮待官方 DM；銅鑼杭菊生活節 2026 日期待公告；光復節連假（10/24-26）活動補漏。",
+  "removed": 0,
+  "summary": "GitHub Actions 爬蟲今日尚未更新，沿用 10/12 08:41 結果（觀光署 175、文化部 553、Accupass 36；套用修正後 720 筆）；新增 2 筆爬蟲修正（淡水纏花手作課程隱藏、花蓮草地野餐尋寶改 outdoor）；無投稿；無過期活動需刪除；週二桃竹苗新增青草湖秋焰祭、新竹市城市願景展；複查 10 筆最舊資料，未見取消或延期，但漢神巨蛋週年慶、海安路萬聖市集、官田湖畔市集、Phgup 山屋祭仍查無 2026 官方公告，已加註出發前請再確認。WebFetch 仍被環境擋下。",
   "updated": 10
  },
  "events": [
@@ -238,6 +238,39 @@
    "id": "2026-hsinchu-city-halloween"
   },
   {
+   "category": "exhibit",
+   "end_date": "2026-10-18",
+   "highlights": [
+    "三段旅程：記憶程式、路由程式、驅動程式",
+    "沉浸式互動體驗"
+   ],
+   "indoor": true,
+   "locations": [
+    {
+     "address": "新竹市東區公道五路三段6號",
+     "county": "新竹市",
+     "town": "東區",
+     "venue": "新竹市文創館"
+    }
+   ],
+   "organizer": "新竹市政府",
+   "source_name": "中央社訊息平台（搜尋摘要）",
+   "source_type": "aggregator",
+   "source_url": "https://www.cna.com.tw/postwrite/chi/444506",
+   "start_date": "2026-10-03",
+   "subtype": "沉浸式展覽",
+   "summary": "以「風城編碼・新竹」為主題，用沉浸式展示與互動體驗介紹新竹的歷史與未來。",
+   "tags": [
+    "親子",
+    "拍照"
+   ],
+   "ticket": "unknown",
+   "tips": "票價與開放時間原文未寫，只看到搜尋摘要，出發前請再確認。",
+   "title": "2026新竹市城市願景展",
+   "verified_on": "2026-10-13",
+   "id": "2026-hsinchu-city-vision-expo"
+  },
+  {
    "category": "festival",
    "end_date": "2026-11-15",
    "highlights": [
@@ -418,8 +451,9 @@
     "文創"
    ],
    "ticket": "free",
+   "tips": "日期取自市集整理網站，搜尋未見 2026 年 10 月官方公告，出發前請再確認。",
    "title": "2026 官田葫蘆埤湖畔市集",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-13",
    "id": "2026-market-guantian-lakeside"
   },
   {
@@ -445,8 +479,9 @@
     "文創"
    ],
    "ticket": "free",
+   "tips": "日期取自市集整理網站，搜尋未見 2026 年主辦公告，出發前請再確認。",
    "title": "海安路萬聖節主題市集",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-13",
    "id": "2026-market-haian-halloween"
   },
   {
@@ -473,7 +508,7 @@
    "ticket": "free",
    "tips": "日期取自市集整理網站，出發前看官方粉專確認。",
    "title": "iFG 遠雄廣場 週末市集",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-13",
    "id": "2026-market-ifg-hsinchu"
   },
   {
@@ -500,7 +535,7 @@
    "ticket": "free",
    "tips": "日期取自市集整理網站，出發前看官方粉專確認。",
    "title": "中興文創園區「興創村市集」",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-13",
    "id": "2026-market-ilan-xingchuang"
   },
   {
@@ -528,7 +563,7 @@
    "ticket": "free",
    "tips": "日期取自市集整理網站，出發前看官方粉專確認。",
    "title": "Fun 市集－新光三越三多店周年慶市集",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-13",
    "id": "2026-market-skm-sanduo-fun"
   },
   {
@@ -559,9 +594,47 @@
     "露營"
    ],
    "ticket": "unknown",
+   "tips": "搜尋未找到主辦公告，出發前請再確認。",
    "title": "Phgup 山屋祭",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-13",
    "id": "2026-phgup-festival"
+  },
+  {
+   "category": "festival",
+   "end_date": "2026-10-26",
+   "highlights": [
+    "湖畔煙火秀 300 秒，共 6 場",
+    "每晚湖畔燈光秀",
+    "週末舒湖 Chill 市集",
+    "動漫音樂會"
+   ],
+   "indoor": false,
+   "locations": [
+    {
+     "county": "新竹市",
+     "town": "東區",
+     "venue": "青草湖"
+    }
+   ],
+   "organizer": "新竹市政府",
+   "source_name": "中央社訊息平台（搜尋摘要）",
+   "source_type": "aggregator",
+   "source_url": "https://www.cna.com.tw/postwrite/chi/445456",
+   "start_date": "2026-10-09",
+   "subtype": "煙火",
+   "summary": "新竹市青草湖以「十月舒湖 Chill」為主題的秋季光影活動，每晚有湖畔燈光秀，週末與連假施放煙火，還有市集。",
+   "tags": [
+    "煙火",
+    "夜景",
+    "拍照",
+    "美食"
+   ],
+   "ticket": "unknown",
+   "time_text": "燈光秀每日 17:00 起每 30 分鐘一場；煙火 10/17、10/18、10/24、10/25、10/26 19:20（每場 300 秒）；週末 14:00 起舒湖 Chill 市集",
+   "tips": "煙火日 13:30-23:00 交通管制，會場不提供汽車停車位，管制期間有免費接駁車。只看到搜尋摘要，出發前請再確認。",
+   "title": "2026青草湖秋焰祭",
+   "verified_on": "2026-10-13",
+   "id": "2026-qingcao-lake-autumn-fire-festival"
   },
   {
    "category": "outdoor",
@@ -589,8 +662,9 @@
    ],
    "ticket": "free",
    "time_text": "夜間",
+   "tips": "10/9-10/26 秋焰祭期間煙火日有交通管制，出發前請再確認。",
    "title": "青草湖「光湖作用」",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-13",
    "id": "2026-qingcao-lake-light"
   },
   {
@@ -926,8 +1000,9 @@
     "週年慶"
    ],
    "ticket": "free",
+   "tips": "其他懶人包寫漢神巨蛋 2026 檔期尚未公布，出發前請再確認官方 DM。",
    "title": "高雄漢神巨蛋 週年慶",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-13",
    "id": "2026-sale-hanshin-arena"
   },
   {
@@ -954,8 +1029,9 @@
     "週年慶"
    ],
    "ticket": "free",
+   "tips": "尚未見官方 DM，出發前請再確認。",
    "title": "漢神洲際購物廣場 週年慶",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-13",
    "id": "2026-sale-hanshin-taichung"
   },
   {
@@ -1011,8 +1087,9 @@
     "週年慶"
    ],
    "ticket": "free",
+   "tips": "尚未見官方 DM，出發前請再確認。",
    "title": "大江購物中心 週年慶",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-13",
    "id": "2026-sale-metrowalk"
   },
   {

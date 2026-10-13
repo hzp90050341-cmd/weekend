@@ -99,6 +99,10 @@
     "hidden": true,
     "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
   },
+  "c-acc-e42428fa749f": {
+    "hidden": true,
+    "note": "纏花手作課程"
+  },
   "c-acc-e632aaff462f": {
     "hidden": true,
     "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
@@ -296,6 +300,10 @@
   "c-tour-40ddd7b665dc": {
     "category": "festival",
     "note": "農產節慶，非展覽"
+  },
+  "c-tour-4264b3a06c7a": {
+    "category": "outdoor",
+    "note": "草地野餐尋寶親子活動"
   },
   "c-tour-4384f15c5bad": {
     "hidden": true,
