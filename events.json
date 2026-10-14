@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-13",
+ "generated_at": "2026-10-14",
  "meta": {
   "added": 2,
-  "last_checked_at": "2026-10-13T11:05:00+08:00",
-  "next_focus": "週三中彰投雲；南方澳鯖魚節 2026 日期未公布；台灣國際咖啡展 2026 展期待官方；二水跑水節、赤嵌萬神節、SIF IN TAIPEI、Phgup 山屋祭、海安路萬聖市集日期待主辦公告；漢神巨蛋、新光三越信義、遠百、SOGO 滿額禮待官方 DM；銅鑼杭菊生活節 2026 日期待公告；光復節連假（10/24-26）活動補漏。",
+  "last_checked_at": "2026-10-14T10:55:00+08:00",
+  "next_focus": "週四嘉義、臺南；台中購物節 10/24 起（無單一場館，待決定是否收錄）；ATTA 臺中國際旅展秋季場、鹿港四季紅秋收 2026 日期待公告；南方澳鯖魚節、台灣國際咖啡展、銅鑼杭菊生活節 2026 日期待公告；二水跑水節、赤嵌萬神節、Phgup 山屋祭、海安路萬聖市集待主辦公告；SOGO 新竹／高雄、南紡、漢神巨蛋、遠百滿額禮待官方 DM；光復節連假（10/24-26）活動補漏。",
   "removed": 0,
-  "summary": "GitHub Actions 爬蟲今日尚未更新，沿用 10/12 08:41 結果（觀光署 175、文化部 553、Accupass 36；套用修正後 720 筆）；新增 2 筆爬蟲修正（淡水纏花手作課程隱藏、花蓮草地野餐尋寶改 outdoor）；無投稿；無過期活動需刪除；週二桃竹苗新增青草湖秋焰祭、新竹市城市願景展；複查 10 筆最舊資料，未見取消或延期，但漢神巨蛋週年慶、海安路萬聖市集、官田湖畔市集、Phgup 山屋祭仍查無 2026 官方公告，已加註出發前請再確認。WebFetch 仍被環境擋下。",
+  "summary": "GitHub Actions 爬蟲今日 08:28 已更新（觀光署 179、文化部 554、Accupass 34；套用修正後 728 筆）；新增 3 筆爬蟲修正（米倉劇場演出改 festival、Hearts2Hearts 快閃店改 exhibit、隱藏重複的臺中國際花毯節）；無投稿；無過期活動；週三中彰投雲新增潮派鹿港音樂祭（10/16-18）、日月潭紅茶文化季（10/17-18），新社花海、日月潭部落文創市集爬蟲已涵蓋；複查 10 筆最舊資料未見取消或延期，新光三越信義確認 10/15-11/08，防風少年展補開放時間；SOGO 新竹／高雄、南紡週年慶仍查無 2026 官方公告。WebFetch 仍被環境擋下。",
   "updated": 10
  },
  "events": [
@@ -44,6 +44,39 @@
    "title": "CARDPASS TAIWAN 2026",
    "verified_on": "2026-10-11",
    "id": "2026-cardpass-taiwan"
+  },
+  {
+   "category": "festival",
+   "end_date": "2026-10-18",
+   "highlights": [
+    "周湯豪、玖壹壹壓軸",
+    "日本 Nico Nico Tan Tan、韓國 Eldon",
+    "全國樂團大獎賽 30 強"
+   ],
+   "indoor": false,
+   "locations": [
+    {
+     "county": "彰化縣",
+     "town": "鹿港鎮",
+     "venue": "鹿港鎮立體育場"
+    }
+   ],
+   "organizer": "彰化縣政府",
+   "source_name": "三立新聞網（搜尋摘要）",
+   "source_type": "aggregator",
+   "source_url": "https://www.setn.com/news/1900499",
+   "start_date": "2026-10-16",
+   "subtype": "音樂節",
+   "summary": "彰化縣政府在鹿港體育場辦三天音樂祭，公布 72 組藝人。",
+   "tags": [
+    "音樂",
+    "戶外"
+   ],
+   "ticket": "unknown",
+   "tips": "票務與交通管制資訊未查到，出發前請再確認。",
+   "title": "2026潮派鹿港音樂祭",
+   "verified_on": "2026-10-14",
+   "id": "2026-chaopai-lukang-music-festival"
   },
   {
    "category": "exhibit",
@@ -1154,7 +1187,7 @@
    "ticket": "free",
    "tips": "出發前請再確認；首日滿額禮開店後很快換完。",
    "title": "新光三越台北南西店週年慶",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-14",
    "id": "2026-sale-skm-nanxi"
   },
   {
@@ -1222,7 +1255,9 @@
    "category": "mall",
    "end_date": "2026-11-08",
    "highlights": [
-    "滿額禮、刷卡回饋以百貨官方 DM 為準"
+    "10/15-11/08 連續 25 天，首 14 日滿仟送點",
+    "SKM MEN'S 一週年、日本展、寶可夢 30 週年主題",
+    "滿額禮門檻、刷卡回饋以新光三越官方 DM 為準"
    ],
    "indoor": true,
    "locations": [
@@ -1243,9 +1278,9 @@
     "滿額禮"
    ],
    "ticket": "free",
-   "tips": "各媒體整理的檔期不一致，出發前看新光三越官網。",
+   "tips": "A4、A8、A11 線上 DM 截至 10/14 尚未開放；出發前請再確認。",
    "title": "新光三越台北信義新天地 週年慶",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-14",
    "id": "2026-sale-skm-xinyi"
   },
   {
@@ -1272,8 +1307,9 @@
     "週年慶"
    ],
    "ticket": "free",
+   "tips": "10/14 複查查無 2026 官方公告，僅媒體檔期表；出發前請再確認。",
    "title": "遠東 SOGO 新竹店 週年慶",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-14",
    "id": "2026-sale-sogo-hsinchu"
   },
   {
@@ -1300,8 +1336,9 @@
     "週年慶"
    ],
    "ticket": "free",
+   "tips": "10/14 複查查無 2026 官方公告，僅媒體檔期表；出發前請再確認。",
    "title": "遠東 SOGO 高雄店 週年慶",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-14",
    "id": "2026-sale-sogo-kaohsiung"
   },
   {
@@ -1364,7 +1401,7 @@
    ],
    "ticket": "free",
    "title": "遠東 SOGO 台北忠孝館／復興館 週年慶",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-14",
    "id": "2026-sale-sogo-taipei"
   },
   {
@@ -1391,8 +1428,9 @@
     "週年慶"
    ],
    "ticket": "free",
+   "tips": "10/14 複查查無 2026 官方公告，僅媒體檔期表；出發前請再確認。",
    "title": "南紡購物中心 週年慶",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-14",
    "id": "2026-sale-tsrd"
   },
   {
@@ -1456,7 +1494,7 @@
    "ticket": "paid",
    "tips": "10/11 複查僅確認場地為華山，日期未見主辦公告，出發前請再確認",
    "title": "SIF IN TAIPEI 首爾插畫展",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-14",
    "id": "2026-sif-seoul-illustration"
   },
   {
@@ -1486,8 +1524,40 @@
    ],
    "ticket": "free",
    "title": "南瓜鎮之狐妖娶親",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-14",
    "id": "2026-skm-park-fox-wedding"
+  },
+  {
+   "category": "festival",
+   "end_date": "2026-10-18",
+   "highlights": [
+    "日月潭紅茶",
+    "10/17 晚上水社有花火音樂會"
+   ],
+   "indoor": false,
+   "locations": [
+    {
+     "county": "南投縣",
+     "town": "魚池鄉",
+     "venue": "日月潭向山遊客中心"
+    }
+   ],
+   "source_name": "美麗佳人（搜尋摘要）",
+   "source_type": "aggregator",
+   "source_url": "https://www.marieclaire.com.tw/lifestyle/travel/95860",
+   "start_date": "2026-10-17",
+   "subtype": "茶文化節",
+   "summary": "日月潭紅茶主題活動，在向山遊客中心辦兩天；當晚可接水社的花火音樂會。",
+   "tags": [
+    "美食",
+    "農產"
+   ],
+   "ticket": "unknown",
+   "time_text": "10:00-16:00",
+   "tips": "各來源日期不一，出發前請再確認。",
+   "title": "2026日月潭紅茶文化季",
+   "verified_on": "2026-10-14",
+   "id": "2026-sun-moon-lake-black-tea"
   },
   {
    "category": "festival",
@@ -1582,7 +1652,7 @@
    ],
    "ticket": "partial",
    "title": "2026 臺南藝術節",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-14",
    "id": "2026-tainan-arts-festival"
   },
   {
@@ -1756,17 +1826,20 @@
    "category": "exhibit",
    "end_date": "2026-12-06",
    "highlights": [
-    "原畫與場景",
+    "複製原畫展",
+    "場外 17 名角色等身立牌",
     "限定周邊"
    ],
    "indoor": true,
    "locations": [
     {
+     "address": "臺北市中山區南京西路12號（一館 9 樓活動會館）",
      "county": "臺北市",
      "town": "中山區",
      "venue": "新光三越台北南西店"
     }
    ],
+   "organizer": "台灣東販、movic",
    "price": "350–400 元",
    "source_name": "揪好玩展覽整理",
    "source_type": "media",
@@ -1779,8 +1852,9 @@
     "室內"
    ],
    "ticket": "paid",
+   "time_text": "週日至週四 11:00-21:30；週五、週六 11:00-22:00",
    "title": "WIND BREAKER 防風少年 5 週年展",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-10-14",
    "id": "2026-windbreaker-5th"
   }
  ]

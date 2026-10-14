@@ -87,6 +87,10 @@
     "note": "手創展屬展覽",
     "venue": "松山文創園區"
   },
+  "c-acc-bda145e36cd2": {
+    "category": "exhibit",
+    "note": "百貨快閃店，歸展覽"
+  },
   "c-acc-caace3bb8ccb": {
     "category": "market",
     "note": "百貨內的市集活動"
@@ -204,6 +208,10 @@
     "town": "中正區",
     "venue": "國立臺灣藝術教育館 第3展覽廳"
   },
+  "c-moc-a42dda3e935b": {
+    "category": "festival",
+    "note": "米倉劇場售票演出，非戶外活動"
+  },
   "c-moc-a716bcf44a0b": {
     "hidden": true,
     "note": "圖書館主題書展，非外出活動"
@@ -292,6 +300,10 @@
   "c-tour-2b8be9d15849": {
     "hidden": true,
     "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-2d14e643ab9c": {
+    "hidden": true,
+    "note": "與 c-tour-f44fd710d106 新社花海暨臺中國際花毯節重複"
   },
   "c-tour-30657e0b81c7": {
     "category": "exhibit",
