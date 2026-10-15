@@ -27,6 +27,10 @@
     "hidden": true,
     "note": "兒童理財課程"
   },
+  "c-acc-2b7201690263": {
+    "hidden": true,
+    "note": "藝廊經營講座，非展覽"
+  },
   "c-acc-33ef234976d3": {
     "hidden": true,
     "note": "TALKS 講座"
@@ -43,6 +47,10 @@
   "c-acc-5632a61fb33e": {
     "category": "outdoor",
     "note": "夜間街區導覽"
+  },
+  "c-acc-729e5014efaf": {
+    "category": "exhibit",
+    "note": "蘭姆酒展，改 exhibit"
   },
   "c-acc-7637c1cd14d3": {
     "category": "outdoor",
@@ -73,6 +81,10 @@
   "c-acc-96224b030c64": {
     "hidden": true,
     "note": "講座課程（展覽企劃、AI 工作流）"
+  },
+  "c-acc-992bfc9b8303": {
+    "hidden": true,
+    "note": "甜點 DIY 手作課程"
   },
   "c-acc-9a23f63e85be": {
     "note": "松山文創園區，光復南路133號",
