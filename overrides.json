@@ -1,4 +1,8 @@
 {
+  "c-acc-0021bae58e3e": {
+    "note": "台北世貿一館位於信義區",
+    "town": "信義區"
+  },
   "c-acc-01ff7674a81c": {
     "hidden": true,
     "note": "市集券預購，非活動本身"
@@ -166,6 +170,10 @@
   "c-moc-62dfdb05dd88": {
     "hidden": true,
     "note": "VIP 升級加購，非活動"
+  },
+  "c-moc-661481ccdec3": {
+    "category": "festival",
+    "note": "兒童劇演出"
   },
   "c-moc-6ccfdb1d9f44": {
     "category": "festival",

@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-15",
+ "generated_at": "2026-10-16",
  "meta": {
-  "added": 1,
-  "last_checked_at": "2026-10-15T11:20:00+08:00",
-  "next_focus": "週五高雄、屏東、澎湖；台中購物節 10/24 起（無單一場館，待決定是否收錄）；漁光島火舞藝術節、關子嶺溫泉美食節 2026 是否舉辦待公告；ATTA 臺中國際旅展秋季場、鹿港四季紅秋收、南方澳鯖魚節、台灣國際咖啡展、銅鑼杭菊生活節 2026 日期待公告；二水跑水節、赤嵌萬神節、Phgup 山屋祭、海安路萬聖市集待主辦公告；SOGO 新竹／高雄、南紡、漢神巨蛋、耐斯、遠百滿額禮待官方 DM；光復節連假（10/24-26）活動補漏。",
-  "removed": 1,
-  "summary": "GitHub Actions 爬蟲今日 08:02 已更新（觀光署 179、文化部 552、Accupass 33；套用修正後 722 筆）；新增 3 筆爬蟲修正（隱藏藝廊講座、甜點 DIY 課程；Rum Show 改 exhibit）；無投稿；刪除已結束的新光三越嘉義垂楊週年慶；週四嘉南新增第34屆嘉義市國際管樂節（12/18-1/1），故宮南院亞洲藝術節爬蟲已涵蓋；漁光島火舞節、關子嶺溫泉美食節、耐斯週年慶查無 2026 公告；複查 10 筆最舊資料未見取消或延期，廣三SOGO 補註各來源日期不一，池上秋收補註文化部列 10/23 起。WebFetch 仍被環境擋下。",
-  "updated": 11
+  "added": 4,
+  "last_checked_at": "2026-10-16T10:55:00+08:00",
+  "next_focus": "週六宜蘭、花蓮、臺東、金門、連江；台中購物節 10/24 起（無單一場館，待決定是否收錄）；屏東風域祭、高雄萬聖節（衛武營）、太平洋百貨屏東店週年慶 2026 待公告；漁光島火舞藝術節、關子嶺溫泉美食節是否舉辦待公告；ATTA 臺中國際旅展秋季場、鹿港四季紅秋收、南方澳鯖魚節、台灣國際咖啡展、銅鑼杭菊生活節日期待公告；二水跑水節、赤嵌萬神節、Phgup 山屋祭、海安路萬聖市集待主辦公告；SOGO 新竹／高雄、南紡、漢神巨蛋、耐斯、遠百滿額禮待官方 DM；光復節連假（10/24-26）活動補漏；複查板橋大遠百、統一時代台北、新光三越小北門、小王子展、ITF 旅展。",
+  "removed": 0,
+  "summary": "GitHub Actions 爬蟲今日 07:46 已更新（觀光署 186、文化部 561、Accupass 35；套用修正後 739 筆）；新增 2 筆爬蟲修正（世貿寶石展補信義區、兒童劇改 festival）；無投稿；無過期活動需刪除；週五高雄屏東澎湖：打狗祭、皮克斯展、澎湖跨海馬拉松、落山風藝術季爬蟲已涵蓋，新增高雄 4 家百貨週年慶（夢時代至 10/18、新光三越左營 11/5 起、大立 11/13 起、漢神百貨 11/20 起，僅媒體檔期表）；屏東風域祭、高雄萬聖節、太平洋屏東週年慶查無 2026 公告；複查 10 筆最舊資料，花蓮溫泉季、CARDPASS、福隆沙雕、遊艇展、奇美法老展確認如期，未見取消或延期。WebFetch 仍被環境擋下。",
+  "updated": 5
  },
  "events": [
   {
@@ -42,7 +42,7 @@
    "ticket": "paid",
    "time_text": "10:00-18:00（17:30 停止售票入場）",
    "title": "CARDPASS TAIWAN 2026",
-   "verified_on": "2026-10-11",
+   "verified_on": "2026-10-16",
    "id": "2026-cardpass-taiwan"
   },
   {
@@ -129,6 +129,7 @@
    "source_name": "食尚玩家",
    "source_type": "media",
    "source_url": "https://supertaste.tvbs.com.tw/kids/361745",
+   "start_date": "2026-01-29",
    "subtype": "歷史文物展",
    "summary": "280 件古埃及珍寶來台。",
    "tags": [
@@ -137,7 +138,7 @@
    ],
    "ticket": "paid",
    "title": "《埃及之王：法老》大展",
-   "verified_on": "2026-10-11",
+   "verified_on": "2026-10-16",
    "id": "2026-chimei-pharaoh"
   },
   {
@@ -233,7 +234,7 @@
    "ticket": "paid",
    "time_text": "平日 8:00–19:00，假日 8:00–19:30",
    "title": "2026 福隆國際沙雕藝術季",
-   "verified_on": "2026-10-11",
+   "verified_on": "2026-10-16",
    "id": "2026-fulong-sand-sculpture"
   },
   {
@@ -368,7 +369,7 @@
    ],
    "ticket": "partial",
    "title": "2026 花蓮太平洋溫泉季",
-   "verified_on": "2026-10-11",
+   "verified_on": "2026-10-16",
    "id": "2026-hualien-hot-spring-festival"
   },
   {
@@ -836,6 +837,38 @@
   },
   {
    "category": "mall",
+   "end_date": "2026-10-18",
+   "highlights": [
+    "本週日 10/18 最後一天（媒體整理）",
+    "滿額禮、刷卡回饋以官方 DM 為準"
+   ],
+   "indoor": true,
+   "locations": [
+    {
+     "address": "高雄市前鎮區中華五路789號",
+     "county": "高雄市",
+     "town": "前鎮區",
+     "venue": "夢時代購物中心"
+    }
+   ],
+   "organizer": "統一夢時代",
+   "source_name": "2026 全台百貨週年慶時間表（sc2100）",
+   "source_type": "aggregator",
+   "source_url": "https://sc2100.com/2026/09/09/2026-anniversary/",
+   "start_date": "2026-09-24",
+   "subtype": "週年慶",
+   "summary": "高雄夢時代週年慶，媒體整理檔期至 10/18，本週末是最後兩天。",
+   "tags": [
+    "週年慶"
+   ],
+   "ticket": "free",
+   "tips": "僅媒體週年慶檔期表；出發前請再確認。",
+   "title": "夢時代購物中心 週年慶",
+   "verified_on": "2026-10-16",
+   "id": "2026-sale-dream-mall"
+  },
+  {
+   "category": "mall",
    "end_date": "2026-11-01",
    "highlights": [
     "化妝品、內睡衣當日單筆滿 2,000 送 200 十足券",
@@ -1074,6 +1107,38 @@
   },
   {
    "category": "mall",
+   "end_date": "2026-12-20",
+   "highlights": [
+    "與漢神巨蛋週年慶是不同檔期",
+    "滿額禮、刷卡回饋以官方 DM 為準"
+   ],
+   "indoor": true,
+   "locations": [
+    {
+     "address": "高雄市前金區成功一路266號",
+     "county": "高雄市",
+     "town": "前金區",
+     "venue": "漢神百貨"
+    }
+   ],
+   "organizer": "漢神百貨",
+   "source_name": "美麗佳人 2026 週年慶檔期表",
+   "source_type": "media",
+   "source_url": "https://www.marieclaire.com.tw/beauty/news/95804",
+   "start_date": "2026-11-20",
+   "subtype": "週年慶",
+   "summary": "高雄漢神百貨（成功路本館）週年慶，各媒體整理約 11 月下旬至 12/20。",
+   "tags": [
+    "週年慶"
+   ],
+   "ticket": "free",
+   "tips": "各來源日期不一（11/18、11/19、11/20 起，12/20 或 12/21 止），取較短區間；出發前請再確認。",
+   "title": "漢神百貨 週年慶",
+   "verified_on": "2026-10-16",
+   "id": "2026-sale-hanshin-kaohsiung"
+  },
+  {
+   "category": "mall",
    "end_date": "2026-11-17",
    "highlights": [
     "滿額禮、刷卡回饋以官方 DM 為準"
@@ -1288,6 +1353,38 @@
   },
   {
    "category": "mall",
+   "end_date": "2026-11-29",
+   "highlights": [
+    "預購約 10/30-11/2（媒體整理）",
+    "滿額禮、刷卡回饋以百貨官方 DM 為準"
+   ],
+   "indoor": true,
+   "locations": [
+    {
+     "address": "高雄市左營區高鐵路123號",
+     "county": "高雄市",
+     "town": "左營區",
+     "venue": "新光三越高雄左營店"
+    }
+   ],
+   "organizer": "新光三越百貨",
+   "source_name": "2026 全台百貨週年慶時間表（sc2100）",
+   "source_type": "aggregator",
+   "source_url": "https://sc2100.com/2026/09/09/2026-anniversary/",
+   "start_date": "2026-11-05",
+   "subtype": "週年慶",
+   "summary": "新光三越左營店週年慶，媒體整理檔期 11/5 至 11/29，預購約 10/30 起。",
+   "tags": [
+    "週年慶"
+   ],
+   "ticket": "free",
+   "tips": "僅媒體週年慶檔期表，查無官方公告；出發前請再確認。",
+   "title": "新光三越高雄左營店 週年慶",
+   "verified_on": "2026-10-16",
+   "id": "2026-sale-skm-zuoying"
+  },
+  {
+   "category": "mall",
    "end_date": "2026-11-15",
    "highlights": [
     "滿額禮、刷卡回饋以百貨官方 DM 為準"
@@ -1406,6 +1503,38 @@
    "title": "遠東 SOGO 台北忠孝館／復興館 週年慶",
    "verified_on": "2026-10-14",
    "id": "2026-sale-sogo-taipei"
+  },
+  {
+   "category": "mall",
+   "end_date": "2026-12-02",
+   "highlights": [
+    "預購約 10/21-11/10（媒體整理）",
+    "滿額禮、刷卡回饋以官方 DM 為準"
+   ],
+   "indoor": true,
+   "locations": [
+    {
+     "address": "高雄市前金區五福三路57號",
+     "county": "高雄市",
+     "town": "前金區",
+     "venue": "大立百貨"
+    }
+   ],
+   "organizer": "大立百貨",
+   "source_name": "2026 全台百貨週年慶時間表（sc2100）",
+   "source_type": "aggregator",
+   "source_url": "https://sc2100.com/2026/09/09/2026-anniversary/",
+   "start_date": "2026-11-13",
+   "subtype": "週年慶",
+   "summary": "高雄大立百貨週年慶，各媒體整理約 11 月中至 12 月初。",
+   "tags": [
+    "週年慶"
+   ],
+   "ticket": "free",
+   "tips": "各來源日期不一（11/11、11/12、11/13 起，12/2 或 12/3 止），取較短區間；出發前請再確認。",
+   "title": "大立百貨 週年慶",
+   "verified_on": "2026-10-16",
+   "id": "2026-sale-talee"
   },
   {
    "category": "mall",
@@ -1727,7 +1856,7 @@
    "ticket": "unknown",
    "tips": "外貿協會開放預先登記參觀；各碼頭鄉鎮區依地圖標示，出發前請再確認",
    "title": "2026 台灣國際遊艇展",
-   "verified_on": "2026-10-11",
+   "verified_on": "2026-10-16",
    "id": "2026-taiwan-boat-show"
   },
   {
