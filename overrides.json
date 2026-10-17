@@ -419,9 +419,17 @@
     "hidden": true,
     "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
   },
+  "c-tour-93cc98104b50": {
+    "category": "outdoor",
+    "note": "北橫接駁集點旅遊活動"
+  },
   "c-tour-94f40c79c7fb": {
     "category": "festival",
     "note": "熱氣球活動，非市集"
+  },
+  "c-tour-975f2f5dc0e8": {
+    "category": "outdoor",
+    "note": "北橫集點旅遊活動"
   },
   "c-tour-985654cd65cc": {
     "hidden": true,
