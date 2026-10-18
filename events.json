@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-17",
+ "generated_at": "2026-10-18",
  "meta": {
-  "added": 0,
-  "last_checked_at": "2026-10-17T10:55:00+08:00",
-  "next_focus": "週日全台補漏；光復節連假（10/24-26）活動補漏；台中購物節 10/24 起（無單一場館，待決定是否收錄）；屏東風域祭、高雄萬聖節（衛武營）、太平洋百貨屏東店週年慶 2026 待公告；南方澳鯖魚節 2026 日期待公告；漁光島火舞藝術節、關子嶺溫泉美食節是否舉辦待公告；ATTA 臺中國際旅展秋季場、鹿港四季紅秋收、台灣國際咖啡展、銅鑼杭菊生活節日期待公告；赤嵌萬神節、Phgup 山屋祭、海安路萬聖市集待主辦公告；SOGO 新竹／高雄、南紡、漢神巨蛋、耐斯、京站、微風滿額禮與檔期待官方 DM；新光三越小北門週年慶日期仍僅媒體檔期表。",
-  "removed": 0,
-  "summary": "GitHub Actions 爬蟲今日 07:45 已更新（觀光署 197、文化部 558、Accupass 34；套用修正後 747 筆）；新增 2 筆爬蟲修正（探索北橫集點活動改 outdoor）；無投稿；無過期活動需刪除；週六宜蘭花蓮臺東金門連江：興創村市集、傳藝嬉遊梨園、PASIWALI、池上秋收、花蓮石雕季、金門坑道音樂節等爬蟲已涵蓋，南方澳鯖魚節、新月廣場週年慶、莒光秋季活動查無足夠 2026 資訊未收錄；複查 10 筆最舊資料（ITF 補時間票價、小王子／六福村／華泰補開放時間），未見取消或延期。WebFetch 仍被環境擋下。",
+  "added": 4,
+  "last_checked_at": "2026-10-18T11:05:00+08:00",
+  "next_focus": "光復節連假（10/24-26）活動補漏；台灣國際咖啡展 11/13-16 僅見第三方、場館待確認；漢神巨蛋酷黑萬聖魔法嘉年華日期待公告；屏東風域祭、衛武營萬聖節 2026 待公告；南方澳鯖魚節 2026 日期待公告；ATTA 臺中國際旅展秋季場、耐斯廣場週年慶日期待公告；京站週年慶待官方 DM；SOGO 新竹／高雄、南紡、漢神巨蛋、微風滿額禮待官方 DM；山谷燈光節梨山場日期待確認；官田葫蘆埤市集仍僅市集網站來源。",
+  "removed": 1,
+  "summary": "GitHub Actions 爬蟲今日 07:16 已更新（觀光署 183、文化部 548、Accupass 34；套用修正後 724 筆），新項目無需修正；無投稿；刪除過期 1 筆（廣三SOGO 週年慶）；週日全台補漏：新增微風信義／松高／南山週年慶（10/15-11/1）與京站週年慶（11/19-12/15，僅部落格來源）；複查 10 筆最舊資料（桃園萬聖城補 Snoopy 主題、時間與免費入場；天母搞什麼鬼補時間；山谷燈光節註明谷關場至 11/1），未見取消或延期。WebFetch 仍被環境擋下。",
   "updated": 10
  },
  "events": [
@@ -532,7 +532,7 @@
    "ticket": "free",
    "tips": "日期取自市集整理網站，搜尋未見 2026 年 10 月官方公告，出發前請再確認。",
    "title": "2026 官田葫蘆埤湖畔市集",
-   "verified_on": "2026-10-13",
+   "verified_on": "2026-10-18",
    "id": "2026-market-guantian-lakeside"
   },
   {
@@ -587,7 +587,7 @@
    "ticket": "free",
    "tips": "日期取自市集整理網站，出發前看官方粉專確認。",
    "title": "iFG 遠雄廣場 週末市集",
-   "verified_on": "2026-10-13",
+   "verified_on": "2026-10-18",
    "id": "2026-market-ifg-hsinchu"
   },
   {
@@ -818,6 +818,99 @@
   },
   {
    "category": "mall",
+   "end_date": "2026-11-01",
+   "highlights": [
+    "微風 25 週年",
+    "滿額禮、刷卡回饋以微風官方 DM 為準"
+   ],
+   "indoor": true,
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "信義區",
+     "venue": "微風南山"
+    }
+   ],
+   "organizer": "微風集團",
+   "source_name": "美麗佳人",
+   "source_type": "media",
+   "source_url": "https://www.marieclaire.com.tw/fashion/news/96349",
+   "start_date": "2026-10-15",
+   "subtype": "週年慶",
+   "summary": "微風南山週年慶，與微風信義、松高、南山同步，今年為微風 25 週年。",
+   "tags": [
+    "週年慶"
+   ],
+   "ticket": "free",
+   "tips": "日期取自媒體報導，部分整理未列，出發前請再確認。",
+   "title": "微風南山 週年慶",
+   "verified_on": "2026-10-18",
+   "id": "2026-sale-breeze-nanshan"
+  },
+  {
+   "category": "mall",
+   "end_date": "2026-11-01",
+   "highlights": [
+    "微風 25 週年",
+    "滿額禮、刷卡回饋以微風官方 DM 為準"
+   ],
+   "indoor": true,
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "信義區",
+     "venue": "微風松高"
+    }
+   ],
+   "organizer": "微風集團",
+   "source_name": "美麗佳人",
+   "source_type": "media",
+   "source_url": "https://www.marieclaire.com.tw/fashion/news/96349",
+   "start_date": "2026-10-15",
+   "subtype": "週年慶",
+   "summary": "微風松高週年慶，與微風信義、松高、南山同步，今年為微風 25 週年。",
+   "tags": [
+    "週年慶"
+   ],
+   "ticket": "free",
+   "tips": "日期取自媒體報導，部分整理未列，出發前請再確認。",
+   "title": "微風松高 週年慶",
+   "verified_on": "2026-10-18",
+   "id": "2026-sale-breeze-songgao"
+  },
+  {
+   "category": "mall",
+   "end_date": "2026-11-01",
+   "highlights": [
+    "微風 25 週年",
+    "滿額禮、刷卡回饋以微風官方 DM 為準"
+   ],
+   "indoor": true,
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "信義區",
+     "venue": "微風信義"
+    }
+   ],
+   "organizer": "微風集團",
+   "source_name": "美麗佳人",
+   "source_type": "media",
+   "source_url": "https://www.marieclaire.com.tw/fashion/news/96349",
+   "start_date": "2026-10-15",
+   "subtype": "週年慶",
+   "summary": "微風信義週年慶，與微風信義、松高、南山同步，今年為微風 25 週年。",
+   "tags": [
+    "週年慶"
+   ],
+   "ticket": "free",
+   "tips": "日期取自媒體報導，部分整理未列，出發前請再確認。",
+   "title": "微風信義 週年慶",
+   "verified_on": "2026-10-18",
+   "id": "2026-sale-breeze-xinyi"
+  },
+  {
+   "category": "mall",
    "end_date": "2026-10-28",
    "highlights": [
     "滿額禮、刷卡回饋以百貨官方 DM 為準"
@@ -995,7 +1088,7 @@
    "ticket": "free",
    "tips": "各來源日期不一（另有整理列至 11/29），取較短檔期；出發前請再確認",
    "title": "高雄大遠百 週年慶",
-   "verified_on": "2026-10-12",
+   "verified_on": "2026-10-18",
    "id": "2026-sale-feds-kaohsiung"
   },
   {
@@ -1054,7 +1147,7 @@
    "ticket": "free",
    "tips": "各來源日期不一（另有整理列至 11/29），取較短檔期；出發前請再確認",
    "title": "台南大遠百成功店 週年慶",
-   "verified_on": "2026-10-12",
+   "verified_on": "2026-10-18",
    "id": "2026-sale-feds-tainan"
   },
   {
@@ -1234,6 +1327,37 @@
    "title": "大江購物中心 週年慶",
    "verified_on": "2026-10-13",
    "id": "2026-sale-metrowalk"
+  },
+  {
+   "category": "mall",
+   "end_date": "2026-12-15",
+   "highlights": [
+    "全面 6 折起",
+    "Q 卡友當日滿 3,800 元送 500 元（依理財部落格整理）"
+   ],
+   "indoor": true,
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "大同區",
+     "venue": "京站時尚廣場"
+    }
+   ],
+   "organizer": "京站時尚廣場",
+   "source_name": "袋鼠金融",
+   "source_type": "aggregator",
+   "source_url": "https://roo.cash/blog/anniversary-sale-qsquare",
+   "start_date": "2026-11-19",
+   "subtype": "週年慶",
+   "summary": "台北車站旁京站週年慶，全面 6 折起。",
+   "tags": [
+    "週年慶"
+   ],
+   "ticket": "free",
+   "tips": "日期僅見理財部落格整理，尚未見官方 DM，出發前請再確認。",
+   "title": "京站時尚廣場 週年慶",
+   "verified_on": "2026-10-18",
+   "id": "2026-sale-qsquare"
   },
   {
    "category": "mall",
@@ -1451,36 +1575,6 @@
    "title": "遠東 SOGO 高雄店 週年慶",
    "verified_on": "2026-10-14",
    "id": "2026-sale-sogo-kaohsiung"
-  },
-  {
-   "category": "mall",
-   "end_date": "2026-10-17",
-   "highlights": [
-    "滿額禮、刷卡回饋以百貨官方 DM 為準"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "county": "臺中市",
-     "town": "西區",
-     "venue": "廣三SOGO百貨"
-    }
-   ],
-   "source_name": "美麗佳人週年慶檔期表（搜尋摘要）",
-   "source_type": "aggregator",
-   "source_url": "https://www.marieclaire.com.tw/beauty/news/95804",
-   "start_date": "2026-09-19",
-   "subtype": "週年慶",
-   "summary": "廣三SOGO百貨年度週年慶檔期，想補貨、買保養品的人可以排進行程。",
-   "tags": [
-    "週年慶",
-    "滿額禮"
-   ],
-   "ticket": "free",
-   "tips": "各來源日期不一（美麗佳人列 9/17-11/11，另有整理列 9/19-10/17），取較短的 10/17；出發前請再確認。",
-   "title": "廣三SOGO 週年慶",
-   "verified_on": "2026-10-15",
-   "id": "2026-sale-sogo-kuangsan"
   },
   {
    "category": "mall",
@@ -1730,7 +1824,7 @@
    "ticket": "unknown",
    "tips": "煙火場次與日期以官方公告為準。",
    "title": "日月潭花火音樂嘉年華",
-   "verified_on": "2026-10-12",
+   "verified_on": "2026-10-18",
    "id": "2026-sun-moon-lake-fireworks"
   },
   {
@@ -1763,7 +1857,7 @@
    "ticket": "free",
    "tips": "假日人潮多，建議搭公車或停遠一點走過去。",
    "title": "2026 臺中爵士音樂節",
-   "verified_on": "2026-10-12",
+   "verified_on": "2026-10-18",
    "id": "2026-taichung-jazz-festival"
   },
   {
@@ -1824,7 +1918,7 @@
    ],
    "ticket": "unknown",
    "title": "臺北溫泉季",
-   "verified_on": "2026-10-12",
+   "verified_on": "2026-10-18",
    "id": "2026-taipei-hot-spring-festival"
   },
   {
@@ -1874,30 +1968,34 @@
    "category": "festival",
    "end_date": "2026-11-01",
    "highlights": [
-    "國際人氣角色",
-    "親子魔幻派對"
+    "首度與 Snoopy 合作，7 個主題裝置",
+    "10/24 開城演唱會",
+    "變裝大賽、親子劇場、DJ 電音派對",
+    "每晚 18:00 起動畫秀每半小時一次"
    ],
    "indoor": false,
    "locations": [
     {
+     "address": "桃園藝文廣場、綠1公園、綠2公園",
      "county": "桃園市",
      "town": "桃園區",
      "venue": "桃園藝文廣場"
     }
    ],
-   "source_name": "食尚玩家",
+   "source_name": "民報",
    "source_type": "media",
-   "source_url": "https://supertaste.tvbs.com.tw/kids/361745",
+   "source_url": "https://www.peoplenews.tw/?p=59890",
    "start_date": "2026-10-24",
    "subtype": "萬聖節",
-   "summary": "萬聖節親子派對，有國際人氣角色。",
+   "summary": "Snoopy 主題萬聖節，免費入場，連續 9 天。",
    "tags": [
     "萬聖節",
     "親子"
    ],
-   "ticket": "unknown",
+   "ticket": "free",
+   "time_text": "平日 17:00-21:00、假日 12:00-22:00",
    "title": "桃園萬聖城",
-   "verified_on": "2026-10-12",
+   "verified_on": "2026-10-18",
    "id": "2026-taoyuan-halloween-city"
   },
   {
@@ -1927,9 +2025,10 @@
     "免費"
    ],
    "ticket": "free",
+   "time_text": "10/24 13:00 起（天母運動公園）；10/23 19:00-21:30 百鬼夜行討糖",
    "tips": "各來源日期不一（另有整理列 10/23-24），取較短日期；遇天候可能延期，出發前請再確認",
    "title": "天母搞什麼鬼",
-   "verified_on": "2026-10-12",
+   "verified_on": "2026-10-18",
    "id": "2026-tianmu-halloween"
   },
   {
@@ -1958,10 +2057,10 @@
     "山區"
    ],
    "ticket": "unknown",
-   "time_text": "夜間",
-   "tips": "山路夜間行車注意安全，出發前查台8線路況。",
+   "time_text": "谷關場每日 17:30-21:30（9/4-11/1）；梨山場依官方公告",
+   "tips": "各來源日期不一（谷關場報導至 11/1）；山路夜間行車注意安全，出發前查台8線路況，出發前請再確認。",
    "title": "山谷燈光節",
-   "verified_on": "2026-10-12",
+   "verified_on": "2026-10-18",
    "id": "2026-valley-light-festival"
   },
   {
