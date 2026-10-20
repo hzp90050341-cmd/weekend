@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-19",
+ "generated_at": "2026-10-20",
  "meta": {
-  "added": 1,
-  "last_checked_at": "2026-10-19T11:30:00+08:00",
-  "next_focus": "光復節連假（10/24-26）活動補漏；海安路萬聖節市集 2026 日期僅見往年資料待確認；微風廣場（復興）週年慶日期待公告；台灣國際咖啡展 11/13-16 場館待確認；漢神巨蛋酷黑萬聖魔法嘉年華日期待公告；屏東風域祭、衛武營萬聖節 2026 待公告；南方澳鯖魚節 2026 日期待公告；ATTA 臺中國際旅展秋季場、耐斯廣場週年慶日期待公告；京站週年慶待官方 DM；SOGO 新竹／高雄、南紡、漢神巨蛋、微風滿額禮待官方 DM；基隆美術館特展開放時間票價待確認；官田葫蘆埤市集仍僅市集網站來源。",
-  "removed": 8,
-  "summary": "GitHub Actions 爬蟲今日 07:27 已更新（觀光署 166、文化部 532、Accupass 32；套用修正後 691 筆），新增 4 筆無需修正；無投稿；刪除過期 8 筆；週一臺北／新北／基隆：新增基隆美術館「流動的港口・世界的基隆」特展（10/16-2027/1/24，僅搜尋摘要），府中奇幻城、臺北溫泉季已涵蓋；複查 10 筆最舊資料（信義新天地開跑日各來源不一改 10/16、補 A11 鬼滅之刃快閃；漢神巨蛋補酷洛米主題；青草湖秋焰祭補蠟筆小新），未見取消或延期。WebFetch 仍被環境擋下。",
-  "updated": 10
+  "added": 3,
+  "last_checked_at": "2026-10-20T11:20:00+08:00",
+  "next_focus": "光復節連假（10/24-26）活動補漏；新光三越桃園站前店週年慶 10/1 起、結束日未公布；遠東巨城週年慶日期待公告；新埔柿餅節 2026 日期待公告；苗栗 11 月活動查無；海安路萬聖節市集 2026 日期僅見往年資料待確認；微風廣場（復興）週年慶日期待公告；台灣國際咖啡展 11/13-16 場館待確認；漢神巨蛋酷黑萬聖魔法嘉年華日期待公告；衛武營萬聖節 2026 待公告；南方澳鯖魚節 2026 日期待公告；ATTA 臺中國際旅展秋季場、耐斯廣場週年慶日期待公告；京站週年慶待官方 DM；SOGO 新竹／高雄、南紡、漢神巨蛋、微風滿額禮待官方 DM；SKM Park 狐妖娶親開始日未知；基隆美術館特展開放時間票價待確認；官田葫蘆埤市集仍僅市集網站來源。",
+  "removed": 0,
+  "summary": "GitHub Actions 爬蟲今日 08:30 已更新（觀光署 167、文化部 539、Accupass 33；套用修正後 700 筆），新增修正 3 筆（2 筆補鄉鎮區、1 筆工作坊隱藏）；無投稿；無過期需刪除；週二桃竹苗：新增新竹市玻璃藝術節（10/17-11/15），另補屏東風域祭（10/23-25）、臺南藝術雙年展（10/31 起）；新竹市萬聖節依中央社訊息平台更新市集地點與時刻；複查 10 筆最舊資料未見取消或延期。WebFetch 仍被環境擋下，新增皆為搜尋摘要。",
+  "updated": 11
  },
  "events": [
   {
@@ -207,9 +207,9 @@
    "category": "festival",
    "end_date": "2026-10-31",
    "highlights": [
-    "超人力霸王裝置免費拍照",
-    "10/31 萬聖大遊行",
-    "10/31 府前廣場美食文創市集"
+    "超人力霸王主題展覽、扭蛋與打卡點",
+    "10/31 19:00 萬聖大遊行自府前廣場出發",
+    "10/31 16:00 起二二八公園「星際能量市集」約 20 攤"
    ],
    "indoor": false,
    "locations": [
@@ -221,9 +221,9 @@
     }
    ],
    "organizer": "新竹市政府",
-   "source_name": "食尚玩家（搜尋摘要）",
+   "source_name": "中央社訊息平台（搜尋摘要）",
    "source_type": "aggregator",
-   "source_url": "https://supertaste.tvbs.com.tw/hot/361745",
+   "source_url": "https://www.cna.com.tw/postwrite/chi/447235",
    "start_date": "2026-10-16",
    "subtype": "萬聖節",
    "summary": "新竹市萬聖節系列活動，有超人力霸王裝置拍照、變裝遊行與美食文創市集，適合親子與喜歡變裝的人。",
@@ -234,11 +234,55 @@
     "文創"
    ],
    "ticket": "unknown",
-   "time_text": "美食文創市集 10/31(六) 16:00-21:00；萬聖大遊行 10/31 19:00 自府前廣場出發",
-   "tips": "只看到搜尋摘要，活動細節與裝置地點出發前請再確認。",
+   "time_text": "10/16-10/31；10/31 星際能量市集 16:00 起（二二八公園）、主舞台 18:15 起、遊行 19:00 自府前廣場出發",
+   "tips": "市集地點各來源不一（府前廣場／二二八公園），以中央社訊息平台為準；出發前請再確認。",
    "title": "2026 新竹市萬聖節",
-   "verified_on": "2026-10-15",
+   "verified_on": "2026-10-20",
    "id": "2026-hsinchu-city-halloween"
+  },
+  {
+   "booking_required": false,
+   "category": "exhibit",
+   "end_date": "2026-11-15",
+   "highlights": [
+    "串聯玻璃工藝博物館、風livehouse、新竹春室玻璃工坊",
+    "新竹公園周邊場域展出",
+    "新竹市民免費入館"
+   ],
+   "indoor": true,
+   "locations": [
+    {
+     "address": "新竹市東區東大路一段2號",
+     "county": "新竹市",
+     "town": "東區",
+     "venue": "新竹市玻璃工藝博物館"
+    },
+    {
+     "address": "",
+     "county": "新竹市",
+     "town": "東區",
+     "venue": "新竹公園"
+    }
+   ],
+   "organizer": "新竹市政府文化局",
+   "price": "全票50元、優惠票30元；新竹市民、65歲以上長者、6歲以下兒童及身心障礙者免費",
+   "source_name": "中央社訊息平台（搜尋摘要）",
+   "source_type": "aggregator",
+   "source_url": "https://www.cna.com.tw/postwrite/chi/446854",
+   "start_date": "2026-10-17",
+   "subtype": "藝術展",
+   "summary": "新竹市年度玻璃藝術節，串聯玻璃工藝博物館、風livehouse、春室玻璃工坊與新竹公園周邊展出玻璃藝術。",
+   "tags": [
+    "文創",
+    "拍照",
+    "親子"
+   ],
+   "ticket": "partial",
+   "time_text": "週二至週五 9:00-17:00；週六、週日 9:00-18:00",
+   "tips": "只看到搜尋摘要，各場館開放時間出發前請再確認；洽詢 03-5626091。",
+   "title": "2026新竹市玻璃藝術節《玻璃大時代》",
+   "verified_on": "2026-10-20",
+   "id": "2026-hsinchu-glass-art-festival"
   },
   {
    "category": "festival",
@@ -584,6 +628,41 @@
   },
   {
    "category": "festival",
+   "end_date": "2026-10-25",
+   "highlights": [
+    "排灣族鼻笛、高士古謠演出",
+    "遊客中心建築光雕聲光秀",
+    "大風子音樂會 26 組團隊演出"
+   ],
+   "indoor": false,
+   "locations": [
+    {
+     "address": "",
+     "county": "屏東縣",
+     "town": "牡丹鄉",
+     "venue": "牡丹遊客中心"
+    }
+   ],
+   "organizer": "屏東縣政府",
+   "source_name": "NOWnews（搜尋摘要）",
+   "source_type": "aggregator",
+   "source_url": "https://www.nownews.com/news/6884095",
+   "start_date": "2026-10-23",
+   "subtype": "音樂節",
+   "summary": "恆春半島落山風季的年度活動，開幕有排灣族鼻笛、高士古謠與光雕秀，接著三天大風子音樂會。",
+   "tags": [
+    "拍照",
+    "夜景"
+   ],
+   "ticket": "unknown",
+   "time_text": "10/23 開幕，當晚起「大風子音樂會」連續三天",
+   "tips": "戶外活動，落山風強請注意保暖與天候；只看到搜尋摘要，節目時刻與交通出發前請再確認。",
+   "title": "2026屏東風域祭",
+   "verified_on": "2026-10-20",
+   "id": "2026-pingtung-wind-festival"
+  },
+  {
+   "category": "festival",
    "end_date": "2026-10-26",
    "highlights": [
     "蠟筆小新主題，巨型小新氣偶斜躺湖面",
@@ -681,7 +760,7 @@
    "ticket": "free",
    "tips": "資訊取自整理網站搜尋摘要，節目表以官方粉專為準，出發前請再確認。",
    "title": "2026搖滾台中",
-   "verified_on": "2026-10-15",
+   "verified_on": "2026-10-20",
    "id": "2026-rock-taichung"
   },
   {
@@ -872,7 +951,7 @@
    "ticket": "free",
    "tips": "各來源日期不一（美麗佳人寫到 11/15，Roo.Cash 寫到 11/1），取較短的 11/1；出發前請再確認。",
    "title": "遠百信義 A13 週年慶",
-   "verified_on": "2026-10-15",
+   "verified_on": "2026-10-20",
    "id": "2026-sale-feds-a13"
   },
   {
@@ -1357,7 +1436,7 @@
    "ticket": "free",
    "tips": "10/14 複查查無 2026 官方公告，僅媒體檔期表；出發前請再確認。",
    "title": "遠東 SOGO 新竹店 週年慶",
-   "verified_on": "2026-10-14",
+   "verified_on": "2026-10-20",
    "id": "2026-sale-sogo-hsinchu"
   },
   {
@@ -1386,7 +1465,7 @@
    "ticket": "free",
    "tips": "10/14 複查查無 2026 官方公告，僅媒體檔期表；出發前請再確認。",
    "title": "遠東 SOGO 高雄店 週年慶",
-   "verified_on": "2026-10-14",
+   "verified_on": "2026-10-20",
    "id": "2026-sale-sogo-kaohsiung"
   },
   {
@@ -1419,7 +1498,7 @@
    ],
    "ticket": "free",
    "title": "遠東 SOGO 台北忠孝館／復興館 週年慶",
-   "verified_on": "2026-10-14",
+   "verified_on": "2026-10-20",
    "id": "2026-sale-sogo-taipei"
   },
   {
@@ -1480,7 +1559,7 @@
    "ticket": "free",
    "tips": "10/14 複查查無 2026 官方公告，僅媒體檔期表；出發前請再確認。",
    "title": "南紡購物中心 週年慶",
-   "verified_on": "2026-10-14",
+   "verified_on": "2026-10-20",
    "id": "2026-sale-tsrd"
   },
   {
@@ -1544,7 +1623,7 @@
    "ticket": "paid",
    "tips": "10/11 複查僅確認場地為華山，日期未見主辦公告，出發前請再確認",
    "title": "SIF IN TAIPEI 首爾插畫展",
-   "verified_on": "2026-10-14",
+   "verified_on": "2026-10-20",
    "id": "2026-sif-seoul-illustration"
   },
   {
@@ -1574,7 +1653,7 @@
    ],
    "ticket": "free",
    "title": "南瓜鎮之狐妖娶親",
-   "verified_on": "2026-10-14",
+   "verified_on": "2026-10-20",
    "id": "2026-skm-park-fox-wedding"
   },
   {
@@ -1642,6 +1721,41 @@
    "id": "2026-taichung-jazz-festival"
   },
   {
+   "category": "exhibit",
+   "end_date": "2027-03-01",
+   "highlights": [
+    "首屆臺南藝術雙年展",
+    "16 處核心展區＋16 處衛星展區",
+    "藤本壯介裝置作品"
+   ],
+   "indoor": true,
+   "locations": [
+    {
+     "address": "",
+     "county": "臺南市",
+     "town": "中西區",
+     "venue": "臺南市美術館"
+    }
+   ],
+   "organizer": "臺南市美術館",
+   "price": "有早鳥票、套票與藝術護照，金額依官方公告",
+   "source_name": "Bella 儂儂（搜尋摘要）",
+   "source_type": "aggregator",
+   "source_url": "https://www.bella.tw/articles/movies&culture/60058/2026-tainan-art-biennale-unfolding-circuits-guide",
+   "start_date": "2026-10-31",
+   "subtype": "藝術展",
+   "summary": "首屆臺南藝術雙年展，以臺南市美術館為核心，串聯 16 處核心展區與 16 處衛星展區。",
+   "tags": [
+    "拍照",
+    "文創"
+   ],
+   "ticket": "paid",
+   "tips": "各展區開放時間依官方公告；只看到搜尋摘要，出發前請再確認。",
+   "title": "2026臺南藝術雙年展「迴圈.超展開」",
+   "verified_on": "2026-10-20",
+   "id": "2026-tainan-art-biennale"
+  },
+  {
    "category": "festival",
    "end_date": "2026-11-22",
    "highlights": [
@@ -1670,7 +1784,7 @@
    ],
    "ticket": "partial",
    "title": "2026 臺南藝術節",
-   "verified_on": "2026-10-14",
+   "verified_on": "2026-10-20",
    "id": "2026-tainan-arts-festival"
   },
   {
@@ -1876,8 +1990,9 @@
    ],
    "ticket": "paid",
    "time_text": "週日至週四 11:00-21:30；週五、週六 11:00-22:00",
+   "tips": "需選擇入場時段，當日票須於前一天 23:59 前購買；部分展出內容與日本版不同。",
    "title": "WIND BREAKER 防風少年 5 週年展",
-   "verified_on": "2026-10-14",
+   "verified_on": "2026-10-20",
    "id": "2026-windbreaker-5th"
   }
  ]
