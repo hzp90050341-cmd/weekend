@@ -143,6 +143,10 @@
     "hidden": true,
     "note": "圖書館主題書展，非外出活動"
   },
+  "c-moc-1f976b3ce872": {
+    "category": "festival",
+    "note": "音樂會，非戶外親子"
+  },
   "c-moc-1ffb254c99ac": {
     "category": "festival",
     "note": "兒童劇場／親子演出，屬表演"
@@ -170,6 +174,10 @@
   "c-moc-3d27cd5de050": {
     "category": "festival",
     "note": "音樂劇演出"
+  },
+  "c-moc-48a3650b133c": {
+    "hidden": true,
+    "note": "圖書館主題書展，非外出活動"
   },
   "c-moc-528d31ebde08": {
     "category": "festival",
@@ -234,11 +242,27 @@
     "category": "festival",
     "note": "兒童劇場／親子演出，屬表演"
   },
+  "c-moc-9712056d65c2": {
+    "hidden": true,
+    "note": "圖書館主題書展，非外出活動"
+  },
   "c-moc-97d15aedc32e": {
     "hidden": true,
     "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動",
     "town": "中正區",
     "venue": "國立臺灣藝術教育館 第3展覽廳"
+  },
+  "c-moc-97f6ef607f63": {
+    "hidden": true,
+    "note": "圖書館主題書展，非外出活動"
+  },
+  "c-moc-9bc63b1caaee": {
+    "note": "場地依標題補正",
+    "venue": "東林社區活動中心"
+  },
+  "c-moc-a2a77b33d254": {
+    "hidden": true,
+    "note": "圖書館主題書展，非外出活動"
   },
   "c-moc-a42dda3e935b": {
     "category": "festival",
@@ -259,6 +283,10 @@
   "c-moc-c53d171a31bb": {
     "note": "新竹市大學路1001號屬東區",
     "town": "東區"
+  },
+  "c-moc-d0ae217d446b": {
+    "note": "場地依標題補正",
+    "venue": "下莊社區活動中心"
   },
   "c-moc-d15606259ddf": {
     "hidden": true,
@@ -487,6 +515,10 @@
   "c-tour-b913004ca9a7": {
     "hidden": true,
     "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-bb74d709a421": {
+    "note": "原標題為交通管制公告，改用活動名稱",
+    "title": "彰化驛站童學會"
   },
   "c-tour-c78420768feb": {
     "category": "exhibit",
