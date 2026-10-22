@@ -329,6 +329,10 @@
     "hidden": true,
     "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
   },
+  "c-tour-13e4af86180f": {
+    "hidden": true,
+    "note": "與 c-tour-e251cd21266e 同一活動（日月潭 Bikeday）重複"
+  },
   "c-tour-13efc542dabf": {
     "hidden": true,
     "note": "已於 2026-10-08 結束；來源連不上，沿用舊資料中的過期活動"
@@ -396,6 +400,11 @@
   "c-tour-4ba42c316345": {
     "hidden": true,
     "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-4c38676e5043": {
+    "category": "exhibit",
+    "note": "旅展屬展覽；經貿二路1號為南港展覽館1館",
+    "venue": "南港展覽館1館"
   },
   "c-tour-54d92aa5cd17": {
     "hidden": true,
@@ -543,6 +552,10 @@
   "c-tour-db17e4c52af7": {
     "hidden": true,
     "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-e251cd21266e": {
+    "note": "中山路599號為日月潭向山遊客中心",
+    "venue": "向山遊客中心"
   },
   "c-tour-e6f6eb2cf7bc": {
     "category": "outdoor",
