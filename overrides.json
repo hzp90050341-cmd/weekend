@@ -179,6 +179,10 @@
     "hidden": true,
     "note": "圖書館主題書展，非外出活動"
   },
+  "c-moc-4bbfc9861a79": {
+    "hidden": true,
+    "note": "與觀光署 Re：戰鬥之城 重複"
+  },
   "c-moc-528d31ebde08": {
     "category": "festival",
     "note": "兒童劇場／親子演出，屬表演"
@@ -225,6 +229,10 @@
   "c-moc-811570374043": {
     "note": "南京東路二段1號位於中山區",
     "town": "中山區"
+  },
+  "c-moc-834211a0bb6d": {
+    "hidden": true,
+    "note": "與 events 人工查證資料重複（池上秋收稻穗藝術節）"
   },
   "c-moc-87205b84ad74": {
     "note": "大學路1001號，陽明交大光復校區",
@@ -305,6 +313,10 @@
     "category": "festival",
     "note": "兒童音樂會"
   },
+  "c-moc-e7f6b09f7d82": {
+    "hidden": true,
+    "note": "主辦標示取消演出"
+  },
   "c-moc-ef7be933ca7a": {
     "hidden": true,
     "note": "音樂大師課，課程"
@@ -320,6 +332,10 @@
   "c-tour-0c13959f3431": {
     "hidden": true,
     "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-0dea1df7417d": {
+    "hidden": true,
+    "note": "與 events 人工查證資料重複（桃園萬聖城）"
   },
   "c-tour-0e778d261476": {
     "category": "exhibit",
@@ -353,6 +369,10 @@
     "hidden": true,
     "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
   },
+  "c-tour-1d7fe0ead092": {
+    "category": "outdoor",
+    "note": "路跑活動"
+  },
   "c-tour-2318f01ae062": {
     "category": "festival",
     "note": "國慶場外活動"
@@ -369,9 +389,25 @@
     "hidden": true,
     "note": "與 c-tour-f44fd710d106 新社花海暨臺中國際花毯節重複"
   },
+  "c-tour-2f1829816dcf": {
+    "hidden": true,
+    "note": "與 events 人工查證資料重複（池上秋收稻穗藝術節）"
+  },
   "c-tour-30657e0b81c7": {
     "category": "exhibit",
     "note": "設計展"
+  },
+  "c-tour-311dda14234b": {
+    "hidden": true,
+    "note": "與 events 人工查證資料重複（興創村市集）"
+  },
+  "c-tour-3b3dbb770442": {
+    "hidden": true,
+    "note": "與 events 人工查證資料重複（福隆沙雕藝術季）"
+  },
+  "c-tour-3c4efe6d808f": {
+    "category": "festival",
+    "note": "萬聖節慶活動"
   },
   "c-tour-40ddd7b665dc": {
     "category": "festival",
@@ -403,7 +439,8 @@
   },
   "c-tour-4c38676e5043": {
     "category": "exhibit",
-    "note": "旅展屬展覽；經貿二路1號為南港展覽館1館",
+    "hidden": true,
+    "note": "與 events 人工查證資料重複（ITF台灣國際旅展）",
     "venue": "南港展覽館1館"
   },
   "c-tour-54d92aa5cd17": {
@@ -413,6 +450,10 @@
   "c-tour-5906556846a4": {
     "category": "festival",
     "note": "文化節活動"
+  },
+  "c-tour-5a2cabb94ba8": {
+    "category": "outdoor",
+    "note": "城市攝影活動"
   },
   "c-tour-5be2c107e223": {
     "category": "outdoor",
@@ -456,6 +497,14 @@
     "hidden": true,
     "note": "已於 2026-10-06 結束；來源連不上，沿用舊資料中的過期活動"
   },
+  "c-tour-8846812f6b2d": {
+    "category": "outdoor",
+    "note": "路跑活動"
+  },
+  "c-tour-890956a51b1b": {
+    "hidden": true,
+    "note": "福隆沙雕季系列活動，與主活動重複"
+  },
   "c-tour-8a6e3129f2d8": {
     "hidden": true,
     "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
@@ -497,6 +546,10 @@
     "hidden": true,
     "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
   },
+  "c-tour-9daaff69b645": {
+    "hidden": true,
+    "note": "與 events 人工查證資料重複（山谷燈光節）"
+  },
   "c-tour-9f3a788a5df3": {
     "hidden": true,
     "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
@@ -520,6 +573,10 @@
   "c-tour-b17b3c327581": {
     "hidden": true,
     "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-b212973a6921": {
+    "hidden": true,
+    "note": "與 仙境西拉雅 環騎5COOL 重複"
   },
   "c-tour-b913004ca9a7": {
     "hidden": true,
@@ -553,6 +610,10 @@
     "hidden": true,
     "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
   },
+  "c-tour-dfd285829d8f": {
+    "hidden": true,
+    "note": "與 events 人工查證資料重複（二水國際跑水節）"
+  },
   "c-tour-e251cd21266e": {
     "note": "中山路599號為日月潭向山遊客中心",
     "venue": "向山遊客中心"
@@ -561,8 +622,24 @@
     "category": "outdoor",
     "note": "路跑"
   },
+  "c-tour-f3f2283be3c3": {
+    "category": "festival",
+    "note": "萬聖親子活動，非市集"
+  },
   "c-tour-f6f55b7e3e20": {
     "hidden": true,
     "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-f8c6959611b7": {
+    "hidden": true,
+    "note": "與 events 人工查證資料重複（臺中爵士音樂節）"
+  },
+  "c-tour-fa6f8efd3cd4": {
+    "category": "festival",
+    "note": "音樂祭，改節慶"
+  },
+  "c-tour-fd8bab6dfc43": {
+    "hidden": true,
+    "note": "與 events 人工查證資料重複（日月潭花火音樂嘉年華）"
   }
 }
