@@ -111,6 +111,10 @@
     "category": "exhibit",
     "note": "百貨快閃店，歸展覽"
   },
+  "c-acc-c22adde3a00c": {
+    "category": "exhibit",
+    "note": "插畫個展"
+  },
   "c-acc-caace3bb8ccb": {
     "category": "market",
     "note": "百貨內的市集活動"
@@ -211,6 +215,10 @@
     "category": "festival",
     "note": "兒童劇場／親子演出，屬表演"
   },
+  "c-moc-77199a64110f": {
+    "hidden": true,
+    "note": "與 events 2026-chimei-pharaoh 重複"
+  },
   "c-moc-77ce0cf96b4a": {
     "note": "南海路47號",
     "town": "中正區",
@@ -237,6 +245,10 @@
   "c-moc-87205b84ad74": {
     "note": "大學路1001號，陽明交大光復校區",
     "town": "東區"
+  },
+  "c-moc-8aeeb495b8f5": {
+    "hidden": true,
+    "note": "新北場取消"
   },
   "c-moc-8b7c15a03fdd": {
     "category": "festival",
@@ -283,6 +295,10 @@
   "c-moc-b343cd7bff39": {
     "note": "新竹市大學路1001號屬東區",
     "town": "東區"
+  },
+  "c-moc-b9bb75398f77": {
+    "hidden": true,
+    "note": "節目取消"
   },
   "c-moc-bb7fe0313e76": {
     "category": "festival",
@@ -345,6 +361,10 @@
     "hidden": true,
     "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
   },
+  "c-tour-106adfa7c124": {
+    "category": "outdoor",
+    "note": "健走活動"
+  },
   "c-tour-13e4af86180f": {
     "hidden": true,
     "note": "與 c-tour-e251cd21266e 同一活動（日月潭 Bikeday）重複"
@@ -376,6 +396,10 @@
   "c-tour-2318f01ae062": {
     "category": "festival",
     "note": "國慶場外活動"
+  },
+  "c-tour-2410118f36f1": {
+    "hidden": true,
+    "note": "與 events 2026-hualien-hot-spring-festival 重複"
   },
   "c-tour-29eac578df74": {
     "hidden": true,
@@ -476,6 +500,10 @@
     "category": "festival",
     "note": "熱氣球活動，非市集"
   },
+  "c-tour-70c068675528": {
+    "category": "outdoor",
+    "note": "馬拉松"
+  },
   "c-tour-75ef3611449e": {
     "hidden": true,
     "note": "已於 2026-10-05 結束；來源連不上，沿用舊資料中的過期活動"
@@ -524,6 +552,10 @@
   "c-tour-94f40c79c7fb": {
     "category": "festival",
     "note": "熱氣球活動，非市集"
+  },
+  "c-tour-95a5b0b2e600": {
+    "category": "outdoor",
+    "note": "路跑"
   },
   "c-tour-975f2f5dc0e8": {
     "category": "outdoor",
@@ -586,6 +618,10 @@
     "note": "原標題為交通管制公告，改用活動名稱",
     "title": "彰化驛站童學會"
   },
+  "c-tour-c3f2eb641657": {
+    "category": "outdoor",
+    "note": "馬拉松"
+  },
   "c-tour-c78420768feb": {
     "category": "exhibit",
     "note": "光影裝置展"
@@ -597,6 +633,10 @@
   "c-tour-d5538f68562d": {
     "category": "festival",
     "note": "音樂節"
+  },
+  "c-tour-d58fec62b3d7": {
+    "category": "outdoor",
+    "note": "健行活動"
   },
   "c-tour-d65ac9ef0d3d": {
     "category": "festival",
@@ -621,6 +661,18 @@
   "c-tour-e6f6eb2cf7bc": {
     "category": "outdoor",
     "note": "路跑"
+  },
+  "c-tour-ee5f45a1ce70": {
+    "category": "outdoor",
+    "note": "馬拉松"
+  },
+  "c-tour-eeea6b9fe14e": {
+    "category": "outdoor",
+    "note": "馬拉松"
+  },
+  "c-tour-f0920412ed1c": {
+    "category": "outdoor",
+    "note": "馬拉松"
   },
   "c-tour-f3f2283be3c3": {
     "category": "festival",
