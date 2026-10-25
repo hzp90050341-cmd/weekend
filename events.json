@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-24",
+ "generated_at": "2026-10-25",
  "meta": {
-  "added": 0,
-  "last_checked_at": "2026-10-24T11:10:00+08:00",
-  "next_focus": "颱風後續：桃園萬聖城 10/25 是否開展、臺北溫泉季 10/24-26 是否續辦、青草湖秋焰祭 10/24-26 煙火、Phgup 山屋祭、福隆沙雕、屏東風域祭、興創村市集、臺東慢食節／香草生活節（爬蟲）是否因颱風調整待確認；雲門《十三聲》艋舺公園戶外場改 10/25 待查官方資訊後再收錄；赤嵌萬神節 2026 仍無主辦公告，10/31 前查不到建議刪除；官田葫蘆埤湖畔市集 10/25-26 仍查無公告；南方澳鯖魚節 2026 日期待公告（僅見 2025 年 11/1-2）；遠東巨城週年慶 2026 未公布（2025 為 11/27-12/8）；京站週年慶 11/19-12/15 僅見整理文章；新光三越台中中港、台南小北門週年慶 10/25 結束是否延長、桃園站前店結束日未公布；SOGO 台北滿額禮待官方 DM；屏東落山風藝術季、四重溪溫泉季、新埔柿餅節待公告；台灣國際咖啡展場館待確認；SKM Park 狐妖娶親開始日未知。",
-  "removed": 1,
-  "summary": "GitHub Actions 爬蟲今日 07:55 已更新（觀光署 171、文化部 548、Accupass 37；套用修正後 698 筆），新增修正 13 筆（隱藏取消場次 2、與 events 重複 2；馬拉松／健走等改 outdoor 8、插畫個展改 exhibit 1）；無投稿。薔琵颱風影響：池上秋收稻穗藝術節全部場次取消已刪除；天母搞什麼鬼改 10/25 百鬼夜行、10/26 主活動；桃園萬聖城 10/24 活動順延、演唱會延至 10/26；臺北溫泉季 10/23 表演取消且七星公園舞台倒塌；臺中爵士 10/24-25 照常；華泰南瓜谷 10/24 討糖取消；本週末其他戶外活動加註颱風提醒。週六宜花東金馬未查到爬蟲以外的新活動。複查 10 筆最舊資料（微風三館、高雄／台南大遠百、大江等）未見延期或取消。WebFetch 仍被環境擋下，資料皆為搜尋摘要。",
-  "updated": 25
+  "added": 4,
+  "last_checked_at": "2026-10-25T10:50:00+08:00",
+  "next_focus": "桃園萬聖城 10/25 是否已開展、臺北溫泉季 10/25-26 後續場次仍無颱風後公告；雲門《十三聲》艋舺公園戶外場仍查無場次資訊；赤嵌萬神節 2026 仍無主辦公告，10/31 前查不到就刪除；官田葫蘆埤湖畔市集仍查無 2026 年 10 月公告（今明兩天）；南方澳鯖魚節 2026 日期待公告；遠東巨城週年慶 2026 未公布；京站週年慶僅見整理文章；新光三越台中中港、台南小北門週年慶今日結束，明日依規則刪除；SOGO 台北 2026 檔期與滿額禮待官方 DM（其他懶人包未列）；漢神巨蛋 2026 檔期仍有懶人包寫未公布；新光三越桃園站前店結束日未公布；屏東四重溪溫泉季、新埔柿餅節待公告；台灣國際咖啡展場館待確認；SKM Park 狐妖娶親開始日未知；臺北數位藝術節「灰色自動體」10/17-11/15 可考慮收錄；苗栗風箏節據報延至 11/6-8、清境火把節延至 10/30-31、成功嶺營區開放改 10/31（皆僅見整理文章，待查證）。",
+  "removed": 0,
+  "summary": "GitHub Actions 爬蟲今日 07:30 已更新（觀光署 164、文化部 540、Accupass 37；套用修正後 685 筆），新增修正 2 筆（補鄉鎮）；無投稿；無過期活動需刪除。週日全台補漏新增 4 筆：2026臺北白晝之夜（10/31-11/1 圓山）、心中山萬聖市集、兒童新樂園萬聖嘉年華（10/25-26 變裝免費入園）、新光三越天母店週年慶。複查 10 筆最舊資料（漢神巨蛋、漢神洲際、基隆博物館、新光信義、A13、SOGO 台北／高雄、搖滾台中、狐妖娶親、SIF 首爾插畫展）未見延期或取消，漢神洲際改用工商時報來源、SIF 補票價與時間。WebFetch 仍被環境擋下（DNS 解析失敗），資料皆為搜尋摘要。",
+  "updated": 10
  },
  "events": [
   {
@@ -430,7 +430,7 @@
    "ticket": "unknown",
    "tips": "只看到搜尋摘要，開放時間與票價未見原文，出發前請再確認。",
    "title": "流動的港口・世界的基隆 系列特展（《瓶中船》《島中海》）",
-   "verified_on": "2026-10-19",
+   "verified_on": "2026-10-25",
    "id": "2026-keelung-museum-port-400"
   },
   {
@@ -650,6 +650,43 @@
    "id": "2026-market-skm-sanduo-fun"
   },
   {
+   "category": "market",
+   "end_date": "2026-11-01",
+   "highlights": [
+    "反派童話派對主題",
+    "鬼怪工作人員不定時發糖果",
+    "台北捷運 Go 會員出示出站紀錄可領捷運點（每日限量 200 份）"
+   ],
+   "indoor": false,
+   "locations": [
+    {
+     "address": "臺北市中山區中山北路二段48巷7號",
+     "county": "臺北市",
+     "town": "中山區",
+     "venue": "心中山線形公園"
+    }
+   ],
+   "organizer": "臺北大眾捷運股份有限公司",
+   "source_name": "NOWnews",
+   "source_type": "aggregator",
+   "source_url": "https://www.nownews.com/news/6883566",
+   "start_date": "2026-10-02",
+   "subtype": "主題市集",
+   "summary": "捷運中山站到雙連站之間的萬聖節主題市集，有甜點輕食、選物與寵物商品攤位。",
+   "tags": [
+    "萬聖節",
+    "美食",
+    "文創",
+    "寵物友善"
+   ],
+   "ticket": "free",
+   "time_text": "活動期間每週五、六（各來源略有差異）",
+   "tips": "舉辦日各來源寫法不一（每週五六／五六日），出發前請再確認。",
+   "title": "2026 心中山萬聖市集「反派童話派對」",
+   "verified_on": "2026-10-25",
+   "id": "2026-market-xinzhongshan-halloween"
+  },
+  {
    "category": "festival",
    "end_date": "2026-10-25",
    "highlights": [
@@ -856,7 +893,7 @@
    "ticket": "free",
    "tips": "資訊取自整理網站搜尋摘要，節目表以官方粉專為準，出發前請再確認。",
    "title": "2026搖滾台中",
-   "verified_on": "2026-10-20",
+   "verified_on": "2026-10-25",
    "id": "2026-rock-taichung"
   },
   {
@@ -1017,7 +1054,7 @@
    "ticket": "free",
    "tips": "各來源日期不一（美麗佳人寫到 11/15，Roo.Cash 寫到 11/1），取較短的 11/1；出發前請再確認。",
    "title": "遠百信義 A13 週年慶",
-   "verified_on": "2026-10-20",
+   "verified_on": "2026-10-25",
    "id": "2026-sale-feds-a13"
   },
   {
@@ -1197,7 +1234,7 @@
    "ticket": "free",
    "tips": "其他懶人包寫漢神巨蛋 2026 檔期尚未公布，出發前請再確認官方 DM。",
    "title": "高雄漢神巨蛋 週年慶",
-   "verified_on": "2026-10-19",
+   "verified_on": "2026-10-25",
    "id": "2026-sale-hanshin-arena"
   },
   {
@@ -1236,7 +1273,10 @@
    "category": "mall",
    "end_date": "2026-11-17",
    "highlights": [
-    "滿額禮、刷卡回饋以官方 DM 為準"
+    "滿千送百回饋",
+    "全台獨家聯名會員來店禮",
+    "總價 120 萬元海外雙人遊抽獎",
+    "與韓國 IP「PETIT FACTORY」合作 JOY LAND 主題"
    ],
    "indoor": true,
    "locations": [
@@ -1246,19 +1286,19 @@
      "venue": "漢神洲際購物廣場"
     }
    ],
-   "source_name": "美麗佳人週年慶檔期表",
+   "source_name": "工商時報",
    "source_type": "media",
-   "source_url": "https://www.marieclaire.com.tw/beauty/news/95804",
+   "source_url": "https://www.ctee.com.tw/news/20261013702061-431401",
    "start_date": "2026-10-22",
    "subtype": "週年慶",
-   "summary": "台中漢神洲際週年慶。",
+   "summary": "台中漢神洲際開幕後首次週年慶。",
    "tags": [
     "週年慶"
    ],
    "ticket": "free",
-   "tips": "尚未見官方 DM，出發前請再確認。",
+   "tips": "細節以官方 DM 為準，出發前請再確認。",
    "title": "漢神洲際購物廣場 週年慶",
-   "verified_on": "2026-10-19",
+   "verified_on": "2026-10-25",
    "id": "2026-sale-hanshin-taichung"
   },
   {
@@ -1413,6 +1453,34 @@
   },
   {
    "category": "mall",
+   "end_date": "2026-11-15",
+   "indoor": true,
+   "locations": [
+    {
+     "address": "臺北市士林區天母東路68號",
+     "county": "臺北市",
+     "town": "士林區",
+     "venue": "新光三越台北天母店"
+    }
+   ],
+   "organizer": "新光三越百貨",
+   "source_name": "美麗佳人",
+   "source_type": "aggregator",
+   "source_url": "https://www.marieclaire.com.tw/beauty/news/95804",
+   "start_date": "2026-10-22",
+   "subtype": "週年慶",
+   "summary": "新光三越天母店年度週年慶。",
+   "tags": [
+    "購物"
+   ],
+   "ticket": "free",
+   "tips": "各來源日期不一（另一說 10/23-11/16），出發前請再確認官方 DM。",
+   "title": "新光三越台北天母店 週年慶",
+   "verified_on": "2026-10-25",
+   "id": "2026-sale-skm-tianmu"
+  },
+  {
+   "category": "mall",
    "end_date": "2026-11-08",
    "highlights": [
     "10/16-11/08，首 14 日滿仟送點",
@@ -1441,7 +1509,7 @@
    "ticket": "free",
    "tips": "各來源日期不一（理財周刊、美麗佳人寫 10/15，NOWnews 寫 10/16 開跑），取 10/16；2026 滿額禮細項尚未見官方公布，出發前請再確認。",
    "title": "新光三越台北信義新天地 週年慶",
-   "verified_on": "2026-10-19",
+   "verified_on": "2026-10-25",
    "id": "2026-sale-skm-xinyi"
   },
   {
@@ -1531,7 +1599,7 @@
    "ticket": "free",
    "tips": "10/14 複查查無 2026 官方公告，僅媒體檔期表；出發前請再確認。",
    "title": "遠東 SOGO 高雄店 週年慶",
-   "verified_on": "2026-10-20",
+   "verified_on": "2026-10-25",
    "id": "2026-sale-sogo-kaohsiung"
   },
   {
@@ -1563,8 +1631,9 @@
     "週年慶"
    ],
    "ticket": "free",
+   "tips": "10/25 複查其他懶人包未列台北店 2026 檔期，滿額禮尚待官方 DM，出發前請再確認。",
    "title": "遠東 SOGO 台北忠孝館／復興館 週年慶",
-   "verified_on": "2026-10-20",
+   "verified_on": "2026-10-25",
    "id": "2026-sale-sogo-taipei"
   },
   {
@@ -1659,25 +1728,28 @@
    "id": "2026-sale-uni-ustyle-taipei"
   },
   {
-   "booking_required": true,
+   "booking_required": false,
    "category": "exhibit",
    "end_date": "2026-10-26",
    "highlights": [
-    "韓國插畫家作品",
-    "周邊商品展售"
+    "逾 160 位韓國插畫創作者",
+    "主題「Seoul meets Taipei」",
+    "台北站限定商品",
+    "與 LINE WEBTOON 等品牌合作"
    ],
    "indoor": true,
    "locations": [
     {
+     "address": "華山1914文化創意產業園區 東2館四連棟",
      "county": "臺北市",
      "town": "中正區",
      "venue": "華山1914文化創意產業園區"
     }
    ],
-   "price": "125–220 元",
-   "source_name": "揪好玩展覽整理",
-   "source_type": "media",
-   "source_url": "https://jioujiou.tw/taipei-exhibition/",
+   "price": "單日全票 220 元、現場優待票 125 元",
+   "source_name": "果仁生活誌",
+   "source_type": "aggregator",
+   "source_url": "https://applealmond.com/posts/329334",
    "start_date": "2026-10-23",
    "subtype": "插畫展",
    "summary": "韓國插畫盛會首度來台，插畫家作品展售。",
@@ -1687,9 +1759,10 @@
     "室內"
    ],
    "ticket": "paid",
-   "tips": "10/11 複查僅確認場地為華山，日期未見主辦公告，出發前請再確認",
+   "time_text": "10:00-18:00（17:00 最後入場）",
+   "tips": "可於 ibon、ACCUPASS、Klook 購票；資料取自媒體整理，出發前請再確認。",
    "title": "SIF IN TAIPEI 首爾插畫展",
-   "verified_on": "2026-10-20",
+   "verified_on": "2026-10-25",
    "id": "2026-sif-seoul-illustration"
   },
   {
@@ -1719,7 +1792,7 @@
    ],
    "ticket": "free",
    "title": "南瓜鎮之狐妖娶親",
-   "verified_on": "2026-10-20",
+   "verified_on": "2026-10-25",
    "id": "2026-skm-park-fox-wedding"
   },
   {
@@ -1854,6 +1927,42 @@
    "id": "2026-tainan-arts-festival"
   },
   {
+   "category": "outdoor",
+   "end_date": "2026-10-26",
+   "highlights": [
+    "變裝免費入園",
+    "12 歲以下變裝兒童送萬聖小禮包（限量 300 份）",
+    "1 樓與 3 樓萬聖主題市集"
+   ],
+   "indoor": false,
+   "locations": [
+    {
+     "address": "臺北市士林區承德路五段55號",
+     "county": "臺北市",
+     "town": "士林區",
+     "venue": "臺北市立兒童新樂園"
+    }
+   ],
+   "organizer": "臺北市立兒童新樂園",
+   "price": "萬聖節裝扮可免費入園",
+   "source_name": "食尚玩家",
+   "source_type": "aggregator",
+   "source_url": "https://supertaste.tvbs.com.tw/pack/361955",
+   "start_date": "2026-10-25",
+   "subtype": "萬聖節",
+   "summary": "兩天萬聖活動，變裝免費入園，園內有萬聖市集與餐車。",
+   "tags": [
+    "親子",
+    "萬聖節",
+    "免費"
+   ],
+   "ticket": "partial",
+   "tips": "資料來自媒體報導，非樂園官方公告；入園條件與禮包發放出發前請再確認（02-2833-3823）。",
+   "title": "臺北市兒童新樂園 萬聖嘉年華",
+   "verified_on": "2026-10-25",
+   "id": "2026-taipei-childrens-park-halloween"
+  },
+  {
    "category": "festival",
    "end_date": "2026-10-26",
    "highlights": [
@@ -1882,6 +1991,55 @@
    "title": "臺北溫泉季",
    "verified_on": "2026-10-24",
    "id": "2026-taipei-hot-spring-festival"
+  },
+  {
+   "category": "festival",
+   "end_date": "2026-11-01",
+   "highlights": [
+    "逾 30 件藝術作品、50 場表演與節目",
+    "20:00-23:00「音像之夜」開幕演出",
+    "首度開放大同大學校園",
+    "與臺北數位藝術節「灰色自動體」串聯"
+   ],
+   "indoor": false,
+   "locations": [
+    {
+     "address": "臺北市中山區玉門街1號",
+     "county": "臺北市",
+     "town": "中山區",
+     "venue": "花博公園圓山園區"
+    },
+    {
+     "address": "臺北市中山區中山北路三段40號",
+     "county": "臺北市",
+     "town": "中山區",
+     "venue": "大同大學"
+    },
+    {
+     "county": "臺北市",
+     "town": "中山區",
+     "venue": "晴光市場"
+    }
+   ],
+   "organizer": "臺北市政府文化局",
+   "source_name": "BELLA 儂儂",
+   "source_type": "aggregator",
+   "source_url": "https://www.bella.tw/articles/movies&culture/60640/2026-taipei-nuit-blanche-night-ka-shi-art-festival",
+   "start_date": "2026-10-31",
+   "subtype": "藝術節",
+   "summary": "一年一度跨夜 12 小時的免費藝術節，今年以圓山為核心，串連花博、晴光市場，首度開放大同大學校園。",
+   "tags": [
+    "免費",
+    "夜景",
+    "拍照",
+    "藝術"
+   ],
+   "ticket": "free",
+   "time_text": "10/31 14:00 - 11/1 02:00",
+   "tips": "建議搭捷運淡水信義線至圓山站 1、2 號出口步行前往；資料取自媒體報導搜尋摘要，出發前請再確認。",
+   "title": "2026臺北白晝之夜「NIGHT KA SHI 夜卡西」",
+   "verified_on": "2026-10-25",
+   "id": "2026-taipei-nuit-blanche"
   },
   {
    "booking_required": true,
