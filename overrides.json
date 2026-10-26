@@ -147,6 +147,10 @@
     "note": "松山文創園區，光復南路133號",
     "town": "信義區"
   },
+  "c-moc-083e9f6ddf74": {
+    "category": "festival",
+    "note": "兒童劇場演出"
+  },
   "c-moc-1f7d207d9940": {
     "hidden": true,
     "note": "圖書館主題書展，非外出活動"
@@ -194,6 +198,10 @@
   "c-moc-528d31ebde08": {
     "category": "festival",
     "note": "兒童劇場／親子演出，屬表演"
+  },
+  "c-moc-539f3528b248": {
+    "category": "festival",
+    "note": "兒童劇場演出"
   },
   "c-moc-62dfdb05dd88": {
     "hidden": true,
@@ -342,6 +350,10 @@
   "c-moc-d15606259ddf": {
     "hidden": true,
     "note": "圖書館主題書展，非外出活動"
+  },
+  "c-moc-d446f60d8610": {
+    "category": "festival",
+    "note": "兒童劇場演出"
   },
   "c-moc-d71076d2f41d": {
     "note": "大學路1001號，陽明交大光復校區",
