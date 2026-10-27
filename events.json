@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-26",
+ "generated_at": "2026-10-27",
  "meta": {
   "added": 1,
-  "last_checked_at": "2026-10-26T11:20:00+08:00",
-  "next_focus": "臺北數位藝術節結束日與是否收費待官方公告（review_by 11/15）；台灣同志遊行 2026 僅見往例 10 月最後週六（10/31），未見官方公告；松菸原創基地節 2026 日期未公布；新北耶誕城主題（卡娜赫拉）僅見單一來源；臺北溫泉季今日結束，明日刪除；赤嵌萬神節 2026 仍無主辦公告，10/31 前查不到就刪除；南方澳鯖魚節日期待公告；遠東巨城週年慶、SOGO 台北滿額禮待官方 DM；京站週年慶僅見整理文章；漢神巨蛋檔期待確認；新光三越桃園站前店、台北南西／站前結束日未公布；屏東四重溪溫泉季、新埔柿餅節待公告；SKM Park 狐妖娶親開始日未知；苗栗風箏節延至 11/6-8、清境火把節延至 10/30-31、成功嶺營區開放改 10/31（皆僅見整理文章，待查證）。明日週二輪桃竹苗。",
-  "removed": 6,
-  "summary": "GitHub Actions 爬蟲今日 07:25 已更新（觀光署 152、文化部 526 正常；Accupass 讀取中斷 IncompleteRead，沿用前次 35 筆；套用修正後 661 筆），新增修正 3 筆（兒童劇場由戶外親子改為節慶表演）；無投稿；刪除過期 6 筆（海安萬聖、Phgup 山屋祭、屏東風域祭、新光三越台中中港／台南小北門週年慶、臺中爵士音樂節）。週一北北基查詢新增 1 筆：2026臺北數位藝術節（10/17 起，結束日待確認）。新北歡樂耶誕城爬蟲已收錄（11/12-12/27）。複查 8 筆最舊資料（新竹玻璃藝術節、府中搞什麼鬼、臺南藝術雙年展、防風少年展、桃園萬聖城、嘉義管樂節、花蓮溫泉季、南紡週年慶）未見延期或取消；南紡仍無官方公告。WebFetch 仍被環境擋下（DNS 解析失敗），資料皆為搜尋摘要。",
-  "updated": 8
+  "last_checked_at": "2026-10-27T11:10:00+08:00",
+  "next_focus": "赤嵌萬神節 2026 仍無主辦公告，10/30 前查不到就刪除；二水跑水節 10/31 僅見觀光署資料，往年在 11 月初；臺灣同志遊行 2026 未見官方公告（往例 10/31）；臺北數位藝術節結束日待公告（review_by 11/15）；新光三越桃園站前店、台北南西／站前結束日未公布（review_by 11/10）；遠東巨城週年慶（往年 11 月底，含 SOGO 新竹店）、SOGO 台北滿額禮待官方 DM；京站週年慶僅見整理文章；苗栗風箏節延期、清境火把節、成功嶺營區開放仍僅見整理文章；新埔柿餅節、四重溪溫泉季、南方澳鯖魚節待公告；SKM Park 狐妖娶親開始日未知。明日週三輪中彰投雲。",
+  "removed": 10,
+  "summary": "GitHub Actions 爬蟲今日 08:41 已更新（觀光署 140、文化部 524、Accupass 35，全部正常；套用修正後 652 筆），新增修正 1 筆（兒童交響音樂會由戶外親子改為節慶表演）；無投稿；刪除過期 10 筆（統一時代台北週年慶、福隆沙雕、官田湖畔市集、興創村市集、三多店 Fun 市集、青草湖秋焰祭、臺北溫泉季、天母搞什麼鬼、SIF 首爾插畫展、兒童新樂園萬聖嘉年華）。週二桃竹苗查詢新增 1 筆：新光三越桃園站前店週年慶（10/1 起，結束日未公布）；苗栗風箏節、新埔柿餅節、遠東巨城週年慶 2026 仍查無公告。複查 10 筆最舊資料（SOGO 新竹、臺南藝術節、奇美法老展、遠百新竹／花蓮／桃園、二水跑水節、高雄萬聖節、小王子、赤嵌萬神節）未見延期或取消。WebFetch 仍被環境擋下，資料皆為搜尋摘要。",
+  "updated": 10
  },
  "events": [
   {
@@ -69,7 +69,7 @@
    ],
    "ticket": "paid",
    "title": "《埃及之王：法老》大展",
-   "verified_on": "2026-10-21",
+   "verified_on": "2026-10-27",
    "id": "2026-chimei-pharaoh"
   },
   {
@@ -98,46 +98,10 @@
     "免費"
    ],
    "ticket": "free",
-   "tips": "交通部觀光署活動資料列 2026-10-31；出發前請再確認",
+   "tips": "交通部觀光署活動資料列 2026-10-31；往年多在 11 月初舉行，未見鄉公所 2026 公告，出發前請再確認",
    "title": "2026 二水國際跑水節",
-   "verified_on": "2026-10-22",
+   "verified_on": "2026-10-27",
    "id": "2026-ershui-water-run"
-  },
-  {
-   "category": "outdoor",
-   "end_date": "2026-10-26",
-   "highlights": [
-    "環球影城 IP 主題沙雕",
-    "海景拍照",
-    "最後入場：平日 18:00、假日 18:30"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "address": "新北市貢寮區福隆街40號",
-     "county": "新北市",
-     "town": "貢寮區",
-     "venue": "福隆海水浴場"
-    }
-   ],
-   "price": "依福隆海水浴場現場售票公告",
-   "source_name": "新北市觀光旅遊網",
-   "source_type": "official",
-   "source_url": "https://newtaipei.travel/zh-tw/calendar/detail/3855",
-   "start_date": "2026-05-29",
-   "subtype": "藝術季",
-   "summary": "第 19 屆沙雕季，主題「環球夏日沙雕派對」，40 多座電影動畫角色沙雕。",
-   "tags": [
-    "親子",
-    "海邊",
-    "拍照"
-   ],
-   "ticket": "paid",
-   "time_text": "平日 8:00–19:00，假日 8:00–19:30",
-   "tips": "薔琵颱風影響期間活動可能調整，出發前請再確認",
-   "title": "2026 福隆國際沙雕藝術季",
-   "verified_on": "2026-10-24",
-   "id": "2026-fulong-sand-sculpture"
   },
   {
    "category": "festival",
@@ -397,7 +361,7 @@
    "ticket": "unknown",
    "tips": "官方目前僅公布日期與地點，節目表與燈光秀時段待公告；出發前請再確認。",
    "title": "2026高雄萬聖節",
-   "verified_on": "2026-10-22",
+   "verified_on": "2026-10-27",
    "id": "2026-kaohsiung-halloween"
   },
   {
@@ -495,10 +459,10 @@
     "室內"
    ],
    "ticket": "paid",
-   "time_text": "週二至週五 09:00-17:00；週末 09:00-18:00（09:30-16:30 每小時一場）",
+   "time_text": "週二至週五 09:00-17:00；週末 09:00-18:00",
    "tips": "採場次制，建議先上售票網站預約；出發前請再確認",
    "title": "小王子：奇幻星旅",
-   "verified_on": "2026-10-22",
+   "verified_on": "2026-10-27",
    "id": "2026-little-prince-ntsec"
   },
   {
@@ -523,93 +487,10 @@
     "美食"
    ],
    "ticket": "free",
-   "tips": "10/22 複查仍未找到 2026 主辦公告，出發前請再確認",
+   "tips": "10/27 複查仍未找到 2026 主辦公告（往年由大銃街元和宮主辦），出發前請再確認",
    "title": "赤嵌萬神節",
-   "verified_on": "2026-10-22",
+   "verified_on": "2026-10-27",
    "id": "2026-market-chihkan-halloween"
-  },
-  {
-   "category": "market",
-   "end_date": "2026-10-26",
-   "indoor": false,
-   "locations": [
-    {
-     "county": "臺南市",
-     "town": "官田區",
-     "venue": "葫蘆埤自然公園"
-    }
-   ],
-   "source_name": "台南好玩",
-   "source_type": "aggregator",
-   "source_url": "https://www.tainanoutlook.com/activities/tainan_fair",
-   "start_date": "2026-10-25",
-   "subtype": "湖畔市集",
-   "summary": "葫蘆埤湖邊的戶外市集。",
-   "tags": [
-    "美食",
-    "農產",
-    "文創"
-   ],
-   "ticket": "free",
-   "tips": "薔琵颱風影響期間活動可能調整，出發前請再確認；日期取自市集整理網站，搜尋未見 2026 年 10 月官方公告，出發前請再確認。；10/23 複查仍查無官方或媒體公告，出發前請再確認",
-   "title": "2026 官田葫蘆埤湖畔市集",
-   "verified_on": "2026-10-24",
-   "id": "2026-market-guantian-lakeside"
-  },
-  {
-   "category": "market",
-   "end_date": "2026-10-26",
-   "indoor": false,
-   "locations": [
-    {
-     "county": "宜蘭縣",
-     "town": "五結鄉",
-     "venue": "中興文化創意園區"
-    }
-   ],
-   "source_name": "台灣市集網",
-   "source_type": "aggregator",
-   "source_url": "https://www.twmarket.tw/vendor/market-category-query/",
-   "start_date": "2026-10-24",
-   "subtype": "文創市集",
-   "summary": "宜蘭中興文創園區的市集。",
-   "tags": [
-    "文創",
-    "手作"
-   ],
-   "ticket": "free",
-   "tips": "薔琵颱風影響期間活動可能調整，出發前請再確認；日期取自市集整理網站，出發前看官方粉專確認。",
-   "title": "中興文創園區「興創村市集」",
-   "verified_on": "2026-10-24",
-   "id": "2026-market-ilan-xingchuang"
-  },
-  {
-   "category": "market",
-   "end_date": "2026-10-26",
-   "indoor": false,
-   "locations": [
-    {
-     "county": "高雄市",
-     "town": "苓雅區",
-     "venue": "新光三越高雄三多店"
-    }
-   ],
-   "source_name": "台灣市集網",
-   "source_type": "aggregator",
-   "source_url": "https://www.twmarket.tw/category/%E5%B8%82%E9%9B%86%E7%B8%A3%E5%B8%82%E5%88%86%E5%8D%80/kaohsiung-market/",
-   "start_date": "2026-10-09",
-   "subtype": "百貨市集",
-   "summary": "配合三多店周年慶的市集，可以順便逛百貨優惠。",
-   "tags": [
-    "美食",
-    "文創",
-    "週年慶"
-   ],
-   "ticket": "free",
-   "tips": "日期取自市集整理網站，出發前看官方粉專確認。",
-   "title": "Fun 市集－新光三越三多店周年慶市集",
-   "verified_on": "2026-10-24",
-   "id": "2026-market-skm-sanduo-fun"
   },
   {
    "category": "market",
@@ -687,44 +568,6 @@
    "title": "2026屏東聖誕節",
    "verified_on": "2026-10-23",
    "id": "2026-pingtung-christmas"
-  },
-  {
-   "category": "festival",
-   "end_date": "2026-10-26",
-   "highlights": [
-    "蠟筆小新主題，巨型小新氣偶斜躺湖面",
-    "湖畔煙火秀 300 秒，共 6 場",
-    "每晚湖畔燈光秀",
-    "週末舒湖 Chill 市集",
-    "動漫音樂會與角色見面會"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "county": "新竹市",
-     "town": "東區",
-     "venue": "青草湖"
-    }
-   ],
-   "organizer": "新竹市政府",
-   "source_name": "中央社訊息平台（搜尋摘要）",
-   "source_type": "aggregator",
-   "source_url": "https://www.cna.com.tw/postwrite/chi/445456",
-   "start_date": "2026-10-09",
-   "subtype": "煙火",
-   "summary": "新竹市青草湖以「十月舒湖 Chill」為主題的秋季光影活動，每晚有湖畔燈光秀，週末與連假施放煙火，還有市集。",
-   "tags": [
-    "煙火",
-    "夜景",
-    "拍照",
-    "美食"
-   ],
-   "ticket": "unknown",
-   "time_text": "燈光秀每日 17:00 起每 30 分鐘一場；煙火 10/17、10/18、10/24、10/25、10/26 19:20（每場 300 秒）；週末 14:00 起舒湖 Chill 市集",
-   "tips": "薔琵颱風影響期間活動可能調整，出發前請再確認；煙火日 13:30-23:00 交通管制，會場不提供汽車停車位，管制期間有免費接駁車。只看到搜尋摘要，出發前請再確認。",
-   "title": "2026青草湖秋焰祭",
-   "verified_on": "2026-10-24",
-   "id": "2026-qingcao-lake-autumn-fire-festival"
   },
   {
    "category": "outdoor",
@@ -966,9 +809,9 @@
     }
    ],
    "organizer": "遠東百貨",
-   "source_name": "Roo.Cash 遠百週年慶整理",
+   "source_name": "NOWnews 遠百週年慶檔期表（搜尋摘要）",
    "source_type": "aggregator",
-   "source_url": "https://roo.cash/blog/anniversary-sale-feds",
+   "source_url": "https://www.nownews.com/news/6879425",
    "start_date": "2026-10-15",
    "subtype": "週年慶",
    "summary": "新竹大遠百週年慶檔期，適合趁折扣採買化妝品、服飾。",
@@ -976,9 +819,9 @@
     "週年慶"
    ],
    "ticket": "free",
-   "tips": "日期取自整理網站搜尋摘要，出發前請再確認。",
+   "tips": "NOWnews 檔期表列 10/15-11/1；出發前請再確認。",
    "title": "新竹大遠百 週年慶",
-   "verified_on": "2026-10-21",
+   "verified_on": "2026-10-27",
    "id": "2026-sale-feds-hsinchu"
   },
   {
@@ -996,9 +839,9 @@
     }
    ],
    "organizer": "遠東百貨",
-   "source_name": "Roo.Cash 遠百週年慶整理",
+   "source_name": "NOWnews 遠百週年慶檔期表（搜尋摘要）",
    "source_type": "aggregator",
-   "source_url": "https://roo.cash/blog/anniversary-sale-feds",
+   "source_url": "https://www.nownews.com/news/6879425",
    "start_date": "2026-10-22",
    "subtype": "週年慶",
    "summary": "遠百花蓮店週年慶檔期，花東少數大型百貨週年慶。",
@@ -1008,7 +851,7 @@
    "ticket": "free",
    "tips": "日期取自整理網站搜尋摘要，出發前請再確認。",
    "title": "遠百花蓮 週年慶",
-   "verified_on": "2026-10-21",
+   "verified_on": "2026-10-27",
    "id": "2026-sale-feds-hualien"
   },
   {
@@ -1084,9 +927,9 @@
     }
    ],
    "organizer": "遠東百貨",
-   "source_name": "Roo.Cash 遠百週年慶整理",
+   "source_name": "NOWnews 遠百週年慶檔期表（搜尋摘要）",
    "source_type": "aggregator",
-   "source_url": "https://roo.cash/blog/anniversary-sale-feds",
+   "source_url": "https://www.nownews.com/news/6879425",
    "start_date": "2026-10-22",
    "subtype": "週年慶",
    "summary": "遠百桃園店週年慶檔期，適合趁折扣採買化妝品、服飾。",
@@ -1096,7 +939,7 @@
    "ticket": "free",
    "tips": "日期取自整理網站搜尋摘要，出發前請再確認。",
    "title": "遠百桃園 週年慶",
-   "verified_on": "2026-10-21",
+   "verified_on": "2026-10-27",
    "id": "2026-sale-feds-taoyuan"
   },
   {
@@ -1401,9 +1244,9 @@
     "週年慶"
    ],
    "ticket": "free",
-   "tips": "10/14 複查查無 2026 官方公告，僅媒體檔期表；出發前請再確認。",
+   "tips": "10/27 複查仍查無 2026 官方公告，僅媒體檔期表；2025 年新竹店曾隨巨城於 11 月底舉行，各來源日期不一，出發前請再確認。",
    "title": "遠東 SOGO 新竹店 週年慶",
-   "verified_on": "2026-10-20",
+   "verified_on": "2026-10-27",
    "id": "2026-sale-sogo-hsinchu"
   },
   {
@@ -1532,74 +1375,6 @@
   },
   {
    "category": "mall",
-   "end_date": "2026-10-26",
-   "highlights": [
-    "滿額禮、刷卡回饋以百貨官方 DM 為準"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "county": "臺北市",
-     "town": "信義區",
-     "venue": "統一時代百貨台北店"
-    }
-   ],
-   "organizer": "統一時代百貨",
-   "source_name": "NOWnews 週年慶整理",
-   "source_type": "aggregator",
-   "source_url": "https://www.nownews.com/news/6876432",
-   "start_date": "2026-10-08",
-   "subtype": "週年慶",
-   "summary": "信義區統一時代百貨週年慶，市府站旁，適合下班順路逛。",
-   "tags": [
-    "週年慶"
-   ],
-   "ticket": "free",
-   "tips": "各來源日期不一（10/7 或 10/8 開跑），取較短的 10/8-10/26；出發前請再確認。",
-   "title": "統一時代百貨台北店 週年慶",
-   "verified_on": "2026-10-22",
-   "id": "2026-sale-uni-ustyle-taipei"
-  },
-  {
-   "booking_required": false,
-   "category": "exhibit",
-   "end_date": "2026-10-26",
-   "highlights": [
-    "逾 160 位韓國插畫創作者",
-    "主題「Seoul meets Taipei」",
-    "台北站限定商品",
-    "與 LINE WEBTOON 等品牌合作"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "address": "華山1914文化創意產業園區 東2館四連棟",
-     "county": "臺北市",
-     "town": "中正區",
-     "venue": "華山1914文化創意產業園區"
-    }
-   ],
-   "price": "單日全票 220 元、現場優待票 125 元",
-   "source_name": "果仁生活誌",
-   "source_type": "aggregator",
-   "source_url": "https://applealmond.com/posts/329334",
-   "start_date": "2026-10-23",
-   "subtype": "插畫展",
-   "summary": "韓國插畫盛會首度來台，插畫家作品展售。",
-   "tags": [
-    "插畫",
-    "文創",
-    "室內"
-   ],
-   "ticket": "paid",
-   "time_text": "10:00-18:00（17:00 最後入場）",
-   "tips": "可於 ibon、ACCUPASS、Klook 購票；資料取自媒體整理，出發前請再確認。",
-   "title": "SIF IN TAIPEI 首爾插畫展",
-   "verified_on": "2026-10-25",
-   "id": "2026-sif-seoul-illustration"
-  },
-  {
-   "category": "mall",
    "end_date": "2026-11-01",
    "highlights": [
     "日本妖怪主題",
@@ -1722,45 +1497,10 @@
     "藝術"
    ],
    "ticket": "partial",
+   "tips": "10/27 複查未找到其他來源佐證檔期，出發前請再確認。",
    "title": "2026 臺南藝術節",
-   "verified_on": "2026-10-20",
+   "verified_on": "2026-10-27",
    "id": "2026-tainan-arts-festival"
-  },
-  {
-   "category": "outdoor",
-   "end_date": "2026-10-26",
-   "highlights": [
-    "變裝免費入園",
-    "12 歲以下變裝兒童送萬聖小禮包（限量 300 份）",
-    "1 樓與 3 樓萬聖主題市集"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "address": "臺北市士林區承德路五段55號",
-     "county": "臺北市",
-     "town": "士林區",
-     "venue": "臺北市立兒童新樂園"
-    }
-   ],
-   "organizer": "臺北市立兒童新樂園",
-   "price": "萬聖節裝扮可免費入園",
-   "source_name": "食尚玩家",
-   "source_type": "aggregator",
-   "source_url": "https://supertaste.tvbs.com.tw/pack/361955",
-   "start_date": "2026-10-25",
-   "subtype": "萬聖節",
-   "summary": "兩天萬聖活動，變裝免費入園，園內有萬聖市集與餐車。",
-   "tags": [
-    "親子",
-    "萬聖節",
-    "免費"
-   ],
-   "ticket": "partial",
-   "tips": "資料來自媒體報導，非樂園官方公告；入園條件與禮包發放出發前請再確認（02-2833-3823）。",
-   "title": "臺北市兒童新樂園 萬聖嘉年華",
-   "verified_on": "2026-10-25",
-   "id": "2026-taipei-childrens-park-halloween"
   },
   {
    "category": "exhibit",
@@ -1800,36 +1540,6 @@
    "title": "2026臺北數位藝術節",
    "verified_on": "2026-10-26",
    "id": "2026-taipei-digital-art-festival"
-  },
-  {
-   "category": "festival",
-   "end_date": "2026-10-26",
-   "highlights": [
-    "溫泉嘉年華",
-    "花浴衣體驗"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "county": "臺北市",
-     "town": "北投區",
-     "venue": "新北投站周邊"
-    }
-   ],
-   "source_name": "食尚玩家",
-   "source_type": "media",
-   "source_url": "https://supertaste.tvbs.com.tw/kids/361745",
-   "start_date": "2026-10-22",
-   "subtype": "溫泉季",
-   "summary": "北投溫泉嘉年華，有花浴衣體驗。",
-   "tags": [
-    "溫泉"
-   ],
-   "ticket": "unknown",
-   "tips": "10/23 開幕儀式、舞台表演與 DIY 因颱風取消，七星公園舞台遭強風吹倒；後續場次以主辦公告為準，出發前請再確認",
-   "title": "臺北溫泉季",
-   "verified_on": "2026-10-24",
-   "id": "2026-taipei-hot-spring-festival"
   },
   {
    "category": "festival",
@@ -1957,39 +1667,6 @@
    "title": "桃園萬聖城",
    "verified_on": "2026-10-26",
    "id": "2026-taoyuan-halloween-city"
-  },
-  {
-   "category": "festival",
-   "end_date": "2026-10-26",
-   "highlights": [
-    "百鬼夜行",
-    "萬聖節討糖"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "county": "臺北市",
-     "town": "士林區",
-     "venue": "天母運動公園、天母商圈"
-    }
-   ],
-   "source_name": "自由時報",
-   "source_type": "media",
-   "source_url": "https://news.ltn.com.tw/news/life/breakingnews/5615082",
-   "start_date": "2026-10-25",
-   "subtype": "萬聖節",
-   "summary": "天母的萬聖節活動，百鬼夜行遊行、商圈討糖。",
-   "tags": [
-    "萬聖節",
-    "親子",
-    "免費"
-   ],
-   "ticket": "free",
-   "time_text": "10/25 19:00 百鬼夜行討糖（新光三越台北天母店出發）；10/26 13:00-20:00 主活動（天母運動公園）",
-   "tips": "因薔琵颱風延期：原 10/24 主活動改 10/26，百鬼夜行改 10/25 晚間；出發前請再確認",
-   "title": "天母搞什麼鬼",
-   "verified_on": "2026-10-24",
-   "id": "2026-tianmu-halloween"
   },
   {
    "category": "outdoor",
