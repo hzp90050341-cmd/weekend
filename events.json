@@ -221,6 +221,42 @@
   },
   {
    "category": "festival",
+   "highlights": [
+    "11/7-11/8 傍晚音樂派對",
+    "主題市集與光影藝術裝置",
+    "付費小旅行每人 999 元，各路線限量 3 梯次"
+   ],
+   "indoor": false,
+   "locations": [
+    {
+     "address": "",
+     "county": "臺南市",
+     "town": "白河區",
+     "venue": "關子嶺溫泉區"
+    }
+   ],
+   "organizer": "臺南市政府觀光旅遊局",
+   "price": "小旅行每人 999 元",
+   "review_by": "2026-11-12",
+   "source_name": "民報（搜尋摘要）",
+   "source_type": "aggregator",
+   "source_url": "https://www.peoplenews.tw/?p=62553",
+   "subtype": "美食節",
+   "summary": "關子嶺溫泉區的秋季美食節，有主題市集、夜祭踩街、音樂派對與光影裝置。",
+   "tags": [
+    "美食",
+    "溫泉",
+    "夜景"
+   ],
+   "ticket": "partial",
+   "time_text": "10/24 開幕，2026 結束日未公告",
+   "tips": "2026 結束日未見公告；只看到搜尋摘要，出發前請再確認。",
+   "title": "2026臺南關子嶺溫泉美食節",
+   "verified_on": "2026-10-29",
+   "id": "2026-guanziling-hot-spring-food-festival"
+  },
+  {
+   "category": "festival",
    "end_date": "2026-10-31",
    "highlights": [
     "超人力霸王主題展覽、扭蛋與打卡點",
