@@ -151,6 +151,10 @@
     "category": "festival",
     "note": "兒童劇場演出"
   },
+  "c-moc-1eaad914aef6": {
+    "note": "南海路47號（國立臺灣藝術教育館）位於中正區",
+    "town": "中正區"
+  },
   "c-moc-1f7d207d9940": {
     "hidden": true,
     "note": "圖書館主題書展，非外出活動"
@@ -170,6 +174,10 @@
   "c-moc-21bd2863b9c4": {
     "category": "festival",
     "note": "兒童劇場／親子演出，屬表演"
+  },
+  "c-moc-296773b03f7e": {
+    "note": "南海路47號（國立臺灣藝術教育館）位於中正區",
+    "town": "中正區"
   },
   "c-moc-298fc8fdbe6b": {
     "category": "festival",
@@ -222,6 +230,10 @@
   "c-moc-6e1b3f549ab9": {
     "hidden": true,
     "note": "音樂大師課，課程"
+  },
+  "c-moc-73689b00f0bf": {
+    "note": "南海路47號（國立臺灣藝術教育館）位於中正區",
+    "town": "中正區"
   },
   "c-moc-7549878d2198": {
     "note": "市府路1號屬信義區",
