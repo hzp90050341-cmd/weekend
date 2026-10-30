@@ -56,6 +56,10 @@
     "category": "outdoor",
     "note": "夜間街區導覽"
   },
+  "c-acc-65e4e451dad3": {
+    "hidden": true,
+    "note": "年菜發表交流會，屬發表會非一般逛玩活動"
+  },
   "c-acc-729e5014efaf": {
     "category": "exhibit",
     "note": "蘭姆酒展，改 exhibit"
@@ -214,6 +218,10 @@
   "c-moc-539f3528b248": {
     "category": "festival",
     "note": "兒童劇場演出"
+  },
+  "c-moc-5e164eecbb87": {
+    "hidden": true,
+    "note": "開放彩排教育活動，屬教育推廣場次，非一般民眾參觀活動"
   },
   "c-moc-62dfdb05dd88": {
     "hidden": true,
