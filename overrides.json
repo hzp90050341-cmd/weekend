@@ -155,6 +155,10 @@
     "category": "festival",
     "note": "兒童劇場演出"
   },
+  "c-moc-1d172a1bc77a": {
+    "category": "festival",
+    "note": "兒童劇場／親子演出，屬表演"
+  },
   "c-moc-1eaad914aef6": {
     "note": "南海路47號（國立臺灣藝術教育館）位於中正區",
     "town": "中正區"
@@ -194,6 +198,10 @@
   "c-moc-2eade69652f2": {
     "hidden": true,
     "note": "繪本手作工作坊（課程）"
+  },
+  "c-moc-3175f10de7dc": {
+    "category": "festival",
+    "note": "兒童劇場／親子演出，屬表演"
   },
   "c-moc-335345da0227": {
     "category": "festival",
@@ -255,6 +263,10 @@
     "hidden": true,
     "note": "與 events 2026-chimei-pharaoh 重複"
   },
+  "c-moc-772119a56790": {
+    "category": "festival",
+    "note": "室內繪本說故事，非戶外"
+  },
   "c-moc-77ce0cf96b4a": {
     "note": "南海路47號",
     "town": "中正區",
@@ -302,6 +314,10 @@
     "hidden": true,
     "note": "圖書館主題書展，非外出活動"
   },
+  "c-moc-973895a66a89": {
+    "category": "festival",
+    "note": "兒童劇場／親子演出，屬表演"
+  },
   "c-moc-97d15aedc32e": {
     "hidden": true,
     "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動",
@@ -312,9 +328,17 @@
     "hidden": true,
     "note": "圖書館主題書展，非外出活動"
   },
+  "c-moc-9a93ba44aacc": {
+    "category": "festival",
+    "note": "親子音樂會，屬表演非戶外"
+  },
   "c-moc-9bc63b1caaee": {
     "note": "場地依標題補正",
     "venue": "東林社區活動中心"
+  },
+  "c-moc-9d27f22597f0": {
+    "category": "festival",
+    "note": "兒童劇場／親子演出，屬表演"
   },
   "c-moc-a2a77b33d254": {
     "hidden": true,
@@ -383,6 +407,10 @@
     "note": "大學路1001號，陽明交大光復校區",
     "town": "東區"
   },
+  "c-moc-ddf9767e3862": {
+    "category": "festival",
+    "note": "國樂團音樂會，非百貨"
+  },
   "c-moc-de18b3fd0886": {
     "note": "南海路47號",
     "town": "中正區",
@@ -392,9 +420,17 @@
     "category": "festival",
     "note": "兒童音樂會"
   },
+  "c-moc-e55f22b0587c": {
+    "hidden": true,
+    "note": "排練室成果發表會，屬教學成果"
+  },
   "c-moc-e7f6b09f7d82": {
     "hidden": true,
     "note": "主辦標示取消演出"
+  },
+  "c-moc-ecea67f2a0d0": {
+    "category": "festival",
+    "note": "兒童劇場／親子演出，屬表演"
   },
   "c-moc-ef7be933ca7a": {
     "hidden": true,
