@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-31",
+ "generated_at": "2026-11-01",
  "meta": {
   "added": 0,
-  "last_checked_at": "2026-10-31T11:10:00+08:00",
-  "next_focus": "關子嶺溫泉美食節結束日待公告（review_by 11/12）；南方澳鯖魚節 2026 日期未見報導（2025 為 11/1-2）；新光三越台南新天地週年慶檔期僅單一來源（11/5-11/29）未建檔；漢神巨蛋、SOGO 高雄、新光天母 2026 檔期仍無官方公告；遠東巨城、SOGO 台北滿額禮待官方 DM；京站週年慶日期疑沿用 2025；台灣咖啡節（古坑）2026 日期未公布。明日週日全台補漏。",
-  "removed": 0,
-  "summary": "GitHub Actions 爬蟲今日 08:56 已更新（觀光署 145、文化部 530、Accupass 39 皆正常，套用修正後 664 筆）。新增修正 9 筆（7 筆室內兒童劇／音樂會由 outdoor 改 festival、桃園市國樂團音樂會由 mall 改 festival、隱藏衛武營排練室成果發表會）。無投稿；無過期需刪除。週六宜花東金馬查詢：爬蟲已涵蓋 PASIWALI 音樂節、馬祖馬拉松、縱谷原遊會、衝浪公開賽、金門浦揪市集等，未新增。臺北數位藝術節補上展期 10/31-11/15、場地臺北典藏植物園。複查 10 筆（華泰南瓜谷、基隆瓶中船、心中山市集、遠百 A13、漢神巨蛋、漢神洲際、新光天母、新光信義、SOGO 高雄、白晝之夜）未見延期或取消，白晝之夜補交通管制。",
-  "updated": 11
+  "last_checked_at": "2026-11-01T11:20:00+08:00",
+  "next_focus": "關子嶺溫泉美食節 2026 結束日仍未公告（review_by 11/12）；南方澳鯖魚節 2026 仍無報導；新光三越台南新天地、漢神巨蛋、SOGO 高雄 2026 檔期無官方公告；遠東巨城週年慶 2026 日期與滿額禮待公告（2025 為 11/27-12/8）；台灣咖啡節（古坑）、臺中耶誕嘉年華 2026 日期未公布。週一查臺北市、新北市、基隆市。",
+  "removed": 3,
+  "summary": "GitHub Actions 爬蟲今日 08:17 已更新（觀光署 132、文化部 509、Accupass 36 皆正常，套用修正後 632 筆）。新增修正 8 筆（隱藏地點未定的自行車旅遊節、3 筆與人工資料重複的 ITF 旅展／高雄萬聖節／府中奇幻城；4 筆分類修正）。無投稿。刪除過期 3 筆（二水跑水節、新竹市萬聖節、台灣同志遊行）。週日全台補漏：新北歡樂耶誕城（11/12-12/27）爬蟲已涵蓋，未新增。複查 6 筆（新竹玻璃藝術節、花蓮溫泉季、嘉義管樂節、台南藝術雙年展、台南／高雄大遠百週年慶）日期無變動。",
+  "updated": 6
  },
  "events": [
   {
@@ -82,7 +82,7 @@
    "time_text": "管樂踩街 12/19(六) 14:00-17:00",
    "tips": "只看到嘉義市政府文化局公文與簡章的搜尋摘要，完整節目表、場地與票務尚未公布，出發前請再確認。",
    "title": "2026 第34屆嘉義市國際管樂節",
-   "verified_on": "2026-10-26",
+   "verified_on": "2026-11-01",
    "id": "2026-chiayi-band-festival"
   },
   {
@@ -114,37 +114,6 @@
    "title": "《埃及之王：法老》大展",
    "verified_on": "2026-10-27",
    "id": "2026-chimei-pharaoh"
-  },
-  {
-   "category": "festival",
-   "end_date": "2026-10-31",
-   "highlights": [
-    "跑水儀式",
-    "千人健行"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "county": "彰化縣",
-     "town": "二水鄉",
-     "venue": "八堡圳一帶"
-    }
-   ],
-   "source_name": "食尚玩家",
-   "source_type": "media",
-   "source_url": "https://supertaste.tvbs.com.tw/kids/361745",
-   "start_date": "2026-10-31",
-   "subtype": "民俗節慶",
-   "summary": "體驗近 300 年的跑水文化，還有千人健行。",
-   "tags": [
-    "民俗",
-    "免費"
-   ],
-   "ticket": "free",
-   "tips": "交通部觀光署活動資料列 2026-10-31；往年多在 11 月初舉行，未見鄉公所 2026 公告，出發前請再確認",
-   "title": "2026 二水國際跑水節",
-   "verified_on": "2026-10-27",
-   "id": "2026-ershui-water-run"
   },
   {
    "category": "festival",
@@ -256,43 +225,6 @@
    "id": "2026-guanziling-hot-spring-food-festival"
   },
   {
-   "category": "festival",
-   "end_date": "2026-10-31",
-   "highlights": [
-    "超人力霸王主題展覽、扭蛋與打卡點",
-    "10/31 19:00 萬聖大遊行自府前廣場出發",
-    "10/31 16:00 起二二八公園「星際能量市集」約 20 攤"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "address": "新竹市北區中正路120號",
-     "county": "新竹市",
-     "town": "北區",
-     "venue": "新竹市政府"
-    }
-   ],
-   "organizer": "新竹市政府",
-   "source_name": "中央社訊息平台（搜尋摘要）",
-   "source_type": "aggregator",
-   "source_url": "https://www.cna.com.tw/postwrite/chi/447235",
-   "start_date": "2026-10-16",
-   "subtype": "萬聖節",
-   "summary": "新竹市萬聖節系列活動，有超人力霸王裝置拍照、變裝遊行與美食文創市集，適合親子與喜歡變裝的人。",
-   "tags": [
-    "親子",
-    "拍照",
-    "美食",
-    "文創"
-   ],
-   "ticket": "unknown",
-   "time_text": "10/16-10/31；10/31 星際能量市集 16:00 起（二二八公園）、主舞台 18:15 起、遊行 19:00 自府前廣場出發",
-   "tips": "薔琵颱風影響期間活動可能調整，出發前請再確認；市集地點各來源不一（府前廣場／二二八公園），以中央社訊息平台為準；出發前請再確認。",
-   "title": "2026 新竹市萬聖節",
-   "verified_on": "2026-10-30",
-   "id": "2026-hsinchu-city-halloween"
-  },
-  {
    "booking_required": false,
    "category": "exhibit",
    "end_date": "2026-11-15",
@@ -333,7 +265,7 @@
    "time_text": "週二至週五 9:00-17:00；週六、週日 9:00-18:00",
    "tips": "只看到搜尋摘要，各場館開放時間出發前請再確認；洽詢 03-5626091。",
    "title": "2026新竹市玻璃藝術節《玻璃大時代》",
-   "verified_on": "2026-10-26",
+   "verified_on": "2026-11-01",
    "id": "2026-hsinchu-glass-art-festival"
   },
   {
@@ -367,7 +299,7 @@
    ],
    "ticket": "partial",
    "title": "2026 花蓮太平洋溫泉季",
-   "verified_on": "2026-10-26",
+   "verified_on": "2026-11-01",
    "id": "2026-hualien-hot-spring-festival"
   },
   {
@@ -1000,7 +932,7 @@
    "ticket": "free",
    "tips": "NOWnews 檔期表列 10/29-11/15；出發前請再確認",
    "title": "高雄大遠百 週年慶",
-   "verified_on": "2026-10-29",
+   "verified_on": "2026-11-01",
    "id": "2026-sale-feds-kaohsiung"
   },
   {
@@ -1031,7 +963,7 @@
    "ticket": "free",
    "tips": "NOWnews 檔期表列 10/29-11/15；出發前請再確認",
    "title": "台南大遠百成功店 週年慶",
-   "verified_on": "2026-10-29",
+   "verified_on": "2026-11-01",
    "id": "2026-sale-feds-tainan"
   },
   {
@@ -1652,7 +1584,7 @@
    "ticket": "paid",
    "tips": "各展區開放時間依官方公告；只看到搜尋摘要，出發前請再確認。",
    "title": "2026臺南藝術雙年展「迴圈.超展開」",
-   "verified_on": "2026-10-26",
+   "verified_on": "2026-11-01",
    "id": "2026-tainan-art-biennale"
   },
   {
@@ -1815,40 +1747,6 @@
    "title": "2026 台灣國際遊艇展",
    "verified_on": "2026-10-28",
    "id": "2026-taiwan-boat-show"
-  },
-  {
-   "category": "festival",
-   "end_date": "2026-10-31",
-   "highlights": [
-    "主題 Our Voices, Our Journey",
-    "市府前廣場集合出發",
-    "同晚另有台北白晝之夜"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "address": "臺北市信義區市府路1號",
-     "county": "臺北市",
-     "town": "信義區",
-     "venue": "臺北市政府市府前廣場"
-    }
-   ],
-   "organizer": "臺灣同志遊行聯盟",
-   "source_name": "遠見雜誌城市學（搜尋摘要）",
-   "source_type": "aggregator",
-   "source_url": "https://city.gvm.com.tw/article/134018",
-   "start_date": "2026-10-31",
-   "subtype": "遊行",
-   "summary": "一年一度的臺灣同志遊行，今年主題「聲做伙聽，路做伙行」（Our Voices, Our Journey），從市府前廣場出發。",
-   "tags": [
-    "免費",
-    "拍照"
-   ],
-   "ticket": "free",
-   "tips": "2026 路線與時程未查到，往年約 13:00 集合、14:00 出發；信義區周邊交通管制，建議搭捷運；出發前請再確認。",
-   "title": "第24屆臺灣同志遊行「聲做伙聽，路做伙行」",
-   "verified_on": "2026-10-29",
-   "id": "2026-taiwan-lgbt-pride"
   },
   {
    "category": "festival",

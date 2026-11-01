@@ -43,6 +43,10 @@
     "hidden": true,
     "note": "TALKS 講座"
   },
+  "c-acc-41837685b2e5": {
+    "category": "festival",
+    "note": "室內舞蹈體驗演出，非戶外"
+  },
   "c-acc-502343c4778a": {
     "note": "八德路一段",
     "town": "中正區",
@@ -154,6 +158,10 @@
   "c-moc-083e9f6ddf74": {
     "category": "festival",
     "note": "兒童劇場演出"
+  },
+  "c-moc-102b98a876e3": {
+    "category": "festival",
+    "note": "室內演出（中正堂），非戶外"
   },
   "c-moc-1d172a1bc77a": {
     "category": "festival",
@@ -276,6 +284,10 @@
     "hidden": true,
     "note": "已於 2026-10-08 結束；來源連不上，沿用舊資料中的過期活動",
     "town": "東區"
+  },
+  "c-moc-79113acc0feb": {
+    "category": "festival",
+    "note": "音樂會，改節慶表演"
   },
   "c-moc-7cab53b38582": {
     "note": "南海路47號",
@@ -500,6 +512,10 @@
     "hidden": true,
     "note": "與 events 2026-hualien-hot-spring-festival 重複"
   },
+  "c-tour-2589840c98b5": {
+    "hidden": true,
+    "note": "原文地點尚未確定，無法前往"
+  },
   "c-tour-29eac578df74": {
     "hidden": true,
     "note": "幼兒園運動會，非一般民眾去逛的活動"
@@ -531,6 +547,10 @@
   "c-tour-3c4efe6d808f": {
     "category": "festival",
     "note": "萬聖節慶活動"
+  },
+  "c-tour-3e88081e56db": {
+    "hidden": true,
+    "note": "與 events 人工查證資料重複（高雄萬聖節）"
   },
   "c-tour-40ddd7b665dc": {
     "category": "festival",
@@ -643,6 +663,10 @@
   "c-tour-909516afc272": {
     "hidden": true,
     "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-90a96c5c32f1": {
+    "hidden": true,
+    "note": "與 events 人工查證資料重複（府中奇幻城）"
   },
   "c-tour-93cc98104b50": {
     "category": "outdoor",
@@ -765,6 +789,10 @@
     "category": "outdoor",
     "note": "馬拉松"
   },
+  "c-tour-eed4c2617bb6": {
+    "category": "exhibit",
+    "note": "城市展為展覽"
+  },
   "c-tour-eeea6b9fe14e": {
     "category": "outdoor",
     "note": "馬拉松"
@@ -788,6 +816,10 @@
   "c-tour-fa6f8efd3cd4": {
     "category": "festival",
     "note": "音樂祭，改節慶"
+  },
+  "c-tour-fd7ed90fdec7": {
+    "hidden": true,
+    "note": "與 events 人工查證資料重複（ITF台灣國際旅展）"
   },
   "c-tour-fd8bab6dfc43": {
     "hidden": true,
