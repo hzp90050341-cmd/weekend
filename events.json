@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-01",
+ "generated_at": "2026-11-02",
  "meta": {
-  "added": 0,
-  "last_checked_at": "2026-11-01T11:20:00+08:00",
-  "next_focus": "關子嶺溫泉美食節 2026 結束日仍未公告（review_by 11/12）；南方澳鯖魚節 2026 仍無報導；新光三越台南新天地、漢神巨蛋、SOGO 高雄 2026 檔期無官方公告；遠東巨城週年慶 2026 日期與滿額禮待公告（2025 為 11/27-12/8）；台灣咖啡節（古坑）、臺中耶誕嘉年華 2026 日期未公布。週一查臺北市、新北市、基隆市。",
-  "removed": 3,
-  "summary": "GitHub Actions 爬蟲今日 08:17 已更新（觀光署 132、文化部 509、Accupass 36 皆正常，套用修正後 632 筆）。新增修正 8 筆（隱藏地點未定的自行車旅遊節、3 筆與人工資料重複的 ITF 旅展／高雄萬聖節／府中奇幻城；4 筆分類修正）。無投稿。刪除過期 3 筆（二水跑水節、新竹市萬聖節、台灣同志遊行）。週日全台補漏：新北歡樂耶誕城（11/12-12/27）爬蟲已涵蓋，未新增。複查 6 筆（新竹玻璃藝術節、花蓮溫泉季、嘉義管樂節、台南藝術雙年展、台南／高雄大遠百週年慶）日期無變動。",
-  "updated": 6
+  "added": 2,
+  "last_checked_at": "2026-11-02T11:05:00+08:00",
+  "next_focus": "草嶺古道芒花季日期打架（觀光署爬蟲 11/14-12/13 vs 媒體 10/31-11/29），待官方確認；繽紛耶誕玩台北、基隆冬季燈飾 2026 日期未公布；遠東巨城週年慶 2026 有來源稱 12/3-12/14 但未證實；關子嶺溫泉美食節結束日（review_by 11/12）；南方澳鯖魚節、台灣咖啡節、臺中耶誕嘉年華 2026 日期未公布。週二查桃園市、新竹市、新竹縣、苗栗縣。",
+  "removed": 15,
+  "summary": "GitHub Actions 爬蟲今日 08:57 已更新（觀光署 115、文化部 496、Accupass 35 皆正常，套用修正後 598 筆）。新增修正 10 筆（隱藏租稅宣導、歌唱比賽、日期未定的映像節、6 筆重複項；1 筆分類改百貨）。無投稿。刪除過期 15 筆（萬聖節系列、微風／遠百 A13／新竹大遠百／板橋大遠百週年慶、白晝之夜、搖滾台中等）。週一查北北基：新增 ULTRA Taiwan（11/14 大佳河濱）；百貨新增新光三越台南新天地週年慶（11/5-11/29，僅媒體檔期表）。複查 10 筆：ITF 旅展、奇美法老展（補票價）、防風少年展、臺南藝術節確認無變動；關子嶺美食節補開始日 10/24；南紡、遠百桃園／花蓮、SOGO 新竹、小王子展無新資訊。",
+  "updated": 5
  },
  "events": [
   {
@@ -99,7 +99,7 @@
      "venue": "奇美博物館"
     }
    ],
-   "price": "依奇美博物館售票",
+   "price": "全票 580 元，優惠票 480 元",
    "source_name": "食尚玩家",
    "source_type": "media",
    "source_url": "https://supertaste.tvbs.com.tw/kids/361745",
@@ -111,118 +111,10 @@
     "博物館"
    ],
    "ticket": "paid",
+   "time_text": "09:30-17:30（最後入場 16:30），週三與除夕休館",
    "title": "《埃及之王：法老》大展",
-   "verified_on": "2026-10-27",
+   "verified_on": "2026-11-02",
    "id": "2026-chimei-pharaoh"
-  },
-  {
-   "category": "festival",
-   "end_date": "2026-11-01",
-   "highlights": [
-    "萬聖節變裝遊行",
-    "商圈討糖",
-    "搞怪市集",
-    "變裝比賽"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "address": "新北市板橋區府中商圈（捷運府中站旁）",
-     "county": "新北市",
-     "town": "板橋區",
-     "venue": "府中廣場"
-    }
-   ],
-   "organizer": "新北市政府",
-   "source_name": "優惠情報（cpok.tw）萬聖節整理",
-   "source_type": "aggregator",
-   "source_url": "https://cpok.tw/73614",
-   "start_date": "2026-10-31",
-   "subtype": "萬聖節",
-   "summary": "新北「府中奇幻城」的萬聖節壓軸，在板橋府中商圈辦變裝遊行、討糖和搞怪市集。",
-   "tags": [
-    "萬聖節",
-    "親子",
-    "免費",
-    "拍照"
-   ],
-   "ticket": "free",
-   "time_text": "12:00-20:00",
-   "tips": "只看到搜尋摘要，遊行時間與報名方式未確認；捷運府中站出站即到。出發前請再確認。",
-   "title": "府中搞什麼鬼",
-   "verified_on": "2026-10-26",
-   "id": "2026-fuzhong-halloween"
-  },
-  {
-   "category": "mall",
-   "end_date": "2026-11-01",
-   "highlights": [
-    "南瓜飛車",
-    "秋收摩天輪",
-    "夜間營火場景",
-    "10/31 親子變裝爭霸賽"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "county": "桃園市",
-     "town": "中壢區",
-     "venue": "華泰名品城一期廣場"
-    }
-   ],
-   "source_name": "食尚玩家",
-   "source_type": "media",
-   "source_url": "https://supertaste.tvbs.com.tw/kids/361745",
-   "start_date": "2026-09-22",
-   "subtype": "萬聖節造景",
-   "summary": "Outlet 廣場上的萬聖節造景，有南瓜飛車與秋收摩天輪。",
-   "tags": [
-    "萬聖節",
-    "親子",
-    "拍照"
-   ],
-   "ticket": "free",
-   "time_text": "週一至週五 11:00-21:00；週六、日及例假日 11:00-22:00",
-   "tips": "10/24「搗蛋鬼討糖趣」因颱風取消，10/25 暫定正常；出發前請再確認；出發前請再確認",
-   "title": "華泰名品城「南瓜谷魔法村 2.0」",
-   "verified_on": "2026-10-31",
-   "id": "2026-gloria-pumpkin-valley"
-  },
-  {
-   "category": "festival",
-   "highlights": [
-    "11/7-11/8 傍晚音樂派對",
-    "主題市集與光影藝術裝置",
-    "付費小旅行每人 999 元，各路線限量 3 梯次"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "address": "",
-     "county": "臺南市",
-     "town": "白河區",
-     "venue": "關子嶺溫泉區"
-    }
-   ],
-   "organizer": "臺南市政府觀光旅遊局",
-   "price": "小旅行每人 999 元",
-   "review_by": "2026-11-12",
-   "source_name": "民報（搜尋摘要）",
-   "source_type": "aggregator",
-   "source_url": "https://www.peoplenews.tw/?p=62553",
-   "subtype": "美食節",
-   "summary": "關子嶺溫泉區的秋季美食節，有主題市集、夜祭踩街、音樂派對與光影裝置。",
-   "tags": [
-    "美食",
-    "溫泉",
-    "夜景"
-   ],
-   "ticket": "partial",
-   "time_text": "10/24 開幕，2026 結束日未公告",
-   "tips": "2026 結束日未見公告；只看到搜尋摘要，出發前請再確認。",
-   "title": "2026臺南關子嶺溫泉美食節",
-   "verified_on": "2026-10-29",
-   "id": "2026-guanziling-hot-spring-food-festival"
   },
   {
    "booking_required": false,
@@ -335,45 +227,8 @@
    "time_text": "11/6 12:00-18:00；11/7-11/9 10:00-18:00",
    "tips": "另有報導稱預售票 180 元售至 11/5，票價各來源不一；出發前請再確認",
    "title": "2026 ITF台灣國際旅展",
-   "verified_on": "2026-10-28",
+   "verified_on": "2026-11-02",
    "id": "2026-itf-taipei-travel-fair"
-  },
-  {
-   "category": "festival",
-   "end_date": "2026-11-01",
-   "highlights": [
-    "巨型南瓜燈光秀",
-    "南瓜、搞怪兩個舞台",
-    "DIY 體驗與打卡裝置",
-    "親子變裝星光大道"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "address": "高雄市鳳山區三多一路1號",
-     "county": "高雄市",
-     "town": "鳳山區",
-     "venue": "衛武營國家藝術文化中心"
-    }
-   ],
-   "organizer": "高雄市政府",
-   "source_name": "TVBS 新聞",
-   "source_type": "media",
-   "source_url": "https://news.tvbs.com.tw/travel/4036469",
-   "start_date": "2026-10-30",
-   "subtype": "萬聖節",
-   "summary": "高雄市政府在衛武營舉辦的萬聖節活動，有巨型南瓜燈光秀、舞台表演、DIY 體驗與親子變裝。",
-   "tags": [
-    "萬聖節",
-    "親子",
-    "拍照",
-    "夜景"
-   ],
-   "ticket": "unknown",
-   "tips": "官方目前僅公布日期與地點，節目表與燈光秀時段待公告；出發前請再確認。",
-   "title": "2026高雄萬聖節",
-   "verified_on": "2026-10-27",
-   "id": "2026-kaohsiung-halloween"
   },
   {
    "category": "exhibit",
@@ -477,76 +332,6 @@
    "id": "2026-little-prince-ntsec"
   },
   {
-   "category": "market",
-   "end_date": "2026-11-01",
-   "highlights": [
-    "每週六、日不同主題",
-    "「武虎丸在哪裡」集章路線，串連稅務出張所、藍田書院與竹藝博物館"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "address": "南投縣南投市",
-     "county": "南投縣",
-     "town": "南投市",
-     "venue": "南投文化園區"
-    }
-   ],
-   "source_name": "經濟日報",
-   "source_type": "aggregator",
-   "source_url": "https://money.udn.com/money/story/122328/9750865",
-   "subtype": "文創市集",
-   "summary": "南投文化園區武德殿周邊的週末市集，每週約 30 家業者，每週主題不同。",
-   "tags": [
-    "文創",
-    "美食",
-    "免費"
-   ],
-   "ticket": "free",
-   "time_text": "每週六、日",
-   "tips": "本週末 10/31-11/1 為最後一檔；只見新聞摘要，出發前請再確認",
-   "title": "2026南投武德市集",
-   "verified_on": "2026-10-28",
-   "id": "2026-market-nantou-wude"
-  },
-  {
-   "category": "market",
-   "end_date": "2026-11-01",
-   "highlights": [
-    "反派童話派對主題",
-    "鬼怪工作人員不定時發糖果",
-    "台北捷運 Go 會員出示出站紀錄可領捷運點（每日限量 200 份）"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "address": "臺北市中山區中山北路二段48巷7號",
-     "county": "臺北市",
-     "town": "中山區",
-     "venue": "心中山線形公園"
-    }
-   ],
-   "organizer": "臺北大眾捷運股份有限公司",
-   "source_name": "NOWnews",
-   "source_type": "aggregator",
-   "source_url": "https://www.nownews.com/news/6883566",
-   "start_date": "2026-10-02",
-   "subtype": "主題市集",
-   "summary": "捷運中山站到雙連站之間的萬聖節主題市集，有甜點輕食、選物與寵物商品攤位。",
-   "tags": [
-    "萬聖節",
-    "美食",
-    "文創",
-    "寵物友善"
-   ],
-   "ticket": "free",
-   "time_text": "活動期間每週五、六（各來源略有差異）",
-   "tips": "舉辦日各來源寫法不一（每週五六／五六日），出發前請再確認。",
-   "title": "2026 心中山萬聖市集「反派童話派對」",
-   "verified_on": "2026-10-31",
-   "id": "2026-market-xinzhongshan-halloween"
-  },
-  {
    "booking_required": false,
    "category": "festival",
    "end_date": "2027-01-03",
@@ -618,39 +403,6 @@
    "id": "2026-qingcao-lake-light"
   },
   {
-   "category": "festival",
-   "end_date": "2026-11-01",
-   "highlights": [
-    "第一波卡司：芒果醬、甜約翰、粗大Band、普通隊長、Tickle 癢癢、RIKI",
-    "第二波卡司：拍謝少年、hue、EVENFALL 薄暮、紙鳶",
-    "主舞台在圓滿戶外劇場"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "county": "臺中市",
-     "town": "南屯區",
-     "venue": "文心森林公園"
-    }
-   ],
-   "source_name": "優惠情報 cpok",
-   "source_type": "aggregator",
-   "source_url": "https://cpok.tw/70779",
-   "start_date": "2026-10-31",
-   "subtype": "音樂節",
-   "summary": "台中市免費戶外搖滾音樂祭，喜歡台灣獨立樂團的人可以去。",
-   "tags": [
-    "免費",
-    "音樂",
-    "戶外"
-   ],
-   "ticket": "free",
-   "tips": "資訊取自整理網站搜尋摘要，節目表以官方粉專為準，出發前請再確認。",
-   "title": "2026搖滾台中",
-   "verified_on": "2026-10-30",
-   "id": "2026-rock-taichung"
-  },
-  {
    "booking_required": true,
    "category": "exhibit",
    "end_date": "2027-03-14",
@@ -689,130 +441,6 @@
   },
   {
    "category": "mall",
-   "end_date": "2026-11-01",
-   "highlights": [
-    "微風 25 週年",
-    "滿額禮、刷卡回饋以微風官方 DM 為準"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "county": "臺北市",
-     "town": "信義區",
-     "venue": "微風南山"
-    }
-   ],
-   "organizer": "微風集團",
-   "source_name": "美麗佳人",
-   "source_type": "media",
-   "source_url": "https://www.marieclaire.com.tw/fashion/news/96349",
-   "start_date": "2026-10-15",
-   "subtype": "週年慶",
-   "summary": "微風南山週年慶，與微風信義、松高、南山同步，今年為微風 25 週年。",
-   "tags": [
-    "週年慶"
-   ],
-   "ticket": "free",
-   "tips": "日期取自媒體報導，部分整理未列，出發前請再確認。",
-   "title": "微風南山 週年慶",
-   "verified_on": "2026-10-30",
-   "id": "2026-sale-breeze-nanshan"
-  },
-  {
-   "category": "mall",
-   "end_date": "2026-11-01",
-   "highlights": [
-    "微風 25 週年",
-    "滿額禮、刷卡回饋以微風官方 DM 為準"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "county": "臺北市",
-     "town": "信義區",
-     "venue": "微風松高"
-    }
-   ],
-   "organizer": "微風集團",
-   "source_name": "美麗佳人",
-   "source_type": "media",
-   "source_url": "https://www.marieclaire.com.tw/fashion/news/96349",
-   "start_date": "2026-10-15",
-   "subtype": "週年慶",
-   "summary": "微風松高週年慶，與微風信義、松高、南山同步，今年為微風 25 週年。",
-   "tags": [
-    "週年慶"
-   ],
-   "ticket": "free",
-   "tips": "日期取自媒體報導，部分整理未列，出發前請再確認。",
-   "title": "微風松高 週年慶",
-   "verified_on": "2026-10-30",
-   "id": "2026-sale-breeze-songgao"
-  },
-  {
-   "category": "mall",
-   "end_date": "2026-11-01",
-   "highlights": [
-    "微風 25 週年",
-    "滿額禮、刷卡回饋以微風官方 DM 為準"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "county": "臺北市",
-     "town": "信義區",
-     "venue": "微風信義"
-    }
-   ],
-   "organizer": "微風集團",
-   "source_name": "美麗佳人",
-   "source_type": "media",
-   "source_url": "https://www.marieclaire.com.tw/fashion/news/96349",
-   "start_date": "2026-10-15",
-   "subtype": "週年慶",
-   "summary": "微風信義週年慶，與微風信義、松高、南山同步，今年為微風 25 週年。",
-   "tags": [
-    "週年慶"
-   ],
-   "ticket": "free",
-   "tips": "日期取自媒體報導，部分整理未列，出發前請再確認。",
-   "title": "微風信義 週年慶",
-   "verified_on": "2026-10-30",
-   "id": "2026-sale-breeze-xinyi"
-  },
-  {
-   "category": "mall",
-   "end_date": "2026-11-01",
-   "highlights": [
-    "化妝品、內睡衣當日單筆滿 2,000 送 200 十足券",
-    "1F 國際精品當日單筆滿 10,000 送 1,000 十足券",
-    "百貨服飾當日累計滿 5,000 送 500 十足券"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "county": "臺北市",
-     "town": "信義區",
-     "venue": "遠百信義 A13"
-    }
-   ],
-   "source_name": "Roo.Cash 遠百週年慶整理",
-   "source_type": "aggregator",
-   "source_url": "https://roo.cash/blog/anniversary-sale-feds",
-   "start_date": "2026-10-15",
-   "subtype": "週年慶",
-   "summary": "遠百信義 A13 週年慶。",
-   "tags": [
-    "週年慶"
-   ],
-   "ticket": "free",
-   "tips": "各來源日期不一（美麗佳人寫到 11/15，Roo.Cash 寫到 11/1），取較短的 11/1；出發前請再確認。",
-   "title": "遠百信義 A13 週年慶",
-   "verified_on": "2026-10-31",
-   "id": "2026-sale-feds-a13"
-  },
-  {
-   "category": "mall",
    "end_date": "2026-11-15",
    "highlights": [
     "化妝品、內睡衣單筆滿 2,000 送 200，滿 1 萬再加送 200（遠百全台通用）",
@@ -843,36 +471,6 @@
    "title": "遠東百貨嘉義店 週年慶",
    "verified_on": "2026-10-29",
    "id": "2026-sale-feds-chiayi"
-  },
-  {
-   "category": "mall",
-   "end_date": "2026-11-01",
-   "highlights": [
-    "滿額禮、刷卡回饋以百貨官方 DM 為準"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "county": "新竹市",
-     "town": "東區",
-     "venue": "遠東百貨新竹大遠百"
-    }
-   ],
-   "organizer": "遠東百貨",
-   "source_name": "NOWnews 遠百週年慶檔期表（搜尋摘要）",
-   "source_type": "aggregator",
-   "source_url": "https://www.nownews.com/news/6879425",
-   "start_date": "2026-10-15",
-   "subtype": "週年慶",
-   "summary": "新竹大遠百週年慶檔期，適合趁折扣採買化妝品、服飾。",
-   "tags": [
-    "週年慶"
-   ],
-   "ticket": "free",
-   "tips": "NOWnews 檔期表列 10/15-11/1；出發前請再確認。",
-   "title": "新竹大遠百 週年慶",
-   "verified_on": "2026-10-27",
-   "id": "2026-sale-feds-hsinchu"
   },
   {
    "category": "mall",
@@ -1094,37 +692,6 @@
   },
   {
    "category": "mall",
-   "end_date": "2026-11-01",
-   "highlights": [
-    "化妝品、內睡衣單筆滿 2,000 送 200，滿 1 萬再加送 200（遠百全台通用）",
-    "百貨服飾累計滿 5,000 送 500，滿 5 萬再加送 600（遠百全台通用）",
-    "各店專屬滿額禮以官方 DM 為準"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "county": "新北市",
-     "town": "板橋區",
-     "venue": "Mega City 板橋大遠百"
-    }
-   ],
-   "source_name": "Roo.Cash 遠百週年慶整理",
-   "source_type": "aggregator",
-   "source_url": "https://roo.cash/blog/anniversary-sale-feds",
-   "start_date": "2026-10-15",
-   "subtype": "週年慶",
-   "summary": "板橋大遠百週年慶。",
-   "tags": [
-    "週年慶"
-   ],
-   "ticket": "free",
-   "tips": "NOWnews 報導檔期 10/15-11/1（另有整理寫到 11/15，取較短）；出發前請再確認。",
-   "title": "Mega City 板橋大遠百 週年慶",
-   "verified_on": "2026-10-29",
-   "id": "2026-sale-megacity-banqiao"
-  },
-  {
-   "category": "mall",
    "end_date": "2026-11-22",
    "highlights": [
     "滿額禮、刷卡回饋以官方 DM 為準"
@@ -1182,6 +749,39 @@
    "title": "京站時尚廣場 週年慶",
    "verified_on": "2026-10-30",
    "id": "2026-sale-qsquare"
+  },
+  {
+   "category": "mall",
+   "end_date": "2026-11-29",
+   "highlights": [
+    "週年慶檔期 11/5-11/29",
+    "線上 DM 尚未公布"
+   ],
+   "indoor": true,
+   "locations": [
+    {
+     "address": "臺南市中西區西門路一段658號",
+     "county": "臺南市",
+     "town": "中西區",
+     "venue": "新光三越 台南新天地"
+    }
+   ],
+   "organizer": "新光三越百貨",
+   "source_name": "美麗佳人 Marie Claire（搜尋摘要）",
+   "source_type": "aggregator",
+   "source_url": "https://www.marieclaire.com.tw/beauty/news/95804",
+   "start_date": "2026-11-05",
+   "subtype": "週年慶",
+   "summary": "新光三越台南西門新天地年度週年慶，檔期約三週半。",
+   "tags": [
+    "購物"
+   ],
+   "ticket": "free",
+   "time_text": "11/05（四）～11/29（日）",
+   "tips": "日期僅見媒體檔期表、DM 尚未開放；只看到搜尋摘要，出發前請再確認。",
+   "title": "新光三越台南西門新天地 週年慶",
+   "verified_on": "2026-11-02",
+   "id": "2026-sale-skm-tainan-ximen"
   },
   {
    "category": "mall",
@@ -1491,36 +1091,6 @@
    "id": "2026-sale-tsrd"
   },
   {
-   "category": "mall",
-   "end_date": "2026-11-01",
-   "highlights": [
-    "日本妖怪主題",
-    "萬聖南瓜造景"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "county": "高雄市",
-     "town": "前鎮區",
-     "venue": "SKM Park Outlets 高雄草衙"
-    }
-   ],
-   "source_name": "食尚玩家",
-   "source_type": "media",
-   "source_url": "https://supertaste.tvbs.com.tw/kids/361745",
-   "subtype": "萬聖節造景",
-   "summary": "日本妖怪與萬聖節南瓜造景，逛 Outlet 順便拍照。",
-   "tags": [
-    "萬聖節",
-    "拍照",
-    "免費"
-   ],
-   "ticket": "free",
-   "title": "南瓜鎮之狐妖娶親",
-   "verified_on": "2026-10-25",
-   "id": "2026-skm-park-fox-wedding"
-  },
-  {
    "category": "festival",
    "end_date": "2026-11-14",
    "highlights": [
@@ -1617,7 +1187,7 @@
    "ticket": "partial",
    "tips": "10/27 複查未找到其他來源佐證檔期，出發前請再確認。",
    "title": "2026 臺南藝術節",
-   "verified_on": "2026-10-27",
+   "verified_on": "2026-11-02",
    "id": "2026-tainan-arts-festival"
   },
   {
@@ -1655,55 +1225,6 @@
    "title": "2026臺北數位藝術節",
    "verified_on": "2026-10-31",
    "id": "2026-taipei-digital-art-festival"
-  },
-  {
-   "category": "festival",
-   "end_date": "2026-11-01",
-   "highlights": [
-    "逾 30 件藝術作品、50 場表演與節目",
-    "20:00-23:00「音像之夜」開幕演出",
-    "首度開放大同大學校園",
-    "與臺北數位藝術節「灰色自動體」串聯"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "address": "臺北市中山區玉門街1號",
-     "county": "臺北市",
-     "town": "中山區",
-     "venue": "花博公園圓山園區"
-    },
-    {
-     "address": "臺北市中山區中山北路三段40號",
-     "county": "臺北市",
-     "town": "中山區",
-     "venue": "大同大學"
-    },
-    {
-     "county": "臺北市",
-     "town": "中山區",
-     "venue": "晴光市場"
-    }
-   ],
-   "organizer": "臺北市政府文化局",
-   "source_name": "BELLA 儂儂",
-   "source_type": "aggregator",
-   "source_url": "https://www.bella.tw/articles/movies&culture/60640/2026-taipei-nuit-blanche-night-ka-shi-art-festival",
-   "start_date": "2026-10-31",
-   "subtype": "藝術節",
-   "summary": "一年一度跨夜 12 小時的免費藝術節，今年以圓山為核心，串連花博、晴光市場，首度開放大同大學校園。",
-   "tags": [
-    "免費",
-    "夜景",
-    "拍照",
-    "藝術"
-   ],
-   "ticket": "free",
-   "time_text": "10/31 14:00 - 11/1 02:00",
-   "tips": "玉門街 10/31 14:00 起封閉 12 小時；捷運末班車後僅圓山、民權西路、中山國小 3 站開放進站；YouBike 圓山站 1 號出口暫停。建議搭捷運淡水信義線至圓山站；資料取自媒體報導搜尋摘要，出發前請再確認。",
-   "title": "2026臺北白晝之夜「NIGHT KA SHI 夜卡西」",
-   "verified_on": "2026-10-31",
-   "id": "2026-taipei-nuit-blanche"
   },
   {
    "booking_required": true,
@@ -1750,38 +1271,37 @@
   },
   {
    "category": "festival",
-   "end_date": "2026-11-01",
+   "end_date": "2026-11-14",
    "highlights": [
-    "首度與 Snoopy 合作，7 個主題裝置",
-    "10/24 開城演唱會",
-    "變裝大賽、親子劇場、DJ 電音派對",
-    "每晚 18:00 起動畫秀每半小時一次"
+    "Main Stage 與 RESISTANCE 雙舞台",
+    "媒體報導 Alan Walker 回歸"
    ],
    "indoor": false,
    "locations": [
     {
-     "address": "桃園藝文廣場、綠1公園、綠2公園",
-     "county": "桃園市",
-     "town": "桃園區",
-     "venue": "桃園藝文廣場"
+     "address": "臺北市中山區濱江街5號",
+     "county": "臺北市",
+     "town": "中山區",
+     "venue": "大佳河濱公園"
     }
    ],
-   "source_name": "民報",
-   "source_type": "media",
-   "source_url": "https://www.peoplenews.tw/?p=59890",
-   "start_date": "2026-10-24",
-   "subtype": "萬聖節",
-   "summary": "Snoopy 主題萬聖節，免費入場，連續 9 天。",
+   "organizer": "ULTRA Taiwan",
+   "source_name": "EDMTunes（搜尋摘要）",
+   "source_type": "aggregator",
+   "source_url": "https://www.edmtunes.com/2026/07/ultra-taiwan-2026-set-for-november-in-taipei/amp/",
+   "start_date": "2026-11-14",
+   "subtype": "音樂節",
+   "summary": "國際電子音樂節 ULTRA 第六屆在台北大佳河濱公園舉行，設 Main Stage 與 RESISTANCE 兩個舞台。",
    "tags": [
-    "萬聖節",
-    "親子"
+    "音樂",
+    "夜景"
    ],
-   "ticket": "free",
-   "time_text": "平日 17:00-21:00、假日 12:00-22:00",
-   "tips": "因薔琵颱風，原 10/24 活動順延、演唱會延至 10/26，史努比見面會另行公布；10/25 開展視現場復原進度滾動公告，出發前請再確認",
-   "title": "桃園萬聖城",
-   "verified_on": "2026-10-26",
-   "id": "2026-taoyuan-halloween-city"
+   "ticket": "paid",
+   "time_text": "11/14（六）",
+   "tips": "票價與完整卡司以官網 ultrataiwan.com 為準；只看到搜尋摘要，出發前請再確認。",
+   "title": "ULTRA Taiwan 2026",
+   "verified_on": "2026-11-02",
+   "id": "2026-ultra-taiwan"
   },
   {
    "category": "outdoor",
@@ -1849,7 +1369,7 @@
    "time_text": "週日至週四 11:00-21:30；週五、週六 11:00-22:00",
    "tips": "需選擇入場時段，當日票須於前一天 23:59 前購買；部分展出內容與日本版不同。",
    "title": "WIND BREAKER 防風少年 5 週年展",
-   "verified_on": "2026-10-26",
+   "verified_on": "2026-11-02",
    "id": "2026-windbreaker-5th"
   },
   {
