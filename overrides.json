@@ -407,9 +407,17 @@
     "hidden": true,
     "note": "節目取消"
   },
+  "c-moc-ba5eb9af7ca3": {
+    "hidden": true,
+    "note": "阿卡貝拉比賽，比照歌唱比賽隱藏"
+  },
   "c-moc-bb7fe0313e76": {
     "category": "festival",
     "note": "兒童劇場／親子演出，屬表演"
+  },
+  "c-moc-bfb421eb9e19": {
+    "hidden": true,
+    "note": "小提琴大師班（課程），非逛玩活動"
   },
   "c-moc-c53d171a31bb": {
     "note": "新竹市大學路1001號屬東區",
