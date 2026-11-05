@@ -540,6 +540,10 @@
     "hidden": true,
     "note": "原文地點尚未確定，無法前往"
   },
+  "c-tour-26f777a6784a": {
+    "category": "exhibit",
+    "note": "遊艇展為展覽"
+  },
   "c-tour-29eac578df74": {
     "hidden": true,
     "note": "幼兒園運動會，非一般民眾去逛的活動"
@@ -824,6 +828,10 @@
   "c-tour-e251cd21266e": {
     "note": "中山路599號為日月潭向山遊客中心",
     "venue": "向山遊客中心"
+  },
+  "c-tour-e5b15e32db60": {
+    "hidden": true,
+    "note": "線上人格測驗行銷活動，非現場活動"
   },
   "c-tour-e6f6eb2cf7bc": {
     "category": "outdoor",
