@@ -80,6 +80,10 @@
     "category": "market",
     "note": "百貨內的市集活動"
   },
+  "c-acc-82fa40d60c32": {
+    "category": "market",
+    "note": "選物快閃販售，非節慶表演"
+  },
   "c-acc-87be7ca23e3b": {
     "note": "潮州街15號屬大安區",
     "town": "大安區",
@@ -167,6 +171,10 @@
     "hidden": true,
     "note": "與觀光署「穿越幻境 VR特展」重複（府中15）"
   },
+  "c-moc-0f70a5e44709": {
+    "note": "臺北市中山堂（延平南路98號）位於中正區",
+    "town": "中正區"
+  },
   "c-moc-102b98a876e3": {
     "category": "festival",
     "note": "室內演出（中正堂），非戶外"
@@ -223,6 +231,14 @@
     "category": "festival",
     "note": "兒童劇場／親子演出，屬表演"
   },
+  "c-moc-34bc32a4878f": {
+    "hidden": true,
+    "note": "兒童音樂課程，非逛玩活動"
+  },
+  "c-moc-36ce6115fd36": {
+    "category": "festival",
+    "note": "國家音樂廳音樂會，非戶外"
+  },
   "c-moc-3d27cd5de050": {
     "category": "festival",
     "note": "音樂劇演出"
@@ -242,6 +258,10 @@
   "c-moc-539f3528b248": {
     "category": "festival",
     "note": "兒童劇場演出"
+  },
+  "c-moc-5c8a9de4842b": {
+    "hidden": true,
+    "note": "兒童音樂課程，非逛玩活動"
   },
   "c-moc-5e164eecbb87": {
     "hidden": true,
@@ -418,6 +438,10 @@
   "c-moc-bfb421eb9e19": {
     "hidden": true,
     "note": "小提琴大師班（課程），非逛玩活動"
+  },
+  "c-moc-c223ff75fe77": {
+    "hidden": true,
+    "note": "兒童音樂課程，非逛玩活動"
   },
   "c-moc-c53d171a31bb": {
     "note": "新竹市大學路1001號屬東區",
