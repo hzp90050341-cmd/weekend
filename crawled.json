@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-05T09:35:32+08:00",
+ "generated_at": "2026-11-06T09:43:02+08:00",
  "sources": {
   "tourism": {
    "ok": true,
-   "count": 118
+   "count": 120
   },
   "moc": {
    "ok": true,
-   "count": 511
+   "count": 514
   },
   "accupass": {
    "ok": true,
-   "count": 34
+   "count": 35
   }
  },
  "events": [
@@ -34,7 +34,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -56,7 +56,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -78,7 +78,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -100,7 +100,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -122,7 +122,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -144,7 +144,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -166,7 +166,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -188,7 +188,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -210,7 +210,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -232,7 +232,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -254,7 +254,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -276,7 +276,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -298,7 +298,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -320,7 +320,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -342,7 +342,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -364,7 +364,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -386,7 +386,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -408,7 +408,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -430,7 +430,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -452,7 +452,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -474,7 +474,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -496,7 +496,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -518,7 +518,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -540,7 +540,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -562,7 +562,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -584,7 +584,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -606,7 +606,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -628,7 +628,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -650,7 +650,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -672,7 +672,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -694,7 +694,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -716,7 +716,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -738,7 +738,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -760,7 +760,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -782,7 +782,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -804,7 +804,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -826,7 +826,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -848,7 +848,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -870,7 +870,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -892,7 +892,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -914,7 +914,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -936,7 +936,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -958,7 +958,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -980,29 +980,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
-   "crawled": true
-  },
-  {
-   "id": "c-tour-e5b15e32db60",
-   "title": "測出你的旅遊魂！台中好行人格大解鎖",
-   "category": "festival",
-   "start_date": "2026-11-03",
-   "end_date": "2026-11-10",
-   "locations": [
-    {
-     "county": "臺中市",
-     "town": "中區",
-     "venue": "測出你的旅遊魂！台中好行人格大解鎖",
-     "address": ""
-    }
-   ],
-   "ticket": "unknown",
-   "summary": "旅行的時候，你是哪一派旅人呢？喜歡追著海風與陽光，享受自由自在的感覺熱愛穿梭城市，尋找特色美食與文青景點想走進山林，讓身心來一場自然療癒喜歡探索在地文化，發現旅途中的驚喜還是講求效率，讓每一趟旅程都順暢又精彩快來玩「台中好行旅人」心理測驗，…",
-   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
-   "source_name": "交通部觀光署觀光資訊資料庫",
-   "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1024,7 +1002,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1046,7 +1024,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1068,7 +1046,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1090,7 +1068,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1112,7 +1090,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1134,7 +1112,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1156,7 +1134,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1178,7 +1156,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1200,7 +1178,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1222,7 +1200,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1244,7 +1222,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1266,7 +1244,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1288,7 +1266,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1310,7 +1288,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1332,7 +1310,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1354,7 +1332,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1376,7 +1354,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1398,13 +1376,13 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
    "id": "c-tour-26f777a6784a",
    "title": "2026台灣國際遊艇展",
-   "category": "outdoor",
+   "category": "exhibit",
    "start_date": "2026-11-13",
    "end_date": "2026-11-15",
    "locations": [
@@ -1420,7 +1398,29 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-312495f9d71c",
+   "title": "2026下酒祭 FEAT.日本",
+   "category": "festival",
+   "start_date": "2026-12-05",
+   "end_date": "2026-12-06",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "鹽埕區",
+     "venue": "高雄流行音樂中心 海風廣場",
+     "address": "高雄流行音樂中心 海風廣場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "\\\\ 睽違 2 年 // 2026 下酒祭 FEAT. 日本 重磅回歸！！！8 組音樂卡司，多元曲風輪番開唱、動漫狂熱連線，串聯日本 9 大城市，超過 50 攤人氣市集美食。原汁原味的日本風情搬進港都，高流用音樂、美食、下酒菜和世界交朋友。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1443,7 +1443,7 @@
    "source_url": "https://theme.sunmoonlake.gov.tw/ComeBikeDay/Index.aspx?l=1",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1466,7 +1466,7 @@
    "source_url": "https://www.facebook.com/InMatsuMarathon",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1489,7 +1489,7 @@
    "source_url": "https://events.necoast-nsa.gov.tw/flower26/",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1512,7 +1512,7 @@
    "source_url": "https://www.facebook.com/520marathon/?locale=zh_TW",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1535,7 +1535,7 @@
    "source_url": "https://south.npm.gov.tw/ActivityInfoDetailC003210.aspx?appname=ActivityInfo3211&Cond=cee17875-4bcf-42f3-99e6-e4c5a7f239bb",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1558,7 +1558,7 @@
    "source_url": "https://www.facebook.com/KaohsiungLionDance/?locale=zh_TW",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1581,7 +1581,7 @@
    "source_url": "https://www.facebook.com/liuduihakka/?locale=zh_TW",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1604,7 +1604,7 @@
    "source_url": "https://www.taipeicitymarathon.com/",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1627,7 +1627,30 @@
    "source_url": "https://www.swcoast-nsa.gov.tw/zh-tw/event-calendar/details/2489",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-0859b2906270",
+   "title": "2027臺北最HIGH新年城-跨年晚會",
+   "category": "festival",
+   "start_date": "2026-12-31",
+   "end_date": "2027-01-01",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "信義區",
+     "venue": "臺北市市民廣場",
+     "address": "臺北市市民廣場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "於臺北市政府前市民廣場舉辦大型展演活動，邀請國內外知名藝人及表演團體輪番表演，並搭配101新年大秀，與全世界民眾一起倒數迎向新年。",
+   "organizer": "交通部觀光署",
+   "source_url": "https://www.travel.taipei/zh-tw/event-calendar/details/66403",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1650,7 +1673,7 @@
    "source_url": "https://www.facebook.com/lsf.arts?locale=zh_TW",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1673,7 +1696,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1696,7 +1719,7 @@
    "source_url": "https://www.taiwantriathlon.com/pages/2026-dapeng-bay-cycling-series?fbclid=IwdGRjcASMlRRjbGNrBIyUz2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHnqwLKycGKNCylM9-k8yI7-WM6SU-0-fcoJHj6JfNiTG2-S7cpEbHBjGH1zH_aem_WN_YS2mvoJwk3usZUIjGkg",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1719,7 +1742,7 @@
    "source_url": "https://www.swcoast-nsa.gov.tw/zh-tw/event-calendar/details/2488",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1742,7 +1765,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1765,7 +1788,7 @@
    "source_url": "https://gbiyukmusicartsfestival.com/",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1788,7 +1811,7 @@
    "source_url": "https://tsf.moe.edu.tw/",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1811,7 +1834,7 @@
    "source_url": "https://www.erv-nsa.gov.tw/zh-tw/event/calendardetail/7098",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1834,7 +1857,7 @@
    "source_url": "https://www.siraya-nsa.gov.tw/zh-tw/event/calendardetail/14374",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1858,7 +1881,7 @@
    "source_url": "https://www.facebook.com/jijitownshipoffice/",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1880,7 +1903,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1902,7 +1925,7 @@
    "source_url": "https://www.penghu.gov.tw/ch/index.jsp",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1924,7 +1947,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1946,7 +1969,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1968,7 +1991,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -1990,7 +2013,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2012,7 +2035,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2034,7 +2057,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2059,7 +2082,7 @@
    "source_url": "https://www.facebook.com/tipcp.tw",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2083,7 +2106,7 @@
    "source_url": "https://cloud.culture.tw/",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2107,7 +2130,7 @@
    "source_url": "https://www.facebook.com/profile.php?id=100064506377025",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2131,7 +2154,7 @@
    "source_url": "https://cloud.culture.tw/",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2155,7 +2178,7 @@
    "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=50194",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2179,7 +2202,7 @@
    "source_url": "https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=1525402172794&control_type=page&ne",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2203,7 +2226,7 @@
    "source_url": "https://www.bocach.gov.tw/News_Content.aspx?n=92&s=53994",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2227,7 +2250,7 @@
    "source_url": "https://www.facebook.com/PuyanLibrary",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2251,7 +2274,7 @@
    "source_url": "https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=1525402172794&control_type=page&ne",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2276,7 +2299,7 @@
    "source_url": "https://www.kmfa.gov.tw/ExhibitionDetailC001100.aspx?Cond=87910c7f-4ab4-412c-a417-5111fcd2d9a2",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2300,7 +2323,7 @@
    "source_url": "https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=1525402172794&control_type=page&ne",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2324,7 +2347,7 @@
    "source_url": "https://www.facebook.com/yuanlinlibrary",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2348,7 +2371,7 @@
    "source_url": "https://www.facebook.com/yuanlinlibrary",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2372,7 +2395,7 @@
    "source_url": "https://www.facebook.com/profile.php?id=100067193526955",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2397,7 +2420,7 @@
    "source_url": "https://www.ctwm.org.tw/",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2421,7 +2444,7 @@
    "source_url": "https://www.eternal-group.com/Eternalmuseum/Guided",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2443,7 +2466,7 @@
    "source_url": "https://www.opentix.life/program/2102307621165768705",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2467,7 +2490,7 @@
    "source_url": "https://www.miaobeiac.org/mod/course/index.php?REQUEST_ID=SAJTHC1UVXxKWXA2XS9BWQ1TBUo",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2489,7 +2512,7 @@
    "source_url": "https://www.instagram.com/jmg.live/",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2511,7 +2534,7 @@
    "source_url": "https://cloud.culture.tw/",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2535,7 +2558,7 @@
    "source_url": "https://cloud.culture.tw/",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2557,7 +2580,7 @@
    "source_url": "https://www.opentix.life/program/2107772014162726913",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2579,7 +2602,7 @@
    "source_url": "https://www.opentix.life/program/2112025648284856321",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2602,7 +2625,7 @@
    "source_url": "https://www.arte.gov.tw/pro1_exh_now.asp?KeyID=4607",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2625,7 +2648,7 @@
    "source_url": "https://www.arte.gov.tw/pro1_exh_now.asp?KeyID=4608",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2648,7 +2671,7 @@
    "source_url": "https://www.arte.gov.tw/pro1_exh_now.asp?KeyID=4606",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2670,7 +2693,7 @@
    "source_url": "https://www.opentix.life/program/2115274531652624385",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2692,7 +2715,7 @@
    "source_url": "https://www.opentix.life/program/2112542232877936641",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2714,7 +2737,7 @@
    "source_url": "https://www.opentix.life/program/2112454717336662016",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2735,7 +2758,7 @@
    "source_url": "https://www.opentix.life/program/2100791990411268096",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2757,7 +2780,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CHPEPY",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2778,7 +2801,7 @@
    "source_url": "https://www.opentix.life/program/2082004320853954561",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2799,7 +2822,7 @@
    "source_url": "https://www.opentix.life/program/2067172160579305473",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2820,7 +2843,7 @@
    "source_url": "https://www.opentix.life/program/2035928395948498945",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2841,7 +2864,7 @@
    "source_url": "https://www.opentix.life/program/2102294538542166017",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2862,7 +2885,7 @@
    "source_url": "https://www.opentix.life/program/2098218392126803968",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2883,7 +2906,7 @@
    "source_url": "https://www.opentix.life/program/2076992709305442305",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2904,7 +2927,7 @@
    "source_url": "https://www.opentix.life/program/2084178428940558336",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2925,7 +2948,7 @@
    "source_url": "https://www.opentix.life/program/2064992985067073537",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2947,7 +2970,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GX6I3T",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2968,7 +2991,7 @@
    "source_url": "https://www.opentix.life/program/2029816885442543616",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -2989,7 +3012,7 @@
    "source_url": "https://www.opentix.life/program/2107662022920929280",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3010,7 +3033,7 @@
    "source_url": "https://www.opentix.life/program/2079838758878900225",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3032,7 +3055,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GX6I3L",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3053,7 +3076,7 @@
    "source_url": "https://www.opentix.life/program/2091776562129170433",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3074,40 +3097,7 @@
    "source_url": "https://www.opentix.life/program/2099762516779573249",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
-   "crawled": true
-  },
-  {
-   "id": "c-moc-c25ce8db3297",
-   "title": "大型兒童魔術劇《怪盜神偷-阿呆警察的復仇》",
-   "category": "outdoor",
-   "start_date": "2026-11-22",
-   "end_date": "2026-12-05",
-   "locations": [
-    {
-     "county": "桃園市",
-     "town": "桃園區",
-     "venue": "桃園展演中心展演廳",
-     "address": "桃園市桃園區中正路1188號"
-    },
-    {
-     "county": "苗栗縣",
-     "town": "苗栗市",
-     "venue": "苗栗縣政府文化觀光局中正堂",
-     "address": "苗栗縣苗栗市自治路50號"
-    },
-    {
-     "county": "雲林縣",
-     "town": "斗六市",
-     "venue": "雲林表演廳",
-     "address": "雲林縣斗六市大學路三段310號"
-    }
-   ],
-   "ticket": "unknown",
-   "source_url": "https://www.opentix.life/program/1990673782438719489",
-   "source_name": "文化部文化資料開放服務網",
-   "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3128,7 +3118,7 @@
    "source_url": "https://www.opentix.life/program/2088104133013299200",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3149,7 +3139,7 @@
    "source_url": "https://www.opentix.life/program/2110988649820495873",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3170,7 +3160,7 @@
    "source_url": "https://www.opentix.life/program/1986704187991719937",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3191,7 +3181,7 @@
    "source_url": "https://www.opentix.life/program/2105134533009416192",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3218,7 +3208,7 @@
    "source_url": "https://www.opentix.life/program/2082732279325532161",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3245,7 +3235,7 @@
    "source_url": "https://www.opentix.life/program/2028634382323146752",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3266,7 +3256,7 @@
    "source_url": "https://www.opentix.life/program/1956171631240474625",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3287,7 +3277,7 @@
    "source_url": "https://www.opentix.life/program/2076992921786507264",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3308,7 +3298,7 @@
    "source_url": "https://www.opentix.life/program/2064993947364380673",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3329,7 +3319,7 @@
    "source_url": "https://www.opentix.life/program/2099745935440596992",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3356,7 +3346,7 @@
    "source_url": "https://www.opentix.life/program/2032017897215483905",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3395,7 +3385,7 @@
    "source_url": "https://www.opentix.life/program/2032303556119486465",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3428,7 +3418,7 @@
    "source_url": "https://www.opentix.life/program/2094994026796392449",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3449,7 +3439,7 @@
    "source_url": "https://www.opentix.life/program/2042154718167330817",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3494,7 +3484,7 @@
    "source_url": "https://www.opentix.life/program/2070323539426664449",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3533,7 +3523,7 @@
    "source_url": "https://www.opentix.life/program/2083124898860347393",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3584,7 +3574,7 @@
    "source_url": "https://www.opentix.life/program/2086734015886159873",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3605,7 +3595,7 @@
    "source_url": "https://www.opentix.life/program/2092172422094131201",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3638,7 +3628,76 @@
    "source_url": "https://www.opentix.life/program/2087017782302437377",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
+   "crawled": true
+  },
+  {
+   "id": "c-moc-5c8a9de4842b",
+   "title": "《小小音樂大師課》孩子們的冬季交響樂・臺北",
+   "category": "outdoor",
+   "start_date": "2026-12-05",
+   "end_date": "2027-02-21",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "中正區",
+     "venue": "1980室內樂集",
+     "address": "臺北市中正區北平東路30-1號2樓"
+    }
+   ],
+   "ticket": "unknown",
+   "source_url": "https://www.opentix.life/program/2115611996166938625",
+   "source_name": "文化部文化資料開放服務網",
+   "source_type": "official",
+   "verified_on": "2026-11-06",
+   "crawled": true
+  },
+  {
+   "id": "c-moc-34bc32a4878f",
+   "title": "《小小音樂大師課》孩子們的冬季交響樂・臺中",
+   "category": "outdoor",
+   "start_date": "2026-12-19",
+   "end_date": "2027-02-21",
+   "locations": [
+    {
+     "county": "臺中市",
+     "town": "西屯區",
+     "venue": "臺中國家歌劇院排練室3",
+     "address": "臺中市西屯區惠來路二段101號"
+    },
+    {
+     "county": "臺中市",
+     "town": "西屯區",
+     "venue": "臺中國家歌劇院排練室1",
+     "address": "臺中市西屯區惠來路二段101號"
+    }
+   ],
+   "ticket": "unknown",
+   "source_url": "https://www.opentix.life/program/2115710740029333504",
+   "source_name": "文化部文化資料開放服務網",
+   "source_type": "official",
+   "verified_on": "2026-11-06",
+   "crawled": true
+  },
+  {
+   "id": "c-moc-c223ff75fe77",
+   "title": "《小小音樂大師課》孩子們的冬季交響樂・高雄",
+   "category": "outdoor",
+   "start_date": "2026-12-12",
+   "end_date": "2027-02-13",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "鳳山區",
+     "venue": "衛武營國家藝術文化中心1184排練室3",
+     "address": "高雄市鳳山區三多一路1號"
+    }
+   ],
+   "ticket": "unknown",
+   "source_url": "https://www.opentix.life/program/2116064054735835137",
+   "source_name": "文化部文化資料開放服務網",
+   "source_type": "official",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3660,7 +3719,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1ATPSBQ",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3682,7 +3741,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19E5BI0",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3704,7 +3763,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DL4DZ2",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3726,7 +3785,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FWXUND",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3748,7 +3807,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1G9ESVP",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3770,7 +3829,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GUY38Z",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3792,7 +3851,29 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HK62YI",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
+   "crawled": true
+  },
+  {
+   "id": "c-moc-6c29fda2a19b",
+   "title": "寶吉祥歌之饗宴17-贊聲 陳怡婷演唱會",
+   "category": "festival",
+   "start_date": "2026-12-19",
+   "end_date": "2026-12-20",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "信義區",
+     "venue": "台北國際會議中心大會堂",
+     "address": "台北市信義區信義路五段一號"
+    }
+   ],
+   "ticket": "paid",
+   "price": "4200、3800、3400、3000、2600、2200、1800",
+   "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I1K8F9",
+   "source_name": "文化部文化資料開放服務網",
+   "source_type": "official",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3813,7 +3894,7 @@
    "source_url": "https://www.opentix.life/program/1955833404180180992",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3834,7 +3915,7 @@
    "source_url": "https://www.opentix.life/program/1955916913608867841",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3855,7 +3936,7 @@
    "source_url": "https://www.opentix.life/program/1992891801301155841",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3876,7 +3957,7 @@
    "source_url": "https://www.opentix.life/program/1992893712205377537",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3897,7 +3978,7 @@
    "source_url": "https://www.opentix.life/program/1993268392975925249",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3918,7 +3999,7 @@
    "source_url": "https://www.opentix.life/program/1993269592550359041",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3939,7 +4020,7 @@
    "source_url": "https://www.opentix.life/program/1993239082164842497",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3972,7 +4053,7 @@
    "source_url": "https://www.opentix.life/program/2010907685806804993",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -3993,7 +4074,7 @@
    "source_url": "https://www.opentix.life/program/2014304295499268097",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4014,7 +4095,7 @@
    "source_url": "https://www.opentix.life/program/2013173153050226689",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4035,7 +4116,7 @@
    "source_url": "https://www.opentix.life/program/1998231506403491841",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4056,7 +4137,7 @@
    "source_url": "https://www.opentix.life/program/2013099814073860097",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4077,7 +4158,7 @@
    "source_url": "https://www.opentix.life/program/2030922669486235648",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4098,7 +4179,7 @@
    "source_url": "https://www.opentix.life/program/2030925277714800641",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4119,7 +4200,7 @@
    "source_url": "https://www.opentix.life/program/2030929112406941697",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4140,7 +4221,7 @@
    "source_url": "https://www.opentix.life/program/2030931388949524481",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4161,7 +4242,7 @@
    "source_url": "https://www.opentix.life/program/2039594730535641089",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4184,7 +4265,7 @@
    "source_url": "https://event.culture.tw/mocweb/reg/CHCSEC/Detail.init.ctr?actId=60309",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4207,7 +4288,7 @@
    "source_url": "https://event.culture.tw/mocweb/reg/CHCSEC/Detail.init.ctr?actId=60309",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4230,7 +4311,7 @@
    "source_url": "https://event.culture.tw/mocweb/reg/CHCSEC/Detail.init.ctr?actId=60309",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4251,7 +4332,7 @@
    "source_url": "https://www.opentix.life/program/2037052180295278593",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4284,7 +4365,7 @@
    "source_url": "https://www.opentix.life/program/2043639453032493057",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4305,7 +4386,7 @@
    "source_url": "https://www.opentix.life/program/2043960193015562241",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4326,7 +4407,7 @@
    "source_url": "https://www.opentix.life/program/2047561986406621185",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4347,7 +4428,7 @@
    "source_url": "https://www.opentix.life/program/2052306394696761345",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4368,7 +4449,7 @@
    "source_url": "https://www.opentix.life/program/2056269110811631616",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4389,7 +4470,7 @@
    "source_url": "https://www.opentix.life/program/2060315517627953153",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4410,7 +4491,7 @@
    "source_url": "https://www.opentix.life/program/2060701239226236928",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4434,7 +4515,7 @@
    "source_url": "https://www.opentix.life/event/1993239082164842497",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4455,7 +4536,7 @@
    "source_url": "https://www.opentix.life/program/2063941379521384448",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4476,7 +4557,7 @@
    "source_url": "https://www.opentix.life/program/2063948663367925761",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4497,7 +4578,7 @@
    "source_url": "https://www.opentix.life/program/2064248113372274689",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4518,7 +4599,7 @@
    "source_url": "https://www.opentix.life/program/2066352308351729665",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4539,7 +4620,7 @@
    "source_url": "https://www.opentix.life/program/2064989613489934337",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4560,7 +4641,7 @@
    "source_url": "https://www.opentix.life/program/2065238688221306881",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4593,7 +4674,7 @@
    "source_url": "https://www.opentix.life/program/2062049163975860225",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4614,7 +4695,7 @@
    "source_url": "https://www.opentix.life/program/2061379215727935489",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4635,7 +4716,7 @@
    "source_url": "https://www.opentix.life/program/2058868047100907520",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4656,7 +4737,7 @@
    "source_url": "https://www.opentix.life/program/2064988549014851585",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4677,7 +4758,7 @@
    "source_url": "https://www.opentix.life/program/2070066032631992320",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4698,7 +4779,7 @@
    "source_url": "https://www.opentix.life/program/2071876226227695617",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4719,7 +4800,7 @@
    "source_url": "https://www.opentix.life/program/2072980781115437057",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4753,7 +4834,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1COVZN7",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4774,7 +4855,7 @@
    "source_url": "https://www.opentix.life/program/2074043552615690241",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4795,7 +4876,7 @@
    "source_url": "https://www.opentix.life/program/2072870491394531328",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4816,7 +4897,7 @@
    "source_url": "https://www.opentix.life/program/2071531444179013633",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4837,7 +4918,7 @@
    "source_url": "https://www.opentix.life/program/2071788709521534976",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4858,7 +4939,7 @@
    "source_url": "https://www.opentix.life/program/2072579190350344193",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4879,28 +4960,7 @@
    "source_url": "https://www.opentix.life/program/2072648619043909632",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
-   "crawled": true
-  },
-  {
-   "id": "c-moc-2de86e8dffa9",
-   "title": "《匠心之巔》準．馬寇爾、斯蒂凡．賈基夫與NSO",
-   "category": "festival",
-   "start_date": "2026-11-05",
-   "end_date": "2026-11-05",
-   "locations": [
-    {
-     "county": "臺北市",
-     "town": "中正區",
-     "venue": "國家音樂廳",
-     "address": "臺北市中正區中山南路21-1號，信義路側"
-    }
-   ],
-   "ticket": "unknown",
-   "source_url": "https://www.opentix.life/program/2072943938696704001",
-   "source_name": "文化部文化資料開放服務網",
-   "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4921,7 +4981,7 @@
    "source_url": "https://www.opentix.life/program/2073781841937625089",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4942,7 +5002,7 @@
    "source_url": "https://www.opentix.life/program/2073973901980475393",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4963,7 +5023,7 @@
    "source_url": "https://www.opentix.life/program/2074055829648498689",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -4984,7 +5044,7 @@
    "source_url": "https://www.opentix.life/program/2074066887327637505",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5005,7 +5065,7 @@
    "source_url": "https://www.opentix.life/program/2074096303502753793",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5026,7 +5086,7 @@
    "source_url": "https://www.opentix.life/program/2074101653195931649",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5047,7 +5107,7 @@
    "source_url": "https://www.opentix.life/program/2074384200694501377",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5068,12 +5128,12 @@
    "source_url": "https://www.opentix.life/program/2074385131019624448",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
    "id": "c-moc-638a2db83c6a",
-   "title": "《光影與詩》馬利歐．凡薩戈、帕斯卡．羅傑與NSO-2026苗北藝術節",
+   "title": "《光影與詩》馬利歐．凡薩戈、安德烈．古寧與NSO",
    "category": "festival",
    "start_date": "2026-12-12",
    "end_date": "2026-12-12",
@@ -5089,7 +5149,7 @@
    "source_url": "https://www.opentix.life/program/2074403922534002689",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5110,7 +5170,7 @@
    "source_url": "https://www.opentix.life/program/2075112192493572097",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5131,7 +5191,7 @@
    "source_url": "https://www.opentix.life/program/2075469417135423489",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5152,7 +5212,7 @@
    "source_url": "https://www.opentix.life/program/2076489805923938305",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5173,7 +5233,7 @@
    "source_url": "https://www.opentix.life/program/2076925048527581185",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5194,7 +5254,7 @@
    "source_url": "https://www.opentix.life/program/2079132570898259969",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5215,7 +5275,7 @@
    "source_url": "https://www.opentix.life/program/2070446724700692480",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5236,7 +5296,7 @@
    "source_url": "https://www.opentix.life/program/2067165222281093121",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5257,7 +5317,7 @@
    "source_url": "https://www.opentix.life/program/2072537230141886465",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5278,7 +5338,7 @@
    "source_url": "https://www.opentix.life/program/2077712801896718336",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5300,7 +5360,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1BWXDXG",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5321,7 +5381,7 @@
    "source_url": "https://www.opentix.life/program/2074711250083479553",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5342,7 +5402,7 @@
    "source_url": "https://www.opentix.life/program/2072960932035305473",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5363,7 +5423,7 @@
    "source_url": "https://www.opentix.life/program/2075147936841920513",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5384,7 +5444,7 @@
    "source_url": "https://www.opentix.life/program/2078431536318390273",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5405,7 +5465,7 @@
    "source_url": "https://www.opentix.life/program/2079139102634627073",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5432,7 +5492,7 @@
    "source_url": "https://www.opentix.life/program/2079143354259632129",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5453,7 +5513,7 @@
    "source_url": "https://www.opentix.life/program/2079194709134209025",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5474,7 +5534,7 @@
    "source_url": "https://www.opentix.life/program/2080142462134394880",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5496,7 +5556,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DQZ6W2",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5517,7 +5577,7 @@
    "source_url": "https://www.opentix.life/program/2077295238766981121",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5538,7 +5598,7 @@
    "source_url": "https://www.opentix.life/program/2077580038693351425",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5559,7 +5619,7 @@
    "source_url": "https://www.opentix.life/program/2082728853642915841",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5580,7 +5640,7 @@
    "source_url": "https://www.opentix.life/program/2083161007938134017",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5602,7 +5662,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DYR135",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5623,7 +5683,7 @@
    "source_url": "https://www.opentix.life/program/2082659728235339777",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5645,7 +5705,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1E0CIOY",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5667,7 +5727,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1E0DEB2",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5688,7 +5748,7 @@
    "source_url": "https://www.opentix.life/program/2077594175783804929",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5709,7 +5769,7 @@
    "source_url": "https://www.opentix.life/program/2077603220684337153",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5730,7 +5790,7 @@
    "source_url": "https://www.opentix.life/program/2077605060833861633",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5751,7 +5811,7 @@
    "source_url": "https://www.opentix.life/program/2077606379895627776",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5772,7 +5832,7 @@
    "source_url": "https://www.opentix.life/program/2078048579470028801",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5799,7 +5859,7 @@
    "source_url": "https://www.opentix.life/program/2084130068362047489",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5826,7 +5886,7 @@
    "source_url": "https://www.opentix.life/program/2084197567053049856",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5847,7 +5907,7 @@
    "source_url": "https://www.opentix.life/program/2081908884604575744",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5868,7 +5928,7 @@
    "source_url": "https://www.opentix.life/program/2076665079909720065",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5889,7 +5949,7 @@
    "source_url": "https://www.opentix.life/program/2083919774965473280",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5910,7 +5970,7 @@
    "source_url": "https://www.opentix.life/program/2085244131569651713",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5932,7 +5992,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1E6BK4C",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5953,7 +6013,7 @@
    "source_url": "https://www.opentix.life/program/2084113565455855617",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5974,7 +6034,7 @@
    "source_url": "https://www.opentix.life/program/2086621921965027328",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -5995,7 +6055,7 @@
    "source_url": "https://www.opentix.life/program/2080112539683344385",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6017,7 +6077,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1EDGW9T",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6038,7 +6098,7 @@
    "source_url": "https://www.opentix.life/program/2080669466082271233",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6059,7 +6119,7 @@
    "source_url": "https://www.opentix.life/program/2077211561135824897",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6092,7 +6152,7 @@
    "source_url": "https://www.opentix.life/program/2084162408299769857",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6113,7 +6173,7 @@
    "source_url": "https://www.opentix.life/program/2084482215968473088",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6140,7 +6200,7 @@
    "source_url": "https://www.opentix.life/program/2086709571007508481",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6161,7 +6221,7 @@
    "source_url": "https://www.opentix.life/program/2085302668497403905",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6182,7 +6242,7 @@
    "source_url": "https://www.opentix.life/program/2085659801316474881",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6203,7 +6263,7 @@
    "source_url": "https://www.opentix.life/program/2086770908630368257",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6224,7 +6284,7 @@
    "source_url": "https://www.opentix.life/program/2086778741904691201",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6245,7 +6305,7 @@
    "source_url": "https://www.opentix.life/program/2087065014067822593",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6266,7 +6326,7 @@
    "source_url": "https://www.opentix.life/program/2087098850967314433",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6287,7 +6347,7 @@
    "source_url": "https://www.opentix.life/program/2087486919881486337",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6308,7 +6368,7 @@
    "source_url": "https://www.opentix.life/program/2087506535193788417",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6329,7 +6389,7 @@
    "source_url": "https://www.opentix.life/program/2087818083774783489",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6350,7 +6410,7 @@
    "source_url": "https://www.opentix.life/program/2088173457954533377",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6371,7 +6431,7 @@
    "source_url": "https://www.opentix.life/program/2086702843524247552",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6392,7 +6452,7 @@
    "source_url": "https://www.opentix.life/program/2089192717915193344",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6413,7 +6473,7 @@
    "source_url": "https://www.opentix.life/program/2087113618239275009",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6434,7 +6494,7 @@
    "source_url": "https://www.opentix.life/program/2087117918235541505",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6455,7 +6515,7 @@
    "source_url": "https://www.opentix.life/program/2087120867387015168",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6476,7 +6536,7 @@
    "source_url": "https://www.opentix.life/program/2087476944693649409",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6497,7 +6557,7 @@
    "source_url": "https://www.opentix.life/program/2087478134856527873",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6518,7 +6578,7 @@
    "source_url": "https://www.opentix.life/program/2087479254200844289",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6539,7 +6599,7 @@
    "source_url": "https://www.opentix.life/program/2085675635002843137",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6560,7 +6620,7 @@
    "source_url": "https://www.opentix.life/program/2086638625252225024",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6581,7 +6641,7 @@
    "source_url": "https://www.opentix.life/program/2087081273180315649",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6602,7 +6662,7 @@
    "source_url": "https://www.opentix.life/program/2089635907721334784",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6623,7 +6683,7 @@
    "source_url": "https://www.opentix.life/program/2071513975009542145",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6644,7 +6704,7 @@
    "source_url": "https://www.opentix.life/program/2078394381216837633",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6671,7 +6731,7 @@
    "source_url": "https://www.opentix.life/program/2089194355117297665",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6692,7 +6752,7 @@
    "source_url": "https://www.opentix.life/program/2089266667219144705",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6713,28 +6773,7 @@
    "source_url": "https://www.opentix.life/program/2089596437878657025",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
-   "crawled": true
-  },
-  {
-   "id": "c-moc-0a78918f1d0d",
-   "title": "弦上的微光-張明雄二胡音樂會",
-   "category": "festival",
-   "start_date": "2026-11-05",
-   "end_date": "2026-11-05",
-   "locations": [
-    {
-     "county": "臺北市",
-     "town": "中正區",
-     "venue": "臺北市中山堂中正廳",
-     "address": "臺北市中正區延平南路98號"
-    }
-   ],
-   "ticket": "unknown",
-   "source_url": "https://www.opentix.life/program/2090294462783180801",
-   "source_name": "文化部文化資料開放服務網",
-   "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6767,7 +6806,7 @@
    "source_url": "https://www.opentix.life/program/2082346375042473985",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6788,7 +6827,7 @@
    "source_url": "https://www.opentix.life/program/2082425418452361217",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6809,7 +6848,7 @@
    "source_url": "https://www.opentix.life/program/2087435617998233601",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6830,7 +6869,7 @@
    "source_url": "https://www.opentix.life/program/2089265976854073345",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6851,7 +6890,7 @@
    "source_url": "https://www.opentix.life/program/2089278164781281281",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6872,7 +6911,7 @@
    "source_url": "https://www.opentix.life/program/2090423047773200384",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6899,7 +6938,7 @@
    "source_url": "https://www.opentix.life/program/2092148722984304640",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6920,7 +6959,7 @@
    "source_url": "https://www.opentix.life/program/2031641590503866369",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6942,7 +6981,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1EWB2W4",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6975,7 +7014,7 @@
    "source_url": "https://www.opentix.life/program/2089646348479619073",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -6996,7 +7035,7 @@
    "source_url": "https://www.opentix.life/program/2067130607362113536",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7017,7 +7056,7 @@
    "source_url": "https://www.opentix.life/program/2092910623377199105",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7038,7 +7077,7 @@
    "source_url": "https://www.opentix.life/program/2085550223014764544",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7059,7 +7098,7 @@
    "source_url": "https://www.opentix.life/program/2082655679489400833",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7080,7 +7119,7 @@
    "source_url": "https://www.opentix.life/program/2086699224608436224",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7101,7 +7140,7 @@
    "source_url": "https://www.opentix.life/program/2086740233625812992",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7122,7 +7161,7 @@
    "source_url": "https://www.opentix.life/program/2087386323953926145",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7143,7 +7182,7 @@
    "source_url": "https://www.opentix.life/program/2089921134541438977",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7164,7 +7203,7 @@
    "source_url": "https://www.opentix.life/program/2090748578762825729",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7191,7 +7230,7 @@
    "source_url": "https://www.opentix.life/program/2092850947110248449",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7213,7 +7252,7 @@
    "source_url": "https://arts.nycu.edu.tw/a-tribute-to-clarinet-maestros/",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7235,7 +7274,7 @@
    "source_url": "https://arts.nycu.edu.tw/john-dowlands-400th-death-anniversary/",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7257,7 +7296,7 @@
    "source_url": "https://arts.nycu.edu.tw/yu-hsin-tsai-piano-recital/",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7290,7 +7329,7 @@
    "source_url": "https://www.opentix.life/program/2064954960502607873",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7317,7 +7356,7 @@
    "source_url": "https://www.opentix.life/program/2088199390794928129",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7338,7 +7377,7 @@
    "source_url": "https://www.opentix.life/program/2094340637882003457",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7360,7 +7399,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F5JGKM",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7382,7 +7421,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F5TXVJ",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7403,7 +7442,7 @@
    "source_url": "https://www.opentix.life/program/2093900427117928449",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7430,7 +7469,7 @@
    "source_url": "https://www.opentix.life/program/2095048717894885376",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7451,7 +7490,7 @@
    "source_url": "https://www.opentix.life/program/2084948759163445249",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7472,7 +7511,7 @@
    "source_url": "https://www.opentix.life/program/2085334193336229889",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7493,7 +7532,7 @@
    "source_url": "https://www.opentix.life/program/2090018884800319489",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7514,7 +7553,7 @@
    "source_url": "https://www.opentix.life/program/2089559719403778048",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7535,7 +7574,7 @@
    "source_url": "https://www.opentix.life/program/2089644197911773184",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7556,7 +7595,7 @@
    "source_url": "https://www.opentix.life/program/2089674844780937217",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7577,7 +7616,7 @@
    "source_url": "https://www.opentix.life/program/2093174017485344769",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7604,7 +7643,7 @@
    "source_url": "https://www.opentix.life/program/2094726891126235137",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7625,7 +7664,7 @@
    "source_url": "https://www.opentix.life/program/2093264938780463105",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7647,7 +7686,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F8SPFR",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7668,7 +7707,7 @@
    "source_url": "https://www.opentix.life/program/2087101890235482113",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7689,7 +7728,7 @@
    "source_url": "https://www.opentix.life/program/2092174971144638465",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7710,7 +7749,7 @@
    "source_url": "https://www.opentix.life/program/2089995501384269825",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7731,7 +7770,7 @@
    "source_url": "https://www.opentix.life/program/2090663420909146112",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7752,7 +7791,7 @@
    "source_url": "https://www.opentix.life/program/2092893350380863489",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7785,7 +7824,7 @@
    "source_url": "https://www.opentix.life/program/2093894064069353473",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7806,7 +7845,7 @@
    "source_url": "https://www.opentix.life/program/2094317408583098369",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7827,7 +7866,7 @@
    "source_url": "https://www.opentix.life/program/2095692054400499713",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7860,7 +7899,7 @@
    "source_url": "https://www.opentix.life/program/2090271128120614912",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7882,7 +7921,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FDODMR",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7910,7 +7949,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FFL95J",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7931,7 +7970,7 @@
    "source_url": "https://www.opentix.life/program/2089910450669920257",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7952,7 +7991,7 @@
    "source_url": "https://www.opentix.life/program/2093139169107288065",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7973,7 +8012,7 @@
    "source_url": "https://www.opentix.life/program/2095807381356576769",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -7994,7 +8033,7 @@
    "source_url": "https://www.opentix.life/program/2097849738568175617",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8015,7 +8054,7 @@
    "source_url": "https://www.opentix.life/program/2092540916982927360",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8036,7 +8075,7 @@
    "source_url": "https://www.opentix.life/program/2092166103181836289",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8057,7 +8096,7 @@
    "source_url": "https://www.opentix.life/program/2095317599825952768",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8084,7 +8123,7 @@
    "source_url": "https://www.opentix.life/program/2096874001865805824",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8105,7 +8144,7 @@
    "source_url": "https://www.opentix.life/program/2098255075466424321",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8126,7 +8165,7 @@
    "source_url": "https://www.opentix.life/program/2089894709775405057",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8147,7 +8186,7 @@
    "source_url": "https://www.opentix.life/program/2093147014345424897",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8186,7 +8225,7 @@
    "source_url": "https://www.opentix.life/program/2086719960504127489",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8207,7 +8246,7 @@
    "source_url": "https://www.opentix.life/program/2095047956513107969",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8234,7 +8273,7 @@
    "source_url": "https://www.opentix.life/program/2096906468333096960",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8256,7 +8295,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FRB84Q",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8277,22 +8316,16 @@
    "source_url": "https://www.opentix.life/program/2097905266022486016",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
    "id": "c-moc-5716fb332ba9",
    "title": "維吉爾．巴特＆鄒世烈吉他獨奏會",
    "category": "festival",
-   "start_date": "2026-11-05",
+   "start_date": "2026-11-08",
    "end_date": "2026-11-08",
    "locations": [
-    {
-     "county": "臺北市",
-     "town": "中正區",
-     "venue": "國家兩廳院演奏廳",
-     "address": "臺北市中正區中山南路21-1號"
-    },
     {
      "county": "新竹縣",
      "town": "竹北市",
@@ -8304,7 +8337,7 @@
    "source_url": "https://www.opentix.life/program/2099349897746935809",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8325,7 +8358,7 @@
    "source_url": "https://www.opentix.life/program/2094680833022025729",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8346,7 +8379,7 @@
    "source_url": "https://www.opentix.life/program/1717804268837748736",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8367,7 +8400,7 @@
    "source_url": "https://www.opentix.life/program/2089958531710963713",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8388,7 +8421,7 @@
    "source_url": "https://www.opentix.life/program/2089962901775663105",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8409,7 +8442,7 @@
    "source_url": "https://www.opentix.life/program/2096886851738198017",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8430,7 +8463,7 @@
    "source_url": "https://www.opentix.life/program/2097151096732180481",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8457,7 +8490,7 @@
    "source_url": "https://www.opentix.life/program/2087079903211335680",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8478,7 +8511,7 @@
    "source_url": "https://www.opentix.life/program/2097574906999246849",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8505,7 +8538,7 @@
    "source_url": "https://www.opentix.life/program/2099766707927355393",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8526,7 +8559,7 @@
    "source_url": "https://www.opentix.life/program/2100157616404054017",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8547,7 +8580,7 @@
    "source_url": "https://www.opentix.life/program/2099373541972262913",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8568,7 +8601,7 @@
    "source_url": "https://www.opentix.life/program/2098337118897623041",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8589,7 +8622,7 @@
    "source_url": "https://www.opentix.life/program/2099696972758896641",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8610,7 +8643,7 @@
    "source_url": "https://www.opentix.life/program/2095338098200879105",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8631,7 +8664,7 @@
    "source_url": "https://www.opentix.life/program/2095509822174994433",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8652,7 +8685,7 @@
    "source_url": "https://www.opentix.life/program/2099693491957506049",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8673,7 +8706,7 @@
    "source_url": "https://www.opentix.life/program/2099788748890349569",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8694,7 +8727,7 @@
    "source_url": "https://www.opentix.life/program/2095755160650924032",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8715,7 +8748,7 @@
    "source_url": "https://www.opentix.life/program/2097888985266294785",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8737,7 +8770,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1G6H7IA",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8758,7 +8791,7 @@
    "source_url": "https://www.opentix.life/program/2096198561125683201",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8779,7 +8812,7 @@
    "source_url": "https://www.opentix.life/program/2097504190905114625",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8800,7 +8833,7 @@
    "source_url": "https://www.opentix.life/program/2101883516470468609",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8821,7 +8854,7 @@
    "source_url": "https://www.opentix.life/program/2087465758874710017",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8842,7 +8875,7 @@
    "source_url": "https://www.opentix.life/program/2100435828827344897",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8875,7 +8908,7 @@
    "source_url": "https://www.opentix.life/program/2100491251944562689",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8896,7 +8929,7 @@
    "source_url": "https://www.opentix.life/program/2100525514221658113",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8917,7 +8950,7 @@
    "source_url": "https://www.opentix.life/program/2098234560547303425",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8938,7 +8971,7 @@
    "source_url": "https://www.opentix.life/program/2098262069682810881",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8959,7 +8992,7 @@
    "source_url": "https://www.opentix.life/program/2099794023431028737",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -8980,7 +9013,7 @@
    "source_url": "https://www.opentix.life/program/2098321523546447873",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9013,7 +9046,7 @@
    "source_url": "https://www.opentix.life/program/2099675200914427904",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9034,7 +9067,7 @@
    "source_url": "https://www.opentix.life/program/2101878403670052865",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9055,7 +9088,7 @@
    "source_url": "https://www.opentix.life/program/2102298802570960896",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9076,7 +9109,7 @@
    "source_url": "https://www.opentix.life/program/2102937943479726081",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9097,7 +9130,7 @@
    "source_url": "https://www.opentix.life/program/2104825705148162048",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9118,7 +9151,7 @@
    "source_url": "https://www.opentix.life/program/2099703237643980800",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9139,7 +9172,7 @@
    "source_url": "https://www.opentix.life/program/2100529002246807553",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9160,7 +9193,7 @@
    "source_url": "https://www.opentix.life/program/2100867378408706049",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9181,7 +9214,7 @@
    "source_url": "https://www.opentix.life/program/2101950430852980737",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9202,7 +9235,7 @@
    "source_url": "https://www.opentix.life/program/2104840892479676417",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9223,7 +9256,7 @@
    "source_url": "https://www.opentix.life/program/2092559448512712705",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9244,7 +9277,7 @@
    "source_url": "https://www.opentix.life/program/2100127478886973440",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9265,7 +9298,7 @@
    "source_url": "https://www.opentix.life/program/2090290025109245953",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9286,7 +9319,7 @@
    "source_url": "https://www.opentix.life/program/2099744597423132673",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9307,7 +9340,7 @@
    "source_url": "https://www.opentix.life/program/2099748503256420353",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9328,7 +9361,7 @@
    "source_url": "https://www.opentix.life/program/2101865303470845952",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9361,7 +9394,7 @@
    "source_url": "https://www.opentix.life/program/2101892767593082880",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9382,7 +9415,7 @@
    "source_url": "https://www.opentix.life/program/2101925846912507905",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9403,7 +9436,7 @@
    "source_url": "https://www.opentix.life/program/2101997879263174657",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9424,7 +9457,7 @@
    "source_url": "https://www.opentix.life/program/2102280971281862657",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9445,7 +9478,7 @@
    "source_url": "https://www.opentix.life/program/2102320948069896193",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9466,7 +9499,7 @@
    "source_url": "https://www.opentix.life/program/2102675383824199681",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9487,7 +9520,7 @@
    "source_url": "https://www.opentix.life/program/2102682494419701761",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9514,7 +9547,7 @@
    "source_url": "https://www.opentix.life/program/2102965715002503169",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9541,7 +9574,7 @@
    "source_url": "https://www.opentix.life/program/2102976712891215872",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9562,7 +9595,7 @@
    "source_url": "https://www.opentix.life/program/2103461573718614017",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9583,7 +9616,7 @@
    "source_url": "https://www.opentix.life/program/2103463801074393089",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9604,7 +9637,7 @@
    "source_url": "https://www.opentix.life/program/2103466076614336513",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9625,7 +9658,7 @@
    "source_url": "https://www.opentix.life/program/2103470334250921984",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9646,7 +9679,7 @@
    "source_url": "https://www.opentix.life/program/2103473274978119680",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9667,7 +9700,7 @@
    "source_url": "https://www.opentix.life/program/2103474698960285697",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9689,7 +9722,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GIUBEO",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9710,7 +9743,7 @@
    "source_url": "https://www.opentix.life/program/2099853062099406849",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9731,7 +9764,7 @@
    "source_url": "https://www.opentix.life/program/2101909771166461952",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9752,7 +9785,7 @@
    "source_url": "https://www.opentix.life/program/2102213433220833281",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9773,7 +9806,7 @@
    "source_url": "https://www.opentix.life/program/2104482522737717248",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9794,7 +9827,7 @@
    "source_url": "https://www.opentix.life/program/2104763223958560769",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9821,7 +9854,7 @@
    "source_url": "https://www.opentix.life/program/2104779742909665281",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9842,7 +9875,7 @@
    "source_url": "https://www.opentix.life/program/2104828971671363584",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9863,7 +9896,7 @@
    "source_url": "https://www.opentix.life/program/2105226901385277441",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9884,7 +9917,7 @@
    "source_url": "https://www.opentix.life/program/2105592444607442945",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9905,7 +9938,7 @@
    "source_url": "https://www.opentix.life/program/2099410607302135808",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9926,7 +9959,7 @@
    "source_url": "https://www.opentix.life/program/2100850675412557825",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9947,7 +9980,7 @@
    "source_url": "https://www.opentix.life/program/2103043879225888768",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9968,7 +10001,7 @@
    "source_url": "https://www.opentix.life/program/2094321148891926529",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -9989,7 +10022,7 @@
    "source_url": "https://www.opentix.life/program/2097206708537823233",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10010,7 +10043,7 @@
    "source_url": "https://www.opentix.life/program/2101979205227089920",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10031,7 +10064,7 @@
    "source_url": "https://www.opentix.life/program/2103068204084047873",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10052,7 +10085,7 @@
    "source_url": "https://www.opentix.life/program/2105848922785816577",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10073,7 +10106,7 @@
    "source_url": "https://www.opentix.life/program/2100532931097804801",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10094,7 +10127,7 @@
    "source_url": "https://www.opentix.life/program/2102345121869377537",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10115,7 +10148,7 @@
    "source_url": "https://www.opentix.life/program/2102655083036643329",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10136,7 +10169,7 @@
    "source_url": "https://www.opentix.life/program/2105909707614601217",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10170,7 +10203,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GRIMGD",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10191,7 +10224,7 @@
    "source_url": "https://www.opentix.life/program/2099754790173212673",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10212,7 +10245,7 @@
    "source_url": "https://www.opentix.life/program/2100914658144260096",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10239,7 +10272,7 @@
    "source_url": "https://www.opentix.life/program/2105120900576104449",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10260,7 +10293,7 @@
    "source_url": "https://www.opentix.life/program/2105958106013474816",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10281,7 +10314,7 @@
    "source_url": "https://www.opentix.life/program/2106964047636815873",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10302,7 +10335,7 @@
    "source_url": "https://www.opentix.life/program/2107327689371172865",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10323,7 +10356,7 @@
    "source_url": "https://www.opentix.life/program/2107391437581844480",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10345,7 +10378,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GUS4PQ",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10372,7 +10405,7 @@
    "source_url": "https://www.opentix.life/program/2108084077468188672",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10399,7 +10432,7 @@
    "source_url": "https://www.opentix.life/program/2105120623508770816",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10420,7 +10453,7 @@
    "source_url": "https://www.opentix.life/program/2105249874267750401",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10441,7 +10474,7 @@
    "source_url": "https://www.opentix.life/program/2107295258362527745",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10462,7 +10495,7 @@
    "source_url": "https://www.opentix.life/program/2107350422544732161",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10483,7 +10516,7 @@
    "source_url": "https://www.opentix.life/program/2101943785483870209",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10504,7 +10537,7 @@
    "source_url": "https://www.opentix.life/program/2102676808717668353",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10531,7 +10564,7 @@
    "source_url": "https://www.opentix.life/program/2104822363661111297",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10552,7 +10585,7 @@
    "source_url": "https://www.opentix.life/program/2105452507466604545",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10573,7 +10606,7 @@
    "source_url": "https://www.opentix.life/program/2104859157998313473",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10594,7 +10627,7 @@
    "source_url": "https://www.opentix.life/program/2107675617423958017",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10621,7 +10654,7 @@
    "source_url": "https://www.opentix.life/program/2105917797508464641",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10642,7 +10675,7 @@
    "source_url": "https://www.opentix.life/program/2106983587928621057",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10663,7 +10696,7 @@
    "source_url": "https://www.opentix.life/program/2107302653674582017",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10684,7 +10717,7 @@
    "source_url": "https://www.opentix.life/program/2107661532009619457",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10705,7 +10738,7 @@
    "source_url": "https://www.opentix.life/program/2108030035545325569",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10726,7 +10759,7 @@
    "source_url": "https://www.opentix.life/program/2102234971316461569",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10747,7 +10780,7 @@
    "source_url": "https://www.opentix.life/program/2105978682398216192",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10768,7 +10801,7 @@
    "source_url": "https://www.opentix.life/program/2108038009051848705",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10789,7 +10822,7 @@
    "source_url": "https://www.opentix.life/program/2109837481859411969",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10810,7 +10843,7 @@
    "source_url": "https://www.opentix.life/program/2100846261949403137",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10831,7 +10864,7 @@
    "source_url": "https://www.opentix.life/program/2107357077277462529",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10852,7 +10885,7 @@
    "source_url": "https://www.opentix.life/program/2107742568828895233",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10873,7 +10906,7 @@
    "source_url": "https://www.opentix.life/program/2089260297614872577",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10894,7 +10927,7 @@
    "source_url": "https://www.opentix.life/program/2089980031975464960",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10915,7 +10948,7 @@
    "source_url": "https://www.opentix.life/program/2104852416094478337",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10936,7 +10969,7 @@
    "source_url": "https://www.opentix.life/program/2104863939604979713",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10957,7 +10990,7 @@
    "source_url": "https://www.opentix.life/program/2105859541652054017",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10978,7 +11011,7 @@
    "source_url": "https://www.opentix.life/program/2108107139636789249",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -10999,7 +11032,7 @@
    "source_url": "https://www.opentix.life/program/2107786479312338945",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11020,7 +11053,7 @@
    "source_url": "https://www.opentix.life/program/2105210272330326016",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11047,7 +11080,7 @@
    "source_url": "https://www.opentix.life/program/2105869345880174593",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11068,7 +11101,7 @@
    "source_url": "https://www.opentix.life/program/2107747819806810113",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11089,7 +11122,7 @@
    "source_url": "https://www.opentix.life/program/2109876462307307521",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11110,7 +11143,7 @@
    "source_url": "https://www.opentix.life/program/2101926215417958400",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11131,7 +11164,7 @@
    "source_url": "https://www.opentix.life/program/2107728569117466625",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11152,7 +11185,7 @@
    "source_url": "https://www.opentix.life/program/2106995701583536129",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11173,7 +11206,7 @@
    "source_url": "https://www.opentix.life/program/2107090102655930369",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11200,7 +11233,7 @@
    "source_url": "https://www.opentix.life/program/2108010089152028673",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11221,7 +11254,7 @@
    "source_url": "https://www.opentix.life/program/2108023234678923264",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11242,7 +11275,7 @@
    "source_url": "https://www.opentix.life/program/2108438341275090945",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11269,7 +11302,7 @@
    "source_url": "https://www.opentix.life/program/2109824911699013633",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11290,7 +11323,7 @@
    "source_url": "https://www.opentix.life/program/2105498807602659329",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11311,7 +11344,7 @@
    "source_url": "https://www.opentix.life/program/2107477937722359809",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11332,7 +11365,7 @@
    "source_url": "https://www.opentix.life/program/2108036054516785153",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11353,7 +11386,7 @@
    "source_url": "https://www.opentix.life/program/2108039042834538497",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11374,7 +11407,7 @@
    "source_url": "https://www.opentix.life/program/2109585817105657856",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11395,7 +11428,7 @@
    "source_url": "https://www.opentix.life/program/2109864523326427137",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11416,7 +11449,7 @@
    "source_url": "https://www.opentix.life/program/2109898501815463936",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11437,7 +11470,7 @@
    "source_url": "https://www.opentix.life/program/2110619563387166721",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11458,7 +11491,7 @@
    "source_url": "https://www.opentix.life/program/2110677919551815681",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11479,7 +11512,7 @@
    "source_url": "https://www.opentix.life/program/2100845313785040897",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11500,7 +11533,7 @@
    "source_url": "https://www.opentix.life/program/2105876911001059329",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11521,7 +11554,7 @@
    "source_url": "https://www.opentix.life/program/2107361702240493569",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11542,7 +11575,7 @@
    "source_url": "https://www.opentix.life/program/2110290616615084033",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11563,7 +11596,7 @@
    "source_url": "https://www.opentix.life/program/2110669182120378369",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11584,7 +11617,7 @@
    "source_url": "https://www.opentix.life/program/2105867218505175041",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11605,7 +11638,7 @@
    "source_url": "https://www.opentix.life/program/2110562283313065984",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11626,7 +11659,7 @@
    "source_url": "https://www.opentix.life/program/2111009830742409217",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11647,7 +11680,7 @@
    "source_url": "https://www.opentix.life/program/2112902424228806657",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11668,7 +11701,7 @@
    "source_url": "https://www.opentix.life/program/2110984824930779136",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11689,7 +11722,7 @@
    "source_url": "https://www.opentix.life/program/2097228732068270081",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11710,7 +11743,7 @@
    "source_url": "https://www.opentix.life/program/2109530438754242561",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11731,7 +11764,7 @@
    "source_url": "https://www.opentix.life/program/2109855009714139137",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11752,7 +11785,7 @@
    "source_url": "https://www.opentix.life/program/2110912342070734849",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11773,7 +11806,7 @@
    "source_url": "https://www.opentix.life/program/2112397802711756801",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11794,7 +11827,7 @@
    "source_url": "https://www.opentix.life/program/2105182333352689664",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11815,7 +11848,7 @@
    "source_url": "https://www.opentix.life/program/2113200035579109377",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11836,7 +11869,7 @@
    "source_url": "https://www.opentix.life/program/2104830405003649025",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11857,7 +11890,7 @@
    "source_url": "https://www.opentix.life/program/2110192327783841793",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11878,7 +11911,7 @@
    "source_url": "https://www.opentix.life/program/2109578053407928321",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11899,7 +11932,7 @@
    "source_url": "https://www.opentix.life/program/2110555404997500929",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11920,7 +11953,7 @@
    "source_url": "https://www.opentix.life/program/2110899582547410944",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11941,7 +11974,7 @@
    "source_url": "https://www.opentix.life/program/2112446898907934721",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11962,7 +11995,7 @@
    "source_url": "https://www.opentix.life/program/2108046916204716033",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -11983,7 +12016,7 @@
    "source_url": "https://www.opentix.life/program/2109220205655908353",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12004,7 +12037,7 @@
    "source_url": "https://www.opentix.life/program/2112448938955415553",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12025,7 +12058,7 @@
    "source_url": "https://www.opentix.life/program/2115006078898479104",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12046,7 +12079,7 @@
    "source_url": "https://www.opentix.life/program/2112038520336478209",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12067,7 +12100,7 @@
    "source_url": "https://www.opentix.life/program/2114001967207419904",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12100,7 +12133,7 @@
    "source_url": "https://www.opentix.life/program/2114926880582537216",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12121,7 +12154,7 @@
    "source_url": "https://www.opentix.life/program/2112365012388167680",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12142,7 +12175,7 @@
    "source_url": "https://www.opentix.life/program/2110586520541667329",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12163,7 +12196,7 @@
    "source_url": "https://www.opentix.life/program/2110639893261393921",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12184,7 +12217,7 @@
    "source_url": "https://www.opentix.life/program/2111029306841710593",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12205,7 +12238,7 @@
    "source_url": "https://www.opentix.life/program/2112009007235543040",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12226,7 +12259,7 @@
    "source_url": "https://www.opentix.life/program/2112024879532777472",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12247,7 +12280,7 @@
    "source_url": "https://www.opentix.life/program/2112823512247214081",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12268,7 +12301,7 @@
    "source_url": "https://www.opentix.life/program/2113186316375109633",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12289,7 +12322,7 @@
    "source_url": "https://www.opentix.life/program/2115350068958519297",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12310,7 +12343,7 @@
    "source_url": "https://www.opentix.life/program/2115452157771276288",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12331,7 +12364,7 @@
    "source_url": "https://www.opentix.life/program/2115713402716119041",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12352,7 +12385,7 @@
    "source_url": "https://www.opentix.life/program/2087515566622605313",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12373,7 +12406,7 @@
    "source_url": "https://www.opentix.life/program/2098318032117485569",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12394,7 +12427,7 @@
    "source_url": "https://www.opentix.life/program/2105851377832992769",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12415,7 +12448,7 @@
    "source_url": "https://www.opentix.life/program/2112377334473117696",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12436,7 +12469,7 @@
    "source_url": "https://www.opentix.life/program/2113923457436368897",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12457,7 +12490,7 @@
    "source_url": "https://www.opentix.life/program/2116094886586388481",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12478,7 +12511,7 @@
    "source_url": "https://www.opentix.life/program/2104818056804900865",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12499,7 +12532,7 @@
    "source_url": "https://www.opentix.life/program/2115013521218473985",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12520,7 +12553,7 @@
    "source_url": "https://www.opentix.life/program/2109500733699264513",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12541,7 +12574,7 @@
    "source_url": "https://www.opentix.life/program/2112102874435055617",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12562,7 +12595,7 @@
    "source_url": "https://www.opentix.life/program/2112364360358383617",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12583,7 +12616,7 @@
    "source_url": "https://www.opentix.life/program/2113510317824221185",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12604,7 +12637,7 @@
    "source_url": "https://www.opentix.life/program/2114896588664922112",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12625,7 +12658,7 @@
    "source_url": "https://www.opentix.life/program/2115665451293696001",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12646,7 +12679,7 @@
    "source_url": "https://www.opentix.life/program/2115683243310223361",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12667,7 +12700,7 @@
    "source_url": "https://www.opentix.life/program/2110258634365931520",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12688,7 +12721,7 @@
    "source_url": "https://www.opentix.life/program/2110268402502615041",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12709,7 +12742,7 @@
    "source_url": "https://www.opentix.life/program/2114958761601798144",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12730,7 +12763,7 @@
    "source_url": "https://www.opentix.life/program/2111448549882028032",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12751,7 +12784,7 @@
    "source_url": "https://www.opentix.life/program/2114973497213849601",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12772,7 +12805,7 @@
    "source_url": "https://www.opentix.life/program/2115251312489586689",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12793,7 +12826,7 @@
    "source_url": "https://www.opentix.life/program/2115708065185161216",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12814,7 +12847,7 @@
    "source_url": "https://www.opentix.life/program/2113570407894147073",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12835,7 +12868,7 @@
    "source_url": "https://www.opentix.life/program/2110650558829117441",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12856,7 +12889,7 @@
    "source_url": "https://www.opentix.life/program/2117528472935182337",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12877,7 +12910,7 @@
    "source_url": "https://www.opentix.life/program/2117510514034548737",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12898,7 +12931,7 @@
    "source_url": "https://www.opentix.life/program/2108044209413971969",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12919,7 +12952,7 @@
    "source_url": "https://www.opentix.life/program/2117135115734577153",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12941,7 +12974,50 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I4GC7W",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-05",
+   "verified_on": "2026-11-06",
+   "crawled": true
+  },
+  {
+   "id": "c-moc-6536f7aa197d",
+   "title": "金色童年，弦音飛揚-麗澤弦樂團音樂會",
+   "category": "festival",
+   "start_date": "2027-01-23",
+   "end_date": "2027-01-23",
+   "locations": [
+    {
+     "county": "高雄市",
+     "town": "鹽埕區",
+     "venue": "高雄市音樂館",
+     "address": "高雄市鹽埕區河西路99號"
+    }
+   ],
+   "ticket": "unknown",
+   "source_url": "https://www.opentix.life/program/2110697033891254273",
+   "source_name": "文化部文化資料開放服務網",
+   "source_type": "official",
+   "verified_on": "2026-11-06",
+   "crawled": true
+  },
+  {
+   "id": "c-moc-0f70a5e44709",
+   "title": "傳愛在康橋 2027林口康橋管弦樂團年度公益音樂會",
+   "category": "festival",
+   "start_date": "2027-01-13",
+   "end_date": "2027-01-13",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "",
+     "venue": "臺北市中山堂中正廳",
+     "address": "臺北市延平南路98號"
+    }
+   ],
+   "ticket": "paid",
+   "price": "1500、1200、800",
+   "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I5ROJP",
+   "source_name": "文化部文化資料開放服務網",
+   "source_type": "official",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -12968,29 +13044,6 @@
    "crawled": true
   },
   {
-   "id": "c-acc-6629b5352903",
-   "title": "2026第三屆貓樂園專屬貓奴和風文創市集",
-   "category": "market",
-   "start_date": "2026-12-26",
-   "end_date": "2026-12-27",
-   "locations": [
-    {
-     "county": "臺北市",
-     "town": "中正區",
-     "venue": "華山1914文化創意園區",
-     "address": "台灣台北市中正區八德路一段1號（忠孝東路與八德路交叉口，光華商場旁）"
-    }
-   ],
-   "ticket": "unknown",
-   "summary": "2024年12月，貓樂園和眾多品牌完成了一場療癒且熱鬧的貓樂園市集。 2025年12月，以冬日和風為主題，添加日本祭典感。 2026年12月，擴大舉辦，持續打造全台獨一無二專屬貓奴文創市集。",
-   "organizer": "貓樂園_專屬貓奴的創意市集",
-   "source_url": "https://www.accupass.com/event/2607160338071803913088",
-   "source_name": "Accupass 活動通",
-   "source_type": "media",
-   "verified_on": "2026-10-03",
-   "crawled": true
-  },
-  {
    "id": "c-acc-af247f950114",
    "title": "新感覺市集 2026 〰 NEO SOUTH WAVE 〰",
    "category": "market",
@@ -13011,6 +13064,29 @@
    "source_name": "Accupass 活動通",
    "source_type": "media",
    "verified_on": "2026-11-05",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-6629b5352903",
+   "title": "2026第三屆貓樂園專屬貓奴和風文創市集",
+   "category": "market",
+   "start_date": "2026-12-26",
+   "end_date": "2026-12-27",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "中正區",
+     "venue": "華山1914文化創意園區",
+     "address": "台灣台北市中正區八德路一段1號（忠孝東路與八德路交叉口，光華商場旁）"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2024年12月，貓樂園和眾多品牌完成了一場療癒且熱鬧的貓樂園市集。 2025年12月，以冬日和風為主題，添加日本祭典感。 2026年12月，擴大舉辦，持續打造全台獨一無二專屬貓奴文創市集。",
+   "organizer": "貓樂園_專屬貓奴的創意市集",
+   "source_url": "https://www.accupass.com/event/2607160338071803913088",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
    "crawled": true
   },
   {
@@ -13083,29 +13159,6 @@
    "crawled": true
   },
   {
-   "id": "c-acc-eb62c2517bab",
-   "title": "舒喜市集【台灣故鄉祭】",
-   "category": "market",
-   "start_date": "2026-11-28",
-   "end_date": "2026-11-29",
-   "locations": [
-    {
-     "county": "臺北市",
-     "town": "信義區",
-     "venue": "松山文創園區 北向製菸工廠",
-     "address": "台灣台北市信義區光復南路133號"
-    }
-   ],
-   "ticket": "unknown",
-   "summary": "今年冬天，舒喜市集《台灣故鄉祭》第二回再次回到松山文創園區北向製菸工廠。以「地方風味、手作文化、台灣民藝、老派生活感」為核心，邀請來自台灣各地的創作者、職人與品牌，將一座座城市與鄉鎮裡的味道、手藝與生活記憶帶進松菸。",
-   "organizer": "舒喜巷SUKILANE",
-   "source_url": "https://www.accupass.com/event/2609030722305019497420",
-   "source_name": "Accupass 活動通",
-   "source_type": "media",
-   "verified_on": "2026-10-03",
-   "crawled": true
-  },
-  {
    "id": "c-acc-65398118f53a",
    "title": "稻埕食光漫步小市集-11月",
    "category": "market",
@@ -13126,6 +13179,29 @@
    "source_name": "Accupass 活動通",
    "source_type": "media",
    "verified_on": "2026-10-27",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-eb62c2517bab",
+   "title": "舒喜市集【台灣故鄉祭】",
+   "category": "market",
+   "start_date": "2026-11-28",
+   "end_date": "2026-11-29",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "信義區",
+     "venue": "松山文創園區 北向製菸工廠",
+     "address": "台灣台北市信義區光復南路133號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "今年冬天，舒喜市集《台灣故鄉祭》第二回再次回到松山文創園區北向製菸工廠。以「地方風味、手作文化、台灣民藝、老派生活感」為核心，邀請來自台灣各地的創作者、職人與品牌，將一座座城市與鄉鎮裡的味道、手藝與生活記憶帶進松菸。",
+   "organizer": "舒喜巷SUKILANE",
+   "source_url": "https://www.accupass.com/event/2609030722305019497420",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
    "crawled": true
   },
   {
@@ -13497,49 +13573,26 @@
    "crawled": true
   },
   {
-   "id": "c-acc-6d7f0756ee5c",
-   "title": "【啊！沒關係啦快閃餐廳】Ah！It's OKAY！",
+   "id": "c-acc-82fa40d60c32",
+   "title": "台派補給站｜VOTE FOR TAIWAN",
    "category": "festival",
-   "start_date": "2026-11-07",
-   "end_date": "2026-11-08",
-   "locations": [
-    {
-     "county": "臺中市",
-     "town": "北區",
-     "venue": "【不老夢想125號】不老食光餐廳",
-     "address": "台灣台中市北區雙十路一段125號"
-    }
-   ],
-   "ticket": "unknown",
-   "summary": "「不老夢想125號」迎來十週年！夢想正當拾！特別企劃！ 再次攜手國際名廚江振誠與失智症長輩共同打造「啊！沒關係啦快閃餐廳」~ 由失智症長輩親切穿梭桌邊為您上一道道揉合溫度的特製佳餚。",
-   "organizer": "不老夢想125號",
-   "source_url": "https://www.accupass.com/event/2610070337459293687910",
-   "source_name": "Accupass 活動通",
-   "source_type": "media",
-   "verified_on": "2026-10-13",
-   "crawled": true
-  },
-  {
-   "id": "c-acc-8a8d0eb1629c",
-   "title": "2026台北萌寵物用品展｜雙11寵物囤貨節11/6~11/9｜台北世貿一館",
-   "category": "exhibit",
-   "start_date": "2026-11-06",
-   "end_date": "2026-11-09",
+   "start_date": "2026-11-22",
+   "end_date": "2026-11-22",
    "locations": [
     {
      "county": "臺北市",
-     "town": "信義區",
-     "venue": "台北世界貿易中心展覽一館",
-     "address": "台灣台北市信義區信義路五段5號"
+     "town": "中正區",
+     "venue": "台北市中正區北平東路24號2樓",
+     "address": "台灣台北市中正區北平東路24號2樓"
     }
    ],
    "ticket": "unknown",
-   "summary": "2026台北萌寵物用品展，11/06-11/09於台北世貿一館盛大登場！四天限定「超越雙11囤貨節」，集結人氣寵物品牌與年度熱銷好物，從主食糧、零食、保健、用品到智慧寵物家電，吃、穿、用、玩一次備齊，展場限定優惠3折起，更有品牌快閃、新品首…",
-   "organizer": "生動國際展覽事業股份有限公司",
-   "source_url": "https://www.accupass.com/event/2609240757531203965060",
+   "summary": "選前最後一個週日，窩窩把辦公室打開了--台派補給站開張啦！！！ 網購要等的老帽、徽章、轉印貼，這天現場帶走。 全預約制，到場來就送「三羊飄帶＋VOTE貼紙」，一起穿上台灣，相揪出門投票！",
+   "organizer": "窩窩wuowuo／窩商店wuoshop",
+   "source_url": "https://www.accupass.com/event/2610271119505723516110",
    "source_name": "Accupass 活動通",
    "source_type": "media",
-   "verified_on": "2026-10-03",
+   "verified_on": "2026-11-06",
    "crawled": true
   },
   {
@@ -13566,6 +13619,29 @@
    "crawled": true
   },
   {
+   "id": "c-acc-8a8d0eb1629c",
+   "title": "2026台北萌寵物用品展｜雙11寵物囤貨節11/6~11/9｜台北世貿一館",
+   "category": "exhibit",
+   "start_date": "2026-11-06",
+   "end_date": "2026-11-09",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "信義區",
+     "venue": "台北世界貿易中心展覽一館",
+     "address": "台灣台北市信義區信義路五段5號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "2026台北萌寵物用品展，11/06-11/09於台北世貿一館盛大登場！四天限定「超越雙11囤貨節」，集結人氣寵物品牌與年度熱銷好物，從主食糧、零食、保健、用品到智慧寵物家電，吃、穿、用、玩一次備齊，展場限定優惠3折起，更有品牌快閃、新品首…",
+   "organizer": "生動國際展覽事業股份有限公司",
+   "source_url": "https://www.accupass.com/event/2609240757531203965060",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-03",
+   "crawled": true
+  },
+  {
    "id": "c-acc-bda145e36cd2",
    "title": "Hearts2Hearts The 2nd Mini Album [Lemon Tang] POP-UP in TAIPEI",
    "category": "exhibit",
@@ -13586,29 +13662,6 @@
    "source_name": "Accupass 活動通",
    "source_type": "media",
    "verified_on": "2026-10-14",
-   "crawled": true
-  },
-  {
-   "id": "c-acc-47aec2634dc8",
-   "title": "宇宙年糕店｜2026 THEMED POP-UP STORES",
-   "category": "mall",
-   "start_date": "2026-11-07",
-   "end_date": "2026-11-28",
-   "locations": [
-    {
-     "county": "臺北市",
-     "town": "信義區",
-     "venue": "微風南山B1",
-     "address": "台灣台北市信義區松智路17號B1"
-    }
-   ],
-   "ticket": "unknown",
-   "summary": "◎原汁原味場景： 搶先直擊韓國「宇宙年糕店」經典造景與打卡熱點 ◎互動遊戲體驗： 挑戰「20秒限時出餐」Game Zone ◎限定周邊開箱： 搶先看「台北限定福袋」、自製品與韓國同步周邊 ◎主題拍貼機： 印製宇宙年糕店限定相框實體相片",
-   "organizer": "野獸國股份有限公司",
-   "source_url": "https://www.accupass.com/event/2610270830208948007750",
-   "source_name": "Accupass 活動通",
-   "source_type": "media",
-   "verified_on": "2026-10-31",
    "crawled": true
   },
   {
@@ -13658,6 +13711,29 @@
    "crawled": true
   },
   {
+   "id": "c-acc-6d7f0756ee5c",
+   "title": "【啊！沒關係啦快閃餐廳】Ah！It's OKAY！",
+   "category": "festival",
+   "start_date": "2026-11-07",
+   "end_date": "2026-11-08",
+   "locations": [
+    {
+     "county": "臺中市",
+     "town": "北區",
+     "venue": "【不老夢想125號】不老食光餐廳",
+     "address": "台灣台中市北區雙十路一段125號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "「不老夢想125號」迎來十週年！夢想正當拾！特別企劃！ 再次攜手國際名廚江振誠與失智症長輩共同打造「啊！沒關係啦快閃餐廳」~ 由失智症長輩親切穿梭桌邊為您上一道道揉合溫度的特製佳餚。",
+   "organizer": "不老夢想125號",
+   "source_url": "https://www.accupass.com/event/2610070337459293687910",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-13",
+   "crawled": true
+  },
+  {
    "id": "c-acc-b0f73bc70318",
    "title": "小貓咪咪玩皮球",
    "category": "outdoor",
@@ -13678,6 +13754,29 @@
    "source_name": "Accupass 活動通",
    "source_type": "media",
    "verified_on": "2026-11-01",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-47aec2634dc8",
+   "title": "宇宙年糕店｜2026 THEMED POP-UP STORES",
+   "category": "mall",
+   "start_date": "2026-11-07",
+   "end_date": "2026-11-28",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "信義區",
+     "venue": "微風南山B1",
+     "address": "台灣台北市信義區松智路17號B1"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "◎原汁原味場景： 搶先直擊韓國「宇宙年糕店」經典造景與打卡熱點 ◎互動遊戲體驗： 挑戰「20秒限時出餐」Game Zone ◎限定周邊開箱： 搶先看「台北限定福袋」、自製品與韓國同步周邊 ◎主題拍貼機： 印製宇宙年糕店限定相框實體相片",
+   "organizer": "野獸國股份有限公司",
+   "source_url": "https://www.accupass.com/event/2610270830208948007750",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-10-31",
    "crawled": true
   },
   {
