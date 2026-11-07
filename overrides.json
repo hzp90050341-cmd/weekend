@@ -179,6 +179,10 @@
     "category": "festival",
     "note": "室內演出（中正堂），非戶外"
   },
+  "c-moc-1496dc7a9aa9": {
+    "hidden": true,
+    "note": "圖書館主題書展，非外出活動"
+  },
   "c-moc-1d172a1bc77a": {
     "category": "festival",
     "note": "兒童劇場／親子演出，屬表演"
@@ -206,6 +210,10 @@
   "c-moc-21bd2863b9c4": {
     "category": "festival",
     "note": "兒童劇場／親子演出，屬表演"
+  },
+  "c-moc-2646b8b4b439": {
+    "category": "festival",
+    "note": "合唱團週年音樂會，非百貨週年慶"
   },
   "c-moc-296773b03f7e": {
     "note": "南海路47號（國立臺灣藝術教育館）位於中正區",
@@ -238,6 +246,10 @@
   "c-moc-36ce6115fd36": {
     "category": "festival",
     "note": "國家音樂廳音樂會，非戶外"
+  },
+  "c-moc-389bd0df3dd4": {
+    "hidden": true,
+    "note": "圖書館主題書展，非外出活動"
   },
   "c-moc-3d27cd5de050": {
     "category": "festival",
@@ -320,6 +332,10 @@
   "c-moc-79113acc0feb": {
     "category": "festival",
     "note": "音樂會，改節慶表演"
+  },
+  "c-moc-7aaaa4ff85a8": {
+    "hidden": true,
+    "note": "圖書館主題書展，非外出活動"
   },
   "c-moc-7cab53b38582": {
     "note": "南海路47號",
@@ -491,6 +507,10 @@
   "c-moc-ef7be933ca7a": {
     "hidden": true,
     "note": "音樂大師課，課程"
+  },
+  "c-moc-f66062342c30": {
+    "hidden": true,
+    "note": "圖書館主題書展，非外出活動"
   },
   "c-moc-fd7b9419f896": {
     "hidden": true,
