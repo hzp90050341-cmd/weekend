@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-07",
+ "generated_at": "2026-11-08",
  "meta": {
-  "added": 1,
-  "last_checked_at": "2026-11-07T11:05:00+08:00",
-  "next_focus": "文化部爬蟲筆數驟降，明日確認是否恢復。四重溪溫泉季待官方確認；高雄聖誕生活節、花蓮幸福耶誕城、繽紛耶誕玩台北、臺中耶誕嘉年華、勤美草悟聖誕村、基隆冬季燈飾、臺南嘉義耶誕活動 2026 日期未公布；夢時代、義大世界、太平洋屏東店週年慶未公布；漢神百貨、大江週年慶待官方證實；遠東巨城週年慶滿額禮待公布；苗栗陶藝節 2026 未公布；關子嶺溫泉美食節結束日未明（review_by 11/12）。週日全台補漏。",
+  "added": 3,
+  "last_checked_at": "2026-11-08T11:20:00+08:00",
+  "next_focus": "文化部爬蟲筆數持續偏低，需檢查爬蟲。高雄聖誕生活節、花蓮幸福耶誕城、繽紛耶誕玩台北、勤美草悟聖誕村、基隆冬季燈飾 2026 日期仍未公布；夢時代、義大世界、太平洋屏東店週年慶未公布；漢神百貨、大江週年慶待官方證實；遠東巨城週年慶滿額禮待公布；苗栗陶藝節 2026 未公布；關子嶺溫泉美食節結束日未明（review_by 11/12）；臺南藝術節檔期待佐證。",
   "removed": 0,
-  "summary": "GitHub Actions 今日 09:02 產出 crawled.json（觀光署 127、文化部 74、Accupass 34 皆 ok；文化部筆數由昨日 514 驟降為 74，疑爬蟲只抓到部分資料，待觀察）。新增 5 筆修正（隱藏 4 筆圖書館主題書展、改 1 筆分類），離線套用後 191 筆，已上傳並刪除舊檔。無投稿、無過期項目。週六查宜蘭、花蓮、臺東、金門、連江：爬蟲已涵蓋礁溪溫泉燈花季、鯉魚潭水岸光影節、臺灣國際衝浪公開賽、金沙聖誕等；新增遠東巨城週年慶（12/3-12/14，媒體來源）。複查 4 筆（ULTRA、ITF、防風少年展、關子嶺），未見延期或取消。",
+  "summary": "GitHub Actions 今日 08:51 產出 crawled.json（觀光署 120、文化部 73、Accupass 33 皆 ok；文化部連兩日僅七十餘筆，原為五百餘筆）。今日無新增修正，離線套用後 184 筆，已上傳並刪除舊檔。無投稿、無過期項目。週日全台補漏：新增台中耶誕嘉年華（12/14-2027/1/1，各來源日期不一）、遠百竹北與遠百板橋中山週年慶（11/12-11/29）。複查 4 筆：遊艇展改用中央社來源並標明免費預先登記、展場在亞灣遊艇碼頭；奇美法老展、屏東聖誕節確認無變動；臺南藝術節仍無其他來源佐證。",
   "updated": 4
  },
  "events": [
@@ -113,7 +113,7 @@
    "ticket": "paid",
    "time_text": "09:30-17:30（最後入場 16:30），週三與除夕休館",
    "title": "《埃及之王：法老》大展",
-   "verified_on": "2026-11-02",
+   "verified_on": "2026-11-08",
    "id": "2026-chimei-pharaoh"
   },
   {
@@ -442,7 +442,7 @@
    "time_text": "每日 17:30-22:00 亮燈；主燈展演 18:00 起每 30 分鐘一場；泡泡秀週六日及國定假日 18:00-22:00 每整點",
    "tips": "只查到媒體整理摘要，各來源展演細節略有出入；出發前請再確認",
    "title": "2026屏東聖誕節",
-   "verified_on": "2026-11-03",
+   "verified_on": "2026-11-08",
    "id": "2026-pingtung-christmas"
   },
   {
@@ -544,6 +544,36 @@
    "title": "遠東巨城購物中心 週年慶",
    "verified_on": "2026-11-07",
    "id": "2026-sale-bigcity"
+  },
+  {
+   "category": "mall",
+   "end_date": "2026-11-29",
+   "highlights": [
+    "滿額禮、刷卡回饋以百貨官方 DM 為準"
+   ],
+   "indoor": true,
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "板橋區",
+     "venue": "遠東百貨板橋中山店"
+    }
+   ],
+   "organizer": "遠東百貨",
+   "source_name": "NOWnews 遠百週年慶檔期表（搜尋摘要）",
+   "source_type": "aggregator",
+   "source_url": "https://www.nownews.com/news/6879425",
+   "start_date": "2026-11-12",
+   "subtype": "週年慶",
+   "summary": "遠百板橋中山店週年慶檔期，適合趁折扣採買化妝品、服飾。",
+   "tags": [
+    "週年慶"
+   ],
+   "ticket": "free",
+   "tips": "各來源日期不一（NOWnews 寫至 11/29，美麗佳人寫至 12/13），此處取較短區間；出發前請再確認",
+   "title": "遠百板橋中山 週年慶",
+   "verified_on": "2026-11-08",
+   "id": "2026-sale-feds-banqiao-zhongshan"
   },
   {
    "category": "mall",
@@ -699,6 +729,36 @@
    "title": "遠百桃園 週年慶",
    "verified_on": "2026-11-03",
    "id": "2026-sale-feds-taoyuan"
+  },
+  {
+   "category": "mall",
+   "end_date": "2026-11-29",
+   "highlights": [
+    "滿額禮、刷卡回饋以百貨官方 DM 為準"
+   ],
+   "indoor": true,
+   "locations": [
+    {
+     "county": "新竹縣",
+     "town": "竹北市",
+     "venue": "遠東百貨竹北店"
+    }
+   ],
+   "organizer": "遠東百貨",
+   "source_name": "NOWnews 遠百週年慶檔期表（搜尋摘要）",
+   "source_type": "aggregator",
+   "source_url": "https://www.nownews.com/news/6879425",
+   "start_date": "2026-11-12",
+   "subtype": "週年慶",
+   "summary": "遠百竹北店週年慶檔期，適合趁折扣採買化妝品、服飾。",
+   "tags": [
+    "週年慶"
+   ],
+   "ticket": "free",
+   "tips": "日期取自整理網站搜尋摘要，出發前請再確認",
+   "title": "遠百竹北 週年慶",
+   "verified_on": "2026-11-08",
+   "id": "2026-sale-feds-zhubei"
   },
   {
    "category": "mall",
@@ -1271,6 +1331,52 @@
    "id": "2026-sun-moon-lake-fireworks"
   },
   {
+   "category": "festival",
+   "end_date": "2027-01-01",
+   "highlights": [
+    "17公尺耶誕主燈",
+    "水舞秀",
+    "童話造景",
+    "主視覺角色白兔先生"
+   ],
+   "indoor": false,
+   "locations": [
+    {
+     "county": "臺中市",
+     "town": "中區",
+     "venue": "臺中火車站（舊站）"
+    },
+    {
+     "county": "臺中市",
+     "town": "中區",
+     "venue": "綠川"
+    },
+    {
+     "county": "臺中市",
+     "town": "中區",
+     "venue": "柳川"
+    }
+   ],
+   "organizer": "臺中市政府",
+   "source_name": "食尚玩家（搜尋摘要）",
+   "source_type": "aggregator",
+   "source_url": "https://supertaste.tvbs.com.tw/travel/362284",
+   "start_date": "2026-12-14",
+   "subtype": "耶誕燈飾",
+   "summary": "以「夢幻童話」為主題，串聯舊台中火車站、綠川、柳川三大展區的耶誕燈飾活動。",
+   "tags": [
+    "免費",
+    "拍照",
+    "夜景",
+    "親子"
+   ],
+   "ticket": "free",
+   "tips": "各來源日期不一（食尚玩家寫 12/14-2027/1/3，另有媒體寫 12/12-2027/1/1），此處取較短區間；出發前請再確認",
+   "title": "2026台中耶誕嘉年華",
+   "verified_on": "2026-11-08",
+   "id": "2026-taichung-christmas-carnival"
+  },
+  {
    "category": "exhibit",
    "end_date": "2027-03-01",
    "highlights": [
@@ -1333,9 +1439,9 @@
     "藝術"
    ],
    "ticket": "partial",
-   "tips": "10/27 複查未找到其他來源佐證檔期，出發前請再確認。",
+   "tips": "11/8 複查仍未找到其他來源佐證檔期，出發前請再確認。",
    "title": "2026 臺南藝術節",
-   "verified_on": "2026-11-02",
+   "verified_on": "2026-11-08",
    "id": "2026-tainan-arts-festival"
   },
   {
@@ -1379,8 +1485,9 @@
    "category": "exhibit",
    "end_date": "2026-11-15",
    "highlights": [
-    "四大遊艇碼頭水陸展區",
-    "2024 年展出 77 艘遊艇"
+    "嘉信22號、愛河灣亞果、亞灣、第三船渠四大遊艇碼頭",
+    "56 家廠商、78 艘船艇",
+    "登船體驗"
    ],
    "indoor": false,
    "locations": [
@@ -1401,9 +1508,10 @@
     }
    ],
    "organizer": "中華民國對外貿易發展協會",
-   "source_name": "ETtoday 財經雲",
-   "source_type": "aggregator",
-   "source_url": "https://finance.ettoday.net/news/3184710",
+   "price": "預先登記免費入場",
+   "source_name": "中央社（搜尋摘要）",
+   "source_type": "media",
+   "source_url": "https://www.cna.com.tw/business/chinese/448931",
    "start_date": "2026-11-13",
    "subtype": "遊艇展",
    "summary": "兩年一度的遊艇展，串聯高雄多座遊艇碼頭展示各式遊艇。",
@@ -1411,10 +1519,10 @@
     "拍照",
     "海港"
    ],
-   "ticket": "unknown",
-   "tips": "外貿協會開放預先登記參觀；工商時報另列第三船渠遊艇碼頭為展區；出發前請再確認",
+   "ticket": "free",
+   "tips": "展場在亞洲新灣區遊艇碼頭，不是高雄展覽館；需預先登記；出發前請再確認",
    "title": "2026 台灣國際遊艇展",
-   "verified_on": "2026-11-03",
+   "verified_on": "2026-11-08",
    "id": "2026-taiwan-boat-show"
   },
   {
