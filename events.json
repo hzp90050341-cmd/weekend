@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-08",
+ "generated_at": "2026-11-09",
  "meta": {
   "added": 3,
-  "last_checked_at": "2026-11-08T11:20:00+08:00",
-  "next_focus": "文化部爬蟲筆數持續偏低，需檢查爬蟲。高雄聖誕生活節、花蓮幸福耶誕城、繽紛耶誕玩台北、勤美草悟聖誕村、基隆冬季燈飾 2026 日期仍未公布；夢時代、義大世界、太平洋屏東店週年慶未公布；漢神百貨、大江週年慶待官方證實；遠東巨城週年慶滿額禮待公布；苗栗陶藝節 2026 未公布；關子嶺溫泉美食節結束日未明（review_by 11/12）；臺南藝術節檔期待佐證。",
-  "removed": 0,
-  "summary": "GitHub Actions 今日 08:51 產出 crawled.json（觀光署 120、文化部 73、Accupass 33 皆 ok；文化部連兩日僅七十餘筆，原為五百餘筆）。今日無新增修正，離線套用後 184 筆，已上傳並刪除舊檔。無投稿、無過期項目。週日全台補漏：新增台中耶誕嘉年華（12/14-2027/1/1，各來源日期不一）、遠百竹北與遠百板橋中山週年慶（11/12-11/29）。複查 4 筆：遊艇展改用中央社來源並標明免費預先登記、展場在亞灣遊艇碼頭；奇美法老展、屏東聖誕節確認無變動；臺南藝術節仍無其他來源佐證。",
-  "updated": 4
+  "last_checked_at": "2026-11-09T11:10:00+08:00",
+  "next_focus": "文化部爬蟲筆數持續偏低，需檢查爬蟲。高雄聖誕生活節、花蓮幸福耶誕城、繽紛耶誕玩台北（cpok 稱 12/4-2027/1/3，待官方）、勤美草悟聖誕村、基隆冬季燈飾 2026 日期仍未公布；新光三越 DIAMOND TOWERS（Money101 稱 11/5-11/22）、遠東 Garden City（稱 12/16-12/31）週年慶待佐證；新北歡樂耶誕城觀光署列 11/12、媒體列 11/13 開城；夢時代、義大世界、太平洋屏東店週年慶未公布；漢神百貨、大江週年慶待官方證實；京站週年慶日期疑沿用 2025；遠東巨城滿額禮待公布；苗栗陶藝節 2026 未公布；關子嶺溫泉美食節結束日未明（review_by 11/12）；臺南藝術節檔期待佐證。",
+  "removed": 3,
+  "summary": "GitHub Actions 今日 09:05 產出 crawled.json（觀光署 111、文化部 69、Accupass 29 皆 ok）。新增 3 筆分類修正（親子音樂會、兒童影片放映改 festival），離線套用後 169 筆，已上傳並刪除舊檔。無投稿。刪除過期 3 筆（遠百花蓮、遠百桃園、新光三越信義週年慶）。週一北北基：新增新光三越台北站前店（11/26-12/13）、SOGO 天母店（12/2-12/13）週年慶；另新增南紡星空音樂節（11/21-22）。複查 10 筆：SOGO 新竹店各來源日期不一，依規則改為 12/3-12/8；南紡週年慶補第二波優惠；其餘 8 筆無變動。",
+  "updated": 10
  },
  "events": [
   {
@@ -366,7 +366,7 @@
    "time_text": "場次制，09:30-16:30 每小時一場（各來源開放時間不一）",
    "tips": "採場次制，建議先上售票網站預約；各來源開放時間不一，出發前請再確認",
    "title": "小王子：奇幻星旅",
-   "verified_on": "2026-11-03",
+   "verified_on": "2026-11-09",
    "id": "2026-little-prince-ntsec"
   },
   {
@@ -402,7 +402,7 @@
    "time_text": "週二至週五 9:00-17:00、週六 9:00-20:00、週日 9:00-17:00，週一休館",
    "tips": "展名與日期以較新報導為準（早期年度預告為 9/25 開展、暫名不同），各來源日期不一；票價未見公告，只看到搜尋摘要，出發前請再確認。",
    "title": "真鍋大度個展《關係時態—超越模擬的生命形式》",
-   "verified_on": "2026-11-04",
+   "verified_on": "2026-11-09",
    "id": "2026-manabe-daito-taichung-art-museum"
   },
   {
@@ -511,7 +511,7 @@
    "ticket": "paid",
    "tips": "採網路預約，每日僅少量現場候補；出發前請再確認",
    "title": "坂本龍一｜觀音．聽時",
-   "verified_on": "2026-11-03",
+   "verified_on": "2026-11-09",
    "id": "2026-sakamoto-ryuichi-tfam"
   },
   {
@@ -610,36 +610,6 @@
   },
   {
    "category": "mall",
-   "end_date": "2026-11-08",
-   "highlights": [
-    "滿額禮、刷卡回饋以百貨官方 DM 為準"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "county": "花蓮縣",
-     "town": "花蓮市",
-     "venue": "遠東百貨花蓮店"
-    }
-   ],
-   "organizer": "遠東百貨",
-   "source_name": "NOWnews 遠百週年慶檔期表（搜尋摘要）",
-   "source_type": "aggregator",
-   "source_url": "https://www.nownews.com/news/6879425",
-   "start_date": "2026-10-22",
-   "subtype": "週年慶",
-   "summary": "遠百花蓮店週年慶檔期，花東少數大型百貨週年慶。",
-   "tags": [
-    "週年慶"
-   ],
-   "ticket": "free",
-   "tips": "日期取自整理網站搜尋摘要，出發前請再確認。",
-   "title": "遠百花蓮 週年慶",
-   "verified_on": "2026-11-03",
-   "id": "2026-sale-feds-hualien"
-  },
-  {
-   "category": "mall",
    "end_date": "2026-11-15",
    "highlights": [
     "化妝品、內睡衣單筆滿 2,000 送 200，滿 1 萬再加送 200（遠百全台通用）",
@@ -699,36 +669,6 @@
    "title": "台南大遠百成功店 週年慶",
    "verified_on": "2026-11-06",
    "id": "2026-sale-feds-tainan"
-  },
-  {
-   "category": "mall",
-   "end_date": "2026-11-08",
-   "highlights": [
-    "滿額禮、刷卡回饋以百貨官方 DM 為準"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "county": "桃園市",
-     "town": "桃園區",
-     "venue": "遠東百貨桃園店"
-    }
-   ],
-   "organizer": "遠東百貨",
-   "source_name": "NOWnews 遠百週年慶檔期表（搜尋摘要）",
-   "source_type": "aggregator",
-   "source_url": "https://www.nownews.com/news/6879425",
-   "start_date": "2026-10-22",
-   "subtype": "週年慶",
-   "summary": "遠百桃園店週年慶檔期，適合趁折扣採買化妝品、服飾。",
-   "tags": [
-    "週年慶"
-   ],
-   "ticket": "free",
-   "tips": "日期取自整理網站搜尋摘要，出發前請再確認。",
-   "title": "遠百桃園 週年慶",
-   "verified_on": "2026-11-03",
-   "id": "2026-sale-feds-taoyuan"
   },
   {
    "category": "mall",
@@ -946,8 +886,40 @@
    "time_text": "11/05（四）～11/29（日）",
    "tips": "日期僅見媒體檔期表、DM 尚未開放；只看到搜尋摘要，出發前請再確認。11/4 複查未見變動。",
    "title": "新光三越台南西門新天地 週年慶",
-   "verified_on": "2026-11-04",
+   "verified_on": "2026-11-09",
    "id": "2026-sale-skm-tainan-ximen"
+  },
+  {
+   "category": "mall",
+   "end_date": "2026-12-13",
+   "highlights": [
+    "週年慶預購 11/18-11/23（依美妝網整理）",
+    "滿額禮、刷卡回饋以百貨官方 DM 為準"
+   ],
+   "indoor": true,
+   "locations": [
+    {
+     "address": "臺北市中正區忠孝西路一段66號",
+     "county": "臺北市",
+     "town": "中正區",
+     "venue": "新光三越台北站前店"
+    }
+   ],
+   "organizer": "新光三越",
+   "source_name": "@cosme 2026 週年慶攻略（搜尋摘要）",
+   "source_type": "aggregator",
+   "source_url": "https://www.cosme.net.tw/beautynews/30900",
+   "start_date": "2026-11-26",
+   "subtype": "週年慶",
+   "summary": "新光三越台北站前店週年慶檔期，11/18-11/23 另有預購。",
+   "tags": [
+    "週年慶"
+   ],
+   "ticket": "free",
+   "tips": "日期取自 @cosme 與 Money101 檔期表搜尋摘要，查無官方公告；出發前請再確認。",
+   "title": "新光三越台北站前店 週年慶",
+   "verified_on": "2026-11-09",
+   "id": "2026-sale-skm-taipei-station"
   },
   {
    "category": "mall",
@@ -979,39 +951,6 @@
   },
   {
    "category": "mall",
-   "end_date": "2026-11-08",
-   "highlights": [
-    "10/16-11/08，首 14 日滿仟送點",
-    "SKM MEN'S 一週年、日本展、寶可夢 30 週年主題",
-    "A11 首爾現代百貨韓潮快閃、鬼滅之刃快閃展（10/16-11/30）",
-    "滿額禮門檻、刷卡回饋以新光三越官方 DM 為準"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "county": "臺北市",
-     "town": "信義區",
-     "venue": "新光三越台北信義新天地 A4／A8／A11"
-    }
-   ],
-   "source_name": "美麗佳人週年慶檔期表",
-   "source_type": "media",
-   "source_url": "https://www.marieclaire.com.tw/beauty/news/95804",
-   "start_date": "2026-10-16",
-   "subtype": "週年慶",
-   "summary": "信義區新光三越 A4、A8、A11 週年慶。",
-   "tags": [
-    "週年慶",
-    "滿額禮"
-   ],
-   "ticket": "free",
-   "tips": "各來源日期不一（理財周刊、美麗佳人寫 10/15，NOWnews 寫 10/16 開跑），取 10/16；2026 滿額禮細項尚未見官方公布，出發前請再確認。",
-   "title": "新光三越台北信義新天地 週年慶",
-   "verified_on": "2026-11-06",
-   "id": "2026-sale-skm-xinyi"
-  },
-  {
-   "category": "mall",
    "end_date": "2026-11-29",
    "highlights": [
     "美妝超過 80 萬組優惠組合（媒體報導）",
@@ -1040,7 +979,7 @@
    "ticket": "free",
    "tips": "日期依中時新聞網 10/27 報導，查無官方公告；出發前請再確認。",
    "title": "新光三越高雄左營店 週年慶",
-   "verified_on": "2026-11-04",
+   "verified_on": "2026-11-09",
    "id": "2026-sale-skm-zuoying"
   },
   {
@@ -1075,8 +1014,9 @@
   },
   {
    "category": "mall",
-   "end_date": "2026-11-15",
+   "end_date": "2026-12-08",
    "highlights": [
+    "預購 11/27-12/2、加碼檔期 12/9-12/14（依美妝網整理）",
     "滿額禮、刷卡回饋以百貨官方 DM 為準"
    ],
    "indoor": true,
@@ -1087,19 +1027,19 @@
      "venue": "遠東SOGO百貨新竹店"
     }
    ],
-   "source_name": "美麗佳人週年慶檔期表",
-   "source_type": "media",
-   "source_url": "https://www.marieclaire.com.tw/beauty/news/95804",
-   "start_date": "2026-10-15",
+   "source_name": "@cosme 2026 週年慶攻略（搜尋摘要）",
+   "source_type": "aggregator",
+   "source_url": "https://www.cosme.net.tw/beautynews/30900",
+   "start_date": "2026-12-03",
    "subtype": "週年慶",
    "summary": "SOGO 新竹店週年慶，兩家媒體整理的檔期一致。",
    "tags": [
     "週年慶"
    ],
    "ticket": "free",
-   "tips": "11/4 複查仍查無 2026 官方公告，僅媒體檔期表；2025 年新竹店曾隨巨城於 11 月底舉行，各來源日期不一，出發前請再確認。",
+   "tips": "各來源日期不一：美麗佳人檔期表列 10/15-11/15，@cosme 列 12/3-12/8（另有預購與加碼期），依規則取較短檔期；10-11 月未見開跑報導。查無官方公告，出發前請再確認。",
    "title": "遠東 SOGO 新竹店 週年慶",
-   "verified_on": "2026-11-04",
+   "verified_on": "2026-11-09",
    "id": "2026-sale-sogo-hsinchu"
   },
   {
@@ -1164,6 +1104,37 @@
    "title": "遠東 SOGO 台北忠孝館／復興館 週年慶",
    "verified_on": "2026-11-05",
    "id": "2026-sale-sogo-taipei"
+  },
+  {
+   "category": "mall",
+   "end_date": "2026-12-13",
+   "highlights": [
+    "滿額禮、刷卡回饋以百貨官方 DM 為準"
+   ],
+   "indoor": true,
+   "locations": [
+    {
+     "address": "臺北市士林區中山北路六段77號",
+     "county": "臺北市",
+     "town": "士林區",
+     "venue": "遠東SOGO百貨天母店"
+    }
+   ],
+   "organizer": "遠東 SOGO",
+   "source_name": "Money101 百貨週年慶檔期表（搜尋摘要）",
+   "source_type": "aggregator",
+   "source_url": "https://www.money101.com.tw/blog/%E5%BF%85buy%E7%99%BE%E8%B2%A8%E9%80%B1%E5%B9%B4%E6%85%B6-%E5%AE%8C%E5%8B%9D%E6%94%BB%E7%95%A5%E5%A4%A7%E5%85%AC%E9%96%8B",
+   "start_date": "2026-12-02",
+   "subtype": "週年慶",
+   "summary": "SOGO 天母店週年慶檔期。",
+   "tags": [
+    "週年慶"
+   ],
+   "ticket": "free",
+   "tips": "日期僅見 Money101 檔期表（10/6 更新）搜尋摘要，查無官方公告；出發前請再確認。",
+   "title": "遠東 SOGO 天母店 週年慶",
+   "verified_on": "2026-11-09",
+   "id": "2026-sale-sogo-tianmu"
   },
   {
    "category": "mall",
@@ -1232,7 +1203,10 @@
    "category": "mall",
    "end_date": "2026-11-18",
    "highlights": [
-    "滿額禮、刷卡回饋以官方 DM 為準"
+    "12 週年慶第二波 11/5-11/18",
+    "A1、A2 館指定品牌滿 2,000 元折抵最高 300 元",
+    "搭配銀行刷卡與會員集點最高回饋 15%",
+    "A1 館 1 樓哈利波特快閃櫃展至 11/22"
    ],
    "indoor": true,
    "locations": [
@@ -1242,9 +1216,9 @@
      "venue": "南紡購物中心"
     }
    ],
-   "source_name": "美麗佳人週年慶檔期表",
-   "source_type": "media",
-   "source_url": "https://www.marieclaire.com.tw/beauty/news/95804",
+   "source_name": "聯合新聞網",
+   "source_type": "aggregator",
+   "source_url": "https://money.udn.com/money/story/5635/9852866",
    "start_date": "2026-10-22",
    "subtype": "週年慶",
    "summary": "南紡購物中心週年慶。",
@@ -1252,9 +1226,9 @@
     "週年慶"
    ],
    "ticket": "free",
-   "tips": "11/4 複查仍查無 2026 官方公告，僅媒體檔期表；出發前請再確認。",
+   "tips": "第二波檔期取自聯合新聞網報導搜尋摘要，開始日依美麗佳人檔期表；出發前請再確認。",
    "title": "南紡購物中心 週年慶",
-   "verified_on": "2026-11-04",
+   "verified_on": "2026-11-09",
    "id": "2026-sale-tsrd"
   },
   {
@@ -1327,7 +1301,7 @@
    "ticket": "unknown",
    "tips": "11/4 複查未見延期或取消；剩 11/14 18:30-20:30 向山遊客中心花火音樂會，以官方公告為準，出發前請再確認。",
    "title": "日月潭花火音樂嘉年華",
-   "verified_on": "2026-11-04",
+   "verified_on": "2026-11-09",
    "id": "2026-sun-moon-lake-fireworks"
   },
   {
@@ -1527,6 +1501,39 @@
   },
   {
    "category": "festival",
+   "end_date": "2026-11-22",
+   "highlights": [
+    "免費入場",
+    "地點：A2 館 1 樓南紡廣場"
+   ],
+   "indoor": false,
+   "locations": [
+    {
+     "address": "臺南市東區中華東路一段366號",
+     "county": "臺南市",
+     "town": "東區",
+     "venue": "南紡購物中心"
+    }
+   ],
+   "organizer": "南紡購物中心",
+   "source_name": "聯合新聞網（搜尋摘要）",
+   "source_type": "aggregator",
+   "source_url": "https://money.udn.com/money/story/5635/9852866",
+   "start_date": "2026-11-21",
+   "subtype": "音樂節",
+   "summary": "南紡購物中心 A2 館一樓南紡廣場舉辦的免費音樂節。",
+   "tags": [
+    "免費",
+    "音樂"
+   ],
+   "ticket": "free",
+   "tips": "資訊取自聯合新聞網報導搜尋摘要，演出時間與卡司未明；出發前請再確認。",
+   "title": "2026 STARRY NIGHT 星空音樂節",
+   "verified_on": "2026-11-09",
+   "id": "2026-tsrd-starry-night-festival"
+  },
+  {
+   "category": "festival",
    "end_date": "2026-11-14",
    "highlights": [
     "Main Stage 與 RESISTANCE 雙舞台",
@@ -1588,7 +1595,7 @@
    "time_text": "梨山場依官方公告（谷關場 9/4-11/1 已結束）",
    "tips": "谷關場已於 11/1 結束（11/4 複查未見延長），梨山場 12/5-2027/1/3；山路夜間行車注意安全，出發前查台8線路況，出發前請再確認。",
    "title": "山谷燈光節",
-   "verified_on": "2026-11-04",
+   "verified_on": "2026-11-09",
    "id": "2026-valley-light-festival"
   },
   {
@@ -1661,7 +1668,7 @@
    "time_text": "週二至週日 9:00-17:00，週六延長至 20:00",
    "tips": "週一休館；票價各報導不一，出發前請再確認",
    "title": "蠍子與青蛙：國巨基金會典藏展",
-   "verified_on": "2026-11-03",
+   "verified_on": "2026-11-09",
    "id": "2026-yageo-scorpion-and-frog"
   }
  ]
