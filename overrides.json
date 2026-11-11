@@ -64,6 +64,10 @@
     "category": "outdoor",
     "note": "夜間街區導覽"
   },
+  "c-acc-65398118f53a": {
+    "hidden": true,
+    "note": "與 c-acc-41aaa9de7b4e 稻埕食光漫步小市集 11月 重複"
+  },
   "c-acc-65e4e451dad3": {
     "hidden": true,
     "note": "年菜發表交流會，屬發表會非一般逛玩活動"
@@ -101,6 +105,10 @@
   "c-acc-8ed0db18e80e": {
     "hidden": true,
     "note": "音樂欣賞講座"
+  },
+  "c-acc-91e181046f55": {
+    "hidden": true,
+    "note": "與 c-tour-51234ae1373c 2026溪洲路開唱 重複"
   },
   "c-acc-96224b030c64": {
     "hidden": true,
@@ -467,6 +475,11 @@
     "category": "festival",
     "note": "室內兒童動畫放映，非戶外"
   },
+  "c-moc-c3c1dde2787d": {
+    "address": "南投縣埔里鎮中台路2號",
+    "note": "中台世界博物館建館十週年特展",
+    "venue": "中台世界博物館"
+  },
   "c-moc-c53d171a31bb": {
     "note": "新竹市大學路1001號屬東區",
     "town": "東區"
@@ -828,6 +841,10 @@
   "c-tour-a6c793f058f6": {
     "hidden": true,
     "note": "住宿補助優惠方案，非活動"
+  },
+  "c-tour-aaadb2df522c": {
+    "category": "outdoor",
+    "note": "分梯次戶外導覽"
   },
   "c-tour-b17b3c327581": {
     "hidden": true,
