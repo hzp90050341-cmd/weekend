@@ -114,6 +114,10 @@
     "hidden": true,
     "note": "講座課程（展覽企劃、AI 工作流）"
   },
+  "c-acc-96905689a3b9": {
+    "hidden": true,
+    "note": "植物手作課程，非逛玩活動"
+  },
   "c-acc-992bfc9b8303": {
     "hidden": true,
     "note": "甜點 DIY 手作課程"
@@ -121,6 +125,10 @@
   "c-acc-9a23f63e85be": {
     "note": "松山文創園區，光復南路133號",
     "town": "信義區"
+  },
+  "c-acc-9e117f42aaaf": {
+    "hidden": true,
+    "note": "獨立出版交流論壇（講座），非逛玩活動"
   },
   "c-acc-9eca27f69e09": {
     "hidden": true,
@@ -687,6 +695,10 @@
     "note": "與 events 人工查證資料重複（ITF台灣國際旅展）",
     "venue": "南港展覽館1館"
   },
+  "c-tour-51234ae1373c": {
+    "category": "festival",
+    "note": "音樂演出活動，非市集"
+  },
   "c-tour-54caf70be19d": {
     "hidden": true,
     "note": "與 極點慢旅-極西點國聖港燈塔 重複"
@@ -854,6 +866,10 @@
     "hidden": true,
     "note": "與 仙境西拉雅 環騎5COOL 重複"
   },
+  "c-tour-b44a97980d1c": {
+    "note": "原場館欄為活動名稱；主場地為板橋新北市政府市民廣場",
+    "venue": "新北市政府市民廣場"
+  },
   "c-tour-b913004ca9a7": {
     "hidden": true,
     "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
@@ -873,6 +889,10 @@
   "c-tour-c842ced7e828": {
     "hidden": true,
     "note": "已於 2026-10-03 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-tour-c9e9643b7c98": {
+    "category": "outdoor",
+    "note": "碧潭戶外地景裝置展"
   },
   "c-tour-d5538f68562d": {
     "category": "festival",
