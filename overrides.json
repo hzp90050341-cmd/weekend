@@ -736,6 +736,10 @@
     "category": "festival",
     "note": "木雕藝術節"
   },
+  "c-tour-6c76bbc8cba4": {
+    "hidden": true,
+    "note": "集章優惠方案，非實體活動"
+  },
   "c-tour-6f1e8aafab83": {
     "hidden": true,
     "note": "日期未定（預計11-12月）"
@@ -800,6 +804,10 @@
   "c-tour-90a96c5c32f1": {
     "hidden": true,
     "note": "與 events 人工查證資料重複（府中奇幻城）"
+  },
+  "c-tour-9329a22e180a": {
+    "hidden": true,
+    "note": "商家優惠方案（全區），非實體活動"
   },
   "c-tour-93cc98104b50": {
     "category": "outdoor",
@@ -881,6 +889,10 @@
   "c-tour-bb74d709a421": {
     "note": "原標題為交通管制公告，改用活動名稱",
     "title": "彰化驛站童學會"
+  },
+  "c-tour-c39a8a5aa121": {
+    "category": "exhibit",
+    "note": "陶瓷雕塑聯展，應為展覽"
   },
   "c-tour-c3f2eb641657": {
     "category": "outdoor",
