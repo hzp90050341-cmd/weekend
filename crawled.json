@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-13T10:01:20+08:00",
+ "generated_at": "2026-11-14T09:33:21+08:00",
  "sources": {
   "tourism": {
    "ok": true,
-   "count": 118
+   "count": 124
   },
   "moc": {
    "ok": true,
-   "count": 71
+   "count": 70
   },
   "accupass": {
    "ok": true,
-   "count": 29
+   "count": 31
   }
  },
  "events": [
@@ -34,7 +34,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -56,7 +56,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -78,7 +78,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -100,13 +100,13 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
    "id": "c-tour-768602215599",
-   "title": "金沙聖誕",
-   "category": "festival",
+   "title": "2026金沙歡樂聖誕×時光繁星假日市集",
+   "category": "market",
    "start_date": "2026-12-11",
    "end_date": "2026-12-13",
    "locations": [
@@ -118,11 +118,11 @@
     }
    ],
    "ticket": "unknown",
-   "summary": "以金沙鎮在地特色及聖誕節為主軸，規劃沙美商圈燈飾佈景，營造過節的歡樂氛圍，透過此節慶，融合本土市區樣貌，打造藝術美學的沙美市區，活躍沙美街道。",
+   "summary": "2026金沙歡樂聖誕×時光繁星假日市集將於12月12日至13日在金沙鎮沙美市區熱鬧登場！今年以「把想像變成無限可能」為主題，結合璀璨聖誕燈飾、人氣歌手演唱會、特色美食文創市集、親子手作體驗及趣味闖關活動，打造充滿音樂、歡笑與浪漫氛圍的聖誕嘉…",
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -144,7 +144,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -166,7 +166,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -188,7 +188,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -210,7 +210,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -232,7 +232,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -254,7 +254,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -276,7 +276,51 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-f86a6b6702fb",
+   "title": "2026 紙廠電影院－中興57影展",
+   "category": "festival",
+   "start_date": "2026-11-07",
+   "end_date": "2026-12-12",
+   "locations": [
+    {
+     "county": "宜蘭縣",
+     "town": "五結鄉",
+     "venue": "中興文化創意園區・57影視中心",
+     "address": "中興文化創意園區・57影視中心"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "青春不只有一種模樣－在光影故事中，遇見每個階段的自己",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-11-14",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-298b90b9d5ac",
+   "title": "興創村市集｜復古派對",
+   "category": "market",
+   "start_date": "2026-11-21",
+   "end_date": "2026-11-22",
+   "locations": [
+    {
+     "county": "宜蘭縣",
+     "town": "五結鄉",
+     "venue": "宜蘭中興文創園區(55號空間、光合屋)",
+     "address": "宜蘭中興文創園區(55號空間、光合屋)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "時光倒轉！興創村復古派對－穿越美好年代，尋找懷舊生活樂趣",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -298,7 +342,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -320,7 +364,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -342,7 +386,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -364,7 +408,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -386,7 +430,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -408,7 +452,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -430,7 +474,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -452,7 +496,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -474,7 +518,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -496,7 +540,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -518,7 +562,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -540,7 +584,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -562,7 +606,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -584,7 +628,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -606,7 +650,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -628,7 +672,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -650,7 +694,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -672,7 +716,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -694,7 +738,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -716,7 +760,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -738,7 +782,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -760,7 +804,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -782,7 +826,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -804,7 +848,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -826,7 +870,51 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-84b2dbc04a0a",
+   "title": "光復好時光音樂市集",
+   "category": "market",
+   "start_date": "2026-11-14",
+   "end_date": "2026-11-14",
+   "locations": [
+    {
+     "county": "花蓮縣",
+     "town": "光復鄉",
+     "venue": "大華村華新街1號(光豐農會超市前方停車場)",
+     "address": "大華村華新街1號(光豐農會超市前方停車場)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "「光復好時光音樂市集」將於11月14日在花蓮光復鄉熱鬧登場！活動集結人氣歌手、在地特色市集、集點闖關及街區藝術展覽，邀請大家走進光復，透過音樂、美食與文化體驗，感受地方的活力與溫暖。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-11-14",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-9d7c055a5d99",
+   "title": "毛起來玩文化｜毛孩野餐市集",
+   "category": "market",
+   "start_date": "2026-11-21",
+   "end_date": "2026-11-22",
+   "locations": [
+    {
+     "county": "花蓮縣",
+     "town": "花蓮市",
+     "venue": "花蓮文化創意產業園區（戶外草地周邊）",
+     "address": "花蓮文化創意產業園區（戶外草地周邊）"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "11月最療癒的秋日草地派對來囉！「毛起來玩文化」將於11月21日至22日在花蓮文化創意產業園區熱鬧登場！",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -848,7 +936,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -870,7 +958,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -892,7 +980,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -914,7 +1002,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -936,7 +1024,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -958,7 +1046,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -980,7 +1068,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1002,7 +1090,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1024,7 +1112,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1046,7 +1134,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1068,12 +1156,12 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
    "id": "c-tour-eed4c2617bb6",
-   "title": "2026 新北城市展",
+   "title": "2026新北城市展",
    "category": "exhibit",
    "start_date": "2026-10-29",
    "end_date": "2026-12-27",
@@ -1090,7 +1178,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1112,7 +1200,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1134,7 +1222,73 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-4c90902d2198",
+   "title": "2026毛寶貝好生活 友善耶誕趴",
+   "category": "festival",
+   "start_date": "2026-11-20",
+   "end_date": "2026-11-21",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "板橋區",
+     "venue": "縣民大道二段7號 (板橋車站站前廣場)",
+     "address": "縣民大道二段7號 (板橋車站站前廣場)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "活動為「2026新北歡樂耶誕城」系列首波亮點活動，新北市持續推動全方位動保政策，從食衣住行各方面，致力營造全方面寵物友善環境。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-11-14",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-0a17eb8dddb6",
+   "title": "2026耶誕環保挖寶趣",
+   "category": "market",
+   "start_date": "2026-11-20",
+   "end_date": "2026-11-21",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "板橋區",
+     "venue": "新北市民廣場",
+     "address": "新北市民廣場"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "一年一度充滿溫馨的新北歡樂耶誕城即將到來！全國最大的愛心跳蚤市場「耶誕環保挖寶趣」，也將在新北市民廣場熱鬧登場。邀你捐出家中閒置物品，讓好物找到新主人，也透過義賣傳遞愛心！",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-11-14",
+   "crawled": true
+  },
+  {
+   "id": "c-tour-c39a8a5aa121",
+   "title": "形象與意境：泥塑的藝術語言-臺灣陶瓷雕塑學會聯展",
+   "category": "festival",
+   "start_date": "2026-11-12",
+   "end_date": "2026-12-13",
+   "locations": [
+    {
+     "county": "新北市",
+     "town": "鶯歌區",
+     "venue": "文化路200號(鶯歌陶瓷博物館-陽光特展室)",
+     "address": "文化路200號(鶯歌陶瓷博物館-陽光特展室)"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "陶瓷，不僅是生活中的實用器皿，更是承載當代美學與純粹藝術的雕塑媒材。「形象與意境：泥塑的藝術語言」為臺灣陶瓷雕塑學會會員聯展，匯聚國內多位陶藝藝術創作者。",
+   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
+   "source_name": "交通部觀光署觀光資訊資料庫",
+   "source_type": "official",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1156,7 +1310,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1178,7 +1332,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1200,7 +1354,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1222,7 +1376,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1244,7 +1398,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1266,7 +1420,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1288,7 +1442,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1310,7 +1464,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1332,7 +1486,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1354,7 +1508,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1376,7 +1530,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1398,7 +1552,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1420,7 +1574,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1442,7 +1596,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1464,7 +1618,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1486,7 +1640,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1508,29 +1662,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
-   "crawled": true
-  },
-  {
-   "id": "c-tour-033ed5221b4e",
-   "title": "佛光山 2026年書展暨蔬食博覽會",
-   "category": "exhibit",
-   "start_date": "2026-11-07",
-   "end_date": "2026-11-13",
-   "locations": [
-    {
-     "county": "高雄市",
-     "town": "大樹區",
-     "venue": "佛光山佛陀紀念館",
-     "address": "佛光山佛陀紀念館"
-    }
-   ],
-   "ticket": "unknown",
-   "summary": "延續佛光山長年推動的永遠從關懷出發、三好四給精神，今年以「吉祥動物派對─吉祥好好看、吉祥好好吃、吉祥好好玩」為主題，呼應「和諧共生」的理念，並邀請藝術家洪易以繽紛、圓潤的動物雕塑妝點園區，透過閱讀、藝術、蔬食與互動體驗，傳遞多元共生、包容理…",
-   "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
-   "source_name": "交通部觀光署觀光資訊資料庫",
-   "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1552,7 +1684,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1574,7 +1706,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1596,7 +1728,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1618,7 +1750,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1640,7 +1772,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1663,7 +1795,7 @@
    "source_url": "https://theme.sunmoonlake.gov.tw/ComeBikeDay/Index.aspx?l=1",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1686,7 +1818,7 @@
    "source_url": "https://events.necoast-nsa.gov.tw/flower26/",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1709,7 +1841,7 @@
    "source_url": "https://www.facebook.com/KaohsiungLionDance/?locale=zh_TW",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1732,7 +1864,7 @@
    "source_url": "https://www.facebook.com/liuduihakka/?locale=zh_TW",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1755,7 +1887,7 @@
    "source_url": "https://www.taipeicitymarathon.com/",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1778,7 +1910,7 @@
    "source_url": "https://www.swcoast-nsa.gov.tw/zh-tw/event-calendar/details/2490",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1801,7 +1933,7 @@
    "source_url": "https://www.travel.taipei/zh-tw/event-calendar/details/66403",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1824,7 +1956,7 @@
    "source_url": "https://www.facebook.com/lsf.arts?locale=zh_TW",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1847,7 +1979,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1870,7 +2002,7 @@
    "source_url": "https://www.taiwantriathlon.com/pages/2026-dapeng-bay-cycling-series?fbclid=IwdGRjcASMlRRjbGNrBIyUz2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHnqwLKycGKNCylM9-k8yI7-WM6SU-0-fcoJHj6JfNiTG2-S7cpEbHBjGH1zH_aem_WN_YS2mvoJwk3usZUIjGkg",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1893,7 +2025,7 @@
    "source_url": "https://www.swcoast-nsa.gov.tw/zh-tw/event-calendar/details/2488",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1916,7 +2048,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1939,7 +2071,7 @@
    "source_url": "https://gbiyukmusicartsfestival.com/",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1962,7 +2094,7 @@
    "source_url": "https://tsf.moe.edu.tw/",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -1985,7 +2117,7 @@
    "source_url": "https://www.erv-nsa.gov.tw/zh-tw/event/calendardetail/7098",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2009,7 +2141,7 @@
    "source_url": "https://www.facebook.com/jijitownshipoffice/",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2031,7 +2163,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2053,7 +2185,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2075,7 +2207,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2097,7 +2229,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2119,7 +2251,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2141,7 +2273,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2163,7 +2295,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2185,7 +2317,7 @@
    "source_url": "https://www.taiwan.net.tw/m1.aspx?sNo=0001019",
    "source_name": "交通部觀光署觀光資訊資料庫",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2210,7 +2342,7 @@
    "source_url": "https://www.facebook.com/tipcp.tw",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2234,7 +2366,7 @@
    "source_url": "https://cloud.culture.tw/",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2258,7 +2390,7 @@
    "source_url": "https://cloud.culture.tw/",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2282,7 +2414,7 @@
    "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=50194",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2306,7 +2438,7 @@
    "source_url": "https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=1525402172794&control_type=page&ne",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2330,7 +2462,7 @@
    "source_url": "https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=1525402172794&control_type=page&ne",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2355,7 +2487,7 @@
    "source_url": "https://www.kmfa.gov.tw/ExhibitionDetailC001100.aspx?Cond=87910c7f-4ab4-412c-a417-5111fcd2d9a2",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2379,7 +2511,7 @@
    "source_url": "https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=1525402172794&control_type=page&ne",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2403,7 +2535,7 @@
    "source_url": "https://www.facebook.com/yuanlinlibrary",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2428,7 +2560,7 @@
    "source_url": "https://www.ctwm.org.tw/",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2452,7 +2584,7 @@
    "source_url": "https://www.eternal-group.com/Eternalmuseum/Guided",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2476,7 +2608,7 @@
    "source_url": "https://www.miaobeiac.org/mod/course/index.php?REQUEST_ID=SAJTHC1UVXxKWXA2XS9BWQ1TBUo",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2498,7 +2630,7 @@
    "source_url": "https://www.instagram.com/jmg.live/",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2522,7 +2654,7 @@
    "source_url": "https://cloud.culture.tw/",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2545,7 +2677,7 @@
    "source_url": "https://www.arte.gov.tw/pro1_exh_now.asp?KeyID=4607",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2568,7 +2700,7 @@
    "source_url": "https://www.arte.gov.tw/pro1_exh_now.asp?KeyID=4608",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2591,7 +2723,7 @@
    "source_url": "https://www.arte.gov.tw/pro1_exh_now.asp?KeyID=4606",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2615,29 +2747,7 @@
    "source_url": "https://www.moongallery.com.tw/gallery_detail.asp?st=2&cat=381",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
-   "crawled": true
-  },
-  {
-   "id": "c-moc-335345da0227",
-   "title": "2026年夏季巧虎大型舞臺劇「銀河怪盜的祕密」",
-   "category": "festival",
-   "start_date": "2026-10-24",
-   "end_date": "2026-11-13",
-   "locations": [
-    {
-     "county": "雲林縣",
-     "town": "斗六市",
-     "venue": "國立雲林科技大學雲泰表演廳",
-     "address": "雲林縣斗六市大學路三段123號"
-    }
-   ],
-   "ticket": "paid",
-   "price": "1800、1500、1200、1000、800、500",
-   "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CHPEPY",
-   "source_name": "文化部文化資料開放服務網",
-   "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2659,7 +2769,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GX6I3T",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2681,29 +2791,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GX6I3L",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
-   "crawled": true
-  },
-  {
-   "id": "c-moc-0cd632f8d335",
-   "title": "星亞寶貝公益音樂會暨IVY English 檢定頒獎典禮",
-   "category": "outdoor",
-   "start_date": "2026-12-06",
-   "end_date": "2026-12-06",
-   "locations": [
-    {
-     "county": "臺北市",
-     "town": "信義區",
-     "venue": "台北市議會B1禮堂",
-     "address": "台北市信義區仁愛路四段507號"
-    }
-   ],
-   "ticket": "paid",
-   "price": "200",
-   "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IEMZGO",
-   "source_name": "文化部文化資料開放服務網",
-   "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2725,7 +2813,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1ATPSBQ",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2747,7 +2835,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19E5BI0",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2769,7 +2857,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DL4DZ2",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2791,7 +2879,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FWXUND",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2813,7 +2901,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1G9ESVP",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2835,7 +2923,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GUY38Z",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2857,7 +2945,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HK62YI",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2879,7 +2967,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I1K8F9",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2902,7 +2990,7 @@
    "source_url": "https://event.culture.tw/mocweb/reg/CHCSEC/Detail.init.ctr?actId=60309",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2925,7 +3013,7 @@
    "source_url": "https://event.culture.tw/mocweb/reg/CHCSEC/Detail.init.ctr?actId=60309",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2949,7 +3037,7 @@
    "source_url": "https://www.opentix.life/event/1993239082164842497",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -2983,7 +3071,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1COVZN7",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3005,7 +3093,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DQZ6W2",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3027,7 +3115,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DYR135",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3049,7 +3137,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1E0CIOY",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3071,7 +3159,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1E6BK4C",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3093,7 +3181,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1EWB2W4",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3115,7 +3203,7 @@
    "source_url": "https://arts.nycu.edu.tw/a-tribute-to-clarinet-maestros/",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3137,7 +3225,7 @@
    "source_url": "https://arts.nycu.edu.tw/john-dowlands-400th-death-anniversary/",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3159,7 +3247,7 @@
    "source_url": "https://arts.nycu.edu.tw/yu-hsin-tsai-piano-recital/",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3181,7 +3269,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F5JGKM",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3203,7 +3291,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F5TXVJ",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3225,7 +3313,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F8SPFR",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3247,7 +3335,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FDODMR",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3269,7 +3357,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FFL95J",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3291,7 +3379,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FRB84Q",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3313,7 +3401,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1G6H7IA",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3337,7 +3425,7 @@
    "source_url": "https://www.opentix.life/event/2010907685806804993",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3359,7 +3447,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GIUBEO",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3393,7 +3481,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GRIMGD",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3415,7 +3503,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GUS4PQ",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3437,7 +3525,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I4GC7W",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3459,7 +3547,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I5ROJP",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3481,7 +3569,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I73209",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3503,7 +3591,7 @@
    "source_url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IEDPQ0",
    "source_name": "文化部文化資料開放服務網",
    "source_type": "official",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
@@ -3852,6 +3940,29 @@
    "crawled": true
   },
   {
+   "id": "c-acc-22d7d227b17b",
+   "title": "2026 CREATORS年度展覽「繞一下 Taking the Long Way」｜專家導覽",
+   "category": "exhibit",
+   "start_date": "2026-11-29",
+   "end_date": "2026-11-29",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "大安區",
+     "venue": "空總國家文化基地 C1 服務中心1樓集合",
+     "address": "台灣台北市大安區建國南路一段177號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "本場邀請臺北藝術大學劇場設計系與舞蹈系兼任助理教授 周伶芝以其表演藝術背景出發，從「身體性」、「媒介與身體的關係」牽引出藝術團隊在計畫中的行動與身體實踐。",
+   "organizer": "臺灣當代文化實驗場C-LAB",
+   "source_url": "https://www.accupass.com/event/2611120833221947299937",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-11-14",
+   "crawled": true
+  },
+  {
    "id": "c-acc-513205e879ec",
    "title": "CHEN KT 個人藝術展_【光之生成：自然的祕語與微觀的宇宙】藝集11周年畫展二部曲",
    "category": "exhibit",
@@ -3872,6 +3983,29 @@
    "source_name": "Accupass 活動通",
    "source_type": "media",
    "verified_on": "2026-11-02",
+   "crawled": true
+  },
+  {
+   "id": "c-acc-85689fe05d52",
+   "title": "2026 CREATORS年度展覽「繞一下 Taking the Long Way」｜策展人導覽",
+   "category": "exhibit",
+   "start_date": "2026-12-20",
+   "end_date": "2026-12-20",
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "大安區",
+     "venue": "空總國家文化基地 C1 服務中心1樓集合",
+     "address": "台灣台北市大安區建國南路一段177號"
+    }
+   ],
+   "ticket": "unknown",
+   "summary": "由策展人林裕軒分享本次展覽概念如何與各自迥異的團隊相互連結，同時以工作室夥伴的身份帶出對各團隊計畫的深刻理解。",
+   "organizer": "臺灣當代文化實驗場C-LAB",
+   "source_url": "https://www.accupass.com/event/2611120839275992848780",
+   "source_name": "Accupass 活動通",
+   "source_type": "media",
+   "verified_on": "2026-11-14",
    "crawled": true
   },
   {
