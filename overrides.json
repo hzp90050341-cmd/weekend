@@ -829,6 +829,10 @@
     "hidden": true,
     "note": "手作課程，非去逛去玩的活動"
   },
+  "c-tour-98d956ab8cef": {
+    "category": "outdoor",
+    "note": "達人帶路導覽遊程，非市集"
+  },
   "c-tour-9a69af045588": {
     "hidden": true,
     "note": "住宿抽獎優惠方案，非活動"
@@ -945,6 +949,10 @@
   "c-tour-e6f6eb2cf7bc": {
     "category": "outdoor",
     "note": "路跑"
+  },
+  "c-tour-e7f48d4ed9ee": {
+    "category": "outdoor",
+    "note": "花彩節為花田賞花，改戶外"
   },
   "c-tour-ee5f45a1ce70": {
     "category": "outdoor",

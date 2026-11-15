@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-14",
+ "generated_at": "2026-11-15",
  "meta": {
-  "added": 0,
-  "last_checked_at": "2026-11-14T11:05:00+08:00",
-  "next_focus": "週日全台補漏。花蓮幸福聖誕城（往年 12/24-28 石雕公園）、高雄聖誕生活節、繽紛耶誕玩台北、基隆冬季燈飾、新竹 FUN 聖誕、桃園耶誕、台南聖誕燈節、嘉義縣聖誕活動、漂遊者森林音樂祭 2026 日期仍未公布；SOGO 高雄店 2026 檔期仍無佐證；漢神百貨（高雄）待官方證實；義大世界、太平洋屏東店、華泰名品城、新光三越 DIAMOND TOWERS、遠東 Garden City 週年慶未公布；遠東巨城滿額禮待公布；多檔百貨週年慶 11/15-11/18 結束，12/1 前後需處理下檔。",
-  "removed": 0,
-  "summary": "GitHub Actions 爬蟲 11/14 09:33 已產出（觀光署 124、文化部 70、Accupass 31 皆 ok），離線重套後 183 筆，已上傳並刪除舊檔；新增修正 3 筆（隱藏台中集章優惠、高雄追星商家優惠；鶯歌泥塑聯展改為展覽）。爬蟲 id 仍大量更替（約 150 筆新 id）。無投稿、無過期。週六宜花東金馬：傳藝謝平安、礁溪燈花季、鯉魚潭光影節、衝浪公開賽、花蓮石雕藝術季等已由爬蟲涵蓋；金門瓊林秋慶（11/7-8）已結束；花蓮幸福聖誕城、漂遊者森林音樂祭 2026 日期未見。複查 10 筆無變動；遠百竹北另有整理網站寫至 12/6，維持 11/29 並註明各來源不一。",
+  "added": 2,
+  "last_checked_at": "2026-11-15T11:10:00+08:00",
+  "next_focus": "週一北北基。花蓮幸福聖誕城、繽紛耶誕玩台北、新竹 FUN 聖誕、基隆冬季燈飾、桃園耶誕、台南聖誕燈節、嘉義縣聖誕活動、漂遊者森林音樂祭 2026 日期仍未公布；遠東 Garden City 週年慶（整理網站寫 12/16-12/31）待確認分店位置再建檔；SOGO 高雄店、漢神高雄待官方證實；義大世界、太平洋屏東店、華泰名品城週年慶未公布；遠東巨城滿額禮待公布；SOGO 台北 11/16、漢神台中 11/17、南紡 11/18 結束，12/1 前後處理下檔。",
+  "removed": 2,
+  "summary": "GitHub Actions 爬蟲 11/15 09:10 已產出（觀光署 117、文化部 72、Accupass 31 皆 ok），離線重套後 180 筆，已上傳並刪除舊檔；新增修正 2 筆（桃園花彩節、成功達人帶路改戶外）。爬蟲 id 仍大量更替（約 140 筆無修正紀錄、201 筆舊修正 id 已失效）。無投稿。刪除過期 2 筆（日月潭花火、ULTRA Taiwan）。週日補漏：新增 2026高雄聖誕生活節（11/13-12/27 中央公園）、新光三越 DIAMOND TOWERS 週年慶（至 11/22）。複查 10 筆無變動。",
   "updated": 10
  },
  "events": [
@@ -232,6 +232,45 @@
    "id": "2026-hualien-hot-spring-festival"
   },
   {
+   "category": "festival",
+   "end_date": "2026-12-27",
+   "highlights": [
+    "巨型聖誕樹主燈「聖誕高雄・閃耀星光」",
+    "耶誕小鎮主題市集連續 5 個週末",
+    "12/19 起 9 天聖誕黃金週與免費演唱會",
+    "與義大利經濟貿易文化推廣辦事處合辦市集"
+   ],
+   "indoor": false,
+   "locations": [
+    {
+     "address": "高雄市新興區中山一路",
+     "county": "高雄市",
+     "town": "新興區",
+     "venue": "高雄中央公園"
+    }
+   ],
+   "organizer": "高雄市政府",
+   "source_name": "TVBS 食尚玩家",
+   "source_type": "aggregator",
+   "source_url": "https://supertaste.tvbs.com.tw/travel/362377",
+   "start_date": "2026-11-13",
+   "subtype": "聖誕節",
+   "summary": "高雄中央公園聖誕燈飾、主題市集與音樂表演，聖誕前一週有黃金週演唱會。",
+   "tags": [
+    "免費",
+    "夜景",
+    "拍照",
+    "美食",
+    "親子"
+   ],
+   "ticket": "free",
+   "time_text": "每日 17:30-00:00 點燈；耶誕小鎮市集 11/13-12/13 每週五、六、日；12/19 起聖誕黃金週",
+   "tips": "資料來自媒體報導，出發前請再確認；演出卡司與節目表以高雄市政府公告為準。",
+   "title": "2026高雄聖誕生活節",
+   "verified_on": "2026-11-15",
+   "id": "2026-kaohsiung-christmas-life-festival"
+  },
+  {
    "category": "exhibit",
    "end_date": "2026-11-22",
    "highlights": [
@@ -374,7 +413,7 @@
    "time_text": "場次制，09:30-16:30 每小時一場（各來源開放時間不一）",
    "tips": "採場次制，建議先上售票網站預約；各來源開放時間不一，出發前請再確認",
    "title": "小王子：奇幻星旅",
-   "verified_on": "2026-11-09",
+   "verified_on": "2026-11-15",
    "id": "2026-little-prince-ntsec"
   },
   {
@@ -410,7 +449,7 @@
    "time_text": "週二至週五 9:00-17:00、週六 9:00-20:00、週日 9:00-17:00，週一休館",
    "tips": "展名與日期以較新報導為準（早期年度預告為 9/25 開展、暫名不同），各來源日期不一；票價未見公告，只看到搜尋摘要，出發前請再確認。",
    "title": "真鍋大度個展《關係時態—超越模擬的生命形式》",
-   "verified_on": "2026-11-09",
+   "verified_on": "2026-11-15",
    "id": "2026-manabe-daito-taichung-art-museum"
   },
   {
@@ -634,7 +673,7 @@
    "ticket": "paid",
    "tips": "採網路預約，每日僅少量現場候補；出發前請再確認",
    "title": "坂本龍一｜觀音．聽時",
-   "verified_on": "2026-11-09",
+   "verified_on": "2026-11-15",
    "id": "2026-sakamoto-ryuichi-tfam"
   },
   {
@@ -949,6 +988,36 @@
   },
   {
    "category": "mall",
+   "end_date": "2026-11-22",
+   "highlights": [
+    "滿額禮、刷卡回饋以百貨官方 DM 為準"
+   ],
+   "indoor": true,
+   "locations": [
+    {
+     "county": "臺北市",
+     "town": "大安區",
+     "venue": "新光三越台北DIAMOND TOWERS"
+    }
+   ],
+   "organizer": "新光三越",
+   "source_name": "Money101 百貨週年慶整理",
+   "source_type": "aggregator",
+   "source_url": "https://www.money101.com.tw/blog/%E6%96%B0%E7%AB%B9big-city%E5%B7%A8%E5%9F%8E%E9%80%B1%E5%B9%B4%E6%85%B6-%E5%88%B7%E5%8D%A1%E6%BB%BF%E9%A1%8D%E8%B4%88",
+   "start_date": "2026-11-05",
+   "subtype": "週年慶",
+   "summary": "新光三越 DIAMOND TOWERS 週年慶檔期，至 11/22 止。",
+   "tags": [
+    "購物"
+   ],
+   "ticket": "free",
+   "tips": "日期來自整理網站表格，出發前請再確認。",
+   "title": "新光三越台北DIAMOND TOWERS 週年慶",
+   "verified_on": "2026-11-15",
+   "id": "2026-sale-skm-diamond-towers"
+  },
+  {
+   "category": "mall",
    "end_date": "2026-11-29",
    "highlights": [
     "週年慶檔期 11/5-11/29",
@@ -977,7 +1046,7 @@
    "time_text": "11/05（四）～11/29（日）",
    "tips": "日期僅見媒體檔期表、DM 尚未開放；只看到搜尋摘要，出發前請再確認。11/4 複查未見變動。",
    "title": "新光三越台南西門新天地 週年慶",
-   "verified_on": "2026-11-09",
+   "verified_on": "2026-11-15",
    "id": "2026-sale-skm-tainan-ximen"
   },
   {
@@ -1009,7 +1078,7 @@
    "ticket": "free",
    "tips": "日期取自 @cosme 與 Money101 檔期表搜尋摘要，查無官方公告；出發前請再確認。",
    "title": "新光三越台北站前店 週年慶",
-   "verified_on": "2026-11-09",
+   "verified_on": "2026-11-15",
    "id": "2026-sale-skm-taipei-station"
   },
   {
@@ -1070,7 +1139,7 @@
    "ticket": "free",
    "tips": "日期依中時新聞網 10/27 報導，查無官方公告；出發前請再確認。",
    "title": "新光三越高雄左營店 週年慶",
-   "verified_on": "2026-11-09",
+   "verified_on": "2026-11-15",
    "id": "2026-sale-skm-zuoying"
   },
   {
@@ -1194,7 +1263,7 @@
    "ticket": "free",
    "tips": "日期僅見 Money101 檔期表（10/6 更新）搜尋摘要，查無官方公告；出發前請再確認。",
    "title": "遠東 SOGO 天母店 週年慶",
-   "verified_on": "2026-11-09",
+   "verified_on": "2026-11-15",
    "id": "2026-sale-sogo-tianmu"
   },
   {
@@ -1337,38 +1406,6 @@
   },
   {
    "category": "festival",
-   "end_date": "2026-11-14",
-   "highlights": [
-    "10/17 水上煙火",
-    "11/14 向山遊客中心 NTSO 青少年交響樂團花火音樂會",
-    "湖景音樂演出"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "county": "南投縣",
-     "town": "魚池鄉",
-     "venue": "日月潭"
-    }
-   ],
-   "source_name": "食尚玩家",
-   "source_type": "media",
-   "source_url": "https://supertaste.tvbs.com.tw/kids/361745",
-   "start_date": "2026-09-12",
-   "subtype": "煙火",
-   "summary": "湖面水上煙火搭配現場音樂演出。",
-   "tags": [
-    "煙火",
-    "音樂"
-   ],
-   "ticket": "unknown",
-   "tips": "11/4 複查未見延期或取消；剩 11/14 18:30-20:30 向山遊客中心花火音樂會，以官方公告為準，出發前請再確認。",
-   "title": "日月潭花火音樂嘉年華",
-   "verified_on": "2026-11-09",
-   "id": "2026-sun-moon-lake-fireworks"
-  },
-  {
-   "category": "festival",
    "end_date": "2027-01-01",
    "highlights": [
     "17公尺耶誕主燈",
@@ -1478,7 +1515,7 @@
    "ticket": "partial",
    "tips": "11/8 複查仍未找到其他來源佐證檔期，出發前請再確認。",
    "title": "2026 臺南藝術節",
-   "verified_on": "2026-11-08",
+   "verified_on": "2026-11-15",
    "id": "2026-tainan-arts-festival"
   },
   {
@@ -1599,7 +1636,7 @@
    "ticket": "free",
    "tips": "展場在亞洲新灣區遊艇碼頭，不是高雄展覽館；需預先登記；出發前請再確認",
    "title": "2026 台灣國際遊艇展",
-   "verified_on": "2026-11-08",
+   "verified_on": "2026-11-15",
    "id": "2026-taiwan-boat-show"
   },
   {
@@ -1632,42 +1669,8 @@
    "ticket": "free",
    "tips": "資訊取自聯合新聞網報導搜尋摘要，演出時間與卡司未明；出發前請再確認。",
    "title": "2026 STARRY NIGHT 星空音樂節",
-   "verified_on": "2026-11-09",
+   "verified_on": "2026-11-15",
    "id": "2026-tsrd-starry-night-festival"
-  },
-  {
-   "category": "festival",
-   "end_date": "2026-11-14",
-   "highlights": [
-    "Main Stage 與 RESISTANCE 雙舞台",
-    "媒體報導 Alan Walker 回歸"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "address": "臺北市中山區濱江街5號",
-     "county": "臺北市",
-     "town": "中山區",
-     "venue": "大佳河濱公園"
-    }
-   ],
-   "organizer": "ULTRA Taiwan",
-   "source_name": "EDMTunes（搜尋摘要）",
-   "source_type": "aggregator",
-   "source_url": "https://www.edmtunes.com/2026/07/ultra-taiwan-2026-set-for-november-in-taipei/amp/",
-   "start_date": "2026-11-14",
-   "subtype": "音樂節",
-   "summary": "國際電子音樂節 ULTRA 第六屆在台北大佳河濱公園舉行，設 Main Stage 與 RESISTANCE 兩個舞台。",
-   "tags": [
-    "音樂",
-    "夜景"
-   ],
-   "ticket": "paid",
-   "time_text": "11/14（六）",
-   "tips": "票價與完整卡司以官網 ultrataiwan.com 為準；只看到搜尋摘要，出發前請再確認。",
-   "title": "ULTRA Taiwan 2026",
-   "verified_on": "2026-11-13",
-   "id": "2026-ultra-taiwan"
   },
   {
    "category": "outdoor",
