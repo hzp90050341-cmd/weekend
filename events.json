@@ -1,57 +1,14 @@
 {
- "generated_at": "2026-11-15",
+ "generated_at": "2026-11-16",
  "meta": {
   "added": 2,
-  "last_checked_at": "2026-11-15T11:10:00+08:00",
-  "next_focus": "週一北北基。花蓮幸福聖誕城、繽紛耶誕玩台北、新竹 FUN 聖誕、基隆冬季燈飾、桃園耶誕、台南聖誕燈節、嘉義縣聖誕活動、漂遊者森林音樂祭 2026 日期仍未公布；遠東 Garden City 週年慶（整理網站寫 12/16-12/31）待確認分店位置再建檔；SOGO 高雄店、漢神高雄待官方證實；義大世界、太平洋屏東店、華泰名品城週年慶未公布；遠東巨城滿額禮待公布；SOGO 台北 11/16、漢神台中 11/17、南紡 11/18 結束，12/1 前後處理下檔。",
-  "removed": 2,
-  "summary": "GitHub Actions 爬蟲 11/15 09:10 已產出（觀光署 117、文化部 72、Accupass 31 皆 ok），離線重套後 180 筆，已上傳並刪除舊檔；新增修正 2 筆（桃園花彩節、成功達人帶路改戶外）。爬蟲 id 仍大量更替（約 140 筆無修正紀錄、201 筆舊修正 id 已失效）。無投稿。刪除過期 2 筆（日月潭花火、ULTRA Taiwan）。週日補漏：新增 2026高雄聖誕生活節（11/13-12/27 中央公園）、新光三越 DIAMOND TOWERS 週年慶（至 11/22）。複查 10 筆無變動。",
+  "last_checked_at": "2026-11-16T11:05:00+08:00",
+  "next_focus": "週二桃竹苗。繽紛耶誕玩台北 2026（單一整理站寫 12/4-2027/1/3，待官方）、打開台北 OPEN HOUSE 2026、基隆冬季燈飾、花蓮幸福聖誕城、新竹 FUN 聖誕、桃園耶誕、台南聖誕燈節、嘉義縣聖誕活動、漂遊者森林音樂祭仍未公布；統一時代 Purple Wish 聖誕樹 11/20 點亮僅單一來源；遠東 Garden City 週年慶（12/16-12/31）待確認分店；京站 2026 檔期無第二來源；義大世界、太平洋屏東、華泰名品城週年慶未公布；遠東巨城滿額禮待公布；漢神台中 11/17、南紡 11/18 結束。",
+  "removed": 11,
+  "summary": "GitHub Actions 爬蟲 11/16 09:14 已產出（觀光署 104、文化部 70、Accupass 28 皆 ok），離線重套後 165 筆，已上傳並刪除舊檔；鄉鎮皆已自動補齊，今日無新修正（爬蟲 id 仍大量更替，241 筆修正中僅 36 筆仍對得上）。無投稿。刪除過期 11 筆（遠百嘉義/高雄/台南、SOGO 中壢/高雄、新光天母、新竹玻璃藝術節、嘉義藝術日常、花蓮溫泉季、臺北數位藝術節、台灣國際遊艇展）。週一北北基：新增基隆年終演唱會《潮聲回港》（12/19 國門廣場）、新北耶誕市集 x 亞洲電競公開賽（11/27-29 市民廣場）。複查 10 筆無變動。",
   "updated": 10
  },
  "events": [
-  {
-   "booking_required": false,
-   "category": "exhibit",
-   "end_date": "2026-11-15",
-   "highlights": [
-    "7 處策展：實驗木場、昭和十八 J18、木更 MUGN、永昌行、起風 SWAY TEA、口袋派對、長榮街區",
-    "主題「在場證明」，木雕、剪黏、藍染、光影裝置",
-    "11/9-11/13 七場藝術導讀（需報名）",
-    "11/14-11/15 11:00-17:00 嘉義舊監獄木屋宿舍群藝術市集"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "address": "嘉義市東區維新路134巷24號",
-     "county": "嘉義市",
-     "town": "東區",
-     "venue": "實驗木場"
-    },
-    {
-     "address": "",
-     "county": "嘉義市",
-     "town": "東區",
-     "venue": "嘉義舊監獄"
-    }
-   ],
-   "organizer": "嘉義市政府文化局",
-   "source_name": "中央社訊息平台（搜尋摘要）",
-   "source_type": "aggregator",
-   "source_url": "https://www.cna.com.tw/postwrite/chi/447823",
-   "start_date": "2026-11-01",
-   "subtype": "藝術展",
-   "summary": "嘉義市文化局首屆城市藝術計畫，7 處老屋與店家免費看藝術策展，最後一個週末有藝術市集。",
-   "tags": [
-    "免費",
-    "文創",
-    "拍照"
-   ],
-   "ticket": "free",
-   "tips": "導讀需預先報名；各報導日期寫法略有不同，只看到搜尋摘要，出發前請再確認。11/4 複查未見變動。",
-   "title": "嘉義藝術日常 Art Week Chiayi 2026",
-   "verified_on": "2026-11-12",
-   "id": "2026-art-week-chiayi"
-  },
   {
    "category": "festival",
    "end_date": "2027-01-01",
@@ -152,84 +109,6 @@
    "title": "2026臺南關子嶺溫泉美食節",
    "verified_on": "2026-11-12",
    "id": "2026-guanziling-hot-spring-food-festival"
-  },
-  {
-   "booking_required": false,
-   "category": "exhibit",
-   "end_date": "2026-11-15",
-   "highlights": [
-    "串聯玻璃工藝博物館、風livehouse、新竹春室玻璃工坊",
-    "新竹公園周邊場域展出",
-    "新竹市民免費入館"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "address": "新竹市東區東大路一段2號",
-     "county": "新竹市",
-     "town": "東區",
-     "venue": "新竹市玻璃工藝博物館"
-    },
-    {
-     "address": "",
-     "county": "新竹市",
-     "town": "東區",
-     "venue": "新竹公園"
-    }
-   ],
-   "organizer": "新竹市政府文化局",
-   "price": "全票50元、優惠票30元；新竹市民、65歲以上長者、6歲以下兒童及身心障礙者免費",
-   "source_name": "中央社訊息平台（搜尋摘要）",
-   "source_type": "aggregator",
-   "source_url": "https://www.cna.com.tw/postwrite/chi/446854",
-   "start_date": "2026-10-17",
-   "subtype": "藝術展",
-   "summary": "新竹市年度玻璃藝術節，串聯玻璃工藝博物館、風livehouse、春室玻璃工坊與新竹公園周邊展出玻璃藝術。",
-   "tags": [
-    "文創",
-    "拍照",
-    "親子"
-   ],
-   "ticket": "partial",
-   "time_text": "週二至週五 9:00-17:00；週六、週日 9:00-18:00",
-   "tips": "只看到搜尋摘要，各場館開放時間出發前請再確認；洽詢 03-5626091。",
-   "title": "2026新竹市玻璃藝術節《玻璃大時代》",
-   "verified_on": "2026-11-12",
-   "id": "2026-hsinchu-glass-art-festival"
-  },
-  {
-   "category": "festival",
-   "end_date": "2026-11-15",
-   "highlights": [
-    "櫻桃小丸子聯名"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "county": "花蓮縣",
-     "town": "瑞穗鄉",
-     "venue": "瑞穗溫泉區"
-    },
-    {
-     "county": "花蓮縣",
-     "town": "玉里鎮",
-     "venue": "安通溫泉區"
-    }
-   ],
-   "price": "部分活動免費",
-   "source_name": "食尚玩家",
-   "source_type": "media",
-   "source_url": "https://supertaste.tvbs.com.tw/kids/361745",
-   "start_date": "2026-10-17",
-   "subtype": "溫泉季",
-   "summary": "今年與《櫻桃小丸子》合作的溫泉季。",
-   "tags": [
-    "溫泉"
-   ],
-   "ticket": "partial",
-   "title": "2026 花蓮太平洋溫泉季",
-   "verified_on": "2026-11-13",
-   "id": "2026-hualien-hot-spring-festival"
   },
   {
    "category": "festival",
@@ -347,6 +226,44 @@
    "id": "2026-keelung-museum-port-400"
   },
   {
+   "booking_required": false,
+   "category": "festival",
+   "end_date": "2026-12-19",
+   "highlights": [
+    "首波卡司：李杰明、陳忻玥、babyMINT、共振效應",
+    "免費自由入場",
+    "現場有市集與點燈"
+   ],
+   "indoor": false,
+   "locations": [
+    {
+     "address": "基隆市仁愛區港西街6-2號",
+     "county": "基隆市",
+     "town": "仁愛區",
+     "venue": "基隆國門廣場"
+    }
+   ],
+   "organizer": "基隆市文化觀光局",
+   "price": "免費，自由入場",
+   "source_name": "cpok.tw 活動整理",
+   "source_type": "aggregator",
+   "source_url": "https://cpok.tw/74669",
+   "start_date": "2026-12-19",
+   "subtype": "演唱會",
+   "summary": "基隆市文化觀光局在國門廣場辦的年終戶外演唱會，結合舞台表演、市集與點燈。",
+   "tags": [
+    "免費",
+    "夜景",
+    "音樂"
+   ],
+   "ticket": "free",
+   "time_text": "18:00-22:00",
+   "tips": "資料來自整理網站搜尋摘要，完整卡司與交通管制未公布，出發前請再確認。",
+   "title": "2026基隆年終演唱會－潮聲回港",
+   "verified_on": "2026-11-16",
+   "id": "2026-keelung-year-end-concert"
+  },
+  {
    "category": "outdoor",
    "end_date": "2026-11-22",
    "highlights": [
@@ -378,7 +295,7 @@
    "time_text": "日間遊行每天 14:00；夜間遊行週五、六、日及國定假日 19:00",
    "tips": "表演時段依日期調整、天候不佳可能取消；演出時間以六福村官網當日公告為準；出發前請再確認。",
    "title": "六福村「墓碑鎮十週年」萬聖節",
-   "verified_on": "2026-11-10",
+   "verified_on": "2026-11-16",
    "id": "2026-leofoo-tombstone-town"
   },
   {
@@ -453,6 +370,44 @@
    "id": "2026-manabe-daito-taichung-art-museum"
   },
   {
+   "booking_required": false,
+   "category": "market",
+   "end_date": "2026-11-29",
+   "highlights": [
+    "特色市集與聖誕老人見面會",
+    "11/28-11/29《特戰英豪》《英雄聯盟》總決賽",
+    "耶誕城燈飾每日 17:30-23:00 亮燈"
+   ],
+   "indoor": false,
+   "locations": [
+    {
+     "address": "新北市板橋區中山路一段161號前",
+     "county": "新北市",
+     "town": "板橋區",
+     "venue": "新北市市民廣場"
+    }
+   ],
+   "organizer": "新北市政府",
+   "source_name": "蕃薯藤旅遊",
+   "source_type": "aggregator",
+   "source_url": "https://travel.yam.com/article/141360",
+   "start_date": "2026-11-27",
+   "subtype": "節慶市集",
+   "summary": "新北歡樂耶誕城期間在市民廣場的三天特色市集，搭配聖誕老人見面會與電競總決賽。",
+   "tags": [
+    "親子",
+    "美食",
+    "拍照",
+    "夜景"
+   ],
+   "ticket": "unknown",
+   "time_text": "11:00-22:00",
+   "tips": "市民廣場周邊有交通管制，建議搭捷運板橋站；資料來自搜尋摘要，出發前請再確認。",
+   "title": "2026新北耶誕市集 x 亞洲電子競技公開賽",
+   "verified_on": "2026-11-16",
+   "id": "2026-market-newtaipei-christmas-esports"
+  },
+  {
    "category": "exhibit",
    "end_date": "2027-01-03",
    "highlights": [
@@ -484,7 +439,7 @@
    "ticket": "unknown",
    "tips": "資料來自媒體報導搜尋摘要，開放時間與票價未確認，出發前請再確認。",
    "title": "2026苗栗陶藝術節",
-   "verified_on": "2026-11-10",
+   "verified_on": "2026-11-16",
    "id": "2026-miaoli-ceramics-art-festival"
   },
   {
@@ -526,7 +481,7 @@
    "ticket": "unknown",
    "tips": "各鄉鎮子活動日期不同；只看到搜尋摘要，出發前請再確認。",
    "title": "2026南投花卉嘉年華",
-   "verified_on": "2026-11-11",
+   "verified_on": "2026-11-16",
    "id": "2026-nantou-flower-carnival"
   },
   {
@@ -635,7 +590,7 @@
    "time_text": "每晚 18:00 點燈",
    "tips": "媒體報導展至 12 月底；週末市集與演出場次以新竹市政府公告為準，出發前請再確認。",
    "title": "青草湖「光湖作用」",
-   "verified_on": "2026-11-10",
+   "verified_on": "2026-11-16",
    "id": "2026-qingcao-lake-light"
   },
   {
@@ -739,101 +694,6 @@
   },
   {
    "category": "mall",
-   "end_date": "2026-11-15",
-   "highlights": [
-    "化妝品、內睡衣單筆滿 2,000 送 200，滿 1 萬再加送 200（遠百全台通用）",
-    "百貨服飾累計滿 5,000 送 500，滿 5 萬再加送 600（遠百全台通用）",
-    "各店專屬滿額禮以官方 DM 為準"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "address": "嘉義市西區垂楊路726號",
-     "county": "嘉義市",
-     "town": "西區",
-     "venue": "遠東百貨嘉義店"
-    }
-   ],
-   "organizer": "遠東百貨",
-   "source_name": "NOWnews 今日新聞（搜尋摘要）",
-   "source_type": "aggregator",
-   "source_url": "https://www.nownews.com/news/6879425",
-   "start_date": "2026-10-29",
-   "subtype": "週年慶",
-   "summary": "遠百嘉義週年慶，主題「時尚進化‧玩出新風格」。",
-   "tags": [
-    "週年慶"
-   ],
-   "ticket": "free",
-   "tips": "只看到搜尋摘要，嘉義店專屬優惠未查到；出發前請再確認。",
-   "title": "遠東百貨嘉義店 週年慶",
-   "verified_on": "2026-11-12",
-   "id": "2026-sale-feds-chiayi"
-  },
-  {
-   "category": "mall",
-   "end_date": "2026-11-15",
-   "highlights": [
-    "化妝品、內睡衣單筆滿 2,000 送 200，滿 1 萬再加送 200（遠百全台通用）",
-    "百貨服飾累計滿 5,000 送 500，滿 5 萬再加送 600（遠百全台通用）",
-    "各店專屬滿額禮以官方 DM 為準"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "county": "高雄市",
-     "town": "苓雅區",
-     "venue": "高雄大遠百"
-    }
-   ],
-   "source_name": "NOWnews 今日新聞（搜尋摘要）",
-   "source_type": "media",
-   "source_url": "https://www.nownews.com/news/6879425",
-   "start_date": "2026-10-29",
-   "subtype": "週年慶",
-   "summary": "高雄大遠百週年慶。",
-   "tags": [
-    "週年慶"
-   ],
-   "ticket": "free",
-   "tips": "NOWnews 檔期表列 10/29-11/15；出發前請再確認",
-   "title": "高雄大遠百 週年慶",
-   "verified_on": "2026-11-13",
-   "id": "2026-sale-feds-kaohsiung"
-  },
-  {
-   "category": "mall",
-   "end_date": "2026-11-15",
-   "highlights": [
-    "化妝品、內睡衣單筆滿 2,000 送 200，滿 1 萬再加送 200（遠百全台通用）",
-    "百貨服飾累計滿 5,000 送 500，滿 5 萬再加送 600（遠百全台通用）",
-    "各店專屬滿額禮以官方 DM 為準"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "county": "臺南市",
-     "town": "中西區",
-     "venue": "台南大遠百成功店"
-    }
-   ],
-   "source_name": "NOWnews 今日新聞（搜尋摘要）",
-   "source_type": "media",
-   "source_url": "https://www.nownews.com/news/6879425",
-   "start_date": "2026-10-29",
-   "subtype": "週年慶",
-   "summary": "台南大遠百週年慶。",
-   "tags": [
-    "週年慶"
-   ],
-   "ticket": "free",
-   "tips": "NOWnews 檔期表列 10/29-11/15；出發前請再確認",
-   "title": "台南大遠百成功店 週年慶",
-   "verified_on": "2026-11-13",
-   "id": "2026-sale-feds-tainan"
-  },
-  {
-   "category": "mall",
    "end_date": "2026-11-29",
    "highlights": [
     "滿額禮、刷卡回饋以百貨官方 DM 為準"
@@ -891,7 +751,7 @@
    "ticket": "free",
    "tips": "各來源日期不一（11/18、11/19、11/20 起，12/20 或 12/21 止），取較短區間；11/10 複查 Money101（10/6 更新）列 11/18-12/20，仍未見漢神官方公告，出發前請再確認。",
    "title": "漢神百貨 週年慶",
-   "verified_on": "2026-11-10",
+   "verified_on": "2026-11-16",
    "id": "2026-sale-hanshin-kaohsiung"
   },
   {
@@ -983,7 +843,7 @@
    "ticket": "free",
    "tips": "袋鼠金融 2026 檔期表列 11/19(三)-12/15(一)，前一檔卡友感謝慶 10/9-11/14；尚未見京站官方公告，出發前請再確認。",
    "title": "京站時尚廣場 週年慶",
-   "verified_on": "2026-11-10",
+   "verified_on": "2026-11-16",
    "id": "2026-sale-qsquare"
   },
   {
@@ -1083,34 +943,6 @@
   },
   {
    "category": "mall",
-   "end_date": "2026-11-15",
-   "indoor": true,
-   "locations": [
-    {
-     "address": "臺北市士林區天母東路68號",
-     "county": "臺北市",
-     "town": "士林區",
-     "venue": "新光三越台北天母店"
-    }
-   ],
-   "organizer": "新光三越百貨",
-   "source_name": "美麗佳人",
-   "source_type": "aggregator",
-   "source_url": "https://www.marieclaire.com.tw/beauty/news/95804",
-   "start_date": "2026-10-22",
-   "subtype": "週年慶",
-   "summary": "新光三越天母店年度週年慶。",
-   "tags": [
-    "購物"
-   ],
-   "ticket": "free",
-   "tips": "各來源日期不一（另一說 10/23-11/16），出發前請再確認官方 DM。",
-   "title": "新光三越台北天母店 週年慶",
-   "verified_on": "2026-11-12",
-   "id": "2026-sale-skm-tianmu"
-  },
-  {
-   "category": "mall",
    "end_date": "2026-11-29",
    "highlights": [
     "美妝超過 80 萬組優惠組合（媒體報導）",
@@ -1169,37 +1001,8 @@
    "ticket": "free",
    "tips": "各來源日期不一：美麗佳人檔期表列 10/15-11/15，@cosme 列 12/3-12/8（另有預購與加碼期），依規則取較短檔期；10-11 月未見開跑報導。查無官方公告，出發前請再確認。",
    "title": "遠東 SOGO 新竹店 週年慶",
-   "verified_on": "2026-11-09",
+   "verified_on": "2026-11-16",
    "id": "2026-sale-sogo-hsinchu"
-  },
-  {
-   "category": "mall",
-   "end_date": "2026-11-15",
-   "highlights": [
-    "滿額禮、刷卡回饋以百貨官方 DM 為準"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "county": "高雄市",
-     "town": "前鎮區",
-     "venue": "遠東SOGO百貨高雄店"
-    }
-   ],
-   "source_name": "美麗佳人週年慶檔期表",
-   "source_type": "media",
-   "source_url": "https://www.marieclaire.com.tw/beauty/news/95804",
-   "start_date": "2026-10-31",
-   "subtype": "週年慶",
-   "summary": "SOGO 高雄店週年慶，兩家媒體整理的檔期一致。",
-   "tags": [
-    "週年慶"
-   ],
-   "ticket": "free",
-   "tips": "10/14 複查查無 2026 官方公告，僅媒體檔期表；出發前請再確認。",
-   "title": "遠東 SOGO 高雄店 週年慶",
-   "verified_on": "2026-11-14",
-   "id": "2026-sale-sogo-kaohsiung"
   },
   {
    "category": "mall",
@@ -1268,37 +1071,6 @@
   },
   {
    "category": "mall",
-   "end_date": "2026-11-15",
-   "highlights": [
-    "擴大回饋方案（細節以官方 DM 為準）",
-    "增加周邊特約停車位與友善借電服務"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "county": "桃園市",
-     "town": "中壢區",
-     "venue": "遠東SOGO百貨中壢店"
-    }
-   ],
-   "organizer": "遠東SOGO百貨",
-   "source_name": "Money101（搜尋摘要）",
-   "source_type": "aggregator",
-   "source_url": "https://www.money101.com.tw/blog/sogo-%E4%BE%86%E5%BA%97%E7%A6%AE-%E9%80%B1%E5%B9%B4%E6%85%B6",
-   "start_date": "2026-11-04",
-   "subtype": "週年慶",
-   "summary": "中壢 SOGO 年度週年慶檔期，店方表示今年擴大回饋方案並增加周邊特約停車位。",
-   "tags": [
-    "週年慶"
-   ],
-   "ticket": "free",
-   "tips": "檔期取自懶人包搜尋摘要，尚未見官方 DM，出發前請再確認。",
-   "title": "遠東 SOGO 中壢店 週年慶",
-   "verified_on": "2026-11-12",
-   "id": "2026-sale-sogo-zhongli"
-  },
-  {
-   "category": "mall",
    "end_date": "2026-12-02",
    "highlights": [
     "11/13-11/25 全館當日滿 5,000 元回饋 800 元（媒體報導）",
@@ -1360,7 +1132,7 @@
    "ticket": "free",
    "tips": "第二波檔期取自聯合新聞網報導搜尋摘要，開始日依美麗佳人檔期表；出發前請再確認。",
    "title": "南紡購物中心 週年慶",
-   "verified_on": "2026-11-09",
+   "verified_on": "2026-11-16",
    "id": "2026-sale-tsrd"
   },
   {
@@ -1559,87 +1331,6 @@
    "id": "2026-tainan-langmeng-qimeng"
   },
   {
-   "category": "exhibit",
-   "end_date": "2026-11-15",
-   "highlights": [
-    "第21屆主題「灰色自動體」，王連晟、林晏竹策展",
-    "傑德．伯克《白鯨域》、C-LAB 未來視覺實驗室「Mini Dome」沉浸式影音",
-    "「藝術入店」計畫把作品帶進圓山周邊商圈",
-    "10/31 與臺北白晝之夜串聯"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "county": "臺北市",
-     "town": "中山區",
-     "venue": "臺北典藏植物園"
-    }
-   ],
-   "organizer": "臺北市政府文化局",
-   "source_name": "Bella 儂儂（搜尋摘要）",
-   "source_type": "aggregator",
-   "source_url": "https://www.bella.tw/articles/movies&culture/60640/2026-taipei-nuit-blanche-night-ka-shi-art-festival",
-   "start_date": "2026-10-31",
-   "subtype": "藝術展",
-   "summary": "第21屆臺北數位藝術節以「灰色自動體」為題，從 AI、資料運算與演算法切入，10/31 至 11/15 在臺北典藏植物園及合作店家展出。",
-   "tags": [
-    "藝術",
-    "拍照",
-    "科技"
-   ],
-   "ticket": "unknown",
-   "time_text": "10/31-11/15",
-   "tips": "是否收費未見官方公告；資料取自媒體報導搜尋摘要，出發前請再確認。",
-   "title": "2026臺北數位藝術節",
-   "verified_on": "2026-11-13",
-   "id": "2026-taipei-digital-art-festival"
-  },
-  {
-   "booking_required": true,
-   "category": "exhibit",
-   "end_date": "2026-11-15",
-   "highlights": [
-    "嘉信22號、愛河灣亞果、亞灣、第三船渠四大遊艇碼頭",
-    "56 家廠商、78 艘船艇",
-    "登船體驗"
-   ],
-   "indoor": false,
-   "locations": [
-    {
-     "county": "高雄市",
-     "town": "前鎮區",
-     "venue": "亞灣遊艇碼頭"
-    },
-    {
-     "county": "高雄市",
-     "town": "苓雅區",
-     "venue": "嘉信22號遊艇碼頭"
-    },
-    {
-     "county": "高雄市",
-     "town": "鹽埕區",
-     "venue": "愛河灣亞果遊艇碼頭"
-    }
-   ],
-   "organizer": "中華民國對外貿易發展協會",
-   "price": "預先登記免費入場",
-   "source_name": "中央社（搜尋摘要）",
-   "source_type": "media",
-   "source_url": "https://www.cna.com.tw/business/chinese/448931",
-   "start_date": "2026-11-13",
-   "subtype": "遊艇展",
-   "summary": "兩年一度的遊艇展，串聯高雄多座遊艇碼頭展示各式遊艇。",
-   "tags": [
-    "拍照",
-    "海港"
-   ],
-   "ticket": "free",
-   "tips": "展場在亞洲新灣區遊艇碼頭，不是高雄展覽館；需預先登記；出發前請再確認",
-   "title": "2026 台灣國際遊艇展",
-   "verified_on": "2026-11-15",
-   "id": "2026-taiwan-boat-show"
-  },
-  {
    "category": "festival",
    "end_date": "2026-11-22",
    "highlights": [
@@ -1701,7 +1392,7 @@
    "time_text": "梨山場依官方公告（谷關場 9/4-11/1 已結束）",
    "tips": "谷關場已於 11/1 結束（11/4 複查未見延長），梨山場 12/5-2027/1/3；山路夜間行車注意安全，出發前查台8線路況，出發前請再確認。",
    "title": "山谷燈光節",
-   "verified_on": "2026-11-09",
+   "verified_on": "2026-11-16",
    "id": "2026-valley-light-festival"
   },
   {
@@ -1774,7 +1465,7 @@
    "time_text": "週二至週日 9:00-17:00，週六延長至 20:00",
    "tips": "週一休館；票價各報導不一，出發前請再確認",
    "title": "蠍子與青蛙：國巨基金會典藏展",
-   "verified_on": "2026-11-09",
+   "verified_on": "2026-11-16",
    "id": "2026-yageo-scorpion-and-frog"
   }
  ]
