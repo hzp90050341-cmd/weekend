@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-16",
+ "generated_at": "2026-11-17",
  "meta": {
   "added": 2,
-  "last_checked_at": "2026-11-16T11:05:00+08:00",
-  "next_focus": "週二桃竹苗。繽紛耶誕玩台北 2026（單一整理站寫 12/4-2027/1/3，待官方）、打開台北 OPEN HOUSE 2026、基隆冬季燈飾、花蓮幸福聖誕城、新竹 FUN 聖誕、桃園耶誕、台南聖誕燈節、嘉義縣聖誕活動、漂遊者森林音樂祭仍未公布；統一時代 Purple Wish 聖誕樹 11/20 點亮僅單一來源；遠東 Garden City 週年慶（12/16-12/31）待確認分店；京站 2026 檔期無第二來源；義大世界、太平洋屏東、華泰名品城週年慶未公布；遠東巨城滿額禮待公布；漢神台中 11/17、南紡 11/18 結束。",
-  "removed": 11,
-  "summary": "GitHub Actions 爬蟲 11/16 09:14 已產出（觀光署 104、文化部 70、Accupass 28 皆 ok），離線重套後 165 筆，已上傳並刪除舊檔；鄉鎮皆已自動補齊，今日無新修正（爬蟲 id 仍大量更替，241 筆修正中僅 36 筆仍對得上）。無投稿。刪除過期 11 筆（遠百嘉義/高雄/台南、SOGO 中壢/高雄、新光天母、新竹玻璃藝術節、嘉義藝術日常、花蓮溫泉季、臺北數位藝術節、台灣國際遊艇展）。週一北北基：新增基隆年終演唱會《潮聲回港》（12/19 國門廣場）、新北耶誕市集 x 亞洲電競公開賽（11/27-29 市民廣場）。複查 10 筆無變動。",
+  "last_checked_at": "2026-11-17T11:30:00+08:00",
+  "next_focus": "週三中彰投雲。爬蟲 crawled.json 今日未更新，明日確認 Actions 是否正常。桃竹苗待公布：新竹 FUN 聖誕 2026、華泰名品城聖誕村、德國商品聖誕市集 2026 場次（trip.com 單一來源寫桃園 12/18-20）、菊內人銅鑼杭菊生活節 2026、三義萬茶盛典 2026 場次、遠東巨城滿額禮；遠百桃園週年慶各來源寫 11/8 或 11/12 已結束。其他仍未公布：繽紛耶誕玩台北、打開台北、基隆冬季燈飾、花蓮幸福聖誕城、台南聖誕燈節、嘉義縣聖誕、漂遊者森林音樂祭；漢神台中 11/17、南紡 11/18 結束。",
+  "removed": 1,
+  "summary": "倉庫 crawled.json 仍為 11/16 09:14 版（今日 GitHub Actions 尚未更新；觀光署 104、文化部 70、Accupass 28 皆 ok），離線重套後 163 筆，已上傳並刪除舊檔；鄉鎮皆已補齊，今日無新修正。無投稿。刪除過期 1 筆（SOGO 台北忠孝／復興，11/16 結束）。週二桃竹苗：新增青埔聖誕不斷電外星人市集（桃園置地廣場，11/21-12/27 週末）、新竹縣政府前廣場聖誕點燈市集（12/12），皆僅市集整理網站單一來源。複查 10 筆無延期取消；11 月無颱風警報。",
   "updated": 10
  },
  "events": [
@@ -39,7 +39,7 @@
    "time_text": "管樂踩街 12/19(六) 14:00-17:00",
    "tips": "只看到嘉義市政府文化局公文與簡章的搜尋摘要，完整節目表、場地與票務尚未公布，出發前請再確認。",
    "title": "2026 第34屆嘉義市國際管樂節",
-   "verified_on": "2026-11-12",
+   "verified_on": "2026-11-17",
    "id": "2026-chiayi-band-festival"
   },
   {
@@ -70,7 +70,7 @@
    "ticket": "paid",
    "time_text": "09:30-17:30（最後入場 16:30），週三與除夕休館",
    "title": "《埃及之王：法老》大展",
-   "verified_on": "2026-11-14",
+   "verified_on": "2026-11-17",
    "id": "2026-chimei-pharaoh"
   },
   {
@@ -107,7 +107,7 @@
    "time_text": "10/24-11/22",
    "tips": "活動期間 10/24-11/22 依觀旅局發布之媒體報導；只看到搜尋摘要，出發前請再確認。",
    "title": "2026臺南關子嶺溫泉美食節",
-   "verified_on": "2026-11-12",
+   "verified_on": "2026-11-17",
    "id": "2026-guanziling-hot-spring-food-festival"
   },
   {
@@ -189,7 +189,7 @@
    "time_text": "週一至週四 10:00-18:00；週五、週末及國定假日 10:00-20:00",
    "tips": "可搭輕軌至駁二蓬萊站或駁二大義站；只看到媒體摘要，出發前請再確認",
    "title": "2026高雄國際鋼雕藝術節",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-17",
    "id": "2026-kaohsiung-steel-sculpture-festival"
   },
   {
@@ -222,7 +222,7 @@
    "ticket": "unknown",
    "tips": "只看到搜尋摘要，開放時間與票價未見原文，出發前請再確認。",
    "title": "流動的港口・世界的基隆 系列特展（《瓶中船》《島中海》）",
-   "verified_on": "2026-11-11",
+   "verified_on": "2026-11-17",
    "id": "2026-keelung-museum-port-400"
   },
   {
@@ -370,6 +370,40 @@
    "id": "2026-manabe-daito-taichung-art-museum"
   },
   {
+   "category": "market",
+   "end_date": "2026-12-12",
+   "highlights": [
+    "聖誕點燈",
+    "單日市集"
+   ],
+   "indoor": false,
+   "locations": [
+    {
+     "address": "新竹縣竹北市光明六路10號",
+     "county": "新竹縣",
+     "town": "竹北市",
+     "venue": "新竹縣政府"
+    }
+   ],
+   "source_name": "台灣市集網（搜尋摘要）",
+   "source_type": "aggregator",
+   "source_url": "https://www.twmarket.tw/2026-12-12-%E6%96%B0%E7%AB%B9%E7%B8%A3-%E6%96%B0%E7%AB%B9%E7%B8%A3%E6%94%BF%E5%BA%9C%E5%89%8D%E5%BB%A3%E5%A0%B4-%E8%81%96%E8%AA%95%E9%BB%9E%E7%87%88%E5%B8%82%E9%9B%86/",
+   "start_date": "2026-12-12",
+   "subtype": "聖誕市集",
+   "summary": "新竹縣政府前廣場的單日聖誕點燈市集。",
+   "tags": [
+    "美食",
+    "拍照",
+    "夜景"
+   ],
+   "ticket": "unknown",
+   "time_text": "12:00-19:00",
+   "tips": "資訊僅見市集整理網站，主辦與內容未見官方公告，出發前請再確認。",
+   "title": "新竹縣政府前廣場 聖誕點燈市集",
+   "verified_on": "2026-11-17",
+   "id": "2026-market-hsinchu-county-christmas"
+  },
+  {
    "booking_required": false,
    "category": "market",
    "end_date": "2026-11-29",
@@ -406,6 +440,42 @@
    "title": "2026新北耶誕市集 x 亞洲電子競技公開賽",
    "verified_on": "2026-11-16",
    "id": "2026-market-newtaipei-christmas-esports"
+  },
+  {
+   "category": "market",
+   "end_date": "2026-12-27",
+   "highlights": [
+    "聖誕主題攤位",
+    "週末限定，共 5 檔",
+    "中午到晚上 8 點"
+   ],
+   "indoor": false,
+   "locations": [
+    {
+     "address": "",
+     "county": "桃園市",
+     "town": "中壢區",
+     "venue": "桃園置地廣場"
+    }
+   ],
+   "organizer": "外星人市集",
+   "source_name": "台灣市集網（搜尋摘要）",
+   "source_type": "aggregator",
+   "source_url": "https://www.twmarket.tw/2026-11-212026-12-27-%E6%A1%83%E5%9C%92%E5%B8%82-%E6%A1%83%E5%9C%92%E7%BD%AE%E5%9C%B0%E5%BB%A3%E5%A0%B4-%E9%9D%92%E5%9F%94%E8%81%96%E8%AA%95%E4%B8%8D%E6%96%B7%E9%9B%BBchristmas-market%E5%A4%96/",
+   "start_date": "2026-11-21",
+   "subtype": "聖誕市集",
+   "summary": "青埔桃園置地廣場 2 樓天橋的聖誕主題週末市集，共 5 個週末檔。",
+   "tags": [
+    "文創",
+    "美食",
+    "拍照"
+   ],
+   "ticket": "unknown",
+   "time_text": "11/21-22、11/28-29、12/5-6、12/19-20、12/25-27，12:00-20:00",
+   "tips": "資訊僅見市集整理網站，場地與日期出發前請再確認。",
+   "title": "青埔聖誕不斷電 Christmas Market 外星人市集",
+   "verified_on": "2026-11-17",
+   "id": "2026-market-qingpu-christmas-alien"
   },
   {
    "category": "exhibit",
@@ -517,7 +587,7 @@
    "ticket": "unknown",
    "tips": "只看到搜尋摘要；派對日期、每日點燈時段尚未公布，出發前請再確認。",
    "title": "2026勤美草悟聖誕村",
-   "verified_on": "2026-11-11",
+   "verified_on": "2026-11-17",
    "id": "2026-parklane-christmas-village"
   },
   {
@@ -783,7 +853,7 @@
    "ticket": "free",
    "tips": "細節以官方 DM 為準，出發前請再確認。",
    "title": "漢神洲際購物廣場 週年慶",
-   "verified_on": "2026-11-13",
+   "verified_on": "2026-11-17",
    "id": "2026-sale-hanshin-taichung"
   },
   {
@@ -812,7 +882,7 @@
    "ticket": "free",
    "tips": "11/12 複查仍未找到 2026 年檔期佐證（僅見年份不明之 10/3-10/26 報導），尚未見官方 DM，出發前請再確認。",
    "title": "大江購物中心 週年慶",
-   "verified_on": "2026-11-12",
+   "verified_on": "2026-11-17",
    "id": "2026-sale-metrowalk"
   },
   {
@@ -1006,40 +1076,6 @@
   },
   {
    "category": "mall",
-   "end_date": "2026-11-16",
-   "highlights": [
-    "滿額禮、刷卡回饋以百貨官方 DM 為準"
-   ],
-   "indoor": true,
-   "locations": [
-    {
-     "county": "臺北市",
-     "town": "大安區",
-     "venue": "遠東SOGO百貨忠孝館"
-    },
-    {
-     "county": "臺北市",
-     "town": "大安區",
-     "venue": "遠東SOGO百貨復興館"
-    }
-   ],
-   "source_name": "美麗佳人週年慶檔期表",
-   "source_type": "media",
-   "source_url": "https://www.marieclaire.com.tw/beauty/news/95804",
-   "start_date": "2026-11-05",
-   "subtype": "週年慶",
-   "summary": "SOGO 台北店週年慶，檔期 12 天。",
-   "tags": [
-    "週年慶"
-   ],
-   "ticket": "free",
-   "tips": "10/30 Money101 亦列忠孝館／復興館 11/5-11/16；滿額禮尚待官方 DM，出發前請再確認。",
-   "title": "遠東 SOGO 台北忠孝館／復興館 週年慶",
-   "verified_on": "2026-11-12",
-   "id": "2026-sale-sogo-taipei"
-  },
-  {
-   "category": "mall",
    "end_date": "2026-12-13",
    "highlights": [
     "滿額禮、刷卡回饋以百貨官方 DM 為準"
@@ -1100,7 +1136,7 @@
    "ticket": "free",
    "tips": "各來源日期不一（媒體報導 11/13-12/3，懶人包有 12/2 止），取較短區間；出發前請再確認。",
    "title": "大立百貨 週年慶",
-   "verified_on": "2026-11-12",
+   "verified_on": "2026-11-17",
    "id": "2026-sale-talee"
   },
   {
@@ -1327,7 +1363,7 @@
    "time_text": "夜間燈光秀每日 18:00-20:00，假日延長至 21:00，每半小時 1 場；假日 15:00 起市集",
    "tips": "只看到搜尋摘要（WebFetch 被環境擋下），票價未見明確說明；出發前請再確認。",
    "title": "跟朗萌綺盟一起來臺南",
-   "verified_on": "2026-11-12",
+   "verified_on": "2026-11-17",
    "id": "2026-tainan-langmeng-qimeng"
   },
   {
