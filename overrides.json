@@ -51,6 +51,10 @@
     "category": "mall",
     "note": "百貨快閃店"
   },
+  "c-acc-4f2bb8e5c768": {
+    "note": "府中15（府中路15號）位於板橋區",
+    "town": "板橋區"
+  },
   "c-acc-502343c4778a": {
     "note": "八德路一段",
     "town": "中正區",
@@ -133,6 +137,10 @@
   "c-acc-9eca27f69e09": {
     "hidden": true,
     "note": "已於 2026-10-04 結束；來源連不上，沿用舊資料中的過期活動"
+  },
+  "c-acc-b27642121562": {
+    "note": "臺中市文心南路一段395號位於南區",
+    "town": "南區"
   },
   "c-acc-b5aee2974a17": {
     "category": "exhibit",
@@ -230,6 +238,10 @@
   "c-moc-21bd2863b9c4": {
     "category": "festival",
     "note": "兒童劇場／親子演出，屬表演"
+  },
+  "c-moc-227234f27646": {
+    "category": "festival",
+    "note": "室內電影放映，非戶外"
   },
   "c-moc-2646b8b4b439": {
     "category": "festival",
@@ -997,5 +1009,9 @@
   "c-tour-fd8bab6dfc43": {
     "hidden": true,
     "note": "與 events 人工查證資料重複（日月潭花火音樂嘉年華）"
+  },
+  "c-tour-fff8a94b2171": {
+    "category": "market",
+    "note": "農產推廣市集，非百貨檔期"
   }
 }
