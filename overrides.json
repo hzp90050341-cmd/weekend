@@ -207,6 +207,10 @@
     "hidden": true,
     "note": "聖誕手作課程，非逛遊活動"
   },
+  "c-acc-fdb4ce22622c": {
+    "note": "Wakey Wakey 咖啡店聖誕快閃，免費入場",
+    "venue": "Wakey Wakey"
+  },
   "c-acc-ff741d65ae68": {
     "note": "松山文創園區，光復南路133號",
     "town": "信義區"
@@ -448,6 +452,10 @@
     "hidden": true,
     "note": "圖書館主題書展，非外出活動"
   },
+  "c-moc-97f6f9ff0ee5": {
+    "note": "原始場地欄只有行政區，官網無法讀取",
+    "venue": "高雄市三民區（場館請見郵政博物館公告）"
+  },
   "c-moc-9a93ba44aacc": {
     "category": "festival",
     "note": "親子音樂會，屬表演非戶外"
@@ -556,6 +564,10 @@
     "note": "南海路47號",
     "town": "中正區",
     "venue": "國立臺灣藝術教育館 第1、2展覽廳"
+  },
+  "c-moc-e47a9c62e68d": {
+    "note": "主辦為長興美術館，場地欄原只有行政區",
+    "venue": "長興美術館"
   },
   "c-moc-e4fd81dfe215": {
     "category": "festival",
@@ -793,6 +805,10 @@
   "c-tour-6f2b9808cdae": {
     "category": "festival",
     "note": "熱氣球活動，非市集"
+  },
+  "c-tour-6fed0ad4c711": {
+    "note": "主展區為舊台中火車站、綠川、柳川",
+    "venue": "舊臺中火車站"
   },
   "c-tour-70c068675528": {
     "category": "outdoor",
